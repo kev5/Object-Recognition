@@ -1,0 +1,20 @@
+ceiling, 256 127 43 0 
+wall, 81 0 112 0 
+wall, 130 51 160 0 
+wall, 256 128 109 29 
+screen, 90 57 75 35 
+screen, 52 5 70 21 
+screen, 89 25 226 193 
+screen, 164 121 188 169 
+counter, 107 0 137 103 
+cupboard, 47 0 191 129 
+cupboard, 103 45 178 119 
+floor, 168 0 214 126 
+floor, 256 151 133 86 
+bar, 256 0 256 101 
+column, 210 174 106 9 
+slot machines, 153 126 101 75 
+slot machines, 228 201 109 79 
+lamp, 256 243 63 30 
+lamp, 220 213 62 55 
+bottles, 89 35 107 79 

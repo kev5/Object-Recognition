@@ -1,0 +1,28 @@
+ceiling, 689 32 136 1 
+window, 342 185 240 92 
+closet, 197 74 331 153 
+furniture crop, 177 2 462 278 
+lamp, 128 2 390 70 
+lamp, 448 405 239 171 
+bed, 619 262 425 177 
+cushion occluded, 605 529 284 206 
+cushion occluded, 532 482 232 202 
+cushion occluded, 505 436 259 221 
+cushion, 570 486 285 225 
+cushion, 496 447 274 240 
+cushion, 688 646 370 274 
+club, 652 601 340 220 
+chair occluded, 689 564 463 338 
+mirror occluded, 31 0 303 2 
+fan, 431 258 63 1 
+picture, 396 360 208 151 
+picture, 577 524 176 118 
+night table, 451 402 257 232 
+photo, 449 428 240 217 
+drawing, 499 411 129 46 
+drawing, 687 618 99 19 
+wall, 426 42 310 54 
+wall, 47 2 458 0 
+wall, 689 420 426 100 
+floor, 689 2 461 295 
+curtain, 347 182 123 66 

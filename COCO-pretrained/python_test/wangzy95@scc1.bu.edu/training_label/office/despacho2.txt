@@ -1,0 +1,38 @@
+bookshelf, 383 340 433 292 
+books, 373 339 333 296 
+books, 373 337 374 337 
+books, 332 220 89 37 
+books, 299 156 97 64 
+books, 178 69 303 272 
+trash can, 439 402 420 375 
+window, 588 412 297 117 
+light, 600 341 134 109 
+light, 601 137 41 2 
+filing cabinet, 407 352 417 247 
+curtain, 414 353 253 78 
+ceiling, 577 352 87 24 
+papers, 503 454 392 373 
+monitor, 601 488 405 301 
+floor, 501 339 587 417 
+floor, 600 2 801 578 
+door, 511 288 586 109 
+shelf, 305 134 91 33 
+shelf, 172 5 94 12 
+shelf, 42 3 146 123 
+shelf, 175 3 205 167 
+shelf, 181 3 339 283 
+shelf, 45 4 419 386 
+chair, 600 438 687 419 
+chair, 391 155 800 486 
+chair, 321 169 612 407 
+wall, 278 125 442 107 
+paper, 59 0 285 177 
+book, 41 2 329 300 
+book, 33 3 404 382 
+mouse, 115 72 542 524 
+mouse pad, 151 46 549 515 
+keyboard, 57 2 620 532 
+printer, 86 2 528 436 
+post it note, 86 52 466 448 
+computer, 193 51 492 347 
+scanner, 242 185 474 408 

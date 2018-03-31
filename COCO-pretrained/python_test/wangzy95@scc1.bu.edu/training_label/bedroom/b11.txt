@@ -1,0 +1,17 @@
+curtains, 145 121 109 13 
+curtains, 72 45 103 16 
+window, 123 86 102 53 
+window, 124 82 44 23 
+window, 76 66 45 24 
+window, 78 67 100 52 
+window, 124 67 105 19 
+night stand cabinet, 182 144 194 131 
+radiator, 143 85 154 117 
+chair, 78 20 234 122 
+desk, 76 1 160 110 
+head board, 253 186 125 92 
+mattress, 254 177 255 119 
+shelf, 18 0 63 22 
+light, 253 214 75 70 
+bed, 254 176 254 95 
+carpet, 180 8 255 158 

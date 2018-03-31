@@ -1,0 +1,19 @@
+bed, 175 0 230 133 
+vase, 51 37 68 42 
+vase, 77 64 67 45 
+vase, 39 31 94 87 
+vase, 85 78 94 87 
+lamp, 91 63 157 127 
+lamp, 249 219 168 89 
+blanket, 173 77 219 172 
+wardrobe, 195 96 185 40 
+dresser, 255 243 192 108 
+shelf, 98 20 103 93 
+shelf, 96 20 75 66 
+curtain, 230 193 168 53 
+ceiling, 256 0 36 0 
+candle, 55 48 95 81 
+candle, 71 65 97 80 
+window, 206 194 164 115 
+night stand part, 117 70 165 155 
+floor, 255 0 255 168 

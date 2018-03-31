@@ -1,0 +1,16 @@
+ceiling, 338 103 52 2 
+rail, 338 136 119 94 
+shower fixture, 209 164 248 118 
+faucet, 179 161 332 317 
+mirror, 39 2 270 72 
+washbasin crop, 55 2 420 352 
+closet crop, 117 2 512 337 
+cistern occluded, 139 51 395 319 
+wc, 191 109 493 385 
+bucket occluded, 119 108 512 454 
+bath occluded, 338 130 487 334 
+curtain, 337 226 488 94 
+wall, 188 2 503 2 
+wall, 338 184 365 22 
+lamp crop, 31 2 77 26 
+floor, 338 2 510 405 

@@ -1,0 +1,23 @@
+ceiling, 309 0 53 0 
+double door, 111 50 210 56 
+pane, 73 53 134 63 
+pane, 102 83 133 62 
+table occluded, 265 138 224 151 
+table occluded, 21 0 193 160 
+chair crop, 169 118 225 186 
+chair crop, 282 224 225 210 
+chair crop, 53 2 224 176 
+chair occluded, 154 104 223 153 
+chair occluded, 58 13 201 156 
+lamp, 186 165 104 38 
+lamp, 235 204 115 15 
+picture, 34 3 110 74 
+picture, 287 275 103 74 
+picture, 206 174 103 76 
+picture, 237 229 97 76 
+picture, 159 117 109 77 
+seats, 310 111 224 135 
+seats, 49 0 190 145 
+wall, 310 213 171 33 
+wall, 216 0 209 37 
+floor, 276 0 224 175 

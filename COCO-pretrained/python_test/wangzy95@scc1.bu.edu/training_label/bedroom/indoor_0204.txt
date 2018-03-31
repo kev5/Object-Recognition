@@ -1,0 +1,7 @@
+bed, 298 95 225 75 
+mirror, 76 2 153 1 
+furniture crop, 59 2 225 122 
+picture, 183 82 100 1 
+wall, 299 200 136 1 
+wall, 205 2 225 1 
+floor, 299 28 225 116 

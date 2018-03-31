@@ -1,0 +1,19 @@
+drawers, 127 32 225 155 
+drawers, 192 169 192 150 
+towel, 164 149 197 157 
+towel, 5 0 229 175 
+mirror, 176 0 150 30 
+vanity, 194 0 236 0 
+bathtub, 256 163 256 195 
+bath faucet, 235 221 237 210 
+towel rack, 169 139 163 156 
+towel rack, 18 5 178 171 
+cabinet, 193 1 235 147 
+sink faucet, 122 107 148 133 
+sink faucet, 41 19 151 135 
+air vent, 216 193 14 3 
+window, 256 185 205 25 
+ceiling lamp, 139 132 55 49 
+sink, 154 128 150 145 
+sink, 68 14 159 151 
+painting, 58 33 119 83 

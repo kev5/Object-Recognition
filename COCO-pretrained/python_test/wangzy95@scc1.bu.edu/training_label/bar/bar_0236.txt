@@ -1,0 +1,11 @@
+table, 224 12 220 65 
+stool occluded, 190 131 218 112 
+stool occluded, 150 87 218 126 
+magacine, 110 13 112 91 
+table occluded, 247 188 193 53 
+picture, 142 127 84 49 
+lamp, 81 71 71 28 
+pot, 94 87 72 62 
+plant, 98 85 62 33 
+wall, 153 12 102 2 
+floor, 235 88 221 108 

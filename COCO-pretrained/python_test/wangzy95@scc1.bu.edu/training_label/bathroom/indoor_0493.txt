@@ -1,0 +1,17 @@
+ceiling, 291 2 115 1 
+cistern, 256 203 456 354 
+wc, 243 102 533 426 
+toilet paper, 260 236 430 388 
+trash, 279 205 597 505 
+screen, 228 24 450 122 
+shower, 203 20 489 399 
+washbasin crop, 397 356 564 465 
+socket, 320 306 217 191 
+faucet, 205 178 282 262 
+wall, 198 43 404 111 
+wall, 331 195 600 1 
+wall, 398 332 600 2 
+wall, 54 2 557 28 
+floor, 280 2 600 482 
+towel, 26 7 433 202 
+lamp, 144 124 29 10 

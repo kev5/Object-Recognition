@@ -1,0 +1,14 @@
+bedAndFrame, 596 245 390 167 
+table lamp, 298 238 218 138 
+table lamp, 584 524 224 145 
+window, 163 57 273 63 
+pillow, 434 369 232 202 
+pillow, 367 314 229 200 
+pillow, 494 434 231 200 
+ceiling, 640 136 63 1 
+wall, 581 247 291 58 
+wall, 639 570 348 30 
+wall, 249 2 427 1 
+floor, 640 90 427 280 
+alarm, 50 34 280 242 
+outlet, 225 221 265 251 

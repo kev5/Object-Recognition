@@ -1,0 +1,17 @@
+doll, 307 271 283 230 
+clock, 578 527 289 216 
+bed, 391 5 404 276 
+teddy bear, 620 577 164 114 
+model car, 355 306 162 148 
+desk lamp, 468 420 277 220 
+window, 211 3 234 9 
+fitted cupboard, 401 252 113 9 
+netcurtains, 220 95 313 3 
+icon, 520 484 142 89 
+drawer, 542 465 331 297 
+drawer, 463 389 322 288 
+electric socket, 395 381 401 379 
+stool, 507 438 397 354 
+shelf, 395 251 168 160 
+shelf, 638 565 172 98 
+cabinet, 566 402 56 1 

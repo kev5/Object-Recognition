@@ -1,0 +1,27 @@
+kannan, 103 21 167 14 
+top, 204 161 77 64 
+table, 252 36 191 162 
+ceiling lamp, 101 22 37 13 
+ceiling lamp, 256 179 33 11 
+ceiling lamp, 208 162 74 65 
+ceiling lamp, 116 69 77 65 
+plant, 85 46 167 105 
+plant, 243 204 169 103 
+painting, 25 5 165 117 
+conference table, 255 36 191 164 
+air vent, 52 31 53 46 
+chair, 95 47 254 191 
+chair, 149 105 256 191 
+chair, 205 159 254 191 
+chair, 256 216 253 192 
+chair, 44 3 240 182 
+chair, 119 96 187 162 
+chair, 145 123 187 161 
+chair, 173 149 185 161 
+chair, 202 179 186 160 
+chair top, 36 21 190 177 
+chair top, 44 31 189 173 
+row of chairs, 68 46 181 165 
+row of chairs, 256 227 184 160 
+ceiling, 255 1 78 0 
+door, 43 26 177 121 

@@ -1,0 +1,14 @@
+bed, 633 2 428 92 
+window crop, 472 336 76 1 
+curtain, 363 328 123 3 
+night table occluded, 259 186 116 80 
+lamp, 226 196 84 25 
+chair crop, 640 550 207 16 
+socket, 567 550 102 81 
+socket, 545 530 102 79 
+wall, 639 191 168 2 
+wall, 196 2 341 2 
+pillow occluded, 232 140 179 90 
+pillow, 145 2 302 138 
+cushion, 187 44 190 96 
+floor, 640 2 428 132 

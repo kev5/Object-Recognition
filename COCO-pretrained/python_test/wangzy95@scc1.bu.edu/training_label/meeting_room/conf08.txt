@@ -1,0 +1,33 @@
+table, 255 92 255 156 
+table, 255 33 215 131 
+table, 225 2 180 120 
+table, 169 0 125 113 
+table, 125 2 117 109 
+chair, 223 137 254 182 
+chair, 256 210 252 177 
+chair, 113 57 222 148 
+chair, 158 109 177 144 
+chair, 212 167 169 139 
+chair, 238 207 163 136 
+chair, 57 20 182 128 
+chair top, 90 66 146 127 
+chair top, 135 113 141 125 
+chair top, 162 141 139 123 
+chair top, 197 180 136 121 
+chair top, 219 202 134 120 
+chair top, 25 5 128 118 
+chair top, 52 32 127 117 
+chair top, 90 73 124 115 
+chair top, 113 97 125 115 
+chair top, 166 131 123 113 
+chair top, 33 17 117 111 
+chair top, 54 39 115 108 
+chair top, 71 57 115 110 
+whiteboard, 60 0 97 62 
+plant, 117 97 107 81 
+window, 256 108 133 9 
+ceiling, 255 0 43 0 
+ceiling lamp, 85 51 22 10 
+ceiling lamp, 157 122 30 19 
+ceiling lamp, 221 171 17 2 
+ceiling lamp, 53 26 32 24 

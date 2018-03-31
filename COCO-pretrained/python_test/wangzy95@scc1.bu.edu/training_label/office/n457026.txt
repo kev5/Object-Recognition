@@ -1,0 +1,29 @@
+chair, 137 53 255 145 
+chair, 256 197 245 137 
+chair top, 107 69 133 101 
+chair top, 149 124 120 98 
+chair top, 186 167 117 98 
+chair top, 27 11 102 93 
+chair top, 115 97 109 94 
+chair top, 210 187 111 97 
+file cabinet, 37 1 255 190 
+file cabinet, 198 136 255 173 
+desk, 256 0 184 125 
+desk, 134 0 145 129 
+ceiling, 255 0 70 0 
+plant, 184 166 95 82 
+hanging monitor, 95 37 70 0 
+hanging monitor, 238 206 74 29 
+hanging monitor, 255 234 72 23 
+hanging monitor, 53 19 77 33 
+file cabinets, 148 85 96 79 
+file cabinets, 73 10 134 111 
+file cabinets, 59 29 96 78 
+file cabinets, 245 195 103 90 
+key pad, 189 141 152 126 
+key pad, 232 205 133 117 
+phone, 200 170 165 155 
+phone, 240 221 142 135 
+box, 46 33 96 87 
+windows, 241 161 95 62 
+ceiling lamp, 236 161 21 7 

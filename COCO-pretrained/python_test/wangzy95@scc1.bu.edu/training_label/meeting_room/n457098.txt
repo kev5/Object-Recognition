@@ -1,0 +1,13 @@
+chair, 165 142 130 103 
+chair, 138 116 137 108 
+chair, 116 89 146 111 
+chair, 88 55 153 116 
+chair, 49 6 178 122 
+chair, 242 151 252 146 
+table top, 225 3 219 121 
+mirror, 224 186 121 48 
+sliding door, 248 233 129 48 
+panel, 86 72 129 12 
+hanging light, 206 164 39 1 
+panelling, 51 29 145 1 
+reflection, 230 189 107 87 

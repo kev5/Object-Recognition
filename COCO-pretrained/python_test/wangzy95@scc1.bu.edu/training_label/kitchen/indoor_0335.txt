@@ -1,0 +1,21 @@
+picture, 165 99 134 53 
+cupboards, 301 217 104 19 
+cupboards, 297 232 245 150 
+microwave, 252 220 142 114 
+coffee marker, 278 261 144 114 
+wall, 301 231 224 1 
+wall, 232 214 201 1 
+wall, 17 2 236 1 
+wall, 48 5 303 1 
+wall, 213 25 308 1 
+wall, 451 299 246 1 
+shelves, 399 303 246 10 
+table, 227 91 272 185 
+chair occluded, 261 171 261 179 
+chair occluded, 142 43 276 201 
+table occluded, 454 98 298 231 
+telephone, 404 311 278 247 
+lamp, 478 343 266 61 
+door, 510 447 246 1 
+sofa crop, 510 31 360 226 
+floor, 510 2 360 203 

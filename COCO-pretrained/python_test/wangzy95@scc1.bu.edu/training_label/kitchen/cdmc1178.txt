@@ -1,0 +1,43 @@
+large bowl, 229 193 158 132 
+counter, 255 178 176 149 
+counter, 78 0 145 126 
+counter, 255 108 114 100 
+cabinet, 256 177 253 175 
+cabinets, 80 0 216 132 
+cabinets, 110 0 189 8 
+cabinets, 195 108 153 104 
+cabinets, 256 195 152 109 
+cabinets, 206 128 84 30 
+cabinets, 255 205 110 27 
+bouquet, 48 0 136 99 
+bouquet, 72 55 131 105 
+curtain, 132 108 79 34 
+window, 123 107 98 54 
+basket, 179 144 214 180 
+rug, 180 109 188 147 
+armchair top, 194 50 255 208 
+painting, 123 115 31 22 
+painting, 111 107 31 21 
+painting, 57 34 119 97 
+china cabinet, 254 206 72 28 
+shelves, 255 207 110 73 
+vase, 256 244 106 92 
+vase, 208 195 29 18 
+pillow, 86 20 254 230 
+mug, 15 0 248 228 
+small table, 27 0 256 224 
+small table, 180 143 245 206 
+chair, 255 236 255 177 
+plates, 21 1 75 56 
+plates, 74 29 75 56 
+knife, 252 227 163 154 
+bread, 254 230 158 145 
+plant, 193 148 35 14 
+plate, 237 223 86 71 
+books, 252 243 87 74 
+bottle, 191 185 103 88 
+bottle, 196 191 104 86 
+ceiling, 255 100 14 0 
+box, 195 184 157 137 
+sink, 143 109 108 102 
+rack, 150 134 102 84 

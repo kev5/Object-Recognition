@@ -1,0 +1,17 @@
+paper roll, 216 179 244 132 
+coat rack, 245 200 253 66 
+poster, 235 177 146 45 
+windows, 255 96 49 0 
+windows, 95 1 142 1 
+computer, 99 50 168 151 
+computer, 50 0 177 161 
+desk, 131 0 233 164 
+keyboard, 51 21 180 168 
+keyboard, 107 80 172 161 
+monitor, 45 1 165 128 
+monitor, 102 61 154 120 
+chair, 132 77 243 162 
+chair, 81 37 210 168 
+boxes, 71 1 255 206 
+door frame, 255 244 242 32 
+chair part, 88 65 255 209 

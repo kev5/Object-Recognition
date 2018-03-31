@@ -1,0 +1,25 @@
+rug, 256 104 208 155 
+chandelier, 137 106 51 0 
+painting, 71 58 54 35 
+painting, 52 37 53 32 
+night stand dresser, 40 0 165 119 
+dresser, 255 210 160 38 
+wardrobe, 217 164 143 47 
+idol, 159 135 94 37 
+window, 119 77 95 26 
+head board, 86 24 95 60 
+lamp, 16 0 110 63 
+lamp, 122 105 105 71 
+end board, 184 101 179 64 
+bed, 172 25 173 92 
+pillow, 68 39 118 99 
+pillow, 107 70 113 103 
+pillow, 101 72 101 89 
+pillow, 56 28 106 89 
+pillow, 42 27 117 103 
+ceiling, 237 32 22 1 
+books, 17 9 116 101 
+bouquet, 253 247 99 80 
+curtain, 106 79 89 25 
+curtain, 124 110 91 49 
+plant, 215 201 71 50 

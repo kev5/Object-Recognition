@@ -1,0 +1,4 @@
+sofa, 203 2 377 201 
+window, 153 98 186 61 
+coffe table, 272 155 357 249 
+entrance, 476 389 277 87 

@@ -1,0 +1,32 @@
+conference table, 145 1 256 150 
+computer screen, 169 143 134 112 
+printer, 104 78 131 113 
+chair top, 24 0 165 145 
+chair top, 93 64 150 139 
+chair top, 160 128 162 136 
+chair, 122 46 254 196 
+chair, 169 116 255 177 
+chair, 162 142 177 150 
+desk, 188 63 147 127 
+ceiling, 254 3 65 1 
+monitor, 168 144 133 111 
+computer, 189 176 141 119 
+wall outlet, 173 168 129 122 
+wall outlet, 132 126 148 142 
+wall outlet, 64 59 118 110 
+wall outlet, 220 216 163 155 
+wall outlet, 6 1 114 108 
+mouse, 173 169 139 137 
+keyboard, 164 137 141 132 
+table, 256 242 146 116 
+ceiling lamp, 55 38 35 30 
+ceiling lamp, 135 123 54 49 
+ceiling lamp, 69 59 59 54 
+window, 20 10 85 72 
+window, 49 35 85 73 
+window, 73 61 85 74 
+window, 101 92 84 76 
+window, 151 136 85 77 
+window, 180 162 85 76 
+window, 213 193 83 76 
+window, 248 227 84 75 

@@ -1,0 +1,11 @@
+sofa, 296 7 224 57 
+cushion, 98 38 103 43 
+cushion, 154 95 116 50 
+cushion, 207 135 133 56 
+cushion, 276 178 149 73 
+cushion, 291 205 189 121 
+floor lamp occluded, 90 55 52 2 
+wall, 92 2 122 1 
+wall, 299 86 190 1 
+floor, 297 2 225 108 
+carpet, 106 2 224 171 

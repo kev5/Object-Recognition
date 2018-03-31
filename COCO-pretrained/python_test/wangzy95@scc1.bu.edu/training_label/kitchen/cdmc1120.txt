@@ -1,0 +1,30 @@
+mirror, 74 20 127 9 
+file cabinet, 151 0 254 152 
+file cabinet, 192 150 236 155 
+china cabinet, 235 137 153 13 
+painting, 129 106 81 50 
+towel, 30 0 158 132 
+towel, 255 195 232 171 
+sink, 84 34 155 146 
+sink, 85 30 156 135 
+counter top, 206 2 163 139 
+bathrobe, 54 32 114 57 
+lamp, 101 83 80 48 
+lamp, 10 0 72 37 
+small table, 254 194 255 180 
+rug, 180 27 255 231 
+counter, 234 0 165 134 
+cabinets, 232 0 254 153 
+dish towel, 28 0 159 129 
+sink faucet, 62 40 149 137 
+cup, 150 143 65 50 
+plant, 200 175 91 62 
+plant, 211 137 28 0 
+clock, 201 194 92 76 
+tray, 136 96 148 144 
+jars, 110 96 144 132 
+bottle, 121 111 144 130 
+bottles, 134 122 146 126 
+bottles, 155 143 145 127 
+boxes, 162 143 93 77 
+bouquet, 33 12 151 129 

@@ -1,0 +1,31 @@
+mug, 505 461 305 267 
+mug, 427 395 284 252 
+dishsoap, 459 433 295 210 
+sink, 474 238 367 261 
+faucet, 368 316 260 176 
+faucet, 427 414 178 155 
+drain, 386 363 347 337 
+handle, 469 439 396 382 
+handle, 537 510 369 355 
+handle, 508 478 423 408 
+countertop, 576 237 375 249 
+wall, 472 2 309 1 
+wall, 576 460 298 1 
+pipe, 383 366 182 97 
+pipe, 400 385 179 93 
+pipe, 424 402 181 97 
+cooking grate, 164 8 423 336 
+kitchen tile, 185 97 83 1 
+kitchen tile, 97 2 85 1 
+kitchen tile, 262 186 85 1 
+kitchen tile, 329 261 87 1 
+kitchen tile, 367 330 85 1 
+kitchen tile, 61 2 249 105 
+kitchen tile, 148 54 243 102 
+kitchen tile, 227 144 233 100 
+kitchen tile, 295 225 225 101 
+kitchen tile, 356 297 218 101 
+kitchen tile, 108 14 308 242 
+kitchen tile, 188 104 296 233 
+kitchen tile, 259 188 281 226 
+boiler, 470 366 95 2 

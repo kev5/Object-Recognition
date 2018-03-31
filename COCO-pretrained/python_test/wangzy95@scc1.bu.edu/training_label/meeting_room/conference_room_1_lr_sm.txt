@@ -1,0 +1,67 @@
+ceiling, 1000 9 236 1 
+sky light, 627 360 22 2 
+light fixture, 571 418 176 4 
+light fixture, 684 580 358 4 
+light fixture, 706 657 393 21 
+light fixture, 809 742 388 1 
+light fixture, 836 745 364 1 
+light fixture, 582 541 396 65 
+light fixture, 459 419 399 66 
+light fixture, 389 280 357 23 
+light fixture, 337 287 397 23 
+light fixture, 249 180 388 23 
+light fixture, 229 135 371 23 
+door, 186 105 581 375 
+vent, 885 839 259 208 
+vent, 520 478 306 279 
+vent, 149 102 262 216 
+ceiling light, 1000 985 262 244 
+ceiling light, 904 883 287 273 
+ceiling light, 819 805 307 292 
+ceiling light, 758 738 323 304 
+ceiling light, 584 570 330 317 
+ceiling light, 506 491 333 319 
+ceiling light, 427 412 333 318 
+ceiling light, 255 237 327 311 
+ceiling light, 188 169 316 297 
+ceiling light, 104 86 299 281 
+light switch, 85 74 489 471 
+object, 322 297 451 402 
+hanger, 318 279 477 454 
+cabinet, 658 340 523 386 
+cabinet, 999 816 615 359 
+vase, 635 621 417 399 
+vase, 542 532 495 476 
+vase, 420 408 495 461 
+books, 578 569 469 446 
+books, 425 413 444 422 
+books, 450 437 496 472 
+picture, 715 688 420 392 
+picture, 715 688 456 428 
+picture, 715 689 492 465 
+picture, 770 750 418 390 
+picture, 770 750 457 428 
+picture, 770 751 496 466 
+thermostat, 764 755 466 457 
+painting, 39 2 475 368 
+wall, 1000 7 655 77 
+plant, 285 220 546 458 
+floor, 620 364 652 612 
+floor, 999 862 783 612 
+sculpture, 526 423 652 573 
+back of chair, 519 480 520 508 
+back of chair, 578 539 520 507 
+back of chair, 450 410 523 511 
+back of chair, 671 635 526 509 
+back of chair, 739 706 539 519 
+back of chair, 791 749 550 528 
+back of chair, 857 809 567 542 
+back of chair, 170 117 579 553 
+back of chair, 227 183 561 539 
+back of chair, 355 314 530 513 
+back of chair, 279 243 547 526 
+chairs, 58 9 635 544 
+chairs, 325 5 784 627 
+chairs, 962 582 784 573 
+chair, 566 369 784 738 
+table, 914 52 784 522 

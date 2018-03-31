@@ -1,0 +1,18 @@
+cupboard, 685 471 216 26 
+basket, 570 442 351 262 
+basket, 201 71 596 462 
+basket, 308 204 581 462 
+basket, 401 310 568 463 
+basket, 190 99 259 222 
+toaster, 644 562 370 311 
+saucepan, 651 596 408 358 
+saucepan, 799 660 418 360 
+stove crop, 800 503 600 312 
+dishcloth, 590 512 597 468 
+microwave, 215 29 371 253 
+vase, 362 300 348 299 
+shelf, 421 68 599 527 
+ceiling, 636 64 38 1 
+wall, 544 2 560 3 
+wall, 797 538 597 3 
+floor, 744 3 599 519 

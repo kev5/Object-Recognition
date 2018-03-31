@@ -1,0 +1,23 @@
+shelves, 299 158 132 0 
+person occluded, 256 164 134 43 
+person occluded, 69 8 213 65 
+wineglass, 205 192 136 108 
+wineglass, 144 135 130 110 
+bulletin board, 155 134 71 44 
+person sitting occluded, 171 72 213 46 
+bill, 186 124 140 104 
+bottle, 260 251 96 67 
+bottle, 281 274 95 66 
+bottle, 193 184 98 68 
+bottle, 193 183 63 40 
+bottle, 236 227 62 39 
+bottle, 257 250 61 41 
+bottle, 290 283 96 69 
+bottle, 273 255 135 96 
+bottles, 204 185 16 1 
+bottles, 233 207 15 0 
+bar, 300 64 214 125 
+chair crop, 299 210 212 149 
+chair crop, 142 43 214 143 
+wall, 163 49 129 0 
+wall, 49 0 214 0 

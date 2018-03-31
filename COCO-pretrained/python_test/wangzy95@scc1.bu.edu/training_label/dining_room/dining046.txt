@@ -1,0 +1,8 @@
+plate, 377 315 313 258 
+plate, 220 164 378 327 
+plate, 341 283 380 327 
+plate, 157 103 378 326 
+light switch, 749 736 403 380 
+kitchen cabinet, 915 815 357 234 
+chandelier, 491 262 276 4 
+table, 799 1 786 507 

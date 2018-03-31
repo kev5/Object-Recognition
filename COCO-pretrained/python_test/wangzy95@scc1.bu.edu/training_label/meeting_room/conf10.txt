@@ -1,0 +1,16 @@
+window, 111 1 145 75 
+ceiling lamp, 255 222 62 44 
+ceiling lamp, 185 121 31 0 
+conference table, 255 51 238 158 
+chair top, 205 183 165 147 
+chair top, 180 153 172 151 
+chair top, 150 115 179 152 
+chair top, 113 70 190 159 
+chair, 116 1 255 198 
+chair, 255 173 254 192 
+buffet, 213 166 167 92 
+ceiling, 256 1 76 0 
+phone, 213 187 181 170 
+cabinet, 202 166 129 92 
+cabinet, 213 167 164 146 
+counter, 211 165 147 139 

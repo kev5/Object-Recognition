@@ -1,0 +1,18 @@
+jar, 304 276 117 76 
+jar, 363 330 124 73 
+window, 519 472 130 2 
+stove, 184 41 318 236 
+oven, 176 45 416 322 
+switch, 379 354 182 165 
+sink, 356 213 272 249 
+faucet, 320 254 249 189 
+drawer, 519 431 328 282 
+tile, 175 134 122 71 
+lamp, 277 243 68 25 
+outlet, 175 138 193 171 
+broomstick, 548 504 431 167 
+worktop, 523 187 281 236 
+kitchen unit, 518 211 431 275 
+specular reflection, 201 179 101 77 
+knob, 321 309 321 307 
+cabinet, 425 325 429 290 

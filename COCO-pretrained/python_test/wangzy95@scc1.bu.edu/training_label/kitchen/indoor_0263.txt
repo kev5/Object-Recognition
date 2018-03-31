@@ -1,0 +1,33 @@
+fridge, 371 272 303 113 
+teapot, 266 247 191 169 
+frying pan, 222 195 194 184 
+spice rack, 225 197 166 150 
+spice rack, 266 237 167 153 
+spice rack, 264 235 145 130 
+spice rack, 225 197 147 132 
+can, 315 299 115 86 
+bottle, 189 178 194 168 
+bottle, 178 168 196 167 
+coffee marker, 133 113 206 169 
+skin, 161 109 218 205 
+frying pan occluded, 127 93 169 110 
+microwave, 109 27 253 177 
+stove, 284 186 304 188 
+cupboard, 193 158 349 208 
+cupboard, 105 8 160 5 
+cupboard, 141 90 150 5 
+cupboard, 315 136 149 36 
+dishwasher, 165 140 361 229 
+drawers, 153 32 363 257 
+worktop, 194 30 288 191 
+extractor hood, 272 185 129 99 
+bowl, 349 322 115 96 
+handle, 288 287 172 134 
+handle, 290 289 217 178 
+chair crop, 449 369 363 235 
+chair occluded, 449 427 246 208 
+table occluded, 449 411 316 244 
+lamp, 449 401 72 13 
+wall, 148 4 361 1 
+wall, 449 135 305 1 
+floor, 447 5 363 284 

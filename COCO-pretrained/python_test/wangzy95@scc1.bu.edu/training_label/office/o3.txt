@@ -1,0 +1,31 @@
+chair, 223 139 255 195 
+chair, 77 10 252 159 
+chair, 222 171 174 141 
+desk, 255 46 255 154 
+lamp, 255 216 195 129 
+bouquet, 63 0 255 217 
+plaque, 34 0 115 72 
+plaque, 106 91 74 49 
+plaque, 123 110 76 50 
+clock, 89 70 108 91 
+books, 117 95 108 87 
+books, 129 116 108 85 
+plant, 183 124 124 58 
+picture frame, 94 81 158 145 
+picture frame, 111 99 155 137 
+picture frame, 131 110 158 136 
+picture frame, 147 134 158 145 
+picture frame, 142 131 106 96 
+picture frame, 156 141 106 90 
+shelves, 164 48 167 78 
+window, 205 165 148 4 
+window, 256 215 127 11 
+statue, 93 52 80 53 
+paper, 255 240 172 162 
+paper, 134 105 164 159 
+paper, 149 117 175 165 
+paper, 128 104 170 163 
+file box, 120 80 173 154 
+garment bag, 228 188 144 82 
+coat rack, 213 206 98 83 
+phone, 224 192 182 165 

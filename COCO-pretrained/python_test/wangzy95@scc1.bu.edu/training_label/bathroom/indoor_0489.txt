@@ -1,0 +1,12 @@
+ceiling, 398 2 78 1 
+cistern crop, 398 353 508 399 
+mirror, 95 2 270 91 
+wc, 398 267 600 483 
+towel rail, 274 78 363 333 
+towel, 272 179 479 336 
+trash, 178 91 599 472 
+washbasin crop, 118 2 598 409 
+wall, 398 336 548 49 
+wall, 343 2 599 3 
+floor, 398 105 599 540 
+socket, 196 176 234 211 

@@ -1,0 +1,23 @@
+armchair crop, 692 505 518 337 
+armchair crop, 51 2 329 235 
+table occluded, 674 531 364 332 
+armchair occluded, 655 482 422 256 
+table crop, 120 0 462 326 
+sofa, 266 74 406 233 
+sofa occluded, 344 190 301 202 
+column, 462 351 242 1 
+armchair, 469 418 261 186 
+armchairs, 550 487 275 191 
+plant pot, 381 301 259 197 
+plant, 380 304 209 137 
+plants, 306 195 213 139 
+plants, 212 60 233 140 
+plants, 61 0 260 148 
+plants, 528 461 209 102 
+plant pot occluded, 192 55 278 222 
+door occluded, 32 0 160 83 
+picture, 577 565 142 51 
+lamp, 601 580 109 91 
+wall, 529 2 278 1 
+wall, 692 510 479 0 
+floor, 692 2 519 202 

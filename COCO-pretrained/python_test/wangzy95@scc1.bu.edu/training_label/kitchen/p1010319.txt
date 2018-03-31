@@ -1,0 +1,8 @@
+fridge, 499 373 335 176 
+microwave, 368 248 224 148 
+salt_pepper, 97 55 312 258 
+coffee maker, 368 328 296 247 
+worktop, 584 4 399 271 
+Ceiling light, 502 290 70 2 
+AC recepticle, 36 17 286 255 
+kitchen cupboards, 448 66 236 80 

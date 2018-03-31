@@ -1,0 +1,39 @@
+chair, 133 55 256 134 
+oven and stove, 256 187 190 97 
+cabinets, 256 100 86 28 
+cabinets, 188 60 196 116 
+cabinets, 255 100 85 28 
+microwave, 248 199 84 55 
+microwave, 247 200 83 55 
+window, 93 43 105 63 
+coffee maker, 49 23 123 96 
+cabinet, 49 0 88 19 
+cabinet, 77 1 249 142 
+cabinet, 255 239 186 125 
+cabinet, 46 0 86 19 
+curtain, 99 48 65 31 
+curtain, 102 48 63 30 
+plant, 44 1 24 1 
+plant, 187 142 37 19 
+counter, 146 1 148 110 
+rug, 238 78 243 177 
+sink, 92 62 122 108 
+kettle, 247 230 121 100 
+basket, 136 108 35 24 
+basket, 150 130 33 17 
+stove, 254 188 121 96 
+oven, 239 187 190 119 
+jar, 223 208 96 86 
+jar, 182 174 112 105 
+bowl, 231 204 32 23 
+bowl, 64 43 134 127 
+plate, 246 216 26 9 
+sink faucet, 83 70 117 107 
+cutting board, 128 104 114 95 
+cup, 61 51 122 113 
+bottle, 192 185 115 96 
+bottle, 186 182 108 95 
+tray, 195 170 115 111 
+tray, 82 40 137 131 
+pot, 103 90 117 107 
+ceiling, 200 119 9 0 

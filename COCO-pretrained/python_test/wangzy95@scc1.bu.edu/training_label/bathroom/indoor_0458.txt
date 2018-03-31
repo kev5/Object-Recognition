@@ -1,0 +1,14 @@
+closet, 398 278 206 69 
+ceiling, 398 2 70 2 
+screen, 125 2 380 65 
+washbasin, 335 230 286 253 
+washbasin crop, 398 301 341 286 
+faucet, 319 291 257 237 
+ledge, 397 216 474 319 
+wc crop, 93 2 458 384 
+bide, 108 2 598 458 
+wall, 307 103 394 47 
+wall, 398 307 446 31 
+floor, 397 2 598 369 
+lamp, 175 157 18 7 
+countertop, 399 202 405 248 

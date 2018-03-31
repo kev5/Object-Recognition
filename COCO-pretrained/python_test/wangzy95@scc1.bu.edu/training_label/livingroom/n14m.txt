@@ -1,0 +1,29 @@
+armchair, 153 93 194 133 
+armchair, 102 14 210 139 
+armchair, 114 1 255 184 
+lamp, 23 0 175 99 
+lamp, 84 60 151 106 
+clock, 227 197 100 67 
+plant, 196 169 100 78 
+plant, 254 229 100 79 
+table, 255 147 232 170 
+ceiling lamp, 133 122 15 7 
+curtains, 102 70 154 13 
+curtain, 19 1 97 0 
+window, 70 7 162 16 
+small table, 41 0 190 170 
+rug, 255 104 254 187 
+magazine, 254 214 193 181 
+magazine, 210 170 193 178 
+fireplace, 254 165 173 101 
+candles, 241 221 182 137 
+candles, 157 145 97 82 
+vase, 210 194 181 157 
+vase, 228 209 182 166 
+vase, 137 126 137 118 
+picture frame, 139 126 95 87 
+picture frame, 159 148 137 128 
+decorations, 160 120 117 103 
+decorations, 157 119 76 58 
+ceiling, 254 66 28 1 
+bookshelves, 162 116 167 52 

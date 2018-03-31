@@ -1,0 +1,28 @@
+oven, 115 83 119 54 
+cabinets, 255 0 200 106 
+stove, 57 0 114 103 
+cabinet, 143 0 98 0 
+cabinet, 255 193 71 7 
+window, 191 153 80 23 
+watermelon, 169 145 103 85 
+watermelon, 255 238 255 230 
+counter, 255 116 115 95 
+counter, 78 0 118 102 
+rug, 166 0 256 180 
+chair top, 148 82 255 175 
+chair, 206 163 193 120 
+dish towel, 193 167 154 121 
+table, 255 151 255 222 
+plate, 249 224 255 236 
+plate, 31 24 60 54 
+pitcher, 128 118 100 90 
+rack, 41 19 86 48 
+spatulas, 16 7 80 48 
+plant, 243 184 19 0 
+shelf, 140 117 85 81 
+bowl, 185 168 102 95 
+sink faucet, 241 223 104 87 
+sink, 251 200 110 103 
+jar, 124 117 81 75 
+bottle, 39 34 61 54 
+floor, 255 0 255 167 

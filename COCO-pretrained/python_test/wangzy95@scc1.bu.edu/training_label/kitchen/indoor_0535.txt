@@ -1,0 +1,19 @@
+ceiling, 430 2 75 2 
+fluorescent light, 431 225 92 42 
+cupboards, 216 2 234 61 
+cupboards, 432 213 235 65 
+extractor hood, 432 378 225 190 
+stove crop, 432 335 561 316 
+dish rack, 217 128 342 286 
+dish, 196 150 308 265 
+microwave, 323 218 333 274 
+blender, 354 314 337 262 
+paper, 382 363 339 286 
+fridge, 127 2 576 200 
+dishcloth, 409 362 479 395 
+cupboard, 225 122 520 347 
+cupboard, 342 225 521 347 
+worktop, 396 119 359 312 
+wall, 216 2 529 36 
+wall, 430 214 531 27 
+floor, 431 2 575 461 

@@ -1,0 +1,22 @@
+window, 55 2 142 1 
+window, 232 163 135 1 
+window, 324 283 128 1 
+stove, 459 313 339 167 
+teapot, 431 400 184 150 
+dishwasher, 510 411 341 183 
+extractor hood, 449 331 128 34 
+cupboar, 510 348 118 1 
+table crop, 178 2 341 245 
+bureau, 268 88 293 153 
+table, 357 199 170 149 
+chair, 227 170 285 173 
+chair occluded, 355 282 239 142 
+chair occluded, 139 82 304 219 
+decoration, 132 89 48 1 
+curtain, 343 285 36 1 
+curtain, 256 145 25 1 
+lamp, 158 126 190 132 
+wall, 363 2 298 1 
+wall, 510 345 303 1 
+floor, 510 2 341 213 
+air conditioning, 152 80 116 60 

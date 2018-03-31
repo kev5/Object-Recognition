@@ -1,0 +1,18 @@
+ceiling, 389 334 46 25 
+curtain, 380 333 185 50 
+bath occluded, 383 328 200 178 
+picture, 321 287 106 75 
+picture, 108 66 140 89 
+door, 510 430 296 10 
+switch, 232 219 130 114 
+bed crop, 461 2 341 183 
+telephone occluded, 145 118 211 188 
+lamp, 127 86 214 157 
+night table occluded, 155 93 247 199 
+basket occluded, 198 150 255 216 
+wall, 391 278 224 1 
+wall, 281 241 262 1 
+wall, 250 163 265 1 
+wall, 174 2 337 1 
+wall, 510 379 283 2 
+floor, 510 5 339 196 

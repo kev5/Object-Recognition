@@ -1,0 +1,12 @@
+chest of drawers, 236 50 223 47 
+clock, 232 182 50 36 
+closet crop, 28 2 224 8 
+adaptor, 55 28 192 179 
+socket, 53 40 166 154 
+bed crop, 299 273 224 129 
+frame, 118 68 39 4 
+bottle, 126 113 52 8 
+pug, 39 34 184 174 
+wall, 298 2 203 1 
+floor, 299 2 225 193 
+curtain, 297 204 157 1 

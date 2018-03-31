@@ -1,0 +1,18 @@
+bathtub, 158 3 241 160 
+bouquet, 140 80 163 84 
+window, 160 31 144 66 
+curtains, 185 2 150 17 
+mirror, 255 217 140 12 
+counter, 255 158 180 147 
+cabinet, 255 157 254 165 
+lamp, 214 191 84 58 
+statue, 203 177 159 127 
+towel, 45 2 204 181 
+bath faucet, 102 63 176 162 
+curtain, 184 4 148 15 
+kleenex, 233 204 164 148 
+floor, 224 3 254 228 
+ceiling, 235 6 39 1 
+ceiling lamp, 103 93 24 17 
+sink, 254 237 174 161 
+drawer, 212 176 217 185 

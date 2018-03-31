@@ -1,0 +1,10 @@
+lamp, 1482 960 1145 280 
+phone, 1155 899 1155 943 
+pen, 1149 1108 1229 1115 
+alarm clock, 1499 1304 1155 1024 
+calendar, 1209 903 1260 1128 
+night stand, 1492 825 1533 1027 
+painting crop, 2048 1852 418 2 
+painting crop, 742 2 394 2 
+bed crop, 954 5 1538 519 
+bed crop, 2039 1449 1538 608 

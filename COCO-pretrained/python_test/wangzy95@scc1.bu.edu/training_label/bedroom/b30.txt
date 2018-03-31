@@ -1,0 +1,32 @@
+bed, 175 19 188 108 
+pillow, 74 33 138 120 
+pillow, 104 68 132 118 
+robe, 104 67 179 136 
+painting, 67 43 104 78 
+upper cabinet, 78 20 64 27 
+upper cabinet, 123 80 66 36 
+door, 229 185 169 31 
+window, 184 151 94 41 
+drawers, 255 231 168 124 
+slippers, 111 91 199 187 
+slippers, 112 89 200 188 
+curtain, 181 143 133 36 
+box, 48 0 249 182 
+Egyptian figurines, 98 55 253 202 
+boxes, 209 147 215 178 
+lamp, 108 92 121 90 
+lamp, 30 19 133 96 
+lamp, 31 20 112 95 
+night stand, 38 20 181 134 
+cabinet, 137 124 131 42 
+cabinet, 123 19 65 25 
+book, 170 98 255 231 
+tissues, 112 104 121 116 
+wardrobe, 243 181 170 29 
+wardrobe, 21 0 187 22 
+wardrobe, 138 96 131 34 
+dresser, 256 230 172 122 
+ceiling, 255 1 19 1 
+bouquet, 249 238 120 87 
+statue, 87 32 253 214 
+statue, 98 77 243 204 

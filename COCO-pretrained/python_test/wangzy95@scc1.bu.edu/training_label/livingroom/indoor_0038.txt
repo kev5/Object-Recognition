@@ -1,0 +1,17 @@
+table occluded, 99 69 189 161 
+wall, 299 202 163 2 
+wall, 274 213 96 6 
+wall, 203 2 178 1 
+window, 267 223 94 52 
+lamp, 254 223 68 9 
+floor, 299 2 224 142 
+picture, 119 57 88 39 
+sofa, 177 2 175 94 
+cushion, 75 27 150 110 
+cushion, 166 128 135 99 
+armchair crop, 151 2 224 142 
+table, 249 125 224 144 
+table, 298 256 179 130 
+television, 298 264 152 97 
+loudspeaker, 216 180 147 108 
+box, 194 178 148 122 

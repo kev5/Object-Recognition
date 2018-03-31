@@ -1,0 +1,18 @@
+closet, 255 0 256 0 
+jacket, 170 126 114 34 
+jacket occluded, 183 153 112 33 
+jacket occluded, 212 163 212 134 
+shirts, 228 177 132 8 
+trousers, 167 125 198 139 
+trousers, 228 180 255 166 
+hangers, 229 179 166 145 
+hangers, 165 124 146 128 
+drawers, 123 5 187 97 
+purse, 62 26 64 44 
+purse, 100 66 64 47 
+purse, 38 6 99 70 
+box, 90 72 40 27 
+box, 33 12 34 24 
+photo, 116 93 98 77 
+wall, 203 0 18 0 
+floor, 217 0 255 203 

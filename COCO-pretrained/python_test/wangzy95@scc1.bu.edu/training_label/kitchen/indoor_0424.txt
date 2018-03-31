@@ -1,0 +1,20 @@
+picture, 254 171 109 4 
+fridge, 444 285 391 107 
+basket, 383 295 106 71 
+coffee marker, 471 421 245 171 
+cupboards, 510 353 142 1 
+sink, 510 357 301 246 
+faucet crop, 510 465 263 200 
+tray, 414 317 230 160 
+cupboards crop, 404 319 391 245 
+worktop, 510 323 393 225 
+dishwasher crop, 500 395 393 313 
+cupboard, 147 30 343 208 
+cupboard, 86 2 140 2 
+stove crop, 144 17 391 237 
+extractor hood, 62 2 145 21 
+cupboard crop, 96 17 393 282 
+wall, 385 30 360 1 
+wall, 36 2 391 2 
+wall, 510 383 391 2 
+floor, 430 7 391 357 

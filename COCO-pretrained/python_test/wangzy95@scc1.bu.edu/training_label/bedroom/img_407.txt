@@ -1,0 +1,11 @@
+bed, 598 31 899 416 
+window, 550 440 508 377 
+hanging light, 528 424 226 2 
+floor tile, 201 21 897 774 
+pillow, 216 66 540 488 
+beadspread, 593 43 874 475 
+headboard, 315 40 611 421 
+ceiling, 600 38 333 2 
+wall, 449 2 638 1 
+wall, 600 430 642 299 
+floor, 600 2 900 570 

@@ -1,0 +1,35 @@
+mirror, 67 7 112 54 
+lamp, 216 188 145 96 
+curtains, 256 147 141 48 
+pillow, 249 212 180 157 
+pillow, 194 167 170 151 
+pillow, 159 140 172 155 
+decoration, 140 103 187 164 
+glass piece, 173 152 195 183 
+sofa, 254 123 218 149 
+fireplace, 73 2 190 146 
+cushion, 136 6 250 196 
+fire, 42 19 186 163 
+window, 233 174 153 75 
+window, 255 238 157 75 
+mantle side board, 127 88 184 67 
+sculpture, 106 93 99 84 
+book, 98 64 196 184 
+small table, 203 59 238 179 
+ottoman, 256 181 254 208 
+clock, 53 33 118 82 
+bouquet, 10 0 176 153 
+armchair, 175 0 254 193 
+picture frame, 100 88 144 134 
+decorations, 116 101 144 128 
+books, 150 116 213 201 
+plant, 160 127 156 106 
+large bowl, 174 150 196 181 
+candles, 89 75 117 74 
+statue, 106 91 98 83 
+ceiling, 255 1 57 1 
+ceiling lamp, 95 82 33 27 
+ceiling lamp, 49 34 21 15 
+ceiling lamp, 123 114 49 45 
+cabinet, 119 87 184 145 
+display case, 122 90 143 68 

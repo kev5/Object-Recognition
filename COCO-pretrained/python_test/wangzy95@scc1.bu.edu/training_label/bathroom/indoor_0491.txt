@@ -1,0 +1,22 @@
+ceiling, 398 2 117 1 
+lamp, 299 257 52 31 
+lamp, 209 187 48 35 
+mirror, 157 116 239 108 
+mirror, 40 2 244 66 
+mirror, 157 130 338 274 
+picture, 313 280 245 206 
+cistern crop, 398 371 395 329 
+wc crop, 398 366 495 395 
+bide, 321 245 467 377 
+washbasin, 225 88 394 340 
+washbasin, 111 2 493 396 
+wall, 398 227 453 115 
+wall, 228 2 599 17 
+vase, 81 24 391 340 
+floor, 398 35 599 426 
+plug, 350 331 451 384 
+ledge, 115 41 218 129 
+flowers, 90 3 365 276 
+faucet, 144 111 349 320 
+towel, 200 155 340 295 
+countertop, 254 2 600 335 

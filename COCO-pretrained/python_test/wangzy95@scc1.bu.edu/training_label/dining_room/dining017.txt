@@ -1,0 +1,31 @@
+ceiling lamp, 170 101 59 0 
+painting, 105 54 81 19 
+painting, 105 54 141 86 
+fireplace, 256 174 224 133 
+chair, 74 15 255 202 
+chair, 242 186 255 180 
+plate, 100 64 215 201 
+plate, 164 131 211 198 
+plate, 176 158 198 191 
+plate, 205 180 190 184 
+plate, 75 54 199 192 
+plate, 127 102 222 211 
+napkin, 155 115 224 205 
+napkin, 200 166 199 186 
+napkin, 74 50 208 198 
+table, 224 36 254 169 
+bouquet, 164 122 190 109 
+chair top, 103 53 191 149 
+chair top, 210 177 178 159 
+curtain, 58 4 175 1 
+door, 180 142 169 61 
+glass, 188 181 180 164 
+bottle, 173 166 181 147 
+bottle, 122 111 188 152 
+candle, 80 75 141 115 
+candle, 98 91 140 115 
+candle, 135 128 185 148 
+candle, 157 151 179 142 
+vase, 92 83 144 115 
+candles, 235 208 131 108 
+mirror, 256 181 127 7 

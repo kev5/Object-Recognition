@@ -1,0 +1,20 @@
+conference table, 252 0 202 115 
+painting, 250 182 83 18 
+painting, 147 116 73 37 
+whte board, 15 0 90 37 
+ceiling lamp, 110 51 11 0 
+chair back, 146 3 256 173 
+chair back, 255 147 256 170 
+chair top, 255 219 166 139 
+chair top, 186 144 147 128 
+chair top, 130 95 135 122 
+chair top, 95 66 126 116 
+chair top, 63 38 122 110 
+chair top, 69 43 111 94 
+chair top, 112 89 120 99 
+chair top, 149 121 133 101 
+chair top, 189 158 133 103 
+chair part, 70 0 187 155 
+chair part, 255 228 141 120 
+chair, 231 186 151 102 
+plant, 98 63 114 55 

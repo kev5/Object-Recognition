@@ -1,0 +1,19 @@
+wall, 299 31 192 1 
+wall, 299 282 222 47 
+wall, 36 2 192 1 
+radiator, 83 50 175 103 
+picture, 242 199 74 51 
+shelves, 150 83 192 38 
+shelf, 138 88 70 63 
+shelf, 138 87 103 94 
+shelf, 133 87 135 125 
+shelf, 132 87 166 151 
+books, 115 86 159 132 
+photograph, 129 115 68 56 
+bed crop, 92 2 224 146 
+table crop, 296 213 224 184 
+papers, 283 238 221 199 
+chair occluded, 285 207 215 131 
+chair, 205 131 215 128 
+window, 23 4 132 7 
+floor, 299 2 224 151 

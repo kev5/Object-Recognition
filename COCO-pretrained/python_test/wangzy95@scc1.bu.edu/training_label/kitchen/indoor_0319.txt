@@ -1,0 +1,25 @@
+teapot, 117 88 189 158 
+stove, 164 2 363 179 
+dishwasher, 231 167 317 185 
+extractor hood, 142 2 158 39 
+cupboard, 126 2 46 1 
+cupboard, 205 127 124 9 
+cupboard, 254 208 93 24 
+cupboard, 302 255 123 30 
+cupboard, 370 301 124 27 
+cupboard, 487 369 77 16 
+cupboard, 280 234 287 179 
+cupboard, 338 281 285 179 
+fridge occluded, 462 334 288 78 
+microwave, 336 297 175 130 
+coffee marker, 273 250 168 129 
+sink, 262 208 179 162 
+worktop, 342 124 196 163 
+chair occluded, 380 313 303 234 
+table occluded, 510 272 378 249 
+chair crop, 339 273 378 332 
+lamp crop, 510 482 247 179 
+wall, 510 477 254 24 
+wall, 510 280 297 1 
+wall, 282 2 338 1 
+floor, 510 2 377 246 

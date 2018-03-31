@@ -1,0 +1,58 @@
+cookbooks, 323 79 646 563 
+microwave, 540 327 453 260 
+microwave, 546 337 653 471 
+wine bottle, 467 382 684 527 
+stove, 1319 901 755 442 
+sink, 983 690 557 503 
+sink, 150 2 889 750 
+espresso machine, 749 651 504 379 
+window, 192 4 352 2 
+oil bottle, 121 83 595 487 
+vinegar bottle, 79 58 603 485 
+faucet, 132 2 781 681 
+faucet, 925 840 525 445 
+vent hood, 1266 882 273 49 
+cabinets, 550 311 245 115 
+cabinets, 556 305 99 3 
+cabinets, 1070 563 402 61 
+cabinets, 1400 1260 451 25 
+cabinets, 1308 587 1049 521 
+salt&pepper, 1226 1195 648 573 
+salt&pepper, 1259 1231 653 583 
+vase of flowers, 157 40 373 163 
+cup and saucer, 687 636 508 479 
+metal coffee grinder, 798 777 504 468 
+pestle, 1304 1227 671 641 
+milk steaming cup, 763 726 498 469 
+tomato, 932 906 570 550 
+garlic, 895 869 576 557 
+bottle, 45 21 581 425 
+bottle, 65 47 589 424 
+wok, 1226 996 602 502 
+jar filled with pasta, 1398 1333 622 546 
+bowl, 1400 1306 688 604 
+cup, 1278 1224 640 579 
+onion, 907 877 564 535 
+tomatoe, 861 835 569 550 
+tomatoe, 835 805 608 587 
+bell pepper, 799 764 600 572 
+dishwasher, 687 588 787 514 
+knife, 772 690 606 597 
+cutting board, 906 679 682 586 
+drawer, 1300 1126 802 677 
+drawer, 1301 1125 970 745 
+drawer, 1304 1128 1048 897 
+drawer, 562 457 758 659 
+drawer, 906 803 921 752 
+counter top, 1400 569 734 478 
+cabinet, 1012 906 980 702 
+cabinet, 1129 1009 1041 739 
+cabinet, 270 80 565 388 
+cabinet, 802 685 868 643 
+pot, 84 38 380 340 
+small plates, 209 42 952 880 
+big plates, 238 5 982 887 
+counter, 638 2 1049 549 
+wine glass, 319 258 743 633 
+wine glass, 363 304 756 644 
+towel, 528 301 775 678 

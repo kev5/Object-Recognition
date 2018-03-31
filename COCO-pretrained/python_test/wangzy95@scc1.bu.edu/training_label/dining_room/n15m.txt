@@ -1,0 +1,27 @@
+table setting for dinner, 254 113 151 108 
+Window, 99 41 165 21 
+chandeliers, 219 148 63 11 
+painting, 27 1 123 29 
+window, 94 42 162 23 
+window, 106 35 176 11 
+window, 190 119 126 29 
+window, 255 203 142 28 
+curtain, 100 44 53 21 
+curtain, 175 125 57 35 
+curtain, 256 212 59 35 
+ceiling lamp, 219 151 61 3 
+chair, 159 70 255 141 
+chair, 256 209 238 151 
+chair, 255 222 148 120 
+chair, 138 104 147 119 
+table, 248 119 231 129 
+napkin, 176 161 134 109 
+napkin, 214 203 133 115 
+bowl, 198 180 145 138 
+place mat, 174 120 151 139 
+place mat, 245 196 152 137 
+glass, 175 162 142 125 
+plate, 230 205 146 138 
+plate, 160 134 145 139 
+plate, 152 138 134 128 
+wall outlet, 21 15 185 171 

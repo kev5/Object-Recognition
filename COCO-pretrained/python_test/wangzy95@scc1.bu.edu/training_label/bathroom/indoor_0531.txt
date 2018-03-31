@@ -1,0 +1,10 @@
+mirror, 446 171 361 3 
+lamp, 273 253 54 41 
+washbasin, 378 158 600 446 
+faucet, 293 252 470 437 
+cistern, 448 381 600 533 
+screen, 195 2 600 45 
+towel, 61 2 212 39 
+wall, 103 2 599 1 
+wall, 448 84 598 1 
+shower occluded, 73 6 600 571 

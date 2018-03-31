@@ -1,0 +1,14 @@
+window, 147 69 133 4 
+cistern, 66 2 258 134 
+wc, 165 53 290 193 
+toilet seat cover, 164 73 246 193 
+toilet paper, 164 145 171 163 
+washbasin, 224 158 148 112 
+faucet, 205 183 113 100 
+pipe, 198 179 208 150 
+towel, 39 2 100 5 
+wall, 224 31 223 1 
+wall, 56 2 299 1 
+wall, 224 204 221 105 
+door crop, 224 189 299 161 
+floor, 207 30 300 219 

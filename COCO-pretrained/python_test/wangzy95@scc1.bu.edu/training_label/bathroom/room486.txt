@@ -1,0 +1,7 @@
+perfume bottle, 124 95 66 36 
+perfume bottle, 137 123 66 34 
+wall outlet, 188 168 90 72 
+mirror, 220 98 51 0 
+sink, 209 28 201 117 
+faucet, 147 113 137 106 
+floor, 94 0 255 209 

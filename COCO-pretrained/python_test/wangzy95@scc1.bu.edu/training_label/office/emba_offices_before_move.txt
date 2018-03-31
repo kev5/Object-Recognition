@@ -1,0 +1,42 @@
+bulletin board, 254 206 131 107 
+bulletin board, 130 103 114 42 
+books, 264 240 155 132 
+books, 400 392 134 111 
+tissue, 275 254 132 108 
+printer, 309 264 157 124 
+speaker, 152 139 153 135 
+paper, 144 110 191 182 
+paper, 122 108 104 79 
+paper, 129 120 121 94 
+paper, 226 190 212 196 
+calendar, 107 82 188 171 
+cup, 108 96 180 168 
+pencils, 110 80 166 151 
+telephone, 170 108 185 167 
+papers, 161 124 175 162 
+wall, 144 2 209 1 
+wall, 385 138 218 0 
+floor, 400 258 300 216 
+window, 100 34 164 2 
+plant, 54 39 156 138 
+plant, 400 382 107 59 
+plant, 200 134 60 2 
+decorative object, 87 72 144 101 
+lamp, 80 54 189 104 
+desk, 316 34 218 60 
+chair, 230 189 186 121 
+chair, 96 2 300 199 
+chair, 273 128 300 216 
+monitor, 203 154 155 106 
+keyboard, 192 175 163 151 
+trash can, 400 376 276 218 
+filing cabinet, 400 366 254 128 
+painting, 400 392 96 33 
+box, 313 278 61 41 
+decorative plate, 264 241 61 33 
+picture, 238 212 60 26 
+object, 248 216 205 189 
+stacj of papers, 290 236 215 192 
+objects, 133 108 167 142 
+objects, 240 228 155 142 
+can, 207 199 60 42 

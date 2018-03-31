@@ -1,0 +1,20 @@
+ceiling, 399 61 98 1 
+mirrror crop, 130 2 306 66 
+washbasin, 198 51 374 332 
+shower, 399 262 501 391 
+faucet, 119 100 337 312 
+screen, 399 245 453 39 
+towel, 195 125 445 341 
+towel, 225 184 306 200 
+glass, 36 16 362 332 
+flask, 57 42 360 318 
+towels, 209 150 339 219 
+towels, 145 6 526 443 
+vase, 162 143 330 277 
+flowers, 169 137 297 220 
+box crop, 32 2 546 495 
+ledge, 230 2 577 433 
+wall, 398 336 417 70 
+wall, 341 2 591 1 
+floor, 399 2 599 466 
+countertop, 242 2 449 329 

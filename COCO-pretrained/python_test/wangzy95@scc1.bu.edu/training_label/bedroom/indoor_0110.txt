@@ -1,0 +1,19 @@
+picture, 58 34 48 27 
+picture, 96 73 52 28 
+picture, 56 36 87 62 
+television, 107 72 100 66 
+bede crop, 114 2 299 143 
+tallboy, 142 71 182 98 
+box, 133 109 106 90 
+box, 67 33 161 133 
+box, 216 172 130 102 
+dummy, 175 137 181 74 
+shoe, 167 151 268 239 
+shoe, 154 137 271 240 
+clothing, 137 71 235 159 
+clothing, 171 129 239 180 
+cloth, 206 132 101 12 
+shelves, 209 160 230 127 
+wall, 124 2 191 1 
+wall, 224 121 204 1 
+floor, 223 2 299 162 

@@ -1,0 +1,20 @@
+ceiling, 383 88 98 3 
+window occluded, 200 157 220 108 
+fluorescent light, 294 235 52 2 
+cupboards, 189 68 211 107 
+cupboards, 382 225 179 93 
+cupboards, 209 74 486 307 
+sink, 345 309 312 290 
+sink, 156 109 323 308 
+fridge, 293 238 367 231 
+worktop, 209 73 350 291 
+litter bin, 134 83 509 446 
+soap bottle, 172 158 484 440 
+wall, 227 68 438 2 
+wall, 304 219 358 193 
+wall, 377 220 374 84 
+door, 81 2 575 1 
+door, 400 362 574 1 
+doorframe, 432 384 575 1 
+floor, 372 65 576 353 
+faucet, 122 100 286 269 

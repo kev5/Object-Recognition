@@ -1,0 +1,10 @@
+toilet, 371 160 480 298 
+door handle, 579 539 457 420 
+door handle, 104 96 461 452 
+rug, 557 380 480 441 
+shower rod, 586 241 40 12 
+shower curtain, 586 244 459 26 
+shower head, 309 272 36 14 
+cabinet, 164 27 479 340 
+countertop, 160 15 411 280 
+water valve, 208 175 468 432 

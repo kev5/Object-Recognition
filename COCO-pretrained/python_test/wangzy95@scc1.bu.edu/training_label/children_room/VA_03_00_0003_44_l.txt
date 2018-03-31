@@ -1,0 +1,16 @@
+ceiling, 345 89 37 0 
+chest of drawers, 124 15 232 172 
+chest of drawers, 449 337 261 140 
+bed, 469 220 279 14 
+ladder, 248 180 233 95 
+cuddly toy, 421 331 306 206 
+cuddly toy crop, 292 176 292 238 
+rocking chair, 323 259 242 167 
+toy, 399 381 138 118 
+toy, 42 15 180 147 
+window, 131 0 135 33 
+curtain, 139 0 55 0 
+wall, 234 0 225 0 
+wall, 470 226 258 0 
+floor, 469 0 316 197 
+rug, 329 3 315 227 

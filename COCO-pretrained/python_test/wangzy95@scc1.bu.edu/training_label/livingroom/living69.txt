@@ -1,0 +1,29 @@
+coffee table, 1024 632 768 558 
+vase, 887 827 576 477 
+vase, 1001 961 393 339 
+candle, 946 927 397 370 
+candle, 972 952 401 385 
+candle, 987 972 229 122 
+plant, 937 756 477 369 
+floor lamp *lamp, 868 758 379 210 
+sofa, 908 246 738 350 
+sofa, 615 3 768 536 
+throw pillow, 488 352 552 391 
+throw pillow, 568 441 529 376 
+throw pillows, 851 662 486 362 
+window, 391 291 388 112 
+window, 554 472 370 119 
+window frame, 612 256 412 51 
+curtains, 273 82 617 3 
+curtain, 796 597 360 33 
+mantle, 1023 917 522 230 
+side table, 1024 916 519 381 
+metal decoration, 74 2 617 281 
+stack of books, 1016 882 573 522 
+flowers, 125 2 719 642 
+tray, 1023 744 607 512 
+wall, 95 2 622 2 
+wall, 1024 779 510 2 
+wall, 598 257 78 3 
+curtainrod, 777 264 55 1 
+ceiling, 777 391 40 1 

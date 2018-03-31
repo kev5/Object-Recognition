@@ -1,0 +1,10 @@
+screen, 358 265 231 151 
+computer, 112 53 420 318 
+mobile phone, 255 227 281 264 
+printer, 178 72 255 197 
+speaker, 266 240 237 189 
+speaker, 383 357 257 203 
+stool, 249 98 511 389 
+drawer, 382 338 435 342 
+computer desk, 383 24 372 206 
+Keyboard, 345 166 346 274 

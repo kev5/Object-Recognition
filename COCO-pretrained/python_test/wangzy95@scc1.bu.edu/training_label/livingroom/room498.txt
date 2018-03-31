@@ -1,0 +1,27 @@
+television, 132 80 113 86 
+armchair, 110 17 183 114 
+armchair, 82 0 207 164 
+armchair, 210 1 256 181 
+armchair, 235 170 172 92 
+small table, 255 93 247 156 
+chair, 234 167 167 91 
+books, 208 163 195 170 
+television stand, 133 80 145 114 
+painting, 102 65 77 23 
+painting, 137 119 42 12 
+painting, 137 121 71 45 
+painting, 185 146 20 1 
+painting, 255 202 103 0 
+pillow, 81 42 152 128 
+pillow, 223 197 144 118 
+window, 179 150 85 22 
+plant, 77 50 113 69 
+doors, 57 0 161 12 
+book, 182 142 190 170 
+statue, 168 129 170 147 
+statue, 240 214 183 153 
+pot, 182 166 103 81 
+bookcase, 192 135 147 87 
+armchair part, 255 234 175 135 
+vase, 169 161 124 111 
+box, 157 117 195 178 

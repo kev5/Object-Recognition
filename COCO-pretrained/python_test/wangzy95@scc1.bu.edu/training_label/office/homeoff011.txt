@@ -1,0 +1,22 @@
+monitor, 132 96 101 69 
+keyboard, 145 95 131 121 
+picture frame, 49 23 126 103 
+cup, 152 141 115 105 
+painting, 255 158 97 4 
+plant, 254 218 124 92 
+desk, 255 67 255 104 
+curtain, 93 58 110 3 
+curtain, 55 0 128 0 
+clock, 22 12 133 122 
+computer, 130 93 118 100 
+chair, 161 92 216 119 
+books, 217 182 192 178 
+books, 192 153 184 158 
+printer, 212 160 151 124 
+file cabinet, 87 0 230 113 
+floor, 227 0 255 172 
+mouse, 168 155 118 112 
+mouse pad, 178 150 120 113 
+pen, 207 198 122 117 
+phone, 240 198 161 143 
+bookshelves, 228 149 209 124 

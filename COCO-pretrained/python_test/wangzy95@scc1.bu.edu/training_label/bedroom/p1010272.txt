@@ -1,0 +1,11 @@
+television set, 1588 1239 904 564 
+head profile, 672 506 855 651 
+bedside table, 1161 793 1124 730 
+person sitting, 874 243 1419 644 
+mirror, 1169 974 686 139 
+bag, 752 449 1392 1155 
+furniture, 1784 1147 1387 800 
+arm, 849 478 1166 871 
+torso, 613 245 1349 802 
+head, 667 498 853 641 
+leg, 869 741 1419 1173 

@@ -1,0 +1,31 @@
+hood, 199 138 92 43 
+stove, 206 130 190 153 
+knives, 246 208 169 134 
+pot, 163 147 156 145 
+counter, 256 106 189 148 
+counter, 25 1 177 161 
+plant, 158 108 69 26 
+plant, 96 57 71 44 
+plant, 255 194 38 0 
+vase, 192 174 36 15 
+vase, 112 97 52 33 
+cabinet, 255 172 256 178 
+cabinet, 255 200 122 19 
+cabinet, 178 130 119 50 
+cabinets, 175 106 251 159 
+cabinets, 104 64 92 56 
+oven, 103 78 189 85 
+refrigerator, 84 61 208 92 
+rug, 171 86 255 233 
+rug, 80 32 212 197 
+door, 36 1 183 80 
+shelves, 24 0 255 177 
+paper, 77 69 128 110 
+paper, 77 68 145 130 
+painting, 62 41 122 96 
+floor, 164 19 255 182 
+ceiling, 191 1 53 0 
+ceiling lamp, 78 63 13 5 
+ceiling lamp, 54 42 30 21 
+ceiling lamp, 39 26 42 34 
+cutting board, 255 203 181 171 

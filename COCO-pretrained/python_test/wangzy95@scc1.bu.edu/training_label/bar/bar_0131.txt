@@ -1,0 +1,15 @@
+table, 144 0 199 124 
+chair crop, 163 107 198 152 
+chair crop, 113 41 200 172 
+wall, 249 14 199 99 
+wall, 249 48 138 5 
+wall, 15 0 121 26 
+table occluded, 207 158 130 116 
+bar, 249 108 137 88 
+ceililng, 249 2 29 0 
+column, 49 9 105 1 
+window, 225 152 91 13 
+lamp, 166 154 50 30 
+lamp, 228 211 46 18 
+showcase, 123 81 90 35 
+floor, 161 2 199 119 

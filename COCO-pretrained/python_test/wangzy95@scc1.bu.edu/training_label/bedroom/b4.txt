@@ -1,0 +1,10 @@
+painting, 207 132 66 18 
+lamp, 79 43 113 64 
+night stand table, 89 36 124 109 
+night stand table, 255 236 201 130 
+plant, 87 58 114 99 
+plant, 255 239 144 114 
+bed, 248 1 255 69 
+curtain, 31 0 109 3 
+table part, 100 0 256 211 
+carpet, 255 158 256 192 

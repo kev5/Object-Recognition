@@ -1,0 +1,16 @@
+closet, 255 0 235 0 
+dresses, 255 223 220 112 
+dresses, 225 166 204 89 
+coats, 31 2 200 90 
+purse, 22 0 66 48 
+purse, 179 168 36 15 
+purse, 188 178 36 24 
+purse, 204 190 36 22 
+purse, 218 206 65 43 
+lamp, 145 79 39 1 
+hangers, 255 225 112 92 
+drawers, 167 26 241 128 
+bottle, 157 148 131 100 
+vase, 67 43 130 114 
+flowers, 67 32 122 93 
+floor, 256 0 256 234 

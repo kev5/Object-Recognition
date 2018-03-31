@@ -1,0 +1,14 @@
+ceiling, 441 102 32 2 
+bed, 332 89 273 147 
+picture, 255 231 119 50 
+picture, 160 99 103 40 
+large window, 353 287 204 30 
+table, 213 61 341 240 
+armchair occluded, 107 56 265 190 
+bag, 377 350 219 173 
+closet crop, 62 2 338 1 
+furniture crop, 511 374 338 64 
+wall, 217 32 242 2 
+wall, 511 208 228 1 
+glass, 119 105 263 236 
+floor, 511 58 340 171 

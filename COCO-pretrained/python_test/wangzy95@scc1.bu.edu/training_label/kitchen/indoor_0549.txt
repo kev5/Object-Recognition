@@ -1,0 +1,9 @@
+chair occluded, 1140 398 1293 404 
+chair occluded, 676 461 564 179 
+chair occluded, 1455 1207 378 113 
+chair occluded, 1724 1419 554 239 
+table, 1900 540 1296 156 
+stove occluded, 511 3 560 3 
+drawers occluded, 729 451 219 3 
+shelves occluded, 1929 1658 365 152 
+furniture occluded, 1488 1144 232 3 

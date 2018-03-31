@@ -1,0 +1,34 @@
+bear statue, 327 94 579 83 
+picture of flag, 712 603 223 105 
+wall fixture, 800 357 261 67 
+canoe, 325 193 503 1 
+painting, 437 388 149 96 
+painting, 510 462 230 179 
+wooden fish, 574 469 169 69 
+plate, 917 842 178 88 
+shoes, 851 751 601 525 
+magazine, 688 578 537 491 
+house model, 927 837 279 201 
+lamp, 988 910 323 172 
+lamp, 291 253 411 346 
+bowl of apples, 918 861 320 278 
+plant, 1007 845 550 328 
+rug, 410 210 651 540 
+rug, 908 723 640 539 
+couch, 895 286 544 208 
+blanket, 835 534 489 340 
+book ends, 574 408 537 413 
+laundry basket, 732 396 715 481 
+window shutter, 120 1 486 1 
+couch *x, 256 1 768 615 
+stained glass window, 45 1 583 174 
+pillow, 469 372 383 286 
+pillow, 735 639 369 279 
+pillow, 544 470 367 286 
+pillow, 877 720 360 216 
+gone fishing pillow, 521 465 384 349 
+vest, 195 119 362 173 
+fish, 287 123 266 204 
+magizine, 704 634 391 363 
+bird house, 1023 993 547 416 
+wall, 1024 112 388 1 

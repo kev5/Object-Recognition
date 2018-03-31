@@ -1,0 +1,7 @@
+painting, 759 261 330 158 
+Chair, 1501 996 1489 787 
+Chair, 808 502 1593 1078 
+Chair, 219 4 1593 1078 
+Table, 1171 6 1554 869 
+CandleHolder, 783 693 923 660 
+CandleHolder, 86 6 916 654 

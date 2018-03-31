@@ -1,0 +1,47 @@
+bouquet, 163 117 135 73 
+table runner, 156 110 188 133 
+bookshelves, 222 172 139 32 
+bookshelves, 50 1 133 19 
+painting, 155 85 94 19 
+candles, 89 69 94 49 
+vase, 43 31 58 46 
+vase, 10 0 74 65 
+vase, 22 11 75 67 
+vase, 166 155 143 120 
+vases, 191 173 124 111 
+table, 220 92 229 134 
+chair, 256 208 227 144 
+chair, 240 202 169 138 
+fruits, 30 0 208 193 
+plate, 44 1 212 203 
+plate, 43 0 187 179 
+plate, 196 182 147 143 
+plate, 188 175 141 136 
+fruit plate, 43 0 236 224 
+books, 46 20 75 61 
+books, 49 23 95 78 
+books, 49 16 122 103 
+books, 219 174 50 32 
+books, 220 195 96 80 
+books, 222 198 119 103 
+books, 219 173 62 49 
+books, 48 0 39 21 
+books, 11 0 123 103 
+books, 182 173 78 64 
+books, 220 206 78 65 
+books, 23 4 94 79 
+fireplace, 173 60 150 96 
+sofa, 96 0 234 128 
+blanket, 83 13 171 128 
+ceiling, 256 0 24 0 
+bowl, 210 192 77 71 
+bowl, 186 173 106 100 
+bowl, 195 186 106 102 
+rug, 256 2 256 182 
+fruit, 33 1 182 174 
+fruit stand, 56 0 252 153 
+cup, 181 171 148 142 
+cup, 177 170 141 135 
+rack, 235 216 137 117 
+rack, 256 245 144 45 
+statue, 195 174 96 81 

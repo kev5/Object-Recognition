@@ -1,0 +1,45 @@
+mirror, 314 71 484 132 
+lamp, 96 2 557 283 
+lamp, 1023 963 437 346 
+lamp, 1192 1133 514 368 
+lamp, 457 340 503 291 
+chair, 583 436 560 431 
+chair, 726 620 590 457 
+chair, 940 797 646 473 
+chair, 1200 1030 704 501 
+chair, 411 150 896 574 
+chair, 638 365 897 657 
+chair, 204 35 900 521 
+table runner, 1201 292 882 557 
+chandelier, 907 512 225 2 
+chandelier, 1138 1026 232 109 
+table, 1201 200 898 547 
+table, 448 6 594 483 
+treee, 814 439 520 55 
+light switch, 796 780 413 382 
+light switch, 910 892 446 417 
+light switch, 955 942 391 362 
+checkers, 1011 960 513 498 
+sculpture, 901 890 394 337 
+sculpture, 927 898 394 316 
+window, 993 959 415 236 
+piano, 1162 1002 467 338 
+throw pillow, 1113 1056 503 443 
+pillow, 1066 1021 498 450 
+frame, 1064 1046 442 427 
+frame, 1083 1061 442 427 
+decorative box, 1024 1007 443 420 
+coffee table, 1032 957 586 500 
+bottom of chair, 1039 1004 624 522 
+top of chair, 1131 1088 510 464 
+sofa, 1138 957 545 435 
+goblet, 796 731 733 547 
+goblet, 983 910 753 579 
+plant in pot, 1133 1079 451 404 
+marble bowl, 872 774 689 619 
+urn_, 659 574 653 521 
+stone bowl, 728 633 695 588 
+urn, 164 118 534 453 
+urn, 249 155 527 395 
+cup, 284 247 522 447 
+bowl of fruit, 338 272 511 440 

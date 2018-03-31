@@ -1,0 +1,17 @@
+painting, 244 224 99 82 
+painting, 78 51 115 91 
+painting, 244 234 118 104 
+bed, 144 0 255 120 
+ceiling, 255 0 47 0 
+lamp, 242 212 141 102 
+lamp, 34 12 146 116 
+window, 145 88 159 44 
+window, 206 148 158 43 
+door, 42 19 151 70 
+armchair, 176 132 184 140 
+armchair, 255 218 207 153 
+ottoman, 220 164 204 161 
+chair, 72 54 151 133 
+statue, 242 231 139 127 
+table, 255 195 175 141 
+rug, 255 129 254 187 

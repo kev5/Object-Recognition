@@ -1,0 +1,19 @@
+candle, 386 347 469 304 
+candle, 724 683 468 305 
+vase of flowers, 617 454 453 260 
+chair, 410 137 768 453 
+chair, 648 417 765 456 
+chair, 928 658 766 458 
+chair, 825 677 437 365 
+chair, 620 464 430 379 
+chair, 395 242 443 372 
+chair, 174 1 763 398 
+chair, 1024 867 765 387 
+light, 659 427 176 1 
+window, 409 224 373 58 
+window shade, 411 226 155 63 
+picture, 905 466 436 23 
+grandfather clock, 167 6 574 35 
+dining table, 997 76 769 432 
+wall, 1024 2 562 1 
+floor, 1025 2 768 542 

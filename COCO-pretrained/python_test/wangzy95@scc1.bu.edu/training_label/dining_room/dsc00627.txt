@@ -1,0 +1,15 @@
+picture, 636 566 117 17 
+picture, 288 227 100 26 
+candlestick, 292 247 300 220 
+chair, 506 227 478 283 
+chair, 242 2 479 281 
+reflection, 640 120 394 1 
+candle, 275 260 222 158 
+candle, 91 72 198 142 
+candle, 446 437 145 110 
+candle, 579 569 150 111 
+bow, 140 93 195 162 
+thermostat, 356 338 134 118 
+candle stick, 446 436 177 148 
+candle stick, 579 561 189 153 
+candle stick, 114 79 260 197 

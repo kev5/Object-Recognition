@@ -1,0 +1,15 @@
+picture, 87 12 44 1 
+window, 263 190 98 1 
+plant pot, 229 207 95 73 
+plant, 236 194 74 41 
+sofa occluded, 183 2 158 56 
+table, 244 189 180 121 
+table crop, 145 2 225 132 
+chair occluded, 144 73 224 138 
+tv stand, 299 268 218 113 
+tv, 299 284 141 74 
+laptop, 80 3 183 135 
+books, 32 2 201 148 
+wall, 115 2 149 1 
+wall, 299 114 169 1 
+floor, 298 2 224 123 

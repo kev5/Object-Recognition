@@ -1,0 +1,11 @@
+cupboard crop, 794 190 278 4 
+dish rack, 427 181 555 404 
+microwave, 223 4 495 353 
+sink, 777 367 596 491 
+faucet, 643 584 509 384 
+bottle, 491 450 495 386 
+pot, 561 499 507 452 
+socket, 245 192 322 289 
+worktop, 792 2 598 456 
+wall, 773 2 509 2 
+wall, 796 748 598 2 

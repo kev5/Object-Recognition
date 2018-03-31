@@ -1,0 +1,31 @@
+microwave, 49 15 115 63 
+stool, 254 211 255 223 
+counter, 255 215 195 168 
+counter, 201 85 152 127 
+counter, 82 0 147 128 
+dishwasher, 82 51 255 135 
+dish towel, 128 107 162 137 
+cabinets, 201 80 233 136 
+cabinets, 54 0 256 146 
+cabinets, 48 0 141 0 
+cabinets, 184 50 133 14 
+cabinets, 255 201 65 6 
+refrigerator, 251 201 200 69 
+rug, 170 87 242 213 
+cup, 249 240 187 176 
+cup, 66 59 46 38 
+cup, 87 80 65 57 
+cup, 63 58 65 56 
+book, 255 224 182 173 
+fruit stand, 141 121 133 100 
+sink, 142 87 141 131 
+sink, 100 84 147 138 
+sink faucet, 64 48 128 120 
+sink faucet, 107 86 134 114 
+statue, 92 83 116 100 
+bottle, 73 67 116 101 
+plates, 108 87 93 72 
+teapot, 95 80 47 38 
+plate, 67 59 94 75 
+bowl, 134 126 57 47 
+plant, 176 116 27 0 

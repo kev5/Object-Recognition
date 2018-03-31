@@ -1,0 +1,22 @@
+chair, 91 43 146 89 
+chair, 165 125 137 84 
+chair, 117 95 87 70 
+chair, 255 215 208 119 
+chair, 225 189 135 91 
+plant, 75 37 86 44 
+plant, 191 163 117 64 
+curtain, 145 122 86 19 
+curtain, 64 0 98 9 
+ceiling, 254 0 20 0 
+armchair, 28 0 129 84 
+armchair, 36 0 224 152 
+desk counter top, 137 66 95 85 
+table, 256 212 126 103 
+door, 121 64 84 30 
+desk, 138 65 108 86 
+window, 254 148 102 13 
+small table, 38 16 119 95 
+lamp, 29 16 99 81 
+ceiling lamp, 89 81 6 2 
+ceiling lamp, 130 123 9 4 
+ceiling lamp, 159 152 15 9 

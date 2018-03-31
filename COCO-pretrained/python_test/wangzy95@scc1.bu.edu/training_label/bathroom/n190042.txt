@@ -1,0 +1,19 @@
+toilet, 224 163 254 173 
+toilet, 222 164 256 173 
+window, 89 9 121 39 
+plant, 78 8 175 112 
+cabinets, 253 167 124 6 
+lamp, 227 199 113 97 
+mirror, 255 173 164 66 
+cabinet, 174 109 202 104 
+cabinet, 209 165 107 25 
+cabinet, 252 197 91 43 
+cabinet, 254 237 70 6 
+bench, 110 4 229 153 
+air vent, 203 160 16 0 
+box, 225 203 171 156 
+box, 157 142 145 139 
+box, 158 143 133 126 
+box, 158 142 162 151 
+toilet paper holder, 249 229 254 187 
+shelf, 253 161 180 161 

@@ -1,0 +1,14 @@
+mirror, 273 152 187 3 
+towel, 122 49 225 145 
+towel rail, 131 29 160 144 
+litter bin, 79 27 425 366 
+cistern occluded, 266 227 398 302 
+wc, 257 163 512 384 
+washbasin, 195 101 285 253 
+closet, 234 75 451 247 
+faucet, 188 160 264 236 
+towerl rail crop, 25 2 182 168 
+wall, 274 150 481 2 
+wall, 150 2 427 2 
+floor, 253 2 512 361 
+door, 274 247 511 193 

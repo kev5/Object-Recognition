@@ -1,0 +1,31 @@
+window, 203 157 121 56 
+window, 145 100 118 56 
+dishwasher, 108 58 227 144 
+cabinet, 103 0 104 25 
+cabinet, 254 206 104 33 
+counter, 255 202 198 161 
+counter, 129 1 152 132 
+counter, 255 179 155 130 
+sink, 184 128 138 130 
+plant, 46 26 142 118 
+plant, 80 58 131 109 
+plant, 169 134 130 106 
+plant, 59 46 138 116 
+plant, 24 13 142 123 
+plant, 98 72 41 27 
+plant, 10 0 146 110 
+cabinets, 255 107 217 140 
+book, 107 74 142 135 
+ceiling lamp, 174 164 22 15 
+decorative plate, 249 218 39 14 
+basket, 59 32 35 11 
+basket, 91 61 36 16 
+sink faucet, 162 143 133 116 
+dish towel, 126 102 135 127 
+ceiling, 254 0 44 0 
+cup, 39 31 58 52 
+cup, 37 32 96 90 
+cup, 39 31 75 67 
+pitcher, 95 82 97 86 
+stove, 255 228 181 162 
+floor, 203 0 255 205 

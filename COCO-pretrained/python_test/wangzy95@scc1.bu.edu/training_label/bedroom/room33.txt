@@ -1,0 +1,17 @@
+bed, 139 0 229 151 
+lamp, 133 111 154 116 
+pillow, 255 221 222 176 
+pillow, 75 52 170 153 
+pillow, 51 35 169 157 
+pillow, 233 200 220 183 
+night stand dresser, 139 108 196 157 
+painting, 88 34 148 106 
+sofa, 256 182 254 174 
+magazine, 77 55 176 172 
+blanket, 105 33 221 168 
+curtain, 194 151 199 55 
+plant, 20 1 180 116 
+plant, 227 183 186 63 
+window, 181 163 149 85 
+ceiling, 193 2 77 2 
+carpet, 194 1 255 194 

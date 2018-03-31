@@ -1,0 +1,12 @@
+picture, 233 169 42 1 
+window, 64 2 107 4 
+bed, 237 2 225 70 
+cushion, 189 130 119 86 
+cushion, 233 175 125 90 
+chest of drawers, 296 232 218 80 
+night table, 139 95 113 92 
+lamp, 139 122 98 65 
+lamp, 275 245 83 35 
+wall, 120 2 141 1 
+wall, 299 118 177 1 
+floor, 298 2 224 129 

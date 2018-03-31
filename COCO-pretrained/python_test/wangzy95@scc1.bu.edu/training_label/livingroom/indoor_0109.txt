@@ -1,0 +1,12 @@
+sofa, 268 32 178 89 
+cushion, 87 47 127 92 
+cushion, 122 74 127 92 
+vase occluded, 43 28 132 66 
+vase occluded, 20 4 164 84 
+vase, 33 13 172 100 
+picture, 147 82 65 4 
+picture, 222 156 66 4 
+table, 299 269 181 119 
+lamp, 294 253 119 47 
+carpet, 298 2 184 157 
+wall, 298 2 162 1 

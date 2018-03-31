@@ -1,0 +1,25 @@
+painting, 239 184 103 59 
+painting, 237 190 104 64 
+window, 164 94 101 61 
+ceiling, 255 2 60 0 
+conference table, 206 50 146 100 
+chair, 249 157 243 124 
+chair, 118 10 238 121 
+chair top, 226 212 122 101 
+chair top, 53 43 117 99 
+chair top, 73 63 111 96 
+chair top, 64 53 114 99 
+chair top, 48 32 120 102 
+chair top, 36 26 120 104 
+chair top, 25 13 123 104 
+chair top, 249 236 122 107 
+chair top, 236 221 122 104 
+chair top, 218 206 116 99 
+chair top, 208 195 116 98 
+chair top, 184 173 108 97 
+statue, 139 120 103 86 
+chair part, 15 0 157 107 
+ceiling lamp, 171 88 24 10 
+ceiling lamp, 158 100 40 33 
+display case, 82 71 98 61 
+display case, 186 177 92 61 

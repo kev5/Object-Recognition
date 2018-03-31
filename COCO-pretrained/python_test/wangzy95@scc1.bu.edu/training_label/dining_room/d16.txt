@@ -1,0 +1,24 @@
+curtain, 255 219 169 8 
+table, 195 20 235 130 
+chair, 151 78 239 122 
+chair, 208 148 220 107 
+chair, 68 5 228 110 
+chair top, 110 71 125 102 
+pillow, 146 83 197 168 
+pillow, 67 16 179 167 
+pillow, 200 149 172 161 
+mirror, 84 58 78 34 
+counter top, 147 0 102 94 
+rug, 255 0 255 158 
+ceiling lamp, 130 53 70 2 
+lamp, 41 5 60 31 
+place mat, 64 23 145 134 
+place mat, 143 78 149 141 
+place mat, 183 140 142 130 
+window, 256 231 151 11 
+plant, 57 43 98 40 
+plant, 107 80 98 49 
+plant, 142 63 146 122 
+buffet, 150 1 164 95 
+candle, 125 119 120 97 
+candle, 81 75 121 97 

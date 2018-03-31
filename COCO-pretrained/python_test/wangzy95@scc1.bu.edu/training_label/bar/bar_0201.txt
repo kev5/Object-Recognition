@@ -1,0 +1,19 @@
+ceiling, 363 2 70 0 
+window, 43 0 185 68 
+bar, 405 76 345 189 
+glasses, 209 150 207 169 
+glasses, 257 224 188 169 
+person crop, 459 410 345 129 
+billboard, 340 162 104 51 
+basket, 310 273 218 198 
+shelf, 342 176 123 112 
+shelf, 310 178 154 150 
+bottle, 316 309 113 89 
+bottle, 302 295 113 91 
+bottle, 268 259 151 133 
+bottle, 237 231 150 130 
+bottles, 261 237 151 127 
+bottles, 230 201 151 128 
+wall, 112 0 235 20 
+wall, 459 70 282 0 
+floo, 459 0 345 222 

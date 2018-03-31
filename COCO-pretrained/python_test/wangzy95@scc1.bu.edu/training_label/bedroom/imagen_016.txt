@@ -1,0 +1,8 @@
+Bed, 511 8 383 63 
+picture frame, 163 137 173 146 
+picture frame, 148 122 139 112 
+picture frame, 132 107 102 76 
+window, 68 2 227 1 
+curtain, 132 50 324 3 
+widowpane, 37 6 195 134 
+flower, 334 224 348 303 

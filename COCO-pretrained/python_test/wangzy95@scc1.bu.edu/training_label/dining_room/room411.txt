@@ -1,0 +1,25 @@
+painting, 137 108 82 44 
+mirror, 224 195 91 39 
+small table, 255 201 214 169 
+side table, 232 179 137 88 
+statue, 224 215 99 75 
+bouquet, 196 176 93 46 
+lamp, 254 229 146 51 
+plant, 36 0 177 116 
+plant, 170 158 107 57 
+chair top, 198 180 117 96 
+chair top, 121 83 119 97 
+candle, 146 138 114 86 
+candle, 119 111 119 90 
+bowl, 145 135 129 122 
+bowl, 98 85 135 128 
+glass, 154 149 111 99 
+glass, 113 107 116 107 
+chair, 92 32 214 122 
+chair, 189 130 203 119 
+window, 74 0 95 28 
+cabinets, 73 2 62 30 
+refrigerator, 19 1 87 52 
+counter, 71 20 83 72 
+ceiling lamp, 170 76 71 4 
+ceiling, 254 2 24 0 

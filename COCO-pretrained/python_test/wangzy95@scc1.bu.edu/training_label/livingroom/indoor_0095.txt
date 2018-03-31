@@ -1,0 +1,16 @@
+sofa, 289 2 205 68 
+picture crop, 85 58 31 1 
+picture crop, 33 2 12 1 
+window, 226 165 71 4 
+curtain, 167 148 71 3 
+televison, 299 268 93 33 
+armchair crop, 299 221 224 200 
+cushion, 175 114 116 68 
+cushion, 68 28 135 74 
+cushion, 106 60 132 77 
+cushion, 237 183 126 74 
+cushion, 265 222 125 74 
+furniture occluded, 297 278 159 94 
+wall, 299 2 170 1 
+floor, 298 2 224 149 
+carpet, 299 100 224 156 

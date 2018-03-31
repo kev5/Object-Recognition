@@ -1,0 +1,31 @@
+ceiling, 400 0 167 0 
+ceiling, 283 211 188 166 
+window occluded, 400 323 223 120 
+column, 396 305 272 38 
+column, 333 289 243 112 
+column, 177 124 242 114 
+column, 128 31 264 49 
+plant pot, 390 351 278 244 
+plant pot, 289 275 234 221 
+plant pot, 129 99 265 238 
+plant pot, 185 163 242 226 
+plants, 394 337 244 152 
+plants, 130 99 238 181 
+plants, 56 14 238 179 
+person standing, 319 308 246 206 
+plant, 290 270 220 182 
+plant, 187 164 225 194 
+column occluded, 212 191 231 159 
+column occluded, 201 166 232 144 
+armchair, 97 65 271 237 
+table, 54 22 271 245 
+armchair occluded, 33 0 270 232 
+lamp, 229 136 64 1 
+lamp, 248 225 162 125 
+lamp, 120 98 162 126 
+fan, 231 191 131 58 
+plant pot occluded, 48 33 245 236 
+wall, 283 208 226 166 
+wall, 210 0 230 147 
+wall, 304 282 230 160 
+floor, 400 0 300 212 

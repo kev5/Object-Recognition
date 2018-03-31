@@ -1,0 +1,15 @@
+person sitting occluded, 320 246 199 94 
+person sitting occluded, 207 144 168 88 
+person sitting occluded, 95 0 237 93 
+person sitting occluded, 146 81 240 107 
+person sitting occluded, 197 115 240 127 
+chair occluded, 45 0 239 174 
+chair occluded, 102 33 240 196 
+table occluded, 320 50 240 139 
+wall, 96 0 209 0 
+wall, 319 92 230 0 
+tapestry, 319 183 114 1 
+armor occluded, 139 99 121 21 
+menu, 245 193 230 196 
+menu, 315 239 239 208 
+saltcellar, 207 199 196 179 

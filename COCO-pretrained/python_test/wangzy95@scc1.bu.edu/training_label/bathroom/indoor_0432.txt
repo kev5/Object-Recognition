@@ -1,0 +1,12 @@
+picture, 111 86 131 54 
+towels, 143 88 274 155 
+basket, 186 104 469 320 
+rail, 233 121 37 28 
+curtain, 234 124 391 34 
+bath occluded, 230 185 410 383 
+ceiling, 233 115 44 1 
+wall, 155 120 50 5 
+wall, 136 74 463 1 
+wall, 276 226 512 1 
+door, 106 2 512 1 
+floor, 225 105 511 403 

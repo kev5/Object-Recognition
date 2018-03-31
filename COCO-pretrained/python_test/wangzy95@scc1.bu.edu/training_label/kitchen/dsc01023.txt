@@ -1,0 +1,20 @@
+closet, 359 2 640 390 
+sink, 230 6 462 395 
+Stove, 415 363 621 350 
+cupboard, 282 2 165 3 
+glass door, 477 342 561 15 
+Faucet, 139 48 379 299 
+Plate, 216 167 298 241 
+mug, 239 216 364 326 
+oven mitt, 347 254 379 351 
+sponge, 141 120 373 354 
+dish soap, 117 94 393 329 
+handle, 37 25 96 15 
+handle, 192 181 117 61 
+handle, 206 198 118 68 
+handle, 92 25 633 591 
+handle, 281 270 530 474 
+handle, 295 285 518 464 
+oven cloth, 285 241 230 162 
+pot, 364 320 360 311 
+tea pot, 302 241 350 308 

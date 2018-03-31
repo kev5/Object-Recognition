@@ -1,0 +1,24 @@
+chair, 146 37 254 128 
+chair, 256 190 254 112 
+chair, 97 61 143 98 
+chair top, 226 184 117 91 
+lamp, 165 141 157 95 
+lamp, 203 184 134 87 
+buffet, 140 92 138 47 
+bouquet, 209 144 134 54 
+bouquet, 58 21 128 75 
+bouquet, 137 104 118 80 
+pillow, 133 54 231 201 
+pillow, 36 1 168 145 
+pillow, 255 195 199 175 
+table, 242 83 255 115 
+fruit bowl, 173 139 143 117 
+side table, 57 17 133 125 
+window, 255 208 119 12 
+window, 200 146 65 15 
+window, 14 0 118 11 
+mirror, 118 94 40 4 
+statue, 129 119 47 21 
+statue, 112 98 46 17 
+cabinet, 72 1 235 157 
+candles, 43 8 128 69 

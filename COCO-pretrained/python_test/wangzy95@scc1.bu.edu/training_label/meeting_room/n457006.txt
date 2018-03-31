@@ -1,0 +1,23 @@
+painting, 42 26 67 10 
+painting, 256 245 80 23 
+conference table, 214 29 224 72 
+plant, 155 144 64 53 
+plant, 100 86 65 48 
+counter, 163 78 67 59 
+counter, 255 185 114 65 
+door, 9 0 126 8 
+chair top, 128 110 74 58 
+chair top, 208 182 125 85 
+chair top, 182 161 86 57 
+chair top, 182 167 96 71 
+chair top, 193 174 106 77 
+chair top, 68 52 75 55 
+chair top, 86 72 88 62 
+chair top, 58 16 150 96 
+chair top, 69 36 122 82 
+chair top, 75 50 106 75 
+chair top, 78 62 94 67 
+chair, 45 1 215 114 
+chair, 255 191 255 119 
+chair, 234 186 173 99 
+cabinets, 167 78 64 2 

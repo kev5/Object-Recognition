@@ -1,0 +1,12 @@
+extractor hood, 371 175 126 21 
+stove, 429 202 435 383 
+oven crop, 266 157 600 497 
+sink occluded, 717 355 600 435 
+cupboard, 740 233 188 2 
+fridge crop, 796 713 598 6 
+cupboard crop, 443 150 598 412 
+worktop, 722 148 594 373 
+coffee marker, 507 419 421 336 
+socket, 540 501 402 357 
+wall, 363 2 596 4 
+wall, 792 357 594 4 

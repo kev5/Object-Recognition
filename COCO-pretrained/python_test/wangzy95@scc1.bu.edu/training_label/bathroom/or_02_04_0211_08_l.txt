@@ -1,0 +1,9 @@
+bouquet, 151 108 151 73 
+towel, 52 27 131 73 
+mirror, 135 52 86 9 
+sink, 134 39 255 144 
+sink, 135 40 256 132 
+toilet, 230 155 255 154 
+sink faucet, 116 68 147 129 
+hanging wall flower, 216 144 50 1 
+towel rack, 42 23 75 50 

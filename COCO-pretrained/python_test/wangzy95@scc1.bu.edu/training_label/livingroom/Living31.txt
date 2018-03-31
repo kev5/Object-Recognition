@@ -1,0 +1,49 @@
+hat, 412 271 714 551 
+candle, 695 679 292 168 
+candle, 667 650 298 170 
+painting, 983 708 278 0 
+painting, 304 181 248 109 
+painting, 167 2 378 162 
+painting, 293 182 365 252 
+flowers, 1109 953 290 91 
+decorative house, 648 619 375 335 
+decorative house, 646 613 440 384 
+decorative house, 648 608 506 463 
+decorative house, 1200 1135 307 228 
+decorative house, 1200 1113 405 349 
+decorative house, 1199 1123 484 413 
+decorative house, 428 335 525 408 
+decorative house, 642 599 293 239 
+pillow, 296 159 635 484 
+pillow, 539 445 548 449 
+books, 299 239 398 383 
+picture frame, 268 247 383 364 
+picture frame, 244 221 392 366 
+picture frame, 174 148 400 375 
+plate, 171 120 409 401 
+silver canister, 88 58 416 401 
+seving cup and saucer, 32 2 419 390 
+candle in holder, 124 103 408 287 
+candle in holder, 99 80 409 288 
+candle in holder, 675 624 583 521 
+side table, 317 3 640 393 
+chair, 399 301 514 375 
+chair, 438 64 862 441 
+chair, 659 386 708 406 
+chair, 628 337 900 573 
+blanket, 511 391 489 406 
+blanket, 1162 853 897 604 
+end table, 498 290 659 505 
+stack of books, 823 679 621 545 
+area rug, 90 3 761 633 
+area rug, 870 263 901 639 
+flowers in urn, 294 79 404 139 
+coffee table, 942 589 843 537 
+basket, 756 664 567 445 
+potted flowers, 957 736 584 368 
+flowers in vase, 602 570 355 267 
+sofa, 1200 856 900 466 
+mantle, 1134 604 350 295 
+fire log, 630 538 527 477 
+fireplace, 1109 631 619 3 
+wall, 679 361 420 1 

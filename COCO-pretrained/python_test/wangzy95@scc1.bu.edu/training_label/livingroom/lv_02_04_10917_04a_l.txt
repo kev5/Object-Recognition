@@ -1,0 +1,38 @@
+picture frame, 127 107 150 127 
+painting, 224 205 86 63 
+painting, 213 195 109 89 
+painting, 236 217 110 88 
+pillow, 193 128 248 183 
+pillow, 99 57 214 169 
+armchair, 135 1 254 163 
+armchair, 234 69 256 178 
+table, 170 91 183 139 
+plant, 45 1 203 155 
+plant, 256 226 254 207 
+plant, 238 226 119 96 
+plant, 190 174 142 101 
+plant, 74 55 136 78 
+chair, 255 214 185 121 
+chair, 220 203 175 119 
+chair, 209 194 168 117 
+chair, 87 64 130 113 
+chair, 104 90 129 111 
+sofa, 106 22 198 137 
+fireplace, 31 0 163 125 
+stairs, 189 144 133 73 
+bouquet, 127 112 119 104 
+curtain, 97 86 109 72 
+curtain, 118 107 102 69 
+curtain, 143 129 111 71 
+curtain, 80 63 111 73 
+lamp, 72 60 107 100 
+plants, 255 240 119 101 
+counter, 256 232 132 120 
+vase, 152 136 145 120 
+vase, 136 128 146 124 
+ceiling lamp, 137 129 13 10 
+ceiling lamp, 120 114 45 42 
+ceiling lamp, 49 39 34 30 
+windows, 117 57 114 71 
+window, 189 131 128 67 
+window, 256 250 98 77 

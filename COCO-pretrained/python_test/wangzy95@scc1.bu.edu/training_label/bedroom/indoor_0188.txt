@@ -1,0 +1,11 @@
+bed, 284 23 213 23 
+picture, 194 155 65 27 
+picture, 242 227 45 25 
+picture, 240 227 71 49 
+night table, 49 2 188 108 
+plant, 24 2 114 72 
+wall, 216 2 152 1 
+wall, 253 215 109 2 
+wall, 299 253 154 1 
+floor, 299 2 224 108 
+curtain, 297 269 124 4 

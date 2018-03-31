@@ -1,0 +1,20 @@
+sofa, 408 2 374 48 
+chair occluded, 58 2 50 23 
+chair occluded, 216 188 52 16 
+chair occluded, 111 52 76 39 
+cushion, 304 206 171 76 
+cushion, 148 3 215 89 
+cushion, 616 502 227 145 
+table, 542 104 480 205 
+magazine, 354 202 405 317 
+laptop, 273 126 322 247 
+remote control, 361 313 258 228 
+swivel chair occluded, 638 484 327 70 
+person standing crop, 640 572 378 52 
+table occluded, 226 2 82 38 
+magazines occluded, 359 265 447 390 
+wall, 546 433 98 2 
+wall, 639 519 215 1 
+wall, 438 207 147 1 
+wall, 208 3 186 1 
+floor, 640 3 477 95 

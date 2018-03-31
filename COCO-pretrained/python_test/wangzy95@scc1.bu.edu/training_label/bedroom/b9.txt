@@ -1,0 +1,19 @@
+plant, 219 195 129 82 
+plant, 21 0 209 130 
+bed, 218 9 256 149 
+window, 252 212 108 50 
+painting, 38 12 88 54 
+wardrobe, 171 96 153 39 
+curtain, 254 208 117 47 
+dresser, 254 195 163 125 
+dresser, 67 5 194 94 
+night stand, 255 211 231 165 
+night stand, 130 93 170 150 
+mirror, 37 19 124 99 
+vase, 251 241 133 118 
+vase, 34 23 131 119 
+bowl, 244 229 170 160 
+book, 154 117 197 184 
+box, 57 44 128 118 
+ceiling, 254 1 30 1 
+carpet, 255 0 256 209 

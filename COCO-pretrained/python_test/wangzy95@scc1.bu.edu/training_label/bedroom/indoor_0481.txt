@@ -1,0 +1,15 @@
+picture, 262 4 151 33 
+stool, 627 437 402 307 
+joist, 511 363 31 2 
+column, 761 693 464 2 
+bed crop, 623 2 532 216 
+cushion occluded, 171 6 408 287 
+cushion occluded, 322 179 373 285 
+cushion, 206 87 414 326 
+cushion, 350 256 381 324 
+carpet, 794 637 530 462 
+flowers, 132 66 208 150 
+wall, 487 6 466 2 
+wall, 796 489 414 2 
+window, 658 487 268 2 
+floor, 796 6 530 355 

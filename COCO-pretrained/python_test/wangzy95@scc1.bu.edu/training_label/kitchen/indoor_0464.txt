@@ -1,0 +1,26 @@
+cupboards, 357 2 157 2 
+cupboards, 794 427 161 2 
+cupboards, 513 225 445 268 
+corner, 423 357 161 4 
+tray, 120 2 301 270 
+cupboard, 103 2 509 309 
+handle, 99 87 396 350 
+handle, 320 305 326 283 
+dishwasher, 219 85 517 291 
+sink, 334 216 274 254 
+faucet, 303 250 264 210 
+microwave, 796 709 280 216 
+oven occluded, 612 513 425 293 
+chair occluded, 666 517 532 283 
+chair occluded, 656 600 351 270 
+table crop, 796 530 532 324 
+stove occluded, 641 540 291 264 
+socket, 480 454 210 194 
+socket, 89 74 223 202 
+coffee marker, 161 111 280 204 
+knives, 400 379 254 194 
+wall, 394 2 452 2 
+wall, 796 394 412 6 
+skirting board, 796 225 482 400 
+skirting board, 91 4 530 489 
+floor, 794 2 532 359 

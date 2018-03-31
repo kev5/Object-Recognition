@@ -1,0 +1,88 @@
+ceiling, 801 2 143 2 
+ceiling light, 49 2 38 7 
+ceiling light, 329 171 98 68 
+ceiling light, 723 529 47 2 
+ceiling light, 462 390 123 106 
+ceiling light, 607 522 134 119 
+ceiling light, 798 686 95 63 
+ceiling light, 798 703 121 105 
+ceiling vent, 264 187 30 10 
+floor, 800 2 533 307 
+wall, 800 494 366 128 
+wall, 497 2 436 90 
+mouse, 135 117 354 346 
+mouse pad, 143 98 361 343 
+keyboard, 115 66 354 330 
+keyboard, 234 209 315 298 
+keyboard, 795 618 533 466 
+notebook, 74 42 337 327 
+paper filer, 94 45 324 306 
+paper filer, 59 6 332 313 
+paper filer, 796 714 496 426 
+paper filer, 673 642 227 211 
+papers, 150 98 331 314 
+papers, 305 262 325 311 
+papers, 790 726 484 440 
+papers, 426 398 279 271 
+jar, 136 123 336 318 
+binders, 131 76 318 276 
+binders, 578 533 194 175 
+binders, 610 532 219 199 
+binders, 593 534 244 222 
+binders, 604 534 268 245 
+binders, 798 754 198 170 
+binders, 798 751 228 201 
+binders, 799 748 260 230 
+binders, 796 746 285 262 
+computer monitor, 208 146 344 267 
+computer monitor, 798 761 467 334 
+computer monitor, 461 429 270 229 
+file, 237 216 327 310 
+plant, 267 236 336 295 
+plant, 540 522 277 233 
+plant, 702 674 231 206 
+telephone, 518 442 461 402 
+lighter, 523 512 441 430 
+cigarettes, 525 507 452 434 
+desk calendar, 553 505 410 381 
+magazine, 593 526 482 437 
+ash tray, 650 624 462 443 
+mug, 622 600 469 445 
+printer, 688 548 450 371 
+cup, 682 657 468 432 
+pens, 682 658 436 426 
+post it notes, 710 683 468 457 
+lamp, 738 684 454 318 
+post it note, 797 775 466 443 
+radio, 422 385 272 254 
+sign, 493 463 253 185 
+files, 723 696 229 222 
+box, 768 738 302 284 
+box, 798 773 307 276 
+window, 98 4 298 145 
+window, 334 182 277 153 
+window, 462 382 258 165 
+pillar, 528 458 410 74 
+painting, 167 115 255 181 
+painting, 382 335 234 189 
+clock, 705 670 190 159 
+chair, 57 3 507 398 
+chair, 310 272 314 282 
+chair, 342 312 325 286 
+chair, 436 363 376 275 
+chair, 616 578 356 278 
+chair, 646 559 382 359 
+desk, 238 2 518 295 
+desk, 343 146 433 294 
+desk, 534 377 354 266 
+desk, 573 521 340 266 
+desk, 799 718 365 288 
+desk, 799 394 531 375 
+trash, 262 243 495 482 
+trash can, 296 238 482 411 
+trash can, 374 346 358 317 
+computer, 447 408 353 307 
+bookshelf, 629 529 333 162 
+bookshelf, 798 741 370 155 
+filing cabinet, 668 621 351 223 
+filing cabinet, 730 663 350 224 

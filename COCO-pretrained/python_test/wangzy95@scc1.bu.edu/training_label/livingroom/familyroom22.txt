@@ -1,0 +1,32 @@
+painting, 187 147 120 67 
+fireplace, 196 142 159 123 
+armchair, 226 173 178 135 
+armchair, 175 64 255 176 
+armchair, 127 100 167 133 
+pillow, 147 91 254 203 
+pillow, 211 195 159 144 
+pillow, 115 105 155 141 
+rug, 252 195 253 188 
+small table, 202 160 256 204 
+picture frame, 193 174 212 190 
+picture frame, 45 29 194 177 
+picture frame, 61 46 192 173 
+table, 115 0 236 177 
+boxes, 64 2 255 211 
+lamp shade, 32 0 152 128 
+lamp, 106 64 157 129 
+lamp, 106 65 195 129 
+lamp, 35 0 190 128 
+magazine holder, 226 201 193 172 
+ceiling, 256 0 59 0 
+curtain, 63 33 156 80 
+bouquet, 75 21 181 150 
+candle, 118 113 169 147 
+candle, 129 125 164 150 
+statue, 102 72 193 158 
+bibelot, 60 39 199 191 
+window, 34 0 133 56 
+wardrobe, 255 219 170 54 
+wardrobe, 113 68 136 71 
+fan, 141 78 55 0 
+plant, 181 140 185 165 

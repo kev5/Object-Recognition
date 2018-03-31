@@ -1,0 +1,8 @@
+telephone, 1668 1183 878 432 
+alarm clock, 768 309 794 541 
+headboard, 2048 1639 592 3 
+spiral line cord, 1476 1138 1132 594 
+phone handset, 1464 1233 818 444 
+drawer pull, 1130 1025 1480 1394 
+bed crop, 2049 1631 1536 4 
+bed crop, 390 2 1536 328 

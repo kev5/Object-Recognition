@@ -1,0 +1,11 @@
+picture, 201 91 82 12 
+pillow, 275 199 288 232 
+switch, 149 135 233 215 
+bed, 511 88 396 217 
+baby doll, 196 135 308 241 
+clothes, 397 318 215 164 
+nightstand, 405 322 263 204 
+curtain, 599 462 390 3 
+bedspread, 530 74 448 214 
+wall, 466 11 257 1 
+drapes, 597 465 385 3 

@@ -1,0 +1,12 @@
+picture, 207 77 111 1 
+night table, 261 50 596 363 
+notebook, 186 85 552 492 
+clock, 132 62 380 345 
+lamp, 235 172 374 221 
+bed crop, 477 237 606 106 
+pillow, 477 278 327 192 
+wall, 374 2 561 4 
+wall, 478 369 571 2 
+floor, 475 2 639 515 
+magazines, 243 126 478 426 
+box, 109 81 483 448 

@@ -1,0 +1,46 @@
+ceiling, 1798 2 74 2 
+ceiling light, 797 754 52 32 
+ceiling light, 414 27 23 5 
+ceiling light, 538 495 58 36 
+ceiling light, 1112 1078 58 34 
+ceiling light, 1795 1465 23 2 
+ceiling light, 1372 1327 59 40 
+wall, 1798 2 652 23 
+cabinet, 1685 1445 598 119 
+cabinet, 265 4 619 121 
+table, 1793 1539 617 457 
+table, 1055 137 1193 785 
+table, 1789 981 1197 752 
+table, 767 225 781 497 
+light switch, 457 430 387 360 
+light switch, 1280 1262 387 356 
+outlet, 560 536 387 355 
+outlet, 1328 1303 387 351 
+picture, 1422 1301 331 205 
+picture, 1215 1093 326 203 
+picture, 1012 887 328 203 
+picture, 803 679 329 203 
+picture, 592 464 329 203 
+picture, 398 266 333 207 
+chairs, 115 4 686 495 
+chairs, 596 2 1201 828 
+chair, 277 104 805 554 
+chair, 1795 1593 819 560 
+chair, 1607 1420 704 491 
+chair, 1444 1343 616 468 
+chair, 1334 1278 551 452 
+chair, 1244 1154 513 427 
+chair, 1066 902 643 416 
+chair, 815 664 637 414 
+chair, 571 488 545 419 
+chair, 517 419 589 454 
+chair, 459 358 641 475 
+chair, 378 274 695 517 
+tables, 1177 598 628 468 
+tables, 1647 1004 821 493 
+flyer, 1498 1456 360 290 
+floor, 391 -2 1195 592 
+floor, 1798 1224 1199 580 
+floor, 1231 668 875 585 
+chair wheel, 1732 1660 1139 1057 
+chair wheel, 1791 1733 1069 995 

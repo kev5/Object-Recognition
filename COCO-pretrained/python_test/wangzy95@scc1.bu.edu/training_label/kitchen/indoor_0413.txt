@@ -1,0 +1,21 @@
+ceiling, 170 2 54 1 
+ceiling, 376 72 104 20 
+lamp, 300 279 59 50 
+lamp, 45 10 37 11 
+window, 376 260 239 60 
+window, 45 2 225 110 
+cupboard occluded, 98 45 304 100 
+fridge, 166 53 351 152 
+cupboard, 141 97 147 96 
+cupboard, 263 142 191 74 
+cupboard, 154 114 364 251 
+cupboard, 304 211 438 274 
+cupboard, 375 297 477 294 
+dishwasher, 219 157 395 260 
+sink, 342 227 279 257 
+faucet, 313 291 262 241 
+worktop, 376 112 309 239 
+wall, 376 40 107 2 
+wall, 63 2 318 47 
+wall, 376 62 462 53 
+floor, 376 2 511 316 

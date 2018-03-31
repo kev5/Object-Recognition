@@ -1,0 +1,13 @@
+display case, 89 19 169 42 
+display case, 88 22 122 40 
+bouquet, 94 16 41 0 
+conference table, 255 73 254 132 
+chair top, 249 211 154 121 
+chair top, 199 166 140 113 
+chair top, 112 73 136 112 
+chair, 122 58 238 128 
+chair, 174 96 253 143 
+chair part, 256 212 254 196 
+picture frame, 63 42 74 60 
+cabinet, 216 147 144 110 
+cabinet, 90 24 172 114 

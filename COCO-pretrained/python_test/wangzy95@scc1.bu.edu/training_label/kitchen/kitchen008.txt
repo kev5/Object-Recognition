@@ -1,0 +1,14 @@
+tomato, 102 33 1056 989 
+refridgerator, 1302 861 1356 490 
+flowerpot, 1227 1046 938 774 
+Pot, 366 227 896 816 
+microwave, 387 173 685 401 
+rug, 901 481 1490 1269 
+CeilingLamp, 774 570 86 2 
+pumpkin, 79 10 977 899 
+Drawer, 1324 1096 1425 1052 
+dish washer, 396 120 1496 994 
+counter top, 1330 1008 1197 907 
+cupboard, 1330 1153 657 4 
+oven, 530 405 1500 885 
+stove, 493 112 953 868 

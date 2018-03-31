@@ -1,0 +1,14 @@
+Pillow, 492 246 254 185 
+handle, 132 82 261 128 
+bedstand, 700 529 416 227 
+doorknob, 753 700 266 212 
+nightlight, 624 568 177 145 
+headboard, 538 258 334 121 
+towels, 326 150 519 415 
+blankets, 320 156 596 473 
+curtain, 709 461 140 2 
+bed, 544 139 595 117 
+door, 797 670 596 4 
+door, 170 3 595 3 
+rug, 671 504 595 450 
+drawer, 694 542 334 264 

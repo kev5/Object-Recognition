@@ -1,0 +1,15 @@
+Flat screen LCD TV, 296 147 261 124 
+door, 361 319 401 5 
+knob, 375 366 246 236 
+knob, 79 60 383 365 
+drawer, 197 121 306 268 
+mirror, 560 480 206 82 
+door opening, 566 450 368 38 
+dessus de lit, 640 296 480 348 
+bed, 640 267 479 309 
+towel, 539 513 201 105 
+chest of drawers, 332 13 473 252 
+satelite turner, 111 28 254 232 
+dvd-player, 121 12 275 251 
+light switch plate, 617 592 216 190 
+bed frame, 608 265 478 307 

@@ -1,0 +1,25 @@
+ceiling, 323 260 9 1 
+wall, 258 224 237 58 
+wall, 273 258 235 62 
+wall, 296 2 322 1 
+wall, 510 298 327 2 
+wall, 510 2 349 231 
+window occluded, 396 326 183 48 
+cupboard, 472 378 124 6 
+cupboard, 157 47 87 11 
+cupboard, 224 139 127 21 
+cupboard, 103 2 349 206 
+cupboard, 178 99 326 194 
+cupboard, 508 450 62 1 
+cupboard occluded, 461 344 290 181 
+stove occluded, 508 416 267 171 
+paper, 447 406 147 129 
+table crop, 510 288 350 252 
+cupboard crop, 53 2 129 2 
+sink, 170 82 198 179 
+dishwasher, 250 178 301 186 
+worktop, 251 2 219 173 
+faucet, 124 108 180 162 
+socket, 55 42 165 148 
+socket, 205 190 162 142 
+extractor hood, 510 450 89 58 

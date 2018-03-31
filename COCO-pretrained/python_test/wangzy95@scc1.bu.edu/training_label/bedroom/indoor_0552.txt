@@ -1,0 +1,7 @@
+bed crop, 265 2 427 99 
+night table, 487 219 415 140 
+lamp, 377 299 186 3 
+wall, 453 2 263 2 
+wall, 639 404 427 2 
+floor, 499 3 428 254 
+pillow crop, 237 2 301 103 

@@ -1,0 +1,12 @@
+picture crop, 141 2 164 1 
+bed crop, 397 2 599 259 
+cushion occluded, 256 155 386 321 
+cushion, 196 5 582 322 
+cushion, 373 181 428 287 
+cushion, 346 65 599 360 
+cushion crop, 398 322 428 320 
+lamp, 337 265 277 121 
+vase, 244 169 267 213 
+dry flowers, 236 176 211 85 
+wall, 303 2 436 2 
+wall, 399 283 471 2 

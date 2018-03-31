@@ -1,0 +1,16 @@
+couch, 188 67 223 122 
+couch, 198 180 204 199 
+table, 221 130 255 170 
+newspaper, 201 144 187 172 
+armchair, 79 0 256 156 
+bed, 127 29 192 94 
+picture, 95 68 77 47 
+lamp, 23 5 87 69 
+lamp, 144 131 93 72 
+painting, 255 234 89 37 
+painting, 95 69 77 47 
+curtain, 231 199 174 4 
+curtain, 195 177 145 17 
+night stand, 19 0 164 118 
+ceiling, 241 0 25 0 
+fireplace, 255 222 179 116 

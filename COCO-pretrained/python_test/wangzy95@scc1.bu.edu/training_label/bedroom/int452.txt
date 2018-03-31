@@ -1,0 +1,19 @@
+painting, 201 151 110 82 
+pillow, 187 150 155 119 
+pillow, 133 97 159 118 
+pillow, 149 122 152 119 
+pillow, 102 64 153 119 
+window, 49 0 159 31 
+sofa bed, 242 57 231 111 
+doll, 102 76 164 137 
+toy, 126 76 119 80 
+toy, 128 47 254 218 
+ceiling, 255 44 33 1 
+lamp, 256 241 136 112 
+boxes, 44 1 240 185 
+teddy bear, 118 97 242 214 
+blanket, 170 122 191 159 
+backpack, 92 63 217 168 
+curtain, 256 239 118 38 
+curtain, 56 0 210 0 
+night stand table, 253 230 201 145 

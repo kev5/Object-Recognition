@@ -1,0 +1,10 @@
+pillow, 609 475 337 271 
+pillow, 537 433 314 262 
+pillow, 636 548 330 244 
+pillow, 550 453 268 235 
+curtain, 398 295 246 1 
+window, 302 87 239 1 
+Air Conditioner, 68 2 340 266 
+Curtain, 99 2 254 1 
+bed, 636 63 479 292 
+blanket, 423 117 474 305 

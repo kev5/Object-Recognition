@@ -1,0 +1,24 @@
+ceiling, 431 240 17 0 
+window, 347 260 213 36 
+window, 105 2 235 11 
+curtain, 361 256 91 32 
+curtain, 117 2 88 6 
+picture, 251 130 154 40 
+door occluded, 413 360 251 41 
+furniture, 530 380 321 41 
+bed occluded, 345 2 356 204 
+bed crop, 659 2 459 293 
+cuddly toy, 557 427 381 310 
+door, 678 541 371 0 
+cupboard, 642 554 301 179 
+flowers, 618 580 168 120 
+doll, 193 10 444 302 
+doll, 517 490 102 74 
+doll, 483 468 103 75 
+doll, 461 440 104 75 
+doll, 436 417 103 80 
+wall, 360 2 287 0 
+wall, 691 357 384 1 
+floor, 690 2 459 250 
+photo, 430 411 143 114 
+book, 263 223 235 222 

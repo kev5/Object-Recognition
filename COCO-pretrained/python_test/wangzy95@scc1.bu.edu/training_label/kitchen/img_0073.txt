@@ -1,0 +1,8 @@
+dish washer, 163 35 383 242 
+microwave, 66 2 220 163 
+window, 255 140 154 24 
+tap, 254 215 202 156 
+kitchen sink, 306 144 218 194 
+kitchen cabinet, 426 288 142 1 
+doorway, 512 454 368 9 
+power outlet, 309 298 183 163 

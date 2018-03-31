@@ -1,0 +1,87 @@
+forks, 169 67 883 830 
+chair, 304 97 834 542 
+chair, 570 370 898 478 
+chair, 802 595 899 497 
+chair, 528 448 463 418 
+napkin, 103 1 833 765 
+kettle, 983 918 468 412 
+kettle, 952 896 388 334 
+kettle, 1047 983 390 338 
+kettle, 324 268 426 387 
+picture, 863 810 384 331 
+picture, 475 451 359 343 
+picture, 482 433 248 173 
+bottles, 603 572 439 374 
+bottles, 715 604 436 364 
+bottles, 776 723 444 373 
+plate of bread, 609 513 490 453 
+platter of bread, 841 691 507 452 
+plate, 648 591 499 486 
+plate, 1180 1106 466 400 
+plate, 110 3 873 796 
+bowl, 875 822 177 150 
+bowl, 1017 944 178 162 
+bowl, 1171 1125 479 461 
+bowl, 85 4 848 800 
+apples, 163 120 465 440 
+pot, 938 857 460 396 
+pot, 827 770 178 140 
+jar, 275 227 422 373 
+jar, 902 869 177 134 
+jar, 1198 1180 477 406 
+jar, 1140 1097 460 414 
+vase of flowers, 225 135 368 232 
+stack of books, 443 412 316 280 
+shelf, 515 401 410 130 
+cabinet, 1199 1102 384 42 
+cabinet, 308 225 362 121 
+cabinet, 130 48 382 83 
+cabinet, 778 543 372 58 
+cabinet, 364 2 392 1 
+sink, 264 166 451 428 
+faucet, 225 161 436 390 
+soap, 223 201 428 416 
+rug, 1029 908 785 708 
+bucket, 1059 1014 174 123 
+window, 559 512 369 132 
+window, 1044 812 173 42 
+curtain, 558 497 239 140 
+plant, 317 203 185 60 
+plant, 1188 1072 125 35 
+bottle, 698 670 486 403 
+bottle, 150 129 439 388 
+pinecones, 481 435 412 381 
+books, 438 412 408 370 
+vent, 518 463 46 26 
+vent, 455 353 67 38 
+light, 369 345 26 14 
+dishwasher, 368 316 464 430 
+doorway, 375 345 359 157 
+countertop, 929 290 536 450 
+table, 400 2 900 790 
+placemat, 200 5 897 798 
+banister *X, 1197 1115 900 518 
+small metal bowls, 1109 1074 473 463 
+range hood, 1118 731 297 175 
+ceiling, 720 203 69 1 
+stove, 1069 784 708 384 
+decorative plate, 337 304 420 369 
+decorative plate, 461 416 273 241 
+counter top, 1200 1063 501 463 
+cabinets, 1199 1063 720 496 
+cabinets, 404 2 736 359 
+frame, 535 501 397 367 
+frame, 482 463 316 285 
+counter, 913 293 900 490 
+tea cup and saucer, 481 460 275 258 
+basket, 531 495 414 397 
+clock, 552 533 413 382 
+decortive plate, 285 244 344 304 
+basket of fruit, 152 83 442 331 
+vase, 102 90 175 118 
+plate of fruit, 169 137 371 345 
+floor, 1178 910 901 698 
+floor, 869 3 901 617 
+wall, 557 348 359 61 
+wall, 1187 536 174 1 
+object, 1200 1189 37 2 

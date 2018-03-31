@@ -1,0 +1,14 @@
+wall, 299 119 162 1 
+wall, 119 2 181 1 
+door, 299 284 225 4 
+bed, 255 92 209 106 
+night table, 284 250 167 114 
+shelves, 102 36 167 25 
+window, 32 4 133 10 
+window occluded, 108 82 111 23 
+star, 272 242 72 42 
+lamp, 284 262 114 82 
+carpet, 210 24 225 177 
+furniture crop, 35 2 225 168 
+handle, 283 269 224 209 
+floor, 286 2 225 141 

@@ -1,0 +1,24 @@
+ceiling, 510 5 87 1 
+picture, 168 150 134 108 
+picture, 168 150 167 140 
+door, 506 418 306 57 
+pane, 496 431 198 81 
+window, 370 337 179 87 
+window, 124 70 189 102 
+extractor hood, 282 240 132 112 
+cupboards, 322 208 149 77 
+fridge occluded, 242 186 208 133 
+microwave, 261 219 184 162 
+open plan occluded, 344 144 329 191 
+table, 359 193 338 213 
+rocking chair, 396 290 360 194 
+cupboard, 118 20 255 181 
+table crop, 510 457 357 254 
+cross, 398 383 134 106 
+rug, 460 374 336 292 
+rug, 176 76 350 296 
+wall, 205 11 258 77 
+wall, 16 2 360 1 
+wall, 510 206 328 24 
+lamp, 134 108 82 70 
+floor, 510 20 359 235 

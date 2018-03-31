@@ -1,0 +1,8 @@
+red glass, 1073 932 1288 1012 
+white wall outlet and switch, 731 571 954 804 
+plastic bottle of soap, 1993 1891 1097 891 
+Kitchen sink, 2201 1124 1371 1002 
+closed drawer with handle, 1053 331 1782 1475 
+paper cup with straws, 547 360 1218 780 
+light switches (almost profile view), 106 4 1642 1271 
+detergent bottle, 2113 2042 1180 910 

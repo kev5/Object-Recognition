@@ -1,0 +1,26 @@
+ceiling, 485 150 27 0 
+door, 74 2 458 0 
+handle door, 104 54 435 387 
+window, 333 145 209 54 
+curtain, 188 126 275 28 
+curtain, 352 304 181 43 
+bed, 485 219 325 138 
+bed, 689 297 460 153 
+stool crop, 344 266 460 370 
+blanket, 365 254 423 344 
+blanket, 232 188 251 220 
+cuddly toy, 344 281 382 302 
+cuddly toy, 578 524 233 179 
+cuddly toy, 381 348 189 164 
+stool occluded, 229 185 298 240 
+cushion, 625 548 232 157 
+cushion, 418 378 188 141 
+toy occluded, 208 129 327 211 
+chest of drawers occluded, 136 71 451 192 
+picture, 467 428 100 47 
+picture, 689 615 94 7 
+night table occluded, 535 457 227 197 
+lamp, 551 512 212 148 
+wall, 396 70 291 0 
+wall, 689 394 299 0 
+floor, 689 74 459 235 

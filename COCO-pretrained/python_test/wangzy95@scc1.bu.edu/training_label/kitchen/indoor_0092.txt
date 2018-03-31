@@ -1,0 +1,21 @@
+wall, 298 248 224 1 
+wall, 258 218 225 1 
+wall, 223 89 155 1 
+wall, 92 2 224 1 
+wall, 76 43 115 39 
+picture, 298 277 84 13 
+fridge, 248 213 213 31 
+cupboard, 222 178 63 4 
+cupboard, 184 121 39 3 
+cupboard, 122 92 67 2 
+cupboard, 214 181 178 92 
+extractor hook, 186 123 55 36 
+stove, 189 119 180 76 
+teapot, 146 127 102 83 
+sink, 122 9 181 143 
+faucet, 51 23 168 137 
+worktop, 137 2 225 98 
+dishcloth, 162 145 151 119 
+dish, 25 2 205 181 
+dish, 37 2 223 189 
+floor, 249 7 225 152 

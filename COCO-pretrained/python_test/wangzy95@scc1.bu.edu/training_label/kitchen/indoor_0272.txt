@@ -1,0 +1,25 @@
+fridge, 438 327 278 93 
+cupboard, 446 319 87 3 
+cupboard, 318 250 113 31 
+cupboard, 253 187 118 41 
+cupboard, 267 226 254 166 
+tallboy, 330 267 258 168 
+dishwasher, 227 187 230 169 
+sink, 171 105 182 167 
+sink, 112 49 192 175 
+coffee marker, 137 126 172 154 
+faucet, 90 77 181 159 
+window, 189 133 142 59 
+window, 120 2 155 72 
+board, 104 51 175 144 
+microwave, 321 274 159 128 
+blender, 244 223 157 118 
+cupboard crop, 232 2 306 208 
+extractor hood, 88 2 76 59 
+worktop, 328 5 207 151 
+cupboard occluded, 186 76 229 179 
+dishcloth, 223 167 305 270 
+wall, 221 2 252 1 
+wall, 447 217 228 1 
+floor, 445 2 306 209 
+ceiling, 437 133 34 1 

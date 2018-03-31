@@ -1,0 +1,24 @@
+cabinet, 198 148 83 32 
+cabinet, 105 59 125 58 
+plant, 238 200 98 43 
+ceiling lamp, 77 70 4 1 
+window, 26 0 137 12 
+window, 43 25 126 17 
+conference table, 238 83 174 101 
+chair top, 185 162 103 93 
+chair top, 225 207 110 98 
+chair top, 146 128 108 95 
+chair top, 127 110 119 98 
+chair top, 125 114 117 103 
+chair top, 111 91 128 107 
+chair top, 104 84 141 115 
+chair top, 84 63 159 126 
+chair top, 231 217 120 103 
+chair top, 242 221 146 111 
+chair top, 255 238 165 124 
+chair, 113 47 236 143 
+chair, 180 92 255 157 
+chair, 255 200 252 163 
+chair part, 255 204 182 133 
+door, 255 236 121 39 
+ceiling, 255 46 12 0 

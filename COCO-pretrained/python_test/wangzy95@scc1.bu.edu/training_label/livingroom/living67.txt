@@ -1,0 +1,37 @@
+lamp, 306 207 497 182 
+lamp, 916 804 375 231 
+window, 635 413 333 124 
+curtains, 856 224 463 40 
+couch, 937 529 765 396 
+cooler, 814 676 763 628 
+gourd, 832 798 388 352 
+gourd, 466 434 450 408 
+gourd, 443 426 419 402 
+gourd, 429 398 447 404 
+figurine, 866 835 396 364 
+figurine, 896 869 395 376 
+ottoman, 480 212 765 595 
+ottoman, 324 196 655 496 
+checkers table, 450 257 594 472 
+checkers pieces, 409 306 502 477 
+table, 473 392 583 441 
+table, 905 784 422 390 
+chair, 1022 860 626 366 
+chair, 232 41 579 335 
+pillow, 1018 893 472 369 
+pillow, 404 299 442 339 
+pillow, 575 488 453 377 
+pillow, 754 644 408 346 
+pillow, 796 635 586 436 
+pillow, 741 586 548 430 
+picture, 197 121 256 150 
+metal seashell, 45 4 166 128 
+motion detector, 88 78 73 53 
+wall, 1024 2 503 1 
+cabinets, 66 2 529 159 
+potted flowers, 102 2 635 377 
+metal shell decoration, 70 2 658 589 
+floor, 218 11 767 500 
+floor, 1024 864 768 605 
+floor, 569 391 768 557 
+sofa, 756 295 556 334 

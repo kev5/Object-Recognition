@@ -1,0 +1,8 @@
+wall, 169 2 200 1 
+wall, 299 160 190 1 
+bed, 299 59 224 66 
+floor, 299 2 224 112 
+night table, 79 2 220 133 
+lamp, 68 54 141 112 
+window, 280 200 114 4 
+picture crop, 141 102 21 3 

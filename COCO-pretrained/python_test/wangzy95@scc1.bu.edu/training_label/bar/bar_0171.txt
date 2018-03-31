@@ -1,0 +1,13 @@
+table crop, 95 2 300 244 
+table crop, 399 283 300 240 
+ceiling, 382 2 92 1 
+bar, 399 38 299 192 
+wall, 273 2 299 65 
+wall, 399 269 193 1 
+person sitting crop, 168 59 298 165 
+chair crop, 186 159 297 235 
+chair crop, 169 129 298 229 
+chair crop, 309 271 299 232 
+lamp, 240 207 113 3 
+lamp, 355 323 116 7 
+lamp, 80 55 133 33 

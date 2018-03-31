@@ -1,0 +1,15 @@
+window crop, 76 2 283 2 
+cupboard, 777 616 214 2 
+cupboard, 617 342 115 2 
+cupboard, 400 183 206 2 
+cupboard, 410 206 600 359 
+extractor hood, 619 371 171 105 
+stove, 608 365 600 350 
+sink, 184 2 431 361 
+cupboard occluded, 219 2 584 386 
+cupboard crop, 744 581 600 379 
+fridge crop, 796 740 600 58 
+worktop, 408 83 398 338 
+wall, 198 4 381 4 
+wall, 796 188 410 4 
+outlet, 321 295 294 274 

@@ -1,0 +1,5 @@
+painting, 359 227 317 179 
+cup glass, 365 349 466 428 
+cup glass, 391 374 468 428 
+bookshelf, 656 508 412 132 
+bookshelf, 153 0 415 100 

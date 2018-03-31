@@ -1,0 +1,19 @@
+wall, 94 2 202 1 
+wall, 125 92 139 1 
+wall, 299 124 159 1 
+floor, 299 2 224 135 
+stove, 110 9 216 95 
+table, 176 111 159 95 
+table, 297 216 191 112 
+chair occluded, 133 96 146 108 
+chair, 206 161 159 102 
+poster, 166 147 68 33 
+poster, 290 264 55 21 
+poster, 122 96 57 28 
+window, 231 181 111 4 
+blind, 229 183 66 7 
+picture, 56 9 52 3 
+teapot, 58 33 122 100 
+utensil, 171 112 105 74 
+coffee-marker, 248 230 117 81 
+cruet sing, 290 272 120 98 

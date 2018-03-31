@@ -1,0 +1,26 @@
+monitor, 255 204 195 115 
+monitor, 180 133 145 104 
+computer, 256 182 228 176 
+phone, 255 195 255 229 
+phone, 176 148 168 151 
+chair, 88 9 234 113 
+chair part, 50 1 256 198 
+desk, 182 91 242 135 
+desk, 255 119 255 194 
+papers, 185 122 216 195 
+paper, 175 128 179 165 
+paper, 210 152 244 224 
+paper, 204 193 138 109 
+paper, 233 219 91 73 
+paper, 241 222 73 66 
+paper, 241 231 118 75 
+paper, 193 185 111 99 
+fax machine, 211 171 177 139 
+picture frame, 224 211 51 10 
+picture frame, 255 235 40 0 
+keyboard, 149 123 153 137 
+bulletin board, 218 190 117 66 
+notebook, 125 100 142 133 
+file cabinet, 182 122 196 175 
+stapler, 138 109 161 143 
+hanging patches, 149 0 74 1 

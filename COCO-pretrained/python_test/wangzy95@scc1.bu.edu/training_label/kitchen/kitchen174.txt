@@ -1,0 +1,75 @@
+bowl, 110 2 641 573 
+bowl, 735 692 278 244 
+jar, 394 351 541 487 
+jar, 349 327 542 469 
+jar, 473 432 490 450 
+jar, 523 493 520 469 
+jar, 503 476 485 449 
+jar, 280 254 546 511 
+jar, 838 807 224 194 
+light switch, 317 297 514 487 
+salt and pepper, 240 212 555 518 
+mug, 912 854 699 638 
+mug, 1179 1097 721 662 
+mug, 785 765 278 259 
+mugs, 962 877 668 592 
+mugs, 1029 961 657 609 
+pot, 1108 1015 652 528 
+pot, 1163 1074 671 585 
+pot, 499 426 530 492 
+plates, 1080 905 753 662 
+forks, 1050 954 688 650 
+dish towel, 1055 918 737 677 
+dishwasher, 977 817 711 536 
+potted plant, 837 801 505 451 
+potted plant, 884 843 507 452 
+potted plant, 1085 1038 497 323 
+television, 614 541 380 306 
+pitcher, 581 542 288 233 
+pitcher, 616 581 288 255 
+pitcher, 585 544 221 176 
+stack of bowls, 710 658 331 288 
+stack of bowls, 1197 1076 803 712 
+stack of bowls, 734 724 331 304 
+stack of bowls, 789 766 330 301 
+bowls, 808 778 277 247 
+bowls, 685 659 280 253 
+teacups and saucers, 696 662 225 201 
+vase, 843 814 274 242 
+vase, 552 542 217 169 
+teacup, 816 784 226 209 
+clock, 704 638 506 405 
+light, 760 727 7 1 
+rooster, 1030 967 504 417 
+plant, 1196 1054 580 235 
+plant, 1198 1142 620 456 
+sink, 1101 995 525 514 
+faucet, 1069 1021 511 466 
+oven range, 494 34 422 2 
+chandelier, 1199 863 240 2 
+bird-shaped jar, 156 102 574 509 
+table, 1199 746 897 573 
+cabinet, 47 2 448 1 
+window, 1199 910 501 129 
+counter top, 1161 308 560 495 
+counter top, 256 2 737 626 
+cabinets, 817 482 828 525 
+cabinets, 889 324 510 23 
+cabinets, 244 2 900 658 
+ceiling, 1199 412 105 1 
+ceiling beam, 751 609 98 1 
+ceiling beam, 987 929 87 2 
+stove, 506 92 900 537 
+objects, 444 414 433 409 
+canister, 610 585 222 189 
+stack of plates, 826 787 332 302 
+tea pot, 845 820 225 203 
+saucer and tea cup, 785 765 212 195 
+saucer and tea cup, 787 766 225 213 
+saucer and tea cup, 735 710 214 200 
+saucer and tea cup, 735 712 226 213 
+saucer and tea cup, 716 697 226 209 
+floor, 802 422 901 736 
+tray, 1199 1027 691 621 
+ceiling light, 736 705 35 21 
+wall, 456 2 577 263 

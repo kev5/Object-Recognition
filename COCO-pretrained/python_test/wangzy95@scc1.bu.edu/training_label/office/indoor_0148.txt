@@ -1,0 +1,11 @@
+table, 294 79 194 50 
+table, 96 27 205 89 
+computer, 178 134 71 16 
+keyboard, 249 181 115 88 
+mouse, 219 205 72 61 
+modem, 153 130 189 112 
+printer, 90 32 111 63 
+wall, 299 2 165 1 
+lamp crop, 299 280 127 50 
+books, 108 83 77 30 
+floor, 299 2 224 42 

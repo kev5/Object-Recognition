@@ -1,0 +1,15 @@
+Remote Control, 1348 611 1501 1186 
+Phone, 1527 853 1106 331 
+Keys, 672 303 1538 1339 
+Paper, 456 26 1534 956 
+digital clock crop, 243 4 772 382 
+lamp crop, 762 137 931 2 
+desktop, 1566 3 1536 341 
+bed crop, 2048 1638 1533 949 
+wall, 2048 3 1180 3 
+floor, 2042 3 1536 889 
+paper, 1261 764 1535 1104 
+headboard, 2048 1624 807 3 
+placard, 645 3 1147 769 
+telephone cord, 995 437 1401 566 
+telephone handset, 1218 893 959 355 

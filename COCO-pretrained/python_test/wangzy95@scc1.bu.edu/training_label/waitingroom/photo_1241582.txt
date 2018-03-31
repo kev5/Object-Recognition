@@ -1,0 +1,13 @@
+wall, 256 36 194 0 
+wall, 38 0 186 0 
+window, 255 137 115 0 
+floor, 256 0 255 169 
+seats, 53 0 178 101 
+seats, 221 64 174 101 
+seats, 255 169 255 168 
+table, 143 26 255 180 
+vase, 48 31 144 118 
+flowers, 55 29 120 90 
+magazines, 105 45 226 200 
+magazines, 132 79 198 170 
+plants, 81 5 91 14 

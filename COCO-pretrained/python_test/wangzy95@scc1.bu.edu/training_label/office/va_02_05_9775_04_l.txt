@@ -1,0 +1,20 @@
+door, 88 45 175 36 
+window, 193 115 119 45 
+window, 255 209 129 41 
+armchair, 171 89 187 112 
+armchair, 249 191 155 110 
+lampshade, 189 153 98 85 
+books, 247 215 171 143 
+books, 16 1 192 169 
+bookshelf, 50 2 222 29 
+bookshelf, 36 0 256 30 
+rug, 255 86 255 192 
+ceiling, 255 24 25 0 
+lamp, 192 150 126 85 
+small table, 197 158 159 125 
+plant, 28 1 160 105 
+clock, 29 21 84 72 
+statue, 30 1 243 211 
+pot, 41 34 201 186 
+wall outlet, 41 35 97 87 
+desk, 256 175 256 132 

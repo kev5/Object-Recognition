@@ -1,0 +1,23 @@
+monitor, 126 84 140 102 
+monitor, 169 128 139 101 
+monitor, 207 169 148 104 
+monitor, 242 202 164 112 
+phone, 74 38 144 128 
+phone, 254 229 188 155 
+phone, 74 37 144 130 
+desk, 256 0 255 133 
+file cabinet, 224 172 254 189 
+curtains, 197 0 118 1 
+keyboard, 185 128 155 137 
+mouse, 194 180 163 157 
+speaker, 104 94 208 190 
+painting, 252 227 18 0 
+headphones, 248 214 192 168 
+desk organizer, 35 18 143 118 
+box, 18 0 150 129 
+box, 256 246 41 28 
+cabinet, 255 195 127 39 
+trophy, 224 215 37 26 
+computer, 14 0 248 187 
+books, 5 0 201 168 
+carpet, 171 0 255 195 

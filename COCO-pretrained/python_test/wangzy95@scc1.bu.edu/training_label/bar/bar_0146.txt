@@ -1,0 +1,25 @@
+mirror crop, 450 316 205 1 
+person occluded, 288 249 265 138 
+person occluded, 259 198 241 112 
+person occluded, 222 0 318 61 
+bottle, 261 211 337 187 
+bottle, 220 185 307 184 
+bottle, 45 2 338 177 
+bottle, 421 382 335 187 
+glass, 191 137 338 206 
+bottle occluded, 274 248 338 188 
+bottle occluded, 310 273 337 188 
+bottle occluded, 384 346 338 188 
+bottle crop, 357 292 338 186 
+bottle crop, 131 61 338 182 
+photo, 188 159 137 105 
+photo, 84 53 68 15 
+photo, 256 235 124 78 
+photo, 287 265 98 82 
+photo, 289 267 80 56 
+photo, 177 165 92 75 
+photo, 312 290 107 86 
+photo, 314 289 144 128 
+photo, 330 306 31 8 
+wall, 450 2 284 0 
+bar, 450 2 338 262 

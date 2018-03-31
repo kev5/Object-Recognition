@@ -1,0 +1,18 @@
+picture, 419 378 104 24 
+mirror, 227 203 201 75 
+bed crop, 510 2 339 145 
+pillow, 466 353 273 171 
+cushion, 446 370 339 245 
+night table occluded, 359 313 256 230 
+lamp, 385 334 244 118 
+ceiling, 256 119 17 0 
+ceiling, 193 143 61 43 
+curtain, 193 144 208 71 
+basket, 167 148 225 174 
+wall, 249 126 247 11 
+wall, 268 245 266 1 
+wall, 357 265 272 2 
+wall, 510 354 338 4 
+wall, 130 2 265 2 
+floor, 267 121 272 205 
+door, 57 2 275 4 

@@ -1,0 +1,15 @@
+ceiling, 238 0 64 0 
+lamp, 135 76 43 0 
+lamp, 58 40 75 35 
+tv, 95 58 107 76 
+wall, 127 0 188 60 
+shelves, 275 125 206 0 
+bar, 222 22 205 154 
+stool crop, 32 0 205 181 
+picture, 38 15 101 73 
+bottle, 224 189 205 119 
+ashtray, 96 77 196 188 
+bottles, 188 168 113 90 
+bottles, 249 212 104 73 
+bulletin board, 48 25 149 117 
+door occluded, 126 98 169 107 

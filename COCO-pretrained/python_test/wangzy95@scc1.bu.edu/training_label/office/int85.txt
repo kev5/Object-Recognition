@@ -1,0 +1,33 @@
+monitor, 111 54 148 106 
+monitor, 245 236 100 91 
+monitor, 100 87 104 95 
+monitor, 75 58 108 97 
+computer, 90 61 169 149 
+chair, 247 172 254 143 
+chair, 23 0 144 109 
+chair, 185 162 128 114 
+chair, 121 110 124 107 
+desk, 64 5 183 136 
+desk, 256 1 256 114 
+desk, 75 31 137 111 
+ceiling, 255 1 60 0 
+trash can, 249 233 179 152 
+filing cabinet, 134 0 256 183 
+phone, 184 156 144 135 
+book, 158 137 149 142 
+papers, 199 133 163 143 
+chair top, 232 213 120 111 
+box, 132 90 175 147 
+windows, 196 0 183 59 
+windows, 255 240 114 71 
+door frame, 238 219 113 70 
+desks, 160 133 126 103 
+air vent, 196 150 57 44 
+air vent, 238 221 79 71 
+air vent, 124 97 80 69 
+window, 80 52 97 70 
+ceiling lamp, 206 151 17 0 
+ceiling lamp, 36 0 24 11 
+ceiling lamp, 150 114 39 27 
+ceiling lamp, 225 193 47 37 
+books, 253 219 136 124 

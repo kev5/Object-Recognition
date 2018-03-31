@@ -1,0 +1,12 @@
+night table, 162 2 286 165 
+lamp, 97 26 186 47 
+rug occluded, 354 159 409 293 
+bed, 508 124 365 111 
+bed crop, 287 2 406 229 
+closet, 505 291 200 2 
+chest of drawers crop, 510 405 409 291 
+wall, 510 258 276 1 
+wall, 262 2 290 2 
+floor, 510 5 409 215 
+handle, 108 82 229 215 
+telephone, 112 85 183 162 

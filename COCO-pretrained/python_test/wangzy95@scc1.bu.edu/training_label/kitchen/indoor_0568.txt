@@ -1,0 +1,23 @@
+ceiling, 610 501 108 30 
+ceiling, 475 247 40 1 
+lamp, 386 234 89 1 
+lamp, 564 534 167 81 
+window, 289 240 264 74 
+radiator occluded, 308 275 345 308 
+cupboards, 611 499 233 114 
+oven occluded, 610 562 363 289 
+chair occluded, 263 173 360 290 
+chair occluded, 158 37 378 299 
+chair occluded, 184 49 538 427 
+chair occluded, 451 226 538 329 
+chair occluded, 538 434 538 310 
+base, 274 252 381 349 
+flower, 337 260 373 223 
+table, 359 3 538 334 
+cupboards occluded, 567 500 367 285 
+worktop, 610 501 293 281 
+wall, 610 499 332 100 
+wall, 797 633 499 1 
+wall, 645 344 455 1 
+wall, 344 3 510 1 
+floor, 799 2 537 390 

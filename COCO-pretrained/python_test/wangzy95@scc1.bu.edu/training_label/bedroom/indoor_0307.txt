@@ -1,0 +1,9 @@
+window, 510 347 82 2 
+chest of drawers occluded, 271 2 308 143 
+mirror, 211 35 175 4 
+lamp, 240 179 158 45 
+bed crop, 352 2 338 261 
+bed crop, 510 288 341 186 
+floor, 508 2 341 220 
+wall, 510 293 226 1 
+wall, 297 2 326 1 

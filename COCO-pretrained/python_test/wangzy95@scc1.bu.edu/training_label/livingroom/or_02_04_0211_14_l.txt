@@ -1,0 +1,31 @@
+television screen, 118 0 128 47 
+armchair, 192 142 180 118 
+bookshelves, 207 171 169 56 
+ottoman, 151 55 221 167 
+plant, 168 136 138 55 
+plant, 171 136 169 55 
+plant, 206 186 111 97 
+plant, 196 182 80 62 
+pillow, 244 143 255 188 
+pillow, 208 143 216 175 
+pillow, 110 18 238 199 
+pillow, 55 1 254 212 
+pillow, 241 207 196 170 
+pillow, 254 233 191 163 
+candles, 115 89 187 142 
+couch, 148 1 255 163 
+air vent, 120 85 9 0 
+ceiling lamp, 148 138 27 21 
+ceiling lamp, 6 0 5 0 
+books, 205 195 75 61 
+books, 206 182 94 81 
+books, 206 188 128 114 
+books, 206 185 147 128 
+books, 205 189 164 147 
+picture frame, 190 182 109 98 
+sofa, 256 1 255 162 
+ceiling, 255 0 35 0 
+tray, 117 80 192 170 
+bucket, 111 88 178 143 
+bottles, 109 92 188 163 
+box, 143 119 188 177 

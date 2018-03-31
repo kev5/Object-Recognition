@@ -1,0 +1,19 @@
+mirror, 336 283 219 43 
+picture, 491 465 157 5 
+picture, 510 480 175 4 
+picture, 113 81 112 63 
+chair, 129 91 220 147 
+table occluded, 111 85 153 148 
+lamp, 104 82 153 114 
+bed crop, 497 2 367 173 
+ceiling, 119 75 27 2 
+ceiling, 427 375 40 25 
+door, 184 123 224 16 
+lamp occluded, 441 386 199 140 
+curtain, 427 370 191 42 
+wall, 454 350 220 2 
+wall, 365 180 237 1 
+wall, 189 2 268 1 
+wall, 510 435 365 1 
+cushion, 401 308 312 195 
+pillow, 446 338 365 203 

@@ -1,0 +1,17 @@
+exhaust hood, 350 176 224 114 
+faucet, 45 19 358 295 
+cooker, 445 127 637 382 
+oven door, 359 242 580 448 
+hand bellows, 442 397 339 227 
+cooker eye, 245 188 409 398 
+kitchen cabinet, 158 3 252 111 
+measuring spoons, 200 161 257 221 
+handle, 60 17 243 196 
+teatowel, 477 373 515 427 
+roof beam, 402 349 86 1 
+roof beam, 257 179 90 3 
+roof beam, 115 3 98 1 
+pipes, 137 114 349 261 
+pipe, 85 72 352 259 
+tile, 418 389 176 147 
+sink, 93 7 381 354 

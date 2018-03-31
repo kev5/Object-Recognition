@@ -1,0 +1,5 @@
+microwave, 1081 181 1356 852 
+dish washer, 1153 102 1944 1517 
+cupboard, 2592 7 719 5 
+stove, 2104 1080 1401 1124 
+counter top, 2584 18 1554 1098 

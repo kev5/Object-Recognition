@@ -1,0 +1,9 @@
+window, 1594 204 831 6 
+table and chairs, 1520 310 1418 514 
+book, 1042 840 864 764 
+bed (occluded), 2044 1322 1534 980 
+chair (occluded), 238 2 1532 1164 
+hanging lamp, 1030 754 218 2 
+floor, 1832 84 1536 998 
+wall, 253 2 1283 2 
+wall, 1650 164 1018 4 

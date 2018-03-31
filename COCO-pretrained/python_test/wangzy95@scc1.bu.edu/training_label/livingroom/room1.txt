@@ -1,0 +1,43 @@
+armchair, 208 125 254 202 
+armchair, 138 67 255 185 
+ceiling lamp, 92 73 89 72 
+ceiling lamp, 36 24 23 16 
+ceiling lamp, 209 197 37 29 
+window, 114 39 139 92 
+window, 192 138 128 99 
+window, 19 0 164 81 
+chair, 43 0 225 168 
+chair, 120 81 202 165 
+chair, 92 68 168 135 
+chair, 122 98 165 131 
+chair, 100 81 137 128 
+chair, 52 41 139 130 
+curtain, 28 1 174 67 
+curtain, 120 38 135 81 
+counter, 187 122 137 127 
+counter, 253 224 149 141 
+counter, 247 202 132 128 
+kichen counter table, 250 202 160 127 
+rail, 256 182 254 209 
+rail, 148 38 203 138 
+small table, 84 33 226 166 
+small table, 70 1 255 239 
+small table, 148 113 254 219 
+cabinets, 189 126 170 135 
+cabinets, 250 200 163 131 
+cabinets, 236 197 114 78 
+cabinets, 247 224 189 150 
+ceiling lamps, 215 177 86 73 
+plant, 255 241 211 92 
+plant, 45 0 255 237 
+plant, 64 41 171 148 
+plant, 189 178 125 119 
+microwave, 250 240 128 116 
+dishwasher, 197 192 150 128 
+bouquet, 172 153 132 116 
+bowl, 226 214 130 126 
+jars, 235 217 125 119 
+lamp, 73 54 168 139 
+decoration, 147 123 226 202 
+ceiling, 255 1 80 0 
+basket, 210 196 126 116 

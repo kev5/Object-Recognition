@@ -1,0 +1,28 @@
+armoire, 125 3 590 2 
+chair, 668 589 483 292 
+chair, 762 629 570 303 
+chair, 322 143 600 315 
+chair, 543 468 357 298 
+chair, 591 400 600 321 
+chair top, 326 252 357 298 
+curtain, 727 658 521 11 
+curtain, 798 746 596 2 
+window, 774 718 288 11 
+decorative cloth, 211 175 534 324 
+decorative cloth, 554 512 597 332 
+decorative cloth, 283 260 345 298 
+decorative cloth, 533 518 332 304 
+plate, 434 350 361 350 
+flowers in pot, 462 325 358 228 
+seat cushion, 317 135 523 440 
+seat cushion, 596 408 543 446 
+seat cushion, 756 633 469 414 
+seat cushion, 667 588 397 372 
+table cloth, 576 232 600 349 
+candle light, 183 101 297 86 
+chandleier, 460 290 163 0 
+bowl, 471 424 320 303 
+wall mirror, 668 105 463 40 
+side table, 581 188 464 315 
+canister, 249 217 320 256 
+canister, 269 251 301 272 

@@ -1,0 +1,16 @@
+windows, 243 22 167 62 
+plant, 254 214 229 157 
+plant, 43 11 199 142 
+table, 201 39 246 153 
+chair, 156 93 248 158 
+chair, 97 52 236 154 
+chair, 207 156 243 158 
+bouquet, 135 86 172 133 
+chair top, 56 41 160 148 
+chair top, 174 142 162 149 
+candle, 139 131 169 134 
+candle, 93 85 165 124 
+ceiling, 256 1 55 1 
+ceiling lamp, 194 176 15 5 
+ceiling lamp, 98 86 30 23 
+ceiling lamp, 30 16 42 35 

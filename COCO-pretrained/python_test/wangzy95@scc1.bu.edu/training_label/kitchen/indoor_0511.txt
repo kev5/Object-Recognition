@@ -1,0 +1,16 @@
+ceiling, 320 82 41 2 
+window, 322 185 353 107 
+cupboards, 185 36 265 24 
+microwave occluded, 69 38 412 331 
+drawers, 225 189 516 366 
+cupboard occluded, 312 269 576 408 
+door, 429 309 576 1 
+door, 48 2 575 2 
+handle, 318 290 511 479 
+oven, 197 121 573 381 
+stove, 168 68 396 366 
+bottle, 161 140 369 301 
+cupboard, 126 41 575 414 
+wall, 314 140 520 12 
+wall, 152 36 543 1 
+floor, 309 51 576 491 

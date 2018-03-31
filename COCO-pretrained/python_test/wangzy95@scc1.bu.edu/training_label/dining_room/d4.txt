@@ -1,0 +1,26 @@
+painting, 236 190 119 42 
+curtain, 131 101 150 55 
+curtain, 90 79 157 77 
+curtain, 63 49 125 87 
+bouquet, 157 127 176 136 
+bouquet, 81 48 157 121 
+bouquet, 27 9 149 132 
+chair, 153 99 241 164 
+chair, 101 54 220 158 
+chair, 60 31 208 154 
+chair, 36 12 201 152 
+chair, 16 1 196 150 
+chair, 43 35 154 144 
+table, 214 118 243 165 
+table, 215 9 190 155 
+fireplace, 237 191 187 139 
+ceiling, 229 1 49 0 
+ceiling lamp, 95 22 84 0 
+chair top, 211 188 181 156 
+chair top, 110 93 162 149 
+chair top, 159 144 173 155 
+candles, 188 176 122 87 
+candles, 245 231 120 83 
+candles, 33 20 121 101 
+candles, 163 149 116 94 
+window, 130 103 143 59 

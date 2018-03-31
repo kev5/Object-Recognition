@@ -1,0 +1,24 @@
+window, 405 293 167 1 
+window, 113 86 149 29 
+cupboard, 262 132 109 1 
+cupboard, 117 34 286 163 
+cupboard, 311 203 341 213 
+fridge crop, 510 457 339 77 
+sink, 342 232 220 193 
+faucet, 309 276 196 170 
+dishwasher, 444 311 341 230 
+microwave, 215 129 189 137 
+paper, 185 145 134 113 
+stove occluded, 60 2 322 203 
+drawers occluded, 203 119 306 194 
+worktop, 460 119 251 169 
+chair occluded, 232 134 339 270 
+table crop, 225 2 341 292 
+wall, 80 51 168 25 
+wall, 56 14 171 22 
+wall, 133 2 292 1 
+wall, 510 135 339 1 
+shelf, 76 37 127 117 
+shelf, 72 34 87 82 
+dishcloth, 65 19 309 235 
+floor, 460 2 339 252 

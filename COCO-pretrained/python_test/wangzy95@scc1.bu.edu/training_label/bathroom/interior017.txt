@@ -1,0 +1,22 @@
+mirror, 165 97 148 52 
+sink, 168 79 255 175 
+cabinet, 249 186 132 48 
+cabinet, 248 168 255 168 
+cabinet, 74 0 255 142 
+basket, 213 195 167 153 
+basket, 69 11 143 124 
+window, 59 0 91 19 
+sink faucet, 141 115 180 171 
+soap, 107 91 180 175 
+bottle, 224 218 167 154 
+bottle, 231 225 167 155 
+bottle, 11 4 167 156 
+bottle, 21 15 166 157 
+bottle, 50 42 220 202 
+bottle, 58 50 220 203 
+bottle, 57 45 251 231 
+bottle, 19 11 252 241 
+bottle, 5 1 253 241 
+candle, 42 34 89 49 
+towels, 60 41 182 169 
+towels, 21 1 196 190 

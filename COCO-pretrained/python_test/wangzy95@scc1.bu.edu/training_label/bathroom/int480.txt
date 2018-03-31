@@ -1,0 +1,15 @@
+, 49 14 192 175 
+window, 170 95 152 73 
+bath tub, 211 52 255 173 
+painting, 62 33 143 63 
+shower door, 255 220 236 83 
+cabinet, 52 0 256 186 
+cabinet, 52 0 255 190 
+towel, 194 173 184 172 
+towel, 91 66 230 217 
+curtain, 172 87 114 72 
+ceiling lamp, 157 140 10 3 
+ceiling lamp, 255 241 23 13 
+shower, 255 209 244 0 
+counter, 54 1 218 184 
+plant, 116 70 182 154 

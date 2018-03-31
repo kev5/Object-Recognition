@@ -1,0 +1,43 @@
+ceiling, 800 2 154 2 
+projector, 411 372 126 88 
+ceiling light, 598 360 25 4 
+ceiling light, 590 417 75 52 
+ceiling light, 562 530 50 40 
+ceiling light, 562 539 93 83 
+ceiling light, 583 452 105 91 
+ceiling light, 585 475 125 114 
+ceiling light, 368 268 130 119 
+ceiling light, 338 206 114 99 
+ceiling light, 280 109 91 67 
+ceiling light, 136 107 75 66 
+ceiling light, 175 5 52 16 
+floor, 800 397 600 333 
+door, 326 259 326 177 
+projection screen, 543 366 290 154 
+wall, 800 2 466 68 
+storage rack, 729 648 406 197 
+storage rack, 260 118 382 173 
+starage rack, 657 559 374 194 
+tv, 618 559 266 197 
+tv, 653 617 276 197 
+object, 613 597 333 319 
+object, 248 185 434 400 
+object, 342 295 365 347 
+object, 289 266 356 342 
+object, 348 296 346 329 
+box, 608 575 330 301 
+binder, 666 632 346 309 
+back of chair, 469 417 299 278 
+back of chair, 247 194 351 308 
+back of chair, 270 236 334 298 
+back of chair, 308 272 320 286 
+back of chair, 31 2 430 347 
+back of chair, 155 0 598 551 
+dry earase board, 261 162 314 175 
+outlet, 47 35 364 348 
+chair, 124 31 410 301 
+chairs, 180 106 378 286 
+chairs, 528 462 410 287 
+chairs, 559 450 566 338 
+chairs, 466 310 598 388 
+objects, 400 330 326 307 

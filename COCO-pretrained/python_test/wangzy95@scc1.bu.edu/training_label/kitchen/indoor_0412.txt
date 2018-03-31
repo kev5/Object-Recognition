@@ -1,0 +1,22 @@
+ceiling, 461 2 112 1 
+ceiling, 461 16 181 125 
+window, 357 253 305 176 
+cupboard, 39 2 234 174 
+cupboard, 103 40 229 174 
+cupboard, 233 100 271 161 
+cupboard, 459 346 271 133 
+cupboard, 143 70 454 336 
+cupboard, 293 202 481 344 
+cupboard, 378 291 500 352 
+stove crop, 461 378 511 299 
+extractor hood, 461 403 248 221 
+fridge crop, 127 2 448 233 
+dishwasher, 207 134 469 342 
+sink, 315 215 344 333 
+faucet, 289 269 337 309 
+worktop, 410 71 354 325 
+lamp crop, 33 3 80 9 
+ventilator crop, 125 8 61 27 
+wall, 461 2 171 33 
+wall, 461 2 499 125 
+floor, 460 2 512 420 

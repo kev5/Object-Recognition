@@ -1,0 +1,32 @@
+window, 140 84 104 20 
+window, 188 149 102 19 
+monitor, 87 31 131 86 
+monitor, 107 87 115 93 
+chair, 173 22 226 134 
+desk, 217 173 165 149 
+desk, 97 1 179 152 
+desk, 255 122 255 222 
+book, 212 180 152 144 
+book, 104 70 152 141 
+box, 214 169 209 178 
+box, 133 114 122 114 
+trash can, 226 207 197 159 
+pen, 25 0 242 234 
+pen, 249 222 255 240 
+paper sheet, 40 1 235 210 
+papers, 136 2 255 229 
+papers, 231 160 256 246 
+files, 189 162 127 98 
+files, 46 11 141 114 
+cabinet, 255 216 171 42 
+shelf, 78 36 54 31 
+folders, 74 24 165 153 
+bookshelf, 77 35 73 52 
+mouse, 11 0 208 198 
+keyboard, 69 26 238 219 
+phone, 58 20 156 136 
+boxes, 76 37 48 10 
+books, 203 161 152 131 
+kleenex, 15 0 159 125 
+bulletin board, 16 0 125 74 
+chair top, 133 85 143 122 

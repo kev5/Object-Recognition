@@ -1,0 +1,23 @@
+cabinet, 119 43 129 57 
+cabinet, 255 147 143 1 
+cabinet, 147 75 255 176 
+cabinet, 194 146 247 183 
+cabinet, 78 27 244 165 
+ceiling lamp, 139 122 75 28 
+bottle, 176 171 168 147 
+bottle, 185 179 167 145 
+bottle, 114 105 161 143 
+lamp, 255 212 182 142 
+sink, 153 84 179 162 
+napkin, 250 183 233 200 
+plate, 250 198 210 191 
+counter, 255 143 256 164 
+basket, 81 41 158 130 
+ceiling, 248 0 58 0 
+basket food, 104 57 164 148 
+pot, 169 157 168 151 
+plant, 76 65 243 204 
+plant, 153 114 131 91 
+jar, 44 31 163 147 
+sink faucet, 139 117 166 141 
+shelves, 13 1 252 40 

@@ -1,0 +1,16 @@
+window, 510 388 52 1 
+chest of drawers occluded, 372 262 159 46 
+night table, 103 2 326 170 
+telephone, 76 47 184 163 
+picture crop, 154 98 31 1 
+picture crop, 210 164 31 1 
+lamp crop, 63 2 189 37 
+bed, 510 56 382 60 
+socket, 461 449 160 145 
+pillow, 245 121 189 124 
+pillow, 302 211 169 118 
+carpet, 308 17 382 283 
+wall, 331 2 273 2 
+wall, 510 324 220 2 
+floor, 510 12 380 181 
+door, 22 2 380 206 

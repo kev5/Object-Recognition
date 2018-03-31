@@ -1,0 +1,28 @@
+ceiling, 510 281 17 2 
+pot, 246 229 54 31 
+pot, 283 266 58 35 
+pot, 314 301 61 43 
+pot, 357 344 66 48 
+pot, 383 372 67 50 
+bucket, 445 400 286 217 
+cupboards, 423 231 129 56 
+cupboards, 412 294 302 191 
+microwave, 462 424 185 152 
+extractor hood, 268 231 132 110 
+fridge occluded, 508 462 292 98 
+stove occluded, 295 232 323 161 
+cupboard occluded, 462 413 283 190 
+coffee marker, 405 390 183 148 
+worktop, 461 251 203 179 
+rug, 491 242 359 284 
+table occluded, 314 143 468 322 
+box, 224 148 338 291 
+sofa crop, 228 2 480 290 
+cushion crop, 100 2 461 328 
+cushion occluded, 61 2 331 257 
+picture crop, 640 581 254 1 
+wall, 512 401 269 9 
+wall, 402 229 291 2 
+wall, 237 2 367 2 
+wall, 640 493 479 2 
+floor, 498 2 480 257 

@@ -1,0 +1,19 @@
+curtains, 193 143 149 42 
+wardrobe, 254 190 188 27 
+wardrobe, 144 81 149 38 
+wardrobe, 75 39 180 34 
+armchair, 255 156 255 183 
+magazine, 227 171 231 215 
+dresser cabinet, 79 0 191 26 
+bed, 195 73 198 121 
+pillow, 184 149 147 132 
+pillow, 171 152 147 139 
+chair part, 16 0 197 140 
+slippers, 46 8 254 239 
+ceiling, 255 1 26 1 
+window, 186 162 105 51 
+vase, 32 25 133 118 
+dresser, 50 5 190 136 
+cabinet, 55 1 69 26 
+carpet, 241 0 255 178 
+shelf, 39 13 133 69 

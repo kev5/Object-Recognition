@@ -1,0 +1,29 @@
+painting, 222 202 74 55 
+painting, 23 1 80 29 
+lamp, 34 11 106 81 
+mirror, 124 50 82 11 
+sofa, 171 28 164 81 
+sofa, 254 39 255 159 
+sofa, 254 41 254 171 
+bouquet, 135 94 128 83 
+bouquet, 58 24 207 179 
+armchair, 64 0 187 96 
+plant, 193 164 93 35 
+plant, 212 193 97 77 
+pillow, 69 39 118 85 
+pillow, 100 70 113 86 
+pillow, 35 20 131 119 
+pillow, 24 12 132 114 
+pillow, 80 62 114 96 
+small table, 143 88 172 120 
+small table, 196 144 159 114 
+small table, 56 13 256 189 
+small table, 38 20 124 103 
+table, 227 159 105 88 
+blanket, 188 92 254 200 
+door, 254 237 145 15 
+box, 222 215 97 91 
+cup, 110 104 127 119 
+bowl, 40 20 212 195 
+ottoman, 234 120 186 160 
+rug, 255 0 256 141 

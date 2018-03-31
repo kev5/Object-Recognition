@@ -1,0 +1,14 @@
+calculator, 180 125 195 163 
+ashtray, 87 47 193 176 
+bottle, 68 45 66 7 
+bottle, 93 70 64 10 
+bottle, 111 92 62 5 
+bottle, 140 119 58 2 
+bottle, 160 142 63 1 
+bottle, 185 164 62 1 
+bottle, 214 194 64 3 
+bottle, 84 73 149 98 
+bottles, 241 207 151 92 
+bottles, 144 81 151 94 
+bottles occluded, 255 123 180 159 
+furniture, 255 0 255 166 

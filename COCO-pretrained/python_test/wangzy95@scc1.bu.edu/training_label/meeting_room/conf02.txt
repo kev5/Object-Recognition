@@ -1,0 +1,22 @@
+painting, 25 1 78 32 
+conference table, 244 1 239 108 
+chair top, 63 9 147 101 
+chair top, 117 73 127 94 
+chair top, 167 130 118 88 
+chair top, 251 215 120 85 
+chair, 69 0 254 182 
+chair, 206 92 255 142 
+chair, 255 184 238 122 
+window, 255 207 95 0 
+glass, 54 42 164 148 
+glass, 72 57 147 131 
+glass, 196 186 134 121 
+glass, 219 211 122 110 
+glass, 207 201 111 102 
+cabinet, 77 0 153 89 
+pitcher, 140 123 138 111 
+pitcher, 182 164 128 102 
+paper, 32 9 171 160 
+paper, 145 125 165 154 
+paper, 206 186 143 137 
+paper, 230 215 127 121 

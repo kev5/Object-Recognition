@@ -1,0 +1,16 @@
+statue, 156 117 163 106 
+conference table, 255 0 238 138 
+ceiling lamp, 104 88 6 1 
+door, 69 41 164 38 
+door knob, 51 43 115 110 
+window, 38 14 139 38 
+window, 10 0 131 36 
+chair top, 250 210 140 128 
+chair top, 104 64 162 133 
+chair top, 60 16 171 133 
+chair part, 124 101 154 125 
+chair part, 30 0 180 145 
+chair, 217 97 255 170 
+chair, 252 205 232 162 
+air vent, 65 1 199 184 
+air vent, 212 185 151 143 

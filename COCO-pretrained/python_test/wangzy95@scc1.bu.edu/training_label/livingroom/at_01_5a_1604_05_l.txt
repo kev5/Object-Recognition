@@ -1,0 +1,22 @@
+television, 107 0 107 25 
+armchair, 222 146 173 110 
+armchair, 254 193 180 116 
+decorative kimono, 254 224 116 39 
+ceiling lamp, 134 125 19 14 
+pillows, 64 5 216 169 
+tray, 227 191 146 139 
+pillow, 201 173 142 129 
+pillow, 256 229 158 139 
+sofa, 255 59 255 169 
+small table, 186 61 228 156 
+dressing screen, 167 111 151 68 
+place mat, 113 70 185 168 
+place mat, 165 116 189 171 
+cup, 94 82 177 169 
+cup, 150 136 181 172 
+cup, 144 137 177 171 
+ceiling, 235 1 32 0 
+wall outlet, 55 48 143 137 
+bowl, 124 105 162 145 
+bowl, 149 126 167 152 
+book, 127 94 194 180 

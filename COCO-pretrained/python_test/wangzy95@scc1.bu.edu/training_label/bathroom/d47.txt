@@ -1,0 +1,24 @@
+vanity, 254 172 213 44 
+mirror, 232 201 127 71 
+bathtub, 144 7 197 156 
+bathtub, 171 0 256 155 
+bench, 157 93 248 184 
+window, 79 2 134 8 
+window, 129 82 133 41 
+ceiling lamp, 98 87 36 30 
+plant, 41 1 225 148 
+sink, 235 169 148 129 
+sink, 227 187 146 140 
+cabinet, 230 169 205 148 
+cabinet, 234 171 214 145 
+cabinet, 255 234 207 151 
+drawers, 255 234 208 149 
+shelf, 176 148 126 96 
+sink faucet, 220 201 142 127 
+picture frame, 255 248 75 63 
+candle, 88 77 155 135 
+candle, 74 62 161 137 
+bath faucet, 152 129 165 147 
+counter, 256 175 152 137 
+ceiling, 236 115 27 2 
+floor, 254 76 254 204 

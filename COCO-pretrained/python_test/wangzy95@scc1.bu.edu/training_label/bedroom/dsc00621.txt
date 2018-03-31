@@ -1,0 +1,15 @@
+Window, 357 152 224 2 
+Lamp, 583 543 200 152 
+Lamp, 151 2 479 201 
+Chair, 436 356 297 206 
+Chair, 640 570 480 356 
+Bed, 639 278 479 197 
+climatizer, 292 205 323 263 
+decorative frame mirror, 562 515 169 105 
+curtain, 500 357 240 21 
+armchair, 239 41 414 210 
+pillow, 632 550 262 218 
+bed-clothes, 636 290 476 211 
+wooden figure, 81 43 478 381 
+frame, 522 481 231 192 
+picture frame, 135 88 207 144 

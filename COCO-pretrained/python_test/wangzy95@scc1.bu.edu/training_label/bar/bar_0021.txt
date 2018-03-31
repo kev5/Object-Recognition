@@ -1,0 +1,32 @@
+ceiling, 375 83 75 1 
+head deer, 203 154 148 70 
+picture, 136 98 165 83 
+picture, 206 180 179 135 
+bar, 375 2 375 208 
+bar, 375 246 219 181 
+person sitting occluded, 364 324 216 167 
+person sitting occluded, 332 301 222 166 
+person sitting occluded, 278 258 221 176 
+person sitting occluded, 243 218 204 171 
+person sitting occluded, 228 197 229 177 
+wall, 37 0 300 88 
+wall, 250 0 298 0 
+wall, 375 244 185 69 
+exit sign, 19 0 77 54 
+billboard, 356 260 102 20 
+person occluded, 313 296 186 167 
+chair occluded, 276 248 235 204 
+chair occluded, 297 275 229 215 
+chair occluded, 92 34 296 258 
+chair occluded, 120 82 270 213 
+sink, 354 203 376 316 
+ashtray, 235 202 303 284 
+glass, 357 345 218 199 
+beer machine, 239 81 344 184 
+lamp, 118 99 203 186 
+lamp, 258 249 174 141 
+lamp, 274 264 176 141 
+lamp, 218 172 36 2 
+lamp, 359 322 43 0 
+lamp, 319 302 125 98 
+bottle, 365 355 350 314 

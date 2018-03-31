@@ -1,0 +1,9 @@
+mirror, 516 210 611 305 
+flowervase, 796 433 1019 586 
+soup bowl plate, 1016 770 1147 1084 
+chandelier, 955 509 364 10 
+cup wine glass, 456 376 976 839 
+cup wine glass, 929 861 1089 939 
+cup wine glass, 581 521 1063 905 
+fork, 778 652 1169 1102 
+curtain, 1320 1042 855 104 

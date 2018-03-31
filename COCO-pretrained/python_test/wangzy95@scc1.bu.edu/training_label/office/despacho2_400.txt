@@ -1,0 +1,56 @@
+painting, 195 170 107 65 
+painting, 195 169 160 115 
+books, 247 214 62 38 
+books, 272 249 61 38 
+books, 333 324 58 40 
+books, 384 374 56 36 
+books, 244 215 95 72 
+books, 274 250 96 78 
+books, 303 277 96 74 
+books, 336 306 98 75 
+books, 366 339 98 78 
+books, 388 365 98 79 
+books, 233 214 126 110 
+books, 247 234 128 101 
+books, 273 251 130 106 
+books, 303 277 132 114 
+books, 336 307 134 116 
+books, 388 340 138 109 
+books, 372 345 176 155 
+books, 336 307 174 147 
+books, 202 155 235 212 
+books, 10 2 105 82 
+books, 12 2 136 114 
+books, 10 2 168 149 
+books, 12 2 204 176 
+books, 72 58 192 178 
+books, 46 19 160 134 
+books, 36 20 117 94 
+books, 81 58 114 98 
+books, 76 58 155 128 
+binders, 303 276 60 32 
+binders, 323 306 58 29 
+binders, 372 339 57 24 
+binders, 300 279 147 137 
+binders, 244 214 160 132 
+binders, 50 20 200 162 
+statue, 390 378 179 148 
+statue, 377 371 178 156 
+wall, 400 198 258 1 
+wall, 199 2 263 0 
+book shelf, 392 210 253 8 
+book shelf, 90 2 290 72 
+mouse, 216 203 215 209 
+mouse pad, 226 195 218 210 
+cup, 268 259 214 200 
+monitor stand, 300 249 214 177 
+keyboard, 224 199 207 192 
+monitor, 304 248 184 134 
+curtains, 167 74 236 14 
+window, 157 74 202 33 
+flowers, 88 31 70 16 
+floor, 117 14 290 234 
+floor, 400 258 290 235 
+rug, 399 342 290 273 
+desk, 320 113 289 183 
+chair, 198 128 221 166 

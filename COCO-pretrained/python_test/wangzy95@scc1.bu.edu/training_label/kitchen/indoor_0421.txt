@@ -1,0 +1,23 @@
+mirror, 195 60 242 92 
+ceiling, 307 243 17 1 
+cupboards, 367 271 141 28 
+fridge occluded, 333 248 252 121 
+tray, 330 281 189 152 
+basket, 301 248 124 102 
+cupboard occluded, 344 279 336 198 
+stove occluded, 369 332 335 203 
+furniture, 481 359 393 34 
+basket occluded, 426 391 329 288 
+chair occluded, 303 253 404 227 
+chair occluded, 135 7 454 241 
+chair occluded, 252 146 483 253 
+glass, 216 198 259 230 
+glass, 127 108 288 247 
+lamp, 176 108 267 170 
+table, 282 46 476 254 
+furniture crop, 61 2 512 355 
+wall, 275 243 261 18 
+wall, 373 275 309 2 
+wall, 492 371 385 1 
+wall, 252 2 424 2 
+floor, 492 2 510 258 

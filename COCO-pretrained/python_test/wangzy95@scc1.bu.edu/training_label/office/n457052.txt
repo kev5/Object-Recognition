@@ -1,0 +1,15 @@
+chair, 125 72 214 129 
+desk, 225 52 240 135 
+window, 176 41 133 66 
+window, 256 247 133 64 
+curtain, 41 21 132 69 
+curtain, 199 175 133 64 
+curtain, 247 232 132 64 
+curtain, 12 0 142 46 
+ceiling, 255 1 67 0 
+chair top, 226 201 164 150 
+chair top, 168 150 141 134 
+chair top, 202 178 143 137 
+chair top, 70 58 143 118 
+cabinets, 41 0 203 131 
+painting, 20 12 112 91 

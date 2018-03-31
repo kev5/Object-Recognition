@@ -1,0 +1,22 @@
+door occluded, 655 486 356 14 
+sink occluded, 688 560 345 290 
+cupboard crop, 800 726 179 3 
+cupboards, 408 2 182 1 
+fridge, 270 2 600 79 
+cupboard occluded, 468 438 377 267 
+worktop, 726 404 448 260 
+worktop, 800 664 310 233 
+worktop, 349 253 318 281 
+worktop, 456 355 275 249 
+cupboard, 358 258 521 293 
+cupboard, 797 422 597 304 
+stove occluded, 440 258 482 210 
+microwave, 386 282 174 79 
+saucepan, 330 282 277 244 
+saucepan, 442 375 268 240 
+socket, 705 688 234 210 
+socket, 648 610 571 514 
+dishcloth, 689 596 374 342 
+wall, 800 358 400 1 
+wall, 368 3 540 1 
+floor, 797 3 596 390 

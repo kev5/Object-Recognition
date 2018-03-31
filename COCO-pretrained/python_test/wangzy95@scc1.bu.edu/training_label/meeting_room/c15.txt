@@ -1,0 +1,24 @@
+painting, 109 85 86 70 
+painting, 152 129 107 68 
+painting, 105 88 110 92 
+painting, 255 245 95 85 
+picture, 124 115 107 93 
+fax machine, 145 122 130 109 
+chair, 96 1 255 155 
+chair, 200 101 256 148 
+chair, 239 163 249 134 
+chair, 255 215 217 125 
+chair top, 108 39 175 127 
+chair top, 135 99 160 129 
+chair top, 174 140 150 120 
+chair top, 203 183 139 120 
+chair top, 249 219 132 111 
+window, 72 0 147 74 
+window, 238 160 129 77 
+ceiling lamp, 252 218 69 47 
+ceiling lamp, 66 0 41 0 
+conference table, 249 38 197 130 
+fan, 126 0 27 1 
+curtain, 78 0 76 39 
+curtain, 238 158 77 57 
+lamp, 163 149 118 102 

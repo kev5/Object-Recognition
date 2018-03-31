@@ -1,0 +1,17 @@
+ceiling, 256 0 135 0 
+skylight, 182 52 62 1 
+lamp, 233 160 62 19 
+lamp, 113 98 149 127 
+lamp, 161 144 137 116 
+lamp, 256 233 112 86 
+lamp, 136 92 96 71 
+desk, 255 173 231 185 
+stand, 168 124 219 198 
+door, 103 72 213 160 
+armchair occluded, 78 63 223 198 
+armchair, 63 36 226 199 
+armchair, 38 4 228 199 
+picture, 226 214 182 160 
+wall, 115 0 215 117 
+wall, 256 115 221 91 
+floor, 255 0 256 215 

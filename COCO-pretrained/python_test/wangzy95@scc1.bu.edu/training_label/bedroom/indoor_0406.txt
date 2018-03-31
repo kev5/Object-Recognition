@@ -1,0 +1,15 @@
+window, 75 2 201 2 
+window, 455 393 159 2 
+curtain, 159 61 362 1 
+curtain, 404 347 278 1 
+curtain, 478 427 237 4 
+litter bin, 188 142 360 295 
+chest of drawers, 336 176 357 123 
+lamp, 273 206 134 19 
+cuddly toy, 224 175 138 92 
+bed crop, 510 439 260 124 
+chair, 501 437 324 216 
+chair, 427 359 343 240 
+table occluded, 457 360 256 224 
+wall, 510 2 375 2 
+floor, 508 10 375 237 

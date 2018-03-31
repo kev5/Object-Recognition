@@ -1,0 +1,33 @@
+ceiling, 423 29 66 10 
+showcase, 490 31 289 10 
+bar, 490 38 430 265 
+chair, 91 10 420 272 
+chair, 155 65 446 278 
+chair, 223 133 428 283 
+chair, 303 207 481 285 
+chair, 388 291 488 296 
+chair crop, 242 126 491 405 
+table crop, 492 377 490 365 
+table crop, 118 10 491 460 
+chair occluded, 70 9 469 382 
+lamp, 340 82 116 13 
+bottle, 197 183 260 206 
+bottle, 348 337 262 235 
+bottle, 297 287 180 157 
+bottle, 310 298 178 158 
+bottle, 323 311 177 159 
+bottle, 335 324 178 155 
+bottle, 368 360 176 154 
+bottle, 377 369 175 152 
+bottle, 79 68 161 140 
+wall, 44 10 379 10 
+bottles, 490 439 174 136 
+bottles, 278 223 178 148 
+bottles, 356 286 149 124 
+bottles, 176 109 157 136 
+bottles, 148 75 255 215 
+bottles, 452 377 268 217 
+floor, 429 10 490 367 
+glass, 347 336 287 268 
+glass, 313 302 285 258 
+wine rack, 180 35 138 82 

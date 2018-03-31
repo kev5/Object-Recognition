@@ -1,0 +1,27 @@
+faucet, 469 418 331 294 
+soap, 429 407 282 272 
+soapdish, 435 400 286 264 
+mirror, 560 429 182 1 
+light, 429 380 99 14 
+light, 561 521 109 2 
+reflection of light in mirror, 460 429 96 13 
+yellow towel, 391 336 249 63 
+shower curtain, 251 163 287 2 
+toilet seat lid, 272 243 323 229 
+toilet bowl, 243 177 341 318 
+toilet seat, 274 164 350 228 
+toilet, 320 163 415 228 
+sink basin, 507 338 386 300 
+bathroom sink, 558 312 432 290 
+toilet paper, 320 290 342 314 
+bathtub, 245 2 315 235 
+floor, 336 2 432 345 
+shampoo, 16 5 274 242 
+white towel, 342 299 244 66 
+wall, 230 2 268 1 
+wall, 576 230 432 1 
+old soap, 530 483 338 309 
+drawer, 532 455 246 184 
+drawer, 454 394 220 171 
+shelf, 574 381 199 155 
+tile, 92 72 169 122 

@@ -1,0 +1,16 @@
+computer, 90 45 100 51 
+laptop, 146 106 102 74 
+lamp, 131 100 94 51 
+bureau, 144 43 167 91 
+swivel chair, 104 25 206 90 
+moden, 165 143 165 92 
+guitar, 191 165 151 67 
+poster crop, 257 209 18 1 
+bed crop, 299 189 225 95 
+shelves, 55 2 224 157 
+box, 37 2 200 143 
+wall, 51 2 225 1 
+wall, 275 45 162 1 
+wall, 299 265 220 1 
+floor, 299 15 225 148 
+window, 165 107 83 10 

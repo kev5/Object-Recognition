@@ -1,0 +1,13 @@
+wall, 299 25 148 1 
+wall, 31 2 105 1 
+carpet, 299 2 225 94 
+window, 98 74 63 4 
+armchair crop, 106 2 225 131 
+sofa, 299 114 169 64 
+furniture crop, 299 266 222 127 
+table, 231 79 211 113 
+magazine, 130 97 163 148 
+magazine, 183 148 186 165 
+magazine, 208 175 145 128 
+door occluded, 238 186 66 2 
+vase, 157 132 173 151 

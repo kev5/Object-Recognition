@@ -1,0 +1,18 @@
+cash register, 457 325 172 33 
+bar, 599 2 540 112 
+glass, 324 299 304 269 
+ashtray, 211 104 258 234 
+ashtray, 246 179 370 338 
+ashtray, 153 122 225 208 
+handrail, 400 265 116 1 
+wall, 268 2 316 2 
+wall, 599 268 114 1 
+window occluded, 535 379 100 17 
+bottle, 107 78 163 89 
+bottle, 492 470 165 113 
+bottle, 516 493 166 116 
+bottle, 540 521 167 118 
+bottle, 576 553 169 117 
+bottle, 335 318 171 126 
+glasses, 101 54 208 155 
+floor, 23 2 539 315 

@@ -1,0 +1,17 @@
+doorknob, 23 11 143 140 
+door knob, 24 13 145 139 
+projection screen, 195 31 69 47 
+whiteboard, 202 27 145 55 
+overhead projector, 193 163 167 117 
+door, 28 1 197 47 
+door, 256 241 156 58 
+window, 239 218 152 59 
+chair top, 134 87 162 135 
+chair top, 174 139 158 133 
+chair top, 228 192 155 133 
+chair part, 168 124 255 199 
+chair, 126 95 255 171 
+chair, 93 65 255 164 
+conference table, 255 76 256 153 
+string, 125 119 112 64 
+remote, 213 201 163 156 

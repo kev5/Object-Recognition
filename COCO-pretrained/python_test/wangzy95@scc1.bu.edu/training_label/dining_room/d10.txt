@@ -1,0 +1,13 @@
+bouquet, 146 106 123 76 
+bouquet, 254 198 88 42 
+table, 224 0 255 86 
+plant, 108 60 64 13 
+window, 254 159 95 1 
+chair top, 98 50 114 74 
+chair top, 47 0 143 95 
+chair top, 202 157 99 76 
+chair, 94 1 256 189 
+chair, 255 126 256 150 
+chair, 255 188 162 119 
+painting, 38 0 15 0 
+small table, 104 63 97 60 

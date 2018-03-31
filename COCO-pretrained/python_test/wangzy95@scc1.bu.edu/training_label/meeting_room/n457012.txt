@@ -1,0 +1,16 @@
+chair, 255 146 256 142 
+chair, 120 13 255 144 
+chair, 36 0 153 108 
+chair, 62 14 175 128 
+conference table, 229 15 236 89 
+chair top, 220 180 120 99 
+chair top, 175 144 111 95 
+chair top, 142 115 101 88 
+chair top, 113 94 94 84 
+chair top, 52 26 93 85 
+window, 255 203 139 1 
+ceiling lamp, 69 44 17 9 
+ceiling lamp, 110 71 5 0 
+window shades, 165 121 89 1 
+lamp, 112 98 75 58 
+cabinets, 96 39 91 34 

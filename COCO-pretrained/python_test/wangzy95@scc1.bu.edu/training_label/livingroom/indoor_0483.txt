@@ -1,0 +1,17 @@
+sofa, 398 2 505 167 
+wall, 108 2 192 1 
+wall, 398 105 197 2 
+mirror, 398 320 93 1 
+chest, 167 2 600 381 
+table occluded, 208 135 177 117 
+table occluded, 398 167 230 142 
+chair occluded, 166 129 172 113 
+chair occluded, 293 245 150 112 
+chair occluded, 372 310 174 122 
+chair occluded, 244 186 188 124 
+chair occluded, 338 274 219 136 
+box, 96 3 506 429 
+floor, 398 3 599 158 
+flowers, 343 302 121 88 
+lamp, 192 166 122 69 
+flower, 210 194 116 60 

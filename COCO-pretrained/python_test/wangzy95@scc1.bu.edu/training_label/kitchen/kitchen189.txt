@@ -1,0 +1,72 @@
+chair, 474 166 768 495 
+mug, 151 98 589 551 
+mug, 291 265 285 255 
+microwave, 625 524 376 327 
+kitchen towel, 521 483 545 438 
+bread, 347 223 420 391 
+cutting board, 365 227 429 411 
+cutting board, 587 498 394 379 
+plant, 723 697 349 246 
+plant, 772 746 353 247 
+plant, 825 796 352 246 
+plant, 1024 918 436 286 
+window, 839 669 354 101 
+flowers, 78 0 432 290 
+grapes, 75 15 555 515 
+pear, 27 1 555 520 
+bowl of apples, 80 3 622 576 
+kitchen floor *X, 1023 172 768 588 
+rug, 869 526 687 599 
+stove, 542 304 678 386 
+plates, 1004 910 439 395 
+electrical outlet, 223 200 380 350 
+tablecloth, 182 4 765 580 
+sink, 826 652 387 376 
+dish towel, 824 784 411 384 
+faucet, 754 726 380 337 
+mill, 257 229 284 229 
+pot, 400 343 388 342 
+decorative plate, 337 307 359 299 
+decorative plate, 383 355 344 299 
+organizer, 204 88 421 355 
+box of tea, 110 42 577 539 
+box of tea, 256 226 112 85 
+box of tea, 241 227 138 115 
+lights, 835 606 70 2 
+wine glasses, 286 254 209 174 
+stack of books, 621 551 331 320 
+basket of vegtables, 920 881 258 239 
+bottles, 647 620 378 314 
+basket of potatos, 921 867 351 317 
+basket of onions, 923 871 297 261 
+tins of tea, 287 244 136 95 
+decorative bottle *X, 312 286 394 358 
+crackers, 58 8 499 472 
+cup, 620 587 322 301 
+cup, 590 572 325 308 
+oven hood, 478 365 252 207 
+jar, 460 434 389 351 
+jar, 480 458 386 346 
+jar, 503 475 385 335 
+small ladle, 533 524 386 378 
+magazine, 1024 937 563 531 
+towel, 1024 938 595 552 
+stool, 1024 918 768 533 
+cabinet, 1024 856 766 419 
+cabinet, 1024 844 239 6 
+pot holder, 959 942 347 237 
+oil jar, 879 854 391 348 
+garlic, 851 835 389 377 
+vinegar jar, 849 826 388 345 
+garlic braid, 954 875 392 361 
+basket, 424 364 56 29 
+basket, 426 360 82 56 
+ceiling, 856 314 65 2 
+wall, 954 2 413 1 
+cabinets, 592 101 292 54 
+cabinets, 156 2 472 54 
+cabinets, 447 38 708 429 
+cabinets, 926 536 621 395 
+counter top, 445 39 444 409 
+counter top, 926 474 408 376 
+sculpture, 256 227 211 158 

@@ -1,0 +1,14 @@
+Glass, 171 124 107 32 
+Soap, 448 404 114 92 
+door knob, 62 5 298 232 
+drain, 323 288 205 183 
+faucet, 317 294 110 89 
+drain plug, 209 192 115 100 
+drain plug, 225 212 108 91 
+tile, 639 552 100 3 
+sink, 578 23 276 70 
+drawer, 525 387 344 302 
+cupboards, 514 86 471 333 
+wall tiles, 321 232 68 1 
+tap, 378 348 120 81 
+tap, 264 235 117 79 

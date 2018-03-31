@@ -1,0 +1,26 @@
+tub, 255 175 253 139 
+toilet, 125 91 211 148 
+sink, 255 197 127 111 
+sink, 256 196 137 100 
+window, 146 66 131 56 
+window, 164 54 144 0 
+curtain, 169 113 186 1 
+curtain, 104 52 115 0 
+curtain, 173 112 185 0 
+shades, 141 72 126 61 
+shades, 145 71 126 53 
+lamp, 47 6 116 52 
+lamp, 48 9 117 45 
+table, 85 3 254 118 
+table, 103 0 256 116 
+rug, 214 95 256 233 
+rug, 212 91 255 233 
+light switch, 199 191 114 100 
+cabinet, 255 222 61 0 
+cabinet, 254 223 65 0 
+bathtub, 255 177 254 139 
+mirror, 21 0 56 0 
+wall outlet, 200 190 112 99 
+sink faucet, 251 229 111 97 
+toilet paper, 67 47 208 188 
+floor, 253 10 255 198 

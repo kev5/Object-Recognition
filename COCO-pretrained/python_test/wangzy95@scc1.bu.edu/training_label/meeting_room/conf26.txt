@@ -1,0 +1,10 @@
+cabinet, 255 199 104 7 
+cabinet, 122 3 149 82 
+conference table, 256 49 206 108 
+chair, 255 185 254 199 
+chair, 189 98 250 166 
+chair, 66 15 203 125 
+chair, 122 48 237 139 
+chair top, 237 196 134 116 
+chair top, 183 151 119 108 
+chair top, 235 197 132 117 

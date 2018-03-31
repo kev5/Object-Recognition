@@ -1,0 +1,19 @@
+door, 558 479 291 114 
+furniture, 395 217 170 63 
+furniture, 328 261 303 228 
+oven, 262 205 299 225 
+cumulus, 215 185 163 74 
+sink, 364 267 232 218 
+plug point, 70 49 321 295 
+wall, 125 2 368 1 
+wall, 189 146 330 50 
+wall, 576 119 331 1 
+ceiling, 355 21 35 1 
+ceiling, 576 147 92 3 
+floor, 576 2 432 285 
+electrical socket, 382 367 194 185 
+tiles, 453 167 376 304 
+door handle, 546 533 219 190 
+plug, 422 413 286 276 
+plug, 361 351 272 264 
+plug, 82 73 309 296 

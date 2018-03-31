@@ -1,0 +1,24 @@
+painting, 78 61 95 75 
+painting, 235 213 100 68 
+conference table, 255 0 173 110 
+chair, 157 79 254 156 
+chair, 201 141 227 144 
+chair, 32 11 125 99 
+chair, 228 194 202 135 
+chair, 250 217 184 125 
+ceiling, 255 0 54 1 
+bouquet, 171 159 105 86 
+plant, 131 102 116 81 
+plant, 56 41 113 97 
+chair top, 34 1 141 130 
+chair top, 77 50 133 123 
+chair top, 111 90 128 119 
+chair top, 141 124 121 115 
+chair top, 165 152 118 112 
+chair top, 185 170 115 109 
+chair part, 41 1 240 177 
+ashtray, 83 69 147 139 
+ashtray, 159 148 131 125 
+sofa, 87 47 111 99 
+small table, 69 39 123 111 
+small table, 176 153 108 102 

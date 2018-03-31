@@ -1,0 +1,43 @@
+jackets, 154 0 692 402 
+trousers, 215 116 607 419 
+shoes occluded, 280 210 651 610 
+shoes occluded, 327 274 637 602 
+shoes occluded, 690 669 305 279 
+shoes occluded, 689 669 266 243 
+shoes occluded, 657 634 198 183 
+shoes occluded, 657 634 234 213 
+shirts, 232 0 344 77 
+skirts, 391 341 473 231 
+dresses, 491 352 542 208 
+dress, 582 475 501 225 
+T-shirts, 599 492 286 150 
+jakets, 602 549 539 349 
+basket, 540 396 593 524 
+basket, 405 314 88 38 
+basket, 391 297 42 8 
+basket, 554 497 114 46 
+hat, 524 458 539 512 
+sweater, 468 342 164 100 
+suitcase, 209 58 49 3 
+suitcase, 742 621 97 47 
+closet, 773 0 665 24 
+hat occluded, 451 403 91 64 
+hat occluded, 480 433 99 75 
+purse occluded, 627 610 306 244 
+purse occluded, 627 606 233 169 
+purse occluded, 626 609 162 116 
+hanger occluded, 383 340 230 195 
+washbasin, 890 797 561 374 
+bath occluded, 898 839 538 370 
+mirror occluded, 880 839 297 199 
+mirror occluded, 816 794 309 196 
+ceiling, 899 841 47 37 
+ceiling, 536 507 6 0 
+wall, 899 840 378 48 
+wall, 840 792 544 47 
+wall, 520 0 663 0 
+wall, 899 508 579 0 
+hangers, 218 91 439 368 
+frame, 899 769 582 19 
+floor, 899 2 691 529 
+box, 279 232 49 9 

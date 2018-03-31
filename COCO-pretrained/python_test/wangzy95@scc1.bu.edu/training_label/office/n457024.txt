@@ -1,0 +1,29 @@
+monitor, 198 175 120 104 
+monitor, 81 64 104 92 
+monitor, 183 172 88 80 
+chair, 169 119 213 128 
+chair, 38 0 221 155 
+chair, 255 234 124 101 
+chair, 33 14 165 107 
+desk counter top, 119 85 135 124 
+desk counter top, 214 126 177 129 
+plant, 253 215 175 135 
+plant, 113 75 98 37 
+plant, 255 232 148 125 
+keyboard, 199 161 130 120 
+keyboard, 83 54 111 103 
+desk, 76 16 135 112 
+desk, 150 107 103 78 
+desk, 235 198 123 100 
+desk, 67 13 107 71 
+desk, 166 124 90 67 
+desk, 248 201 98 69 
+desk, 221 85 251 115 
+file cabinet, 255 199 255 156 
+ceiling, 256 47 18 0 
+printer, 78 1 255 202 
+cabinet, 119 85 164 132 
+phone, 189 164 170 154 
+phone, 238 218 105 96 
+book, 122 104 99 80 
+shelf, 152 92 105 92 

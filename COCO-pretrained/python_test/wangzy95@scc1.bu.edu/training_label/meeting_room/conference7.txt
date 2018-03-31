@@ -1,0 +1,33 @@
+ceiling, 452 2 38 1 
+ceiling, 26 0 59 18 
+floor, 156 2 375 219 
+floor, 500 457 295 263 
+area rug, 500 35 375 238 
+window, 32 0 218 60 
+wall, 305 24 240 21 
+wall, 500 303 267 1 
+beam, 336 317 112 24 
+dry erase board, 498 395 231 102 
+dry erase board, 396 306 207 111 
+light, 363 336 71 11 
+light, 315 295 78 12 
+light, 283 263 83 11 
+light, 254 235 89 12 
+light, 231 213 92 11 
+light switch, 243 233 154 144 
+light switch, 292 285 132 122 
+back of chair, 228 195 199 179 
+back of chair, 288 259 206 187 
+back of chair, 394 353 231 202 
+back of chair, 343 304 217 192 
+back of chair, 451 409 246 214 
+back of chair, 179 157 213 193 
+chair, 238 148 338 214 
+chair, 342 238 373 235 
+object, 294 277 223 210 
+object, 355 296 235 220 
+table, 471 175 371 196 
+chairs, 473 366 374 244 
+chair legs, 368 331 327 281 
+table leg, 251 225 308 298 
+chair leg, 255 240 264 252 

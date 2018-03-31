@@ -1,0 +1,20 @@
+picture, 216 148 114 63 
+door, 302 266 219 68 
+armchair occluded, 235 69 267 157 
+bookshelf occluded, 137 47 201 50 
+floor lamp, 119 74 220 108 
+sofa, 241 2 335 174 
+furniture occluded, 447 423 173 148 
+chair occluded, 447 396 263 168 
+table crop, 447 363 335 264 
+radiator, 216 146 217 162 
+bed occluded, 266 240 196 129 
+wall, 305 238 156 63 
+wall, 330 49 246 1 
+wall, 447 329 281 2 
+wall, 62 2 331 1 
+floor, 307 236 226 158 
+floor, 447 2 335 223 
+window, 52 17 195 4 
+books, 128 56 90 54 
+books, 131 105 180 156 

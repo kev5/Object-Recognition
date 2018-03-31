@@ -1,0 +1,25 @@
+ceiling, 584 511 16 2 
+cupboard, 796 637 186 2 
+cupboard, 660 550 518 303 
+cupboard, 555 505 478 303 
+cupboard, 493 394 204 2 
+window, 668 563 252 52 
+coffee marker, 588 540 282 217 
+microwave, 470 392 301 235 
+window occluded, 548 435 250 60 
+sink, 796 631 320 283 
+flowers, 761 660 311 278 
+dishwasher, 794 645 540 324 
+washing machine, 507 398 532 313 
+oven, 305 113 540 340 
+stove, 274 85 344 305 
+extractor hood, 270 68 126 2 
+drawers, 132 2 540 361 
+window crop, 41 2 282 2 
+column, 398 231 540 4 
+wall, 796 548 501 4 
+wall, 245 4 517 2 
+wall, 557 396 532 2 
+worktop, 120 6 371 315 
+worktop, 794 392 342 262 
+floor, 796 6 540 447 

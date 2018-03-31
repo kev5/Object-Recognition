@@ -1,0 +1,16 @@
+window, 276 220 252 97 
+bed crop, 333 75 452 181 
+telephone, 101 70 328 308 
+cushion, 210 180 278 234 
+ceiling, 334 88 70 1 
+wall, 224 2 445 3 
+wall, 334 217 276 54 
+wall, 39 2 511 119 
+night table, 121 22 465 312 
+lamp, 85 23 338 176 
+lamp, 227 196 218 164 
+picture occluded, 48 5 159 64 
+picture, 201 178 155 107 
+night table occluded, 334 293 259 217 
+floor, 334 36 511 250 
+carpet, 334 67 510 407 

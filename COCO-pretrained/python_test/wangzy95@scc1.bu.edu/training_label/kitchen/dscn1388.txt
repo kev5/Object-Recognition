@@ -1,0 +1,9 @@
+Microwave oven, 540 356 341 239 
+energy drinks, 430 357 134 65 
+cabinet, 342 2 203 35 
+shelves, 634 353 347 57 
+red box whiskey, 557 511 333 213 
+tile, 333 156 450 336 
+handle, 223 90 181 154 
+outlet, 508 465 479 450 
+Wire, 612 501 480 359 

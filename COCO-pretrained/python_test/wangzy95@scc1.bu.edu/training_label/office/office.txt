@@ -1,0 +1,37 @@
+ceiling, 443 56 30 2 
+wall, 800 154 473 1 
+wall, 178 2 528 3 
+floor, 801 584 641 469 
+floor, 367 3 640 424 
+chair, 81 3 638 451 
+chair, 357 209 566 336 
+filing cabinet, 103 2 567 359 
+filing cabinet, 730 643 555 275 
+table, 158 91 507 366 
+mouse, 121 107 385 373 
+mouse, 393 381 376 362 
+monitor, 124 8 376 294 
+monitor, 411 308 322 245 
+poster, 131 53 273 93 
+poster, 443 346 253 97 
+poster, 739 499 443 93 
+picture, 268 235 220 179 
+picture, 268 245 286 262 
+painting, 798 747 206 89 
+markers, 541 494 211 176 
+markers, 538 497 263 230 
+decorative object, 313 294 258 235 
+decorative object, 242 227 330 283 
+decorative object, 505 479 341 291 
+ipod, 249 237 337 315 
+cell phone, 310 299 335 315 
+cup, 292 278 323 306 
+pens, 294 275 303 296 
+lamp, 226 197 331 250 
+telephone, 294 256 338 312 
+mouse pad, 419 372 382 365 
+keyboard, 388 294 369 352 
+laptop, 472 395 328 253 
+desk, 509 134 398 312 
+binder, 515 456 425 384 
+cabinet, 667 364 641 378 

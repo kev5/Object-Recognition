@@ -1,0 +1,36 @@
+monitor, 132 103 125 99 
+monitor, 65 49 104 90 
+monitor, 158 141 107 93 
+monitor, 195 171 110 91 
+monitor, 219 195 115 95 
+monitor, 254 219 121 96 
+monitors, 20 0 122 92 
+chair part, 42 0 255 179 
+chair part, 32 12 201 150 
+chair part, 36 21 170 133 
+chair part, 152 133 128 110 
+chair part, 168 152 138 112 
+chair part, 190 167 147 120 
+chair part, 202 193 146 124 
+chair part, 234 218 150 129 
+desk, 33 0 192 112 
+desk, 255 112 254 185 
+desk, 169 72 214 126 
+desk, 94 46 117 108 
+overhead projector, 256 175 221 148 
+chair, 150 107 186 137 
+chair, 58 37 130 107 
+cabinets, 15 1 74 39 
+cabinets, 168 16 74 42 
+cabinets, 255 168 71 13 
+ceiling lamp, 93 59 26 15 
+ceiling lamp, 161 123 28 19 
+ceiling lamp, 201 157 4 0 
+computer, 142 99 146 128 
+computer, 249 221 134 122 
+computer, 192 169 120 110 
+keyboard, 19 6 141 132 
+keyboard, 25 17 124 119 
+keyboard, 22 9 132 123 
+keyboard, 255 235 147 137 
+lots of chairs, 39 27 134 110 

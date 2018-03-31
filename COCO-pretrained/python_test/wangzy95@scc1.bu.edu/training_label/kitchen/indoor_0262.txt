@@ -1,0 +1,28 @@
+ceiling, 227 190 7 2 
+box, 35 7 189 150 
+glass, 47 37 188 175 
+coffee marker, 196 175 169 141 
+skin, 189 127 180 167 
+faucet, 162 142 167 159 
+microwave, 107 38 187 147 
+drawers, 93 7 297 195 
+dishwasher, 143 86 281 189 
+cupboard occluded, 212 143 249 176 
+cupboard occluded, 240 176 131 41 
+stove crop, 260 213 244 161 
+worktop, 248 5 204 162 
+chair occluded, 187 128 268 208 
+chair, 249 118 449 258 
+table occluded, 259 119 440 238 
+cupboard, 123 10 136 20 
+cupboard, 185 120 102 35 
+frying pan, 182 165 144 101 
+saucepan, 168 150 134 102 
+wo, 154 127 133 103 
+extractor hood, 260 234 114 89 
+tablecloth, 256 176 318 275 
+tablecloth, 248 171 277 250 
+wall, 214 2 283 1 
+wall, 260 216 265 1 
+floor, 260 2 450 231 
+lamp, 258 221 73 3 

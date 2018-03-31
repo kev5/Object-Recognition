@@ -1,0 +1,21 @@
+wall, 299 213 165 1 
+wall, 55 31 180 1 
+wall, 122 52 181 1 
+wall, 167 121 174 1 
+wall, 221 167 171 1 
+, 32 2 146 1 
+bookshelf, 164 82 188 79 
+photograph, 98 82 90 68 
+books, 125 95 120 99 
+books, 160 125 118 98 
+books, 111 94 150 127 
+books, 138 114 147 128 
+books, 161 139 147 127 
+books, 156 96 181 151 
+trousers, 208 175 102 9 
+mirror, 297 265 118 28 
+bed crop, 298 212 224 125 
+table crop, 27 2 225 143 
+floor, 299 3 225 143 
+furniture occluded, 295 224 154 74 
+basket, 85 64 184 149 

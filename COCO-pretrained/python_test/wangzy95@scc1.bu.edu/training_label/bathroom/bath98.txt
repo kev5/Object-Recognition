@@ -1,0 +1,28 @@
+bathtub, 254 140 173 145 
+bathtub, 254 140 226 145 
+mirror, 94 1 147 1 
+bathroom sink, 70 4 174 155 
+counter, 140 0 193 142 
+candle, 218 210 146 106 
+candle, 207 202 129 82 
+candle, 177 167 150 119 
+window, 169 130 140 1 
+window, 254 192 130 17 
+curtain, 254 186 90 13 
+curtain, 188 124 94 1 
+rack, 116 84 149 86 
+bottle, 71 59 149 129 
+bottle, 59 46 152 139 
+shower, 90 0 142 61 
+towel, 17 2 101 60 
+towel, 167 132 158 139 
+towel, 13 1 94 60 
+sink faucet, 30 16 159 150 
+cabinet, 141 0 254 151 
+plant, 208 180 147 100 
+bath faucet, 255 241 165 144 
+soap, 108 90 123 104 
+soap, 103 91 140 134 
+sponge, 107 95 135 128 
+shower faucet, 42 32 73 65 
+sink, 74 2 177 155 

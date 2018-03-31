@@ -1,0 +1,24 @@
+picture, 170 148 99 63 
+sideboard, 481 323 318 5 
+chair occluded, 415 352 240 178 
+chair occluded, 201 113 263 180 
+vase, 372 348 175 149 
+vase, 426 395 184 168 
+vase, 466 446 188 152 
+table crop, 357 2 393 232 
+chair crop, 420 242 394 237 
+flowers, 329 271 232 176 
+sofa occluded, 124 34 235 164 
+door, 215 186 227 43 
+fireplace occluded, 62 19 217 137 
+picture occluded, 122 106 119 77 
+lamp, 80 57 164 118 
+lamp, 124 104 45 4 
+lamp occluded, 123 103 159 124 
+wall, 227 4 241 1 
+wall, 510 215 338 1 
+wall, 118 66 205 35 
+wall, 65 4 216 37 
+wall, 32 2 317 25 
+floor, 507 2 393 201 
+lamp crop, 293 152 39 2 

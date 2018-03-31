@@ -1,0 +1,18 @@
+tv, 392 256 201 73 
+tv stand, 423 236 363 173 
+bed occluded, 800 359 548 251 
+duvet, 800 410 374 211 
+chair crop, 425 199 600 453 
+rocking chair, 141 2 547 148 
+trousers, 247 147 444 132 
+clothing, 201 27 332 137 
+clothing, 216 41 574 330 
+handbag, 503 403 573 434 
+sock, 747 711 596 562 
+sock, 373 330 123 70 
+wall, 318 2 390 1 
+wall, 796 303 393 1 
+wall, 800 2 599 249 
+wire, 622 529 597 492 
+books, 371 275 295 251 
+picture crop, 170 90 27 4 

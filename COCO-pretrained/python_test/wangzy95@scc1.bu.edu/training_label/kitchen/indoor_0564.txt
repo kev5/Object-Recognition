@@ -1,0 +1,20 @@
+ceiling, 799 3 174 3 
+joist, 311 4 181 40 
+oven occluded, 200 132 438 381 
+oven occluded, 327 247 425 378 
+stove, 704 584 359 341 
+stove, 564 411 359 345 
+stove, 379 279 359 349 
+stove, 275 207 362 353 
+saucepan crop, 797 745 340 296 
+worktop, 800 49 511 419 
+worktop, 800 5 368 337 
+cupboard occluded, 799 390 419 362 
+floor, 168 12 599 463 
+pipe, 222 3 137 4 
+window, 540 445 219 148 
+window, 681 595 205 130 
+wall, 799 3 301 38 
+wall, 799 3 366 252 
+wall, 800 159 600 474 
+wall, 389 7 464 370 

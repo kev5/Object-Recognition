@@ -1,0 +1,16 @@
+window, 175 41 217 40 
+cupboard, 272 173 137 14 
+cupboard, 353 275 78 19 
+cupboard, 446 353 82 24 
+cupboard, 295 183 341 195 
+extractor hood, 354 270 102 77 
+stove, 378 262 339 171 
+fridge, 486 338 333 96 
+dishwasher crop, 67 34 339 262 
+worktop, 57 2 339 251 
+wall, 510 503 249 117 
+wall, 464 2 339 1 
+wall, 510 457 316 1 
+floor, 510 101 338 250 
+paper, 244 200 158 138 
+socket, 195 183 183 165 

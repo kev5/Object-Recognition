@@ -1,0 +1,29 @@
+mirror, 150 41 155 49 
+picture, 771 670 163 76 
+ceiling, 540 416 58 39 
+ceiling, 532 184 27 2 
+air conditioning, 472 427 82 54 
+air conditioning crop, 183 31 43 2 
+wall, 542 524 252 62 
+wall, 528 472 250 62 
+wall, 476 357 270 47 
+wall, 419 332 291 45 
+wall, 315 4 351 2 
+wall, 796 313 363 2 
+table, 518 437 266 225 
+table, 715 635 375 301 
+plant pot occluded, 439 414 260 235 
+plant, 433 402 245 70 
+chair occluded, 70 2 388 198 
+chair occluded, 163 103 250 194 
+chair occluded, 289 223 295 204 
+chair occluded, 204 49 439 221 
+table occluded, 315 4 445 227 
+flowers, 210 165 204 153 
+armchair crop, 796 699 427 311 
+chest crop, 773 555 530 416 
+box, 709 658 478 431 
+remote crontrol, 711 629 520 483 
+sofa, 581 124 532 249 
+door occluded, 297 241 214 72 
+floor, 794 4 530 241 

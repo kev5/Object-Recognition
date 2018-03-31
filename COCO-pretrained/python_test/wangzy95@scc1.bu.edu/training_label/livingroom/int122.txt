@@ -1,0 +1,31 @@
+sofa, 255 177 200 128 
+sofa, 84 1 200 127 
+armchair, 254 182 253 193 
+armchair, 80 0 254 184 
+small table, 185 80 215 155 
+small table, 187 78 217 162 
+fire place, 166 94 156 106 
+bouquet, 131 101 167 135 
+ottoman, 166 103 255 204 
+window, 255 167 134 62 
+window, 86 2 153 63 
+window, 198 172 131 68 
+vase, 117 99 106 88 
+vase, 149 130 105 84 
+vase, 161 148 106 95 
+vase, 16 2 135 117 
+pillow, 254 213 164 132 
+pillow, 225 191 158 130 
+pillow, 256 228 180 141 
+pillow, 47 16 169 132 
+pillow, 72 40 159 129 
+decoration, 157 116 216 193 
+books, 170 138 172 162 
+candle, 96 91 95 71 
+candle, 164 159 94 70 
+ceiling, 255 1 56 0 
+large bowl, 162 138 162 150 
+door, 224 208 133 81 
+door, 256 237 133 83 
+door frame, 255 207 135 77 
+cabinet, 29 1 131 85 

@@ -1,0 +1,82 @@
+ceiling, 900 2 157 1 
+ceiling light, 48 3 41 5 
+ceiling light, 372 180 111 74 
+ceiling light, 517 425 138 114 
+ceiling light, 816 584 51 1 
+ceiling light, 895 768 108 68 
+ceiling light, 690 595 151 132 
+ceiling light, 897 785 135 115 
+vent, 300 206 39 7 
+vent, 721 675 136 122 
+vent, 355 315 129 119 
+wall, 519 -1 397 98 
+wall, 898 592 329 140 
+window, 112 0 335 160 
+window, 378 206 313 170 
+window, 513 430 289 183 
+picture, 191 128 289 203 
+picture, 427 380 266 212 
+plant, 271 251 305 279 
+plant, 284 268 303 283 
+plant, 234 219 308 281 
+plant, 789 757 258 229 
+plant, 307 252 374 330 
+plant, 605 589 313 266 
+books, 149 84 364 311 
+books, 898 848 218 188 
+books, 899 846 253 223 
+books, 899 842 289 257 
+books, 899 842 322 289 
+books, 661 603 217 193 
+books, 688 601 247 223 
+books, 678 600 272 249 
+books, 686 606 302 275 
+clock, 794 755 218 176 
+object, 754 720 255 237 
+object, 815 779 256 247 
+object, 264 235 369 350 
+in box, 104 51 366 347 
+in box, 66 4 375 349 
+papers, 163 108 374 356 
+papers, 343 292 365 348 
+papers, 482 444 315 304 
+key board, 137 70 399 372 
+key board, 267 236 348 334 
+key board, 513 486 320 309 
+key board, 899 693 599 524 
+mouse, 181 122 402 388 
+mouse pad, 173 115 407 383 
+monitor, 233 161 392 298 
+monitor, 220 151 332 281 
+monitor, 513 478 307 257 
+monitor, 900 856 525 377 
+chair, 68 2 572 449 
+chair, 487 407 419 308 
+chair, 690 617 402 311 
+chair, 725 627 433 402 
+floor, 857 -1 599 369 
+computer tower, 221 123 556 500 
+computer tower, 503 460 395 344 
+waste basket, 328 266 550 438 
+waste basket, 423 389 406 346 
+desk, 266 0 590 351 
+desk, 387 151 491 330 
+desk, 518 436 371 304 
+desk, 899 799 440 321 
+desk, 898 443 599 428 
+back of chair, 349 305 353 315 
+back of chair, 389 348 365 320 
+stereo, 476 430 308 286 
+filing cabinets, 818 695 392 253 
+book case, 707 594 376 179 
+book case, 898 837 325 173 
+desks, 640 586 404 303 
+column, 593 516 458 86 
+lamp, 833 768 515 354 
+printer, 773 614 509 419 
+phone, 585 495 524 453 
+intercom, 613 567 468 429 
+magazine, 680 601 547 491 
+cup, 769 738 530 479 
+tray, 899 801 561 481 
+files, 893 815 547 493 

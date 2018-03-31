@@ -1,0 +1,11 @@
+bed occluded, 27 2 240 175 
+closet, 230 21 256 0 
+iron, 73 53 64 21 
+shirts, 195 146 165 28 
+T-shirts, 157 131 152 28 
+trousers, 191 132 255 183 
+clothes, 108 58 150 105 
+tin, 54 41 64 25 
+tin, 92 54 121 87 
+wall, 256 215 256 0 
+wall, 26 0 215 0 

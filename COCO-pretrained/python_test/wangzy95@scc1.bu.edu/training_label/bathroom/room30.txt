@@ -1,0 +1,16 @@
+toilet, 255 211 223 126 
+toilet paper, 212 197 165 152 
+curtain, 210 166 77 0 
+window, 209 159 144 78 
+bottles, 208 164 142 118 
+bidet, 194 141 217 155 
+rug, 255 70 256 219 
+towel, 92 48 211 151 
+towel, 89 53 193 152 
+bathtub, 126 46 236 110 
+bouquet, 72 51 142 117 
+toothbrush, 8 1 137 109 
+bath faucet, 118 95 147 134 
+soap dish, 149 134 139 131 
+soap, 145 136 135 131 
+floor, 255 0 255 199 

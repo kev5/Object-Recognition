@@ -1,0 +1,26 @@
+window, 178 104 167 13 
+bouquet, 149 128 162 117 
+bouquet, 98 71 218 178 
+bouquet, 190 174 224 183 
+toilet, 129 94 213 171 
+toilet, 105 71 178 49 
+sink, 92 22 192 148 
+mirror, 61 29 129 67 
+lamp, 24 3 84 35 
+bathtub, 79 1 255 177 
+chair, 251 148 255 174 
+painting, 211 193 56 31 
+painting, 209 192 86 63 
+painting, 210 192 119 97 
+painting, 256 245 103 30 
+candles, 227 199 161 92 
+candles, 172 143 212 143 
+curtain, 171 112 69 24 
+tray, 224 172 256 231 
+bath faucet, 62 26 218 179 
+statue, 18 3 118 94 
+wall outlet, 92 87 118 107 
+small table, 252 200 196 159 
+sink faucet, 68 43 161 151 
+picture frame, 240 220 171 135 
+toilet paper, 196 180 185 167 

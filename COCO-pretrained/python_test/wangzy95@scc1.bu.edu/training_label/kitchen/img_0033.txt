@@ -1,0 +1,5 @@
+dish towel, 148 113 284 181 
+dish drainer, 430 350 171 149 
+oven mitt, 191 149 113 68 
+test, 99 2 291 152 
+rug, 361 222 354 309 

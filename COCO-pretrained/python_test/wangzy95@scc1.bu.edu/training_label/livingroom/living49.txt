@@ -1,0 +1,29 @@
+wall decoration *x, 897 808 153 24 
+wall decoration, 790 718 257 144 
+recliner, 862 665 558 394 
+mantle, 1023 872 386 328 
+fireplace tools, 956 894 568 391 
+curtain, 674 553 554 1 
+curtain, 530 353 665 2 
+picture, 342 202 275 1 
+picture, 313 222 436 300 
+urtain, 214 1 604 1 
+armchair, 327 1 766 531 
+lamp, 429 350 513 369 
+side table, 481 327 667 498 
+coffee table, 1022 245 766 612 
+chess board, 907 510 721 621 
+chess pieces, 791 584 694 606 
+chess pieces, 838 654 660 574 
+platter, 589 403 680 603 
+notecards, 982 878 716 686 
+magazine, 1023 881 693 650 
+curtain knob *x, 237 196 356 307 
+curtain knob *x, 381 325 341 303 
+doors, 582 450 603 14 
+window, 565 494 460 56 
+door handle, 518 487 427 415 
+couch cusions, 1020 553 641 549 
+fireplace, 1020 961 548 388 
+wall, 1023 668 552 1 
+small metal bowl, 449 417 514 497 

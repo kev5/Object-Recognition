@@ -1,0 +1,19 @@
+picture, 154 123 78 32 
+picture, 393 292 82 32 
+basket, 411 334 249 213 
+basket, 232 190 323 267 
+bed occluded, 162 96 224 88 
+door, 61 11 280 1 
+night table, 96 53 204 135 
+lamp, 78 46 145 89 
+lamp, 299 203 198 40 
+window, 510 456 193 1 
+sofa occluded, 510 216 364 145 
+table, 472 167 365 180 
+telephone, 307 249 211 180 
+carpet, 344 78 364 286 
+wall, 40 2 298 1 
+wall, 159 15 189 1 
+wall, 510 447 196 1 
+wall, 465 154 262 1 
+floor, 510 2 364 173 

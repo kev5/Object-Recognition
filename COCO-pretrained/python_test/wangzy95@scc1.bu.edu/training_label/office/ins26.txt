@@ -1,0 +1,15 @@
+monitor, 97 1 235 87 
+monitor, 224 173 170 131 
+cup, 28 2 244 211 
+books, 130 65 54 3 
+books, 69 26 72 28 
+coffee maker, 100 84 82 58 
+chair, 252 118 255 157 
+phone, 165 120 187 169 
+shelf, 133 0 102 54 
+shelf, 137 1 63 1 
+book, 28 0 57 13 
+keyboard, 120 77 210 188 
+keyboard, 183 168 187 175 
+window, 254 181 151 4 
+computer, 255 242 187 122 

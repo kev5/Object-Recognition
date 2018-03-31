@@ -1,0 +1,41 @@
+curtain, 79 9 72 1 
+microwave, 210 173 78 54 
+book, 119 54 170 146 
+dish towel, 63 33 236 167 
+tomatoes, 44 17 126 114 
+bottle, 18 13 112 93 
+bottle, 7 0 116 89 
+bottle, 12 8 114 97 
+bowl, 186 170 109 102 
+cabinet, 124 84 86 19 
+cabinet, 169 126 83 19 
+cabinet, 215 169 50 11 
+cabinet, 98 19 254 174 
+cabinet, 256 225 25 1 
+cabinet, 13 1 220 140 
+vegetable, 18 5 124 114 
+window, 69 9 106 17 
+counter, 246 15 209 122 
+wine glass, 204 195 136 112 
+cup, 162 151 142 126 
+plate, 184 136 171 155 
+plate, 225 209 143 134 
+napkin, 165 110 181 170 
+napkin, 215 176 149 139 
+counter top, 107 0 136 112 
+counter top, 224 129 114 105 
+stool, 254 188 255 202 
+stool, 256 224 193 171 
+refrigerator, 255 224 171 24 
+stove, 189 93 153 124 
+oven, 57 10 213 128 
+plant, 94 70 112 75 
+plant, 144 113 100 84 
+plant, 158 115 23 8 
+plant, 232 199 9 1 
+place mat, 204 129 189 156 
+basket, 225 208 112 88 
+sink, 97 48 122 113 
+sink faucet, 71 54 116 103 
+fruit, 119 93 112 92 
+cabinets, 227 61 150 113 

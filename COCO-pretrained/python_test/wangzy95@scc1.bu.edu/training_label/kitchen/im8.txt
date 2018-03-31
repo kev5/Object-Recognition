@@ -1,0 +1,11 @@
+stove, 157 93 173 88 
+door, 254 210 157 7 
+floor, wooden floor, parquet, 240 31 225 159 
+coffee maker, 88 65 95 69 
+a kettle, 153 137 98 83 
+electric wall socket, 171 166 80 70 
+an overhead stove hood, 155 97 39 24 
+kitchen cabinet, 200 158 63 1 
+Round door knob, 224 217 98 92 
+kitchen floor rug, 122 35 224 185 
+switch, 201 195 80 70 

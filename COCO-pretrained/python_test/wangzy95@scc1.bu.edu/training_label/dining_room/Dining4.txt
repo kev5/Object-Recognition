@@ -1,0 +1,27 @@
+lamp, 1285 1148 454 235 
+plant, 1222 1015 577 414 
+plant, 1175 1055 419 307 
+small table, 1329 999 820 528 
+painting, 1396 1287 402 3 
+painting, 983 196 409 3 
+armchair, 1398 1124 767 416 
+armchair, 1045 711 697 400 
+armchair, 1398 737 1045 820 
+chair, 1031 637 995 470 
+chair, 259 3 1045 526 
+table cloth, 778 1 1039 484 
+pillow, 1382 1234 579 491 
+basket, 356 173 507 351 
+bird cage, 555 356 530 210 
+flowers, 749 476 417 153 
+flower box, 667 498 499 414 
+decorative box, 170 17 548 451 
+cat figurine, 154 33 451 389 
+decorative box *X, 660 605 503 434 
+box *X, 681 578 547 486 
+flower pot, 159 2 175 2 
+decorative fruit, 287 216 564 497 
+decorative fruit, 422 356 553 486 
+tray, 479 203 585 526 
+salt and pepper, 346 289 565 487 
+picture, 1134 1104 424 394 

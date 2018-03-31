@@ -1,0 +1,20 @@
+pillow, 69 20 218 185 
+pillow, 22 1 222 179 
+pillow, 255 230 189 165 
+pillow, 229 199 185 164 
+pillow, 252 223 164 153 
+bed, 255 122 247 119 
+door, 121 91 193 96 
+window, 59 16 172 79 
+bouquet, 76 43 175 115 
+sofa, 103 0 255 173 
+blanket, 97 0 255 225 
+painting, 209 194 157 113 
+curtain, 28 0 178 23 
+curtain, 78 56 171 53 
+curtain, 197 152 255 78 
+curtain, 129 115 220 100 
+ceiling lamp, 155 91 85 2 
+book, 37 7 225 219 
+ceiling, 217 43 45 1 
+small table, 73 41 180 171 

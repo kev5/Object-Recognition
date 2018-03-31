@@ -1,0 +1,25 @@
+ceiling lamp, 176 103 37 26 
+ceiling lamp, 116 61 56 48 
+ceiling lamp, 190 179 60 54 
+whiteboard, 116 23 130 80 
+wall outlet, 141 136 107 101 
+wall outlet, 56 50 139 135 
+wall outlet, 14 8 144 138 
+conference table, 256 49 189 127 
+eilling lamp, 242 228 52 45 
+ceiling, 256 0 61 0 
+chair top, 85 62 140 126 
+chair top, 129 105 134 124 
+chair top, 162 141 131 120 
+chair top, 213 197 132 122 
+chair top, 251 230 137 124 
+chair top, 225 213 131 118 
+chair top, 239 224 135 120 
+chair top, 256 245 140 123 
+chair top, 77 56 170 148 
+chair, 58 32 188 131 
+chair, 56 44 173 142 
+chair, 124 57 245 158 
+chair, 194 125 256 162 
+chair, 255 202 233 152 
+hanging instrument, 218 206 90 66 

@@ -1,0 +1,38 @@
+lemon, 98 77 207 189 
+orange, 74 56 195 178 
+bottle, 95 80 170 137 
+curtain, 190 122 130 25 
+curtain, 57 41 96 20 
+plant, 83 60 132 100 
+cheese, 39 3 237 198 
+knife, 94 67 255 225 
+table, 163 0 255 162 
+ceiling lamp, 101 55 41 0 
+window, 177 137 120 91 
+window, 53 30 97 72 
+oven, 52 0 185 143 
+stove, 48 1 151 135 
+hood, 57 0 74 0 
+refrigerator, 256 230 256 50 
+paper towels, 225 217 137 124 
+cabinet, 241 187 112 35 
+cabinet, 126 70 111 41 
+book, 213 191 137 121 
+teapot, 109 96 133 123 
+plate, 19 4 142 127 
+plate, 55 0 243 222 
+jars, 60 44 133 115 
+jars, 214 201 78 70 
+bowl, 148 132 127 115 
+bowl, 92 84 79 73 
+bowl, 107 99 79 74 
+sink, 179 123 138 133 
+sink faucet, 157 141 136 122 
+statue, 170 148 122 101 
+dishwasher, 226 179 196 141 
+cabinets, 120 64 166 137 
+glasses, 111 93 188 156 
+pot, 34 22 138 124 
+cups, 91 83 67 61 
+cups, 91 82 91 86 
+cups, 233 224 77 70 

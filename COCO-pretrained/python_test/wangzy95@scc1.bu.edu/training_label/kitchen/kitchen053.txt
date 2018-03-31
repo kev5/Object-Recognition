@@ -1,0 +1,15 @@
+plate food, 776 632 897 857 
+plate food, 984 865 860 816 
+oven, 357 92 1047 687 
+cupboard, 1284 932 635 282 
+cupboard, 337 66 531 277 
+cupboard, 519 334 626 383 
+cupboard, 695 548 1400 1068 
+cupboard, 961 842 1301 1001 
+cupboard, 1079 981 1241 975 
+window, 1004 672 744 323 
+drawer, 1264 1094 958 848 
+drawer, 1076 975 969 900 
+drawer, 961 840 1010 926 
+drawer, 819 548 1085 946 
+dish washer, 715 597 842 763 

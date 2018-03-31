@@ -1,0 +1,30 @@
+cupboards, 392 2 219 16 
+cupboards, 797 388 223 1 
+cupboards, 401 122 547 326 
+pot, 736 653 599 445 
+dishwasher occluded, 138 14 573 356 
+coffee marker, 766 684 386 289 
+stove, 638 404 588 240 
+dishcloth, 478 415 484 341 
+dishcloth, 358 304 314 285 
+cupboards occluded, 800 533 599 367 
+worktop, 800 574 600 516 
+worktop, 800 538 441 321 
+sink, 303 97 337 290 
+dish rack, 114 2 344 252 
+bottle, 305 282 295 229 
+bottle, 330 305 286 226 
+bottle, 470 453 300 251 
+jud, 371 329 296 240 
+mortar, 497 473 300 253 
+cutlery, 426 385 284 218 
+fridge crop, 44 2 599 134 
+handle, 74 2 600 415 
+handle, 59 7 418 147 
+rug, 414 147 599 505 
+saucepan, 636 600 348 307 
+kinives occluded, 703 655 352 270 
+wall, 388 2 519 1 
+wall, 799 384 599 1 
+floor, 756 2 600 447 
+soap bottle, 239 224 299 265 

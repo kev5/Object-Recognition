@@ -1,0 +1,10 @@
+wall, 256 156 134 68 
+wall, 255 0 167 0 
+panes, 237 115 28 0 
+lamp, 164 141 63 30 
+lamp, 191 178 87 75 
+counter, 256 171 167 114 
+person occluded, 209 191 121 97 
+door, 117 81 164 90 
+floor, 256 0 255 134 
+lamp crop, 41 2 243 43 

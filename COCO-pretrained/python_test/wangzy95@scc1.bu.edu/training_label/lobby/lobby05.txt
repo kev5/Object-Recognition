@@ -1,0 +1,11 @@
+door occluded, 231 216 170 115 
+desk, 152 85 175 138 
+picture, 201 182 128 103 
+table occluded, 51 24 169 147 
+sign, 103 84 96 80 
+column, 177 150 190 20 
+column, 26 4 178 23 
+wall, 230 36 169 20 
+wall, 256 0 241 0 
+wall, 60 0 159 21 
+floor, 255 0 255 156 

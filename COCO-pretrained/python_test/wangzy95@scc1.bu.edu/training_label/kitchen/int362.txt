@@ -1,0 +1,41 @@
+hood, 114 22 119 44 
+plant, 167 118 61 47 
+plant, 256 202 40 11 
+window, 224 190 159 84 
+cabinet, 252 213 133 32 
+cabinet, 177 119 139 54 
+cabinet, 23 1 138 67 
+cabinet, 124 106 245 176 
+cabinet, 255 238 255 188 
+fruit bowl, 174 151 172 154 
+sink faucet, 204 188 174 160 
+dishwasher, 140 120 246 177 
+dishwasher, 236 190 256 184 
+dish towel, 153 134 183 171 
+stove, 115 31 235 149 
+stove, 117 34 182 150 
+ranges, 108 91 171 164 
+faucet, 44 24 168 144 
+cabinets, 105 52 255 188 
+ceiling lamp, 47 37 29 0 
+ceiling lamp, 10 3 48 1 
+ceiling lamp, 23 10 34 26 
+ceiling lamp, 94 79 27 18 
+ceiling lamp, 174 161 31 24 
+ceiling lamp, 211 197 18 11 
+counter, 106 51 210 177 
+counter, 55 0 185 165 
+counter, 255 193 186 175 
+lower cabinets, 190 139 252 178 
+mug, 236 223 69 61 
+pot, 240 225 87 77 
+cutting board, 100 53 189 182 
+cutting board, 242 207 181 177 
+jar, 142 135 169 154 
+bottle, 132 126 170 146 
+bowl, 135 126 117 111 
+bowl, 135 128 86 82 
+sink, 210 148 178 173 
+cup, 19 2 239 221 
+cup, 130 126 102 98 
+ceiling, 256 1 48 1 

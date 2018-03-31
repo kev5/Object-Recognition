@@ -1,0 +1,14 @@
+stove, 357 249 341 163 
+cupboard, 276 185 341 174 
+cupboard, 406 344 339 215 
+fridge, 191 2 341 71 
+cupboards, 450 157 114 1 
+coffe marker, 398 367 194 149 
+microwave occluded, 437 404 203 157 
+saucepan, 150 117 82 36 
+cupboard crop, 71 4 65 1 
+sink occluded, 432 423 267 230 
+wall, 140 4 339 1 
+wall, 459 133 332 1 
+wall, 510 431 341 1 
+floor, 430 142 341 319 

@@ -1,0 +1,25 @@
+towel, 165 115 118 30 
+towel, 164 123 115 32 
+towel, 132 74 223 164 
+chair, 127 5 255 144 
+chair, 124 11 255 148 
+bathtub, 175 46 224 146 
+shelf, 205 163 228 115 
+toilet, 248 204 245 184 
+toilet, 256 202 242 139 
+picture frame, 242 211 136 111 
+picture frame, 255 247 139 126 
+painting, 256 228 73 35 
+painting, 255 228 115 79 
+painting, 212 186 114 77 
+painting, 213 186 72 36 
+bath faucet, 151 123 164 123 
+plant, 70 46 88 2 
+window, 67 45 94 0 
+box, 75 57 92 79 
+toilet paper, 191 181 175 161 
+bottle, 191 182 143 117 
+bottle, 187 177 147 127 
+rug, 240 173 254 244 
+ceiling, 205 84 9 0 
+floor, 255 97 256 213 

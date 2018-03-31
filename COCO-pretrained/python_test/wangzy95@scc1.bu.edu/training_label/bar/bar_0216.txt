@@ -1,0 +1,21 @@
+chair, 317 251 265 135 
+chair, 244 175 283 142 
+chair, 169 100 292 148 
+bar, 321 29 278 114 
+table occluded, 77 0 292 223 
+column, 338 315 210 0 
+door, 189 147 133 41 
+fridge, 74 30 145 59 
+fridge, 141 101 140 58 
+chair occluded, 54 2 224 182 
+chair occluded, 120 46 293 247 
+wall, 349 2 278 0 
+floor, 349 0 293 148 
+lamp, 208 192 63 2 
+lamp, 271 258 63 2 
+lamp, 298 286 65 2 
+lamp, 136 121 63 1 
+lamp, 61 47 64 3 
+shelves, 99 64 138 32 
+bottle, 87 77 33 9 
+bottle, 85 76 56 34 

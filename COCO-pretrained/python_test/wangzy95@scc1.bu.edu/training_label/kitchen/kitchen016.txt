@@ -1,0 +1,7 @@
+painting, 84 43 499 363 
+carpet, 784 280 935 706 
+refrigerator, 1151 851 935 134 
+oven, 701 615 772 559 
+stove, 808 647 556 525 
+cupboard, 569 119 452 263 
+chair, 241 73 935 692 

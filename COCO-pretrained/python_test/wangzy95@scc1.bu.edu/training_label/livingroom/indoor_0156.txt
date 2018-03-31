@@ -1,0 +1,14 @@
+wall, 299 23 153 1 
+wall, 25 2 108 16 
+ceiling, 24 2 15 1 
+door occluded, 13 2 199 46 
+sofa occluded, 256 17 183 70 
+table, 291 100 224 130 
+chair crop, 298 290 162 69 
+picture crop, 119 50 23 4 
+window, 213 149 71 6 
+window, 276 221 71 9 
+photograph, 258 245 82 68 
+photograph occluded, 197 175 73 63 
+floor, 299 2 225 107 
+carpet, 299 36 224 183 

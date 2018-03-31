@@ -1,0 +1,15 @@
+picture, 304 232 125 29 
+table, 708 167 599 166 
+chair occluded, 526 419 211 121 
+chair occluded, 671 533 260 151 
+chair occluded, 259 116 558 166 
+chair occluded, 634 503 573 342 
+chair, 526 222 600 197 
+door occluded, 800 640 315 8 
+wall, 573 2 514 1 
+wall, 652 556 251 14 
+wall, 799 641 325 8 
+floor, 797 2 600 247 
+plant pot, 304 258 192 141 
+plant, 308 232 170 118 
+table salt, 360 341 179 153 

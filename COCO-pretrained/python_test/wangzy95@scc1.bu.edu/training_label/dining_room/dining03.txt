@@ -1,0 +1,26 @@
+chair, 128 78 224 129 
+chair, 183 134 223 128 
+chair, 69 36 200 124 
+chair, 225 183 200 123 
+ceiling lamp, 152 110 86 18 
+plant, 243 175 124 72 
+plant, 19 1 157 124 
+plant, 119 91 118 85 
+bouquet, 152 110 151 119 
+door, 24 10 176 62 
+curtain, 255 224 181 41 
+table, 210 55 211 140 
+painting, 148 117 108 82 
+painting, 168 95 125 52 
+ceiling, 256 2 46 1 
+window, 256 238 158 55 
+rug, 255 2 240 177 
+hanging plate, 59 43 100 86 
+hanging plate, 70 61 91 78 
+hanging plate, 57 48 83 75 
+hanging plate, 44 34 88 78 
+hanging plate, 42 35 105 96 
+hanging plate, 70 60 104 95 
+hanging plate, 56 47 113 102 
+plate, 122 109 154 145 
+plate, 157 146 151 145 

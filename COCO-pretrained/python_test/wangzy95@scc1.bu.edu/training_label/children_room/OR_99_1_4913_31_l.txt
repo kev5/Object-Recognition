@@ -1,0 +1,24 @@
+ceiling, 545 252 42 0 
+bed, 471 56 466 157 
+bed, 567 291 397 168 
+cushion occluded, 191 93 322 233 
+cushion occluded, 152 120 326 253 
+cushion occluded, 211 136 326 244 
+cushion occluded, 361 308 283 221 
+cushion occluded, 364 331 287 246 
+cushion, 240 156 330 249 
+cushion, 414 347 288 242 
+picture, 347 298 176 110 
+picture, 187 84 170 76 
+shelf, 212 76 85 13 
+shelf, 371 293 113 67 
+cuddly toy, 187 124 99 16 
+toy, 327 305 98 69 
+toy, 369 347 107 84 
+switch, 41 13 261 239 
+wall, 365 2 456 0 
+wall, 689 361 379 0 
+night table occluded, 313 260 313 292 
+lamp, 308 249 304 227 
+moon decoration, 585 528 196 114 
+floor, 689 0 466 325 

@@ -1,0 +1,8 @@
+TV, 331 288 123 76 
+Window, 279 150 212 30 
+Bed, 287 25 318 249 
+Bed, 351 5 447 303 
+Picture Frame, 83 45 133 87 
+Picture Frame, 105 59 176 138 
+Lamp, 44 2 294 235 
+radiator, 274 178 272 218 

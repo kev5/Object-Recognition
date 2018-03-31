@@ -1,0 +1,29 @@
+lights, 140 76 39 1 
+ceiling, 641 137 26 2 
+shelves, 214 78 226 34 
+binders, 200 132 106 64 
+monitor, 208 98 200 123 
+monitor, 164 49 340 237 
+monitor, 212 102 317 218 
+monitor, 294 214 301 217 
+monitor, 371 294 267 213 
+wall, 175 2 481 1 
+wall, 641 173 371 22 
+decorative object, 22 3 217 125 
+desk, 445 56 481 289 
+light, 298 207 229 149 
+light, 164 147 35 24 
+keyboard, 286 237 334 314 
+keyboard, 221 161 346 313 
+chair, 408 244 481 264 
+chair, 639 532 481 295 
+trash can, 503 456 420 360 
+papers, 499 448 307 280 
+box, 445 399 289 230 
+bottle, 511 499 301 280 
+table, 565 444 418 293 
+printer, 547 517 415 359 
+window, 620 415 284 73 
+curtain, 454 417 280 81 
+curtain, 621 575 288 83 
+floor, 559 204 481 391 

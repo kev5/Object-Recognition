@@ -1,0 +1,10 @@
+chair, 185 110 252 104 
+chair, 235 176 229 90 
+chair, 255 224 199 87 
+table, 218 6 252 86 
+chair top, 64 10 126 87 
+chair top, 121 80 108 79 
+chair top, 148 130 98 76 
+bouquet flowers, 198 119 115 10 
+doors, 172 44 115 0 
+fireplace, 248 203 93 1 

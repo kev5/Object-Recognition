@@ -1,0 +1,11 @@
+picture, 190 142 153 79 
+picture, 243 197 152 82 
+bed crop, 309 89 511 167 
+cushion, 216 152 251 187 
+cushion, 258 208 242 187 
+telephone, 73 49 265 241 
+night tablr, 96 2 384 248 
+lamp, 58 2 265 170 
+carpet, 226 2 511 363 
+wall, 309 2 345 3 
+floor, 308 2 511 291 

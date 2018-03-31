@@ -1,0 +1,9 @@
+picture, 109 2 121 16 
+picture, 480 416 116 39 
+night table, 147 5 471 301 
+lamp, 107 34 323 140 
+lamp, 495 444 265 127 
+bed crop, 510 144 471 150 
+cushion, 369 293 283 227 
+wall, 510 2 431 2 
+floor, 508 2 472 290 

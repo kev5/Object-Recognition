@@ -1,0 +1,25 @@
+sink, 250 177 162 122 
+cabinet, 169 85 83 0 
+cabinet, 165 73 255 122 
+cabinet, 256 162 255 166 
+cabinet, 21 0 75 8 
+cabinet, 34 1 214 104 
+cabinet, 34 0 213 108 
+bath tub, 71 26 162 102 
+mirror, 256 179 94 0 
+glass, 100 86 127 112 
+bottle, 121 110 77 58 
+bottle, 120 109 127 97 
+bottle, 112 106 38 11 
+bottle, 120 113 39 16 
+bottle, 111 107 76 50 
+bottle, 201 195 122 100 
+box, 216 194 46 22 
+soap, 141 128 127 118 
+soap, 111 99 130 122 
+shelf, 66 27 46 41 
+rug, 65 34 181 163 
+soap dish, 154 120 130 123 
+sink faucet, 229 204 126 81 
+bouquet, 245 220 45 1 
+jar, 22 6 109 93 

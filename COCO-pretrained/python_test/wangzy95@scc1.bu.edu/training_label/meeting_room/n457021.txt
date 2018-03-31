@@ -1,0 +1,29 @@
+piano, 255 203 209 102 
+window, 255 138 130 59 
+window, 192 172 126 74 
+window, 230 202 126 67 
+window, 256 243 108 63 
+sofa, 211 164 165 132 
+table, 145 5 165 133 
+chair, 148 85 251 146 
+chair, 167 140 205 134 
+chair, 69 10 235 142 
+plant, 116 101 129 90 
+plant, 171 142 130 88 
+ceiling, 203 0 46 0 
+bench, 256 221 232 180 
+air vent, 66 38 16 3 
+air vent, 256 237 28 16 
+air vent, 127 105 70 63 
+ceiling lamp, 183 173 10 3 
+ceiling lamp, 35 25 38 32 
+ceiling lamp, 48 40 23 16 
+ceiling lamp, 148 137 26 20 
+ceiling lamp, 123 113 41 36 
+chair top, 141 128 148 131 
+chair top, 118 104 149 132 
+chair top, 99 88 145 128 
+chair top, 85 76 143 127 
+chair top, 74 63 140 127 
+chair top, 31 14 136 125 
+small table, 63 32 137 127 

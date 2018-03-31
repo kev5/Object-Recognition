@@ -1,0 +1,60 @@
+plant, 220 90 570 424 
+football trophy, 233 176 576 522 
+bowl of fruit, 377 333 485 455 
+bowl of peaches *fruit, 982 897 582 526 
+bowl of peaches *fruit, 888 793 581 532 
+decorative plate, 773 719 328 283 
+decorative plates, 711 651 350 292 
+chandelier, 454 376 386 264 
+chandelier, 638 396 152 2 
+oven, 108 1 591 238 
+oven, 105 2 897 601 
+cabinets, 1197 755 896 615 
+cabinets, 548 329 446 304 
+cabinets, 194 87 418 112 
+cabinets, 93 2 270 1 
+cabinets, 328 77 899 575 
+cabinets, 770 572 792 498 
+countertop, 291 87 661 554 
+countertop, 1200 678 876 553 
+countertop, 542 329 491 482 
+basket, 537 505 486 458 
+containers *x, 468 412 483 467 
+island, 470 330 620 499 
+fridgerator, 329 273 620 312 
+bowl, 865 806 168 119 
+mantle, 880 625 397 320 
+window, 1095 997 263 167 
+window, 1197 1176 201 126 
+window, 1102 980 583 282 
+window, 1200 1148 611 255 
+cabinet, 602 544 491 451 
+cabinet, 603 546 444 319 
+drawers, 524 469 568 493 
+stove top knobs, 676 601 608 516 
+floor, 861 211 899 573 
+vase, 286 271 228 190 
+vase *X, 299 286 244 222 
+plant *x, 654 622 490 422 
+shelf, 678 616 339 267 
+vent *x, 595 554 353 327 
+light, 921 891 133 114 
+light, 1100 1061 10 1 
+light switch, 147 104 741 684 
+ceiling, 1021 127 308 2 
+missing drawer *X, 184 87 186 36 
+tray, 201 83 638 592 
+sink, 640 592 508 497 
+faucet, 665 642 484 455 
+dishwasher, 570 523 565 491 
+wall, 1200 664 631 2 
+wall, 336 93 556 1 
+wall, 545 330 484 448 
+object, 667 644 305 285 
+object, 686 666 498 487 
+ceiling light, 296 282 194 184 
+windows, 715 663 504 401 
+teapot, 710 680 519 488 
+teapot, 685 643 525 491 
+stove top, 798 620 551 512 
+vent, 328 270 340 232 

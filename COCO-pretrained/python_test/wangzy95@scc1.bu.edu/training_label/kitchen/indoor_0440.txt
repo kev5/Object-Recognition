@@ -1,0 +1,30 @@
+ceiling, 497 2 61 2 
+lamp, 339 314 56 41 
+lamp, 139 109 186 131 
+window, 252 208 162 77 
+window, 406 357 158 76 
+picture, 329 273 124 73 
+chair occluded, 427 391 183 138 
+bench, 456 382 241 184 
+table occluded, 488 405 194 159 
+table occluded, 362 267 189 158 
+screen occluded, 205 135 173 91 
+door occluded, 78 41 168 42 
+sink, 163 15 240 205 
+faucet, 89 68 214 189 
+dish rack, 199 127 208 178 
+dishwasher crop, 385 275 333 221 
+cupboards crop, 275 61 336 227 
+stove crop, 75 2 334 267 
+dishcloth, 72 30 334 293 
+door, 510 485 309 2 
+worktop, 400 2 270 194 
+wall, 495 465 241 53 
+wall, 470 138 225 58 
+wall, 159 2 307 4 
+floor, 510 5 334 222 
+rug, 459 390 332 309 
+photograph, 126 103 195 158 
+cross, 36 22 111 71 
+wall lamp, 133 113 125 90 
+glass, 242 232 202 183 

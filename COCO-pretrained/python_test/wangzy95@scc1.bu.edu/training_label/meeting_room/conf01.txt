@@ -1,0 +1,26 @@
+ceiling, 255 1 84 0 
+conference table, 255 12 256 154 
+chair, 219 119 255 176 
+chair, 64 1 254 199 
+chair top, 63 19 182 154 
+chair top, 119 84 171 146 
+chair top, 167 140 162 144 
+chair top, 211 185 157 141 
+paper, 160 115 199 187 
+paper, 69 23 195 184 
+curtain, 255 191 153 87 
+plant, 192 176 156 114 
+ceiling lamp, 173 131 40 21 
+ceiling lamp, 233 199 57 42 
+ceiling lamp, 235 226 72 67 
+ceiling lamp, 127 117 71 66 
+ceiling lamp, 183 173 80 76 
+ceiling lamp, 45 33 61 56 
+bouquet, 212 187 168 149 
+bottle, 162 152 174 157 
+bottle, 71 59 192 172 
+bottle, 122 115 169 148 
+bottle, 233 227 176 151 
+bottle, 243 234 175 157 
+bottle, 173 167 162 143 
+bottle, 218 212 155 139 

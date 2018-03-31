@@ -1,0 +1,16 @@
+lamp, 162 122 71 26 
+painting, 256 188 52 0 
+painting, 142 127 34 12 
+chair, 119 23 244 79 
+chair, 225 122 253 79 
+chair, 33 0 210 77 
+chair top, 101 79 92 67 
+chair top, 143 116 95 68 
+chair top, 191 158 104 70 
+table, 234 3 144 86 
+curtain, 85 0 87 0 
+buffet, 255 192 166 73 
+candle, 172 167 68 30 
+candle, 181 176 69 32 
+plant, 256 219 77 22 
+door, 116 82 63 2 

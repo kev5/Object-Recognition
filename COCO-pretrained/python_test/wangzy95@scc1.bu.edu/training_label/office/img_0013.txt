@@ -1,0 +1,6 @@
+chair, 2110 1477 1710 1056 
+chair, 1388 532 1938 1434 
+chair, 2553 2049 1515 927 
+white board, 1570 914 714 281 
+light, 1436 5 126 25 
+projection screen, 888 293 641 140 

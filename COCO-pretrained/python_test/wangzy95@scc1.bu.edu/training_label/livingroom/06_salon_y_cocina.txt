@@ -1,0 +1,18 @@
+couch, 637 349 453 173 
+window, 278 194 98 1 
+floor, 640 2 458 245 
+Chair, 313 164 411 188 
+Coffee Table, 443 236 457 388 
+Stool, 90 2 347 207 
+Stool, 172 102 319 190 
+Stool, 306 246 271 157 
+stool, 247 182 284 173 
+Countertop, 264 2 160 92 
+Cupboards, 153 4 63 3 
+Ashtray, 358 291 453 412 
+knob, 41 31 51 32 
+electrical outlet, 394 381 250 235 
+wall, 639 272 359 1 
+tile, 100 77 96 71 
+tile, 39 11 104 79 
+tile, 356 298 320 293 

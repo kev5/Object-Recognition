@@ -1,0 +1,16 @@
+Cooker, 303 53 402 120 
+Draws, 369 181 512 210 
+fork, 361 331 133 10 
+drawer, 353 185 340 221 
+shelves, 175 51 117 8 
+tile, 286 230 72 8 
+tile, 333 273 144 72 
+tile, 147 51 486 422 
+oven, 168 62 372 200 
+floor, 265 2 512 339 
+oven window, 139 78 324 242 
+oven mitt, 65 2 51 1 
+knob, 152 134 212 190 
+stovetop, 287 63 181 123 
+handle, 283 235 285 260 
+kitchen counter, 383 181 263 144 

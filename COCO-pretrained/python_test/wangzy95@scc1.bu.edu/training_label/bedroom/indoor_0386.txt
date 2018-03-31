@@ -1,0 +1,11 @@
+window, 447 241 83 1 
+air conditioning, 447 391 82 2 
+tv stand, 510 454 252 147 
+tv, 510 455 152 103 
+picture, 61 2 61 1 
+chest of drawers occluded, 230 121 186 77 
+bed, 398 2 413 93 
+door, 27 2 413 246 
+wall, 183 2 328 1 
+wall, 510 180 242 1 
+floor, 510 20 411 216 

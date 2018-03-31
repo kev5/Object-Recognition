@@ -1,0 +1,23 @@
+ceiling, 399 0 46 0 
+bulletin board, 138 102 97 49 
+bulletin board, 329 301 97 57 
+wall, 400 0 215 27 
+bar, 400 10 282 136 
+floor, 399 0 299 214 
+stool, 139 79 297 172 
+stool, 204 150 298 168 
+stool, 302 237 297 165 
+stool, 383 313 285 162 
+lamp, 345 337 30 4 
+lamp, 255 247 23 2 
+lamp, 154 146 20 3 
+lamp, 51 43 20 3 
+bottle, 100 90 141 119 
+bottle, 212 205 119 95 
+bottle, 114 104 141 117 
+bottle, 127 119 141 119 
+bottle, 143 136 141 122 
+bottle, 156 148 140 120 
+bottles, 357 298 138 96 
+bottles, 91 32 142 93 
+bottles, 297 213 129 88 

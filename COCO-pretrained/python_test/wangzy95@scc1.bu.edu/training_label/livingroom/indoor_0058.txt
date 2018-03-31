@@ -1,0 +1,14 @@
+wall, 219 2 129 1 
+wall, 299 214 138 1 
+furniture, 260 147 126 60 
+television, 226 177 71 23 
+puf, 163 83 160 93 
+puf, 240 172 185 133 
+sofa, 89 2 224 88 
+floor, 299 2 224 111 
+sofa crop, 299 66 224 140 
+cushion, 178 81 216 174 
+cushion, 297 275 182 141 
+cushion, 47 2 114 82 
+cushion, 56 2 162 130 
+window, 136 82 79 4 

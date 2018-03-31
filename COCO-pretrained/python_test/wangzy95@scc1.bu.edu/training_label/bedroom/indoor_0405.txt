@@ -1,0 +1,17 @@
+picture, 341 291 133 63 
+bed crop, 510 411 373 149 
+bed, 415 196 270 183 
+chair occluded, 270 216 316 229 
+table, 258 173 333 236 
+chair, 203 158 332 235 
+chest of drawers, 155 2 377 153 
+window, 180 152 179 37 
+curtain, 165 108 234 1 
+curtain, 200 175 237 20 
+lamp, 81 2 167 31 
+ceiling, 432 190 12 2 
+wall, 434 211 225 11 
+wall, 214 2 377 2 
+wall, 445 419 242 2 
+wall, 510 423 336 2 
+floor, 508 7 377 221 

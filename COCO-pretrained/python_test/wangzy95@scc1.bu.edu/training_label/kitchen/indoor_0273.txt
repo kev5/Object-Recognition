@@ -1,0 +1,19 @@
+window, 381 125 153 31 
+window, 447 406 146 33 
+stove, 145 2 301 142 
+cupboard crop, 141 2 302 219 
+extractor hook, 81 17 129 100 
+cupboard, 93 2 106 1 
+cupboard, 408 233 302 199 
+cupboard, 235 149 302 199 
+sink, 294 238 190 178 
+sink, 391 298 189 177 
+faucet, 294 268 178 159 
+coffee marker, 377 355 175 151 
+dishwasher, 447 405 301 197 
+dishcloth, 165 137 301 231 
+dishcloth, 95 5 302 281 
+teapot, 86 47 201 148 
+board, 318 265 174 138 
+wall, 66 2 302 1 
+wall, 445 64 301 2 

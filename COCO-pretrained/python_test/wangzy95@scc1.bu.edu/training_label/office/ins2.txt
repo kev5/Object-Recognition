@@ -1,0 +1,17 @@
+monitor, 137 71 95 26 
+chair, 226 97 255 91 
+notebook, 60 0 137 111 
+printer, 174 130 90 56 
+paper, 240 199 107 91 
+paper, 71 31 113 96 
+speaker, 199 185 86 59 
+speaker, 58 38 96 66 
+keyboard, 150 97 131 114 
+bag, 100 31 255 226 
+desk, 255 1 181 68 
+file cabinet, 47 0 256 154 
+mouse pad, 153 121 106 95 
+book, 69 39 134 115 
+boxes, 70 20 91 56 
+cloth, 37 0 118 96 
+cloth, 20 1 167 129 

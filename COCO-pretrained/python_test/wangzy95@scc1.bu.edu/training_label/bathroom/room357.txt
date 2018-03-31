@@ -1,0 +1,18 @@
+window, 186 135 112 39 
+sink, 255 199 219 183 
+plant, 108 65 173 109 
+plant, 133 91 162 92 
+rug, 99 1 255 235 
+toilet, 191 165 222 180 
+toilet, 190 164 224 178 
+toilet, 245 219 169 154 
+counter, 255 187 255 166 
+toilet paper, 168 154 149 142 
+shower faucet, 36 11 128 64 
+rack, 97 72 101 56 
+shower, 130 0 236 52 
+bottles, 254 246 144 127 
+bottles, 89 76 78 65 
+sink faucet, 255 234 190 176 
+shelf, 255 238 160 140 
+floor, 188 0 254 187 

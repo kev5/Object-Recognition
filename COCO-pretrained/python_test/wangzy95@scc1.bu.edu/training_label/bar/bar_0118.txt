@@ -1,0 +1,26 @@
+wall, 328 2 215 0 
+wall, 384 327 188 0 
+shelves, 323 2 116 32 
+bar, 383 2 257 187 
+person occluded, 276 109 221 72 
+bottle, 128 113 217 146 
+bottle, 70 60 183 144 
+bottle, 101 90 183 143 
+bottle, 91 80 179 144 
+bottle, 59 48 103 61 
+bottle, 66 56 44 11 
+bottle, 24 4 69 40 
+bottle, 122 106 104 74 
+bottle, 105 91 104 80 
+bottle, 133 121 102 64 
+bottle, 88 76 37 0 
+bottle, 208 197 32 1 
+bottle, 218 208 33 1 
+pot occluded, 278 241 190 137 
+box, 375 329 224 189 
+barrel, 58 21 187 146 
+mug, 76 60 123 104 
+mug, 306 288 126 108 
+mug, 278 261 61 46 
+dishcloth, 283 246 255 217 
+lamp, 380 316 109 1 

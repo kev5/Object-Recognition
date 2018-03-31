@@ -1,0 +1,15 @@
+window, 304 85 118 26 
+picture, 469 427 122 71 
+night table occluded, 510 440 246 195 
+bed crop, 510 251 378 232 
+lamp crop, 510 470 215 118 
+bed occluded, 485 186 316 139 
+table occluded, 139 111 217 188 
+chair occluded, 153 128 234 181 
+chest of drawers occluded, 191 2 378 198 
+mirror, 89 2 328 2 
+lamp, 134 39 222 97 
+wall, 398 4 291 2 
+wall, 510 396 353 2 
+wall, 36 2 377 2 
+floor, 507 16 378 247 

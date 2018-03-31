@@ -1,0 +1,16 @@
+computer screen, 583 434 402 276 
+chair, 885 549 916 381 
+books, 465 296 226 99 
+books, 740 580 222 77 
+books, 1023 767 738 124 
+keyboard, 565 360 516 480 
+mouse, 641 609 506 485 
+cup, 131 81 507 449 
+armchair, 322 2 936 490 
+lamp, 442 317 439 259 
+furniture, 964 34 779 9 
+floor, 1022 245 936 741 
+bricks, 1023 1 125 2 
+computer, 500 317 656 551 
+notebook, 251 85 533 490 
+speaker, 706 658 385 330 

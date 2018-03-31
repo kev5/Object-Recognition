@@ -1,0 +1,27 @@
+wall, 449 116 166 0 
+wall, 116 2 93 0 
+shelves, 437 362 161 42 
+screen, 177 153 38 3 
+screen, 225 181 30 0 
+screen, 292 237 24 0 
+bar, 449 33 305 105 
+person sitting occluded, 376 263 224 145 
+person sitting occluded, 285 218 304 117 
+person sitting occluded, 245 173 206 103 
+person sitting occluded, 184 128 185 94 
+person sitting occluded, 120 73 155 102 
+person sitting occluded, 79 49 157 95 
+person sitting occluded, 54 34 131 93 
+stool crop, 365 284 308 207 
+stool occluded, 246 220 238 170 
+stool occluded, 220 163 223 158 
+stool occluded, 155 101 203 155 
+staircase, 120 30 114 10 
+door occluded, 32 2 139 31 
+floor, 448 2 309 128 
+person occluded, 93 75 101 71 
+bottles, 429 377 70 47 
+bottles, 397 374 94 74 
+bottles, 422 371 119 96 
+bottles, 411 369 141 119 
+glass, 395 383 170 151 

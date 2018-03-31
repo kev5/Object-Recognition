@@ -1,0 +1,24 @@
+wall, 66 2 218 1 
+wall, 194 65 183 1 
+wall, 299 200 184 1 
+partition wall, 205 186 200 1 
+floor, 299 2 225 178 
+cupboard, 124 58 73 13 
+cupboard, 192 125 74 15 
+cupboard, 147 87 192 114 
+stove, 95 48 184 111 
+worktop, 186 147 127 115 
+microwave, 186 149 150 127 
+food processor, 188 174 121 99 
+bucket, 56 37 193 166 
+rug, 148 69 206 186 
+fridge, 255 201 201 76 
+chair occluded, 297 243 223 161 
+towel, 283 240 224 161 
+chair crop, 298 284 204 143 
+pot, 114 106 117 104 
+self, 183 146 174 165 
+tin, 162 157 171 154 
+cruet, 247 228 75 56 
+door, 292 255 185 38 
+handle, 264 257 121 100 

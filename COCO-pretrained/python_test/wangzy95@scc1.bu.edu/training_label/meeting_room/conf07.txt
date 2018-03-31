@@ -1,0 +1,15 @@
+chair, 138 34 256 152 
+chair, 240 140 255 182 
+chair, 45 1 237 143 
+chair top, 222 178 154 125 
+chair top, 174 115 146 114 
+chair top, 54 9 167 121 
+plant, 118 86 139 87 
+conference table, 255 21 199 137 
+painting, 255 209 107 43 
+painting, 193 161 95 51 
+ceiling lamp, 220 151 42 1 
+ceiling lamp, 117 61 46 0 
+cabinet, 255 120 144 112 
+wall outlet, 166 160 110 101 
+wall outlet, 171 168 110 103 

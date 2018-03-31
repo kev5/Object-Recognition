@@ -1,0 +1,7 @@
+painting, 1529 1137 398 111 
+bed, 1632 114 1536 406 
+lamp, 2047 1542 619 222 
+clock radio, 1778 1625 859 784 
+bed crop, 2039 1295 1538 907 
+telephone, 2001 1856 902 809 
+night table occluded, 2025 1557 1211 786 

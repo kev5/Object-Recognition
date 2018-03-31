@@ -1,0 +1,10 @@
+window, 223 136 135 22 
+lamp, 33 16 140 90 
+bed, 237 56 232 137 
+pillow, 88 58 153 139 
+curtain, 142 115 146 30 
+curtain, 253 218 147 1 
+chair, 61 0 233 134 
+shelf, 17 0 98 57 
+books, 14 1 94 70 
+ceiling, 201 1 38 0 

@@ -1,0 +1,9 @@
+ceiling fan, 553 332 86 3 
+stove, 404 293 396 292 
+lamp, 249 139 79 6 
+counter top, 604 43 480 391 
+counter top, 800 626 422 341 
+cupboard, 800 550 319 98 
+refrigerator, 707 543 504 239 
+sink, 249 143 365 337 
+microwave, 397 301 278 230 

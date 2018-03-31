@@ -1,0 +1,24 @@
+bed, 229 105 210 69 
+armchair, 80 36 185 128 
+painting, 23 1 125 68 
+painting, 109 89 129 89 
+lamp, 252 227 138 118 
+lamp, 145 128 142 119 
+rug, 241 2 256 177 
+bouquet, 33 1 158 130 
+bouquet, 255 232 155 137 
+cabinet, 108 78 174 133 
+lamps, 103 82 125 117 
+pillow, 199 178 148 138 
+pillow, 180 157 144 131 
+pillow, 73 54 154 140 
+ottoman, 143 103 210 170 
+ottoman, 182 133 214 173 
+ottoman, 31 1 207 168 
+ceiling lamp, 127 91 66 18 
+curtain, 70 31 130 67 
+night stand, 256 223 193 152 
+night stand table, 147 121 148 141 
+window, 67 29 154 70 
+small table, 34 1 184 155 
+ceiling, 253 1 67 1 

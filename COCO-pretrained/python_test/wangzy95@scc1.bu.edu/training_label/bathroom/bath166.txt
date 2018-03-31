@@ -1,0 +1,23 @@
+candle, 51 41 117 88 
+candle, 51 40 119 87 
+candle, 41 33 119 90 
+candle, 87 71 191 107 
+cabinet, 74 0 256 173 
+counter, 76 0 185 154 
+bathtub, 220 72 254 156 
+shower, 254 177 174 64 
+window, 176 62 190 20 
+window, 18 1 158 67 
+mirror, 59 0 156 3 
+mirror, 58 25 160 33 
+lamp, 23 7 59 37 
+curtain, 137 62 179 22 
+curtain, 173 137 74 47 
+bouquet, 128 100 209 184 
+bath faucet, 195 181 189 175 
+towel, 215 190 192 169 
+towel, 55 17 174 157 
+ceiling, 225 129 23 1 
+floor, 254 110 254 193 
+shower faucet, 252 243 107 98 
+shower faucet, 218 209 104 96 

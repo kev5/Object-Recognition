@@ -1,0 +1,20 @@
+bed occluded, 142 66 241 119 
+night table, 85 36 221 159 
+picture, 140 78 113 60 
+picture, 332 265 118 42 
+lamp, 56 30 168 96 
+lamp, 250 180 213 101 
+rug, 126 41 257 219 
+sofa occluded, 435 217 282 139 
+table, 267 162 295 200 
+table crop, 129 2 383 252 
+cushion, 385 338 199 160 
+cushion, 327 281 211 165 
+table occluded, 510 369 314 208 
+chair crop, 510 467 382 249 
+large window, 507 393 216 2 
+carpet, 510 149 384 208 
+wall, 140 21 211 1 
+wall, 42 2 267 1 
+wall, 404 134 275 1 
+floor, 510 2 384 189 

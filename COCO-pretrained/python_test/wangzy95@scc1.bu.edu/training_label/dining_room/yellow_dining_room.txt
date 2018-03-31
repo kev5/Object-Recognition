@@ -1,0 +1,38 @@
+chair, 203 110 256 148 
+chair, 84 1 255 146 
+chinaware, 127 83 156 122 
+statue, 47 5 97 45 
+pedestal, 41 18 169 99 
+painting, 199 169 22 1 
+painting, 202 169 108 85 
+painting, 138 100 94 53 
+painting, 66 40 24 4 
+painting, 66 34 50 28 
+painting, 67 35 77 56 
+painting, 67 28 107 85 
+painting, 19 1 55 0 
+painting, 204 165 80 54 
+painting, 205 166 51 26 
+painting, 21 0 65 0 
+painting, 139 98 92 50 
+painting, 22 0 134 60 
+picture, 203 167 51 25 
+picture, 202 167 80 55 
+glass piece, 69 60 153 135 
+column, 256 237 210 1 
+lamp, 90 66 115 61 
+lamp, 163 136 119 60 
+table, 190 13 252 142 
+side table, 157 69 136 116 
+bouquet, 141 84 122 81 
+fruit bowl, 125 87 157 124 
+glass, 143 134 163 138 
+glass, 89 72 161 137 
+glass, 135 123 150 132 
+plate, 66 29 163 155 
+napkin, 129 100 170 161 
+chair top, 210 169 146 124 
+chair top, 78 33 150 125 
+mirror, 138 96 31 3 
+mirror, 137 97 94 35 
+rug, 217 1 254 182 

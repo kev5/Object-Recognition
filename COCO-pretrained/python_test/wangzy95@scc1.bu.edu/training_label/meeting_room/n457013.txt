@@ -1,0 +1,22 @@
+conference table, 191 16 192 79 
+cabinets, 248 179 94 41 
+ceiling, 256 35 33 0 
+chair, 157 91 216 89 
+chair, 183 132 178 89 
+chair top, 71 47 106 79 
+chair top, 94 76 104 75 
+chair top, 114 100 97 74 
+chair top, 32 6 120 83 
+chair top, 193 174 130 84 
+chair top, 133 120 93 73 
+chair top, 143 132 88 71 
+chair top, 176 165 81 70 
+chair top, 156 147 84 70 
+lots of chairs, 229 192 125 72 
+window, 135 2 84 0 
+ceiling lamp, 210 196 8 2 
+ceiling lamp, 169 159 11 4 
+ceiling lamp, 182 169 18 10 
+ceiling lamp, 214 205 17 9 
+painting, 180 173 64 55 
+rug, 256 1 255 97 

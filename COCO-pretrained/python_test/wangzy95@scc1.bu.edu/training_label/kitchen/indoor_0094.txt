@@ -1,0 +1,23 @@
+wall, 125 2 225 1 
+wall, 152 121 152 21 
+wall, 299 154 156 14 
+wall, 299 232 105 42 
+window, 275 240 90 54 
+television, 253 239 97 71 
+table occluded, 281 261 113 92 
+fridge, 299 270 225 60 
+stove, 150 47 225 106 
+cupboard, 150 110 130 103 
+cupboard, 108 85 80 24 
+cupboard, 190 155 79 31 
+cupboard, 226 191 80 31 
+cupboard, 249 212 178 119 
+cupboard, 218 154 164 115 
+heater, 132 106 79 32 
+worktop, 250 153 122 104 
+ceiling, 299 86 24 1 
+floor, 282 230 167 103 
+floor, 275 4 225 135 
+trash crop, 90 49 224 192 
+shelf, 84 43 86 77 
+lamp, 88 71 82 45 

@@ -1,0 +1,28 @@
+oven, 545 392 478 82 
+oven mitt, 567 486 404 268 
+washing machine, 396 310 480 342 
+window, 157 84 236 48 
+window, 65 2 239 34 
+rubber glove, 326 298 258 220 
+range hood, 247 187 160 122 
+tile, 278 266 247 222 
+floor mat, 263 131 480 424 
+cleaner, 306 298 283 256 
+sink, 368 232 310 279 
+toaster, 230 176 268 242 
+drawer, 206 177 412 336 
+drawer, 206 175 349 299 
+drawer, 207 175 311 279 
+towel, 281 247 391 320 
+kitchen cupboards, 395 247 200 4 
+handle, 367 346 182 116 
+handle, 305 284 186 126 
+shelves, 228 174 200 58 
+countertop, 124 7 452 302 
+knob, 436 417 258 242 
+knob, 473 449 263 244 
+knob, 510 488 269 250 
+button, 442 434 111 102 
+button, 494 486 102 93 
+digital readout, 471 454 108 98 
+canvas, 114 82 328 180 

@@ -1,0 +1,22 @@
+wall clock, 627 566 108 38 
+fridge, 504 382 392 189 
+basket, 283 217 373 350 
+faucet, 346 328 286 253 
+water bottle, 241 226 333 289 
+Tile, 280 255 249 223 
+Light Switch, 270 256 274 259 
+Stool, 207 198 478 392 
+Door, 168 87 392 184 
+paper towel, 250 192 122 73 
+lamp, 104 67 103 59 
+doormat, 176 74 459 429 
+worktop, 530 203 417 349 
+shelf, 511 231 147 74 
+door, 77 51 479 136 
+bottle, 461 445 178 148 
+ceramic tile, 309 277 278 250 
+cupboard, 371 302 218 130 
+handle, 289 288 212 196 
+fascia, 389 185 63 10 
+ceiling, 180 2 85 3 
+wall, 181 18 455 82 

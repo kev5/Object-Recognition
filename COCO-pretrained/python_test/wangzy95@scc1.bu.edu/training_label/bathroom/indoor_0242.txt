@@ -1,0 +1,17 @@
+bath, 202 96 237 190 
+shower, 179 135 55 26 
+faucet, 143 130 200 184 
+rail, 204 97 31 1 
+wall, 299 159 237 1 
+wall, 162 71 236 1 
+wall, 72 61 237 1 
+wall, 60 2 237 1 
+door, 299 283 237 128 
+curtain, 298 198 237 2 
+toilet paper, 70 52 180 154 
+bucket crop, 68 38 237 211 
+shelf, 57 2 44 29 
+box, 49 26 34 17 
+towel, 10 2 151 106 
+towel, 50 9 160 106 
+handle, 20 2 235 224 

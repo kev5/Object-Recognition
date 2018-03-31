@@ -1,0 +1,11 @@
+chair, 527 149 835 398 
+bed, 1954 103 1534 295 
+painting, 1673 1138 228 2 
+painting, 694 510 267 2 
+lamp, 858 696 391 273 
+night table occluded, 860 587 713 565 
+curtain, 418 2 817 2 
+night table crop, 2047 1848 1157 751 
+telephone, 2049 1945 793 718 
+wall, 2049 396 1092 2 
+floor, 2049 2 1534 701 

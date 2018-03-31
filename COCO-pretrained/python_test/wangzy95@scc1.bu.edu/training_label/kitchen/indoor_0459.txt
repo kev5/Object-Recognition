@@ -1,0 +1,25 @@
+ceiling, 390 2 85 2 
+cupboard, 129 2 235 86 
+cupboard, 218 119 262 85 
+cupboard, 387 298 286 23 
+cupboard, 291 220 578 352 
+corner, 297 217 271 66 
+teapot, 113 77 332 293 
+stove, 118 11 346 324 
+oven, 128 2 500 352 
+dishwasher, 220 129 500 352 
+washing machine, 369 287 600 408 
+fridge crop, 398 361 600 145 
+handle, 383 360 487 416 
+handle, 382 361 584 505 
+sink, 370 269 417 348 
+faucet occluded, 374 350 318 307 
+coffee marker, 305 270 333 272 
+knives, 166 142 328 274 
+worktop, 371 2 458 322 
+socket, 273 251 286 271 
+wall, 398 290 561 2 
+wall, 302 2 476 66 
+floor, 398 3 600 475 
+lamp, 231 180 48 20 
+tray, 363 322 349 285 

@@ -1,0 +1,36 @@
+ceiling, 383 0 94 0 
+person sitting crop, 238 139 308 198 
+person sitting crop, 383 243 308 215 
+person sitting crop, 121 0 308 184 
+wall, 383 334 292 89 
+wall, 337 53 238 85 
+wall, 54 2 262 55 
+person occluded, 112 76 189 146 
+person occluded, 150 103 279 158 
+person occluded, 180 145 230 156 
+person occluded, 195 167 228 148 
+person occluded, 208 188 187 149 
+person occluded, 241 193 289 153 
+person occluded, 253 227 236 156 
+person occluded, 51 19 194 151 
+person occluded, 265 245 230 156 
+chair, 130 79 287 211 
+chair occluded, 172 148 251 203 
+chair occluded, 277 237 293 235 
+mirror, 267 197 169 114 
+picture, 281 268 139 127 
+picture, 279 269 158 145 
+picture, 280 267 175 163 
+picture, 299 289 129 115 
+picture, 282 272 126 112 
+picture, 377 366 139 115 
+picture, 376 367 173 150 
+picture, 376 365 209 186 
+person sitting occluded, 301 272 199 150 
+person sitting occluded, 335 310 187 156 
+person sitting occluded, 307 268 210 181 
+person sitting occluded, 355 303 257 186 
+lamp, 246 238 37 30 
+lamp, 127 119 34 27 
+handrail, 190 3 137 88 
+bar, 107 51 300 199 

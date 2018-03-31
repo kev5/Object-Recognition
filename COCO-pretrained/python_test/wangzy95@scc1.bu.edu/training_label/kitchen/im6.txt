@@ -1,0 +1,9 @@
+microwave oven, 243 192 122 92 
+stove, 208 144 200 108 
+Fridge, 61 2 200 53 
+cupboard, 201 148 61 25 
+cupboard, 227 199 85 26 
+cupboard, 257 227 89 17 
+Open door, 121 80 151 42 
+kitchen Sink, 299 233 160 132 
+dirty mug, 282 272 159 152 

@@ -1,0 +1,13 @@
+window, 191 52 167 1 
+curtain, 108 24 210 1 
+bed crop, 250 2 339 206 
+blanket, 205 57 246 199 
+picture crop, 312 265 29 1 
+picture crop, 486 377 43 1 
+bookshelf, 309 211 293 98 
+clock, 237 221 171 153 
+chest of drawers, 510 254 338 145 
+candlestik, 488 462 159 114 
+wall, 230 2 287 1 
+wall, 508 227 324 2 
+floor, 510 4 339 252 

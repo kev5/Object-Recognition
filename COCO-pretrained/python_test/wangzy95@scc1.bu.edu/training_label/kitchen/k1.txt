@@ -1,0 +1,24 @@
+burner, 136 79 218 194 
+microwave, 213 140 76 35 
+Squirter, 69 58 92 73 
+tea pot, 83 19 255 155 
+cabinet, 255 144 18 1 
+bowl, 254 222 89 74 
+bowl, 154 125 84 76 
+window, 93 7 90 1 
+lamp, 255 182 29 19 
+stove, 183 0 255 159 
+stove, 178 0 254 158 
+counter, 256 0 140 64 
+cabinets, 255 0 213 87 
+sink, 142 26 122 84 
+mug, 256 249 68 53 
+mug, 125 104 89 72 
+kettle, 81 17 256 153 
+oven, 183 112 255 212 
+curtain, 19 0 93 0 
+curtain, 145 93 78 1 
+sink faucet, 59 30 104 80 
+dish towel, 161 129 91 77 
+dish rack, 36 0 129 92 
+floor, 256 182 256 202 

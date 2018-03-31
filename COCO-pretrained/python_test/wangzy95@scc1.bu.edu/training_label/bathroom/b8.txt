@@ -1,0 +1,31 @@
+towel, 60 46 92 70 
+towel, 78 63 91 70 
+towel, 78 47 198 187 
+towel, 92 43 214 192 
+towel, 87 48 165 153 
+towel, 90 48 170 159 
+towels, 72 43 131 117 
+towels, 89 49 169 152 
+towels, 91 44 214 189 
+toilet, 210 113 245 120 
+plant, 228 161 85 40 
+kleenex, 156 135 105 76 
+rack, 91 34 93 17 
+slippers, 100 38 248 225 
+shelf, 101 31 233 94 
+shelf, 217 125 246 0 
+bottle, 168 160 107 85 
+bottle, 160 152 64 37 
+bottle, 156 142 66 51 
+bottle, 159 149 26 10 
+bottle, 150 144 27 11 
+vase, 184 175 106 84 
+box, 149 142 66 46 
+box, 198 186 110 88 
+box, 72 64 64 51 
+box, 83 74 63 55 
+hair brush, 185 149 28 23 
+magazine, 217 193 172 136 
+magazine rack, 221 193 176 128 
+floor, 255 0 255 205 
+sponge, 82 71 155 147 

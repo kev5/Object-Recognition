@@ -1,0 +1,17 @@
+painting, 101 54 81 32 
+painting, 177 157 75 41 
+door, 154 130 109 31 
+door, 251 220 98 36 
+conference table, 254 48 217 95 
+armchair, 126 0 255 155 
+armchair, 241 131 254 139 
+armchair, 95 30 187 110 
+armchair, 213 182 99 81 
+chair top, 126 85 132 100 
+chair top, 158 122 120 92 
+chair top, 180 153 108 86 
+chair top, 247 221 99 85 
+wall outlet, 10 0 88 72 
+chair part, 255 226 198 124 
+chair part, 255 230 128 116 
+chair part, 256 239 113 107 

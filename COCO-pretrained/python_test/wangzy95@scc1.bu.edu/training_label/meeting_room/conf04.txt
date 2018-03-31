@@ -1,0 +1,38 @@
+ceiling, 256 0 126 0 
+desk, 211 58 243 199 
+desk, 175 86 191 175 
+desk, 50 0 215 174 
+desk, 69 1 196 166 
+desk, 255 208 218 178 
+desk, 161 98 173 167 
+desk, 255 189 197 169 
+desk, 155 104 166 161 
+desk, 79 23 167 160 
+chair top, 111 54 255 241 
+chair top, 167 114 255 242 
+chair top, 230 167 256 243 
+chair top, 115 88 199 188 
+chair top, 147 118 200 189 
+chair top, 178 150 199 189 
+chair top, 229 212 177 174 
+chair top, 250 232 178 173 
+chair top, 29 10 173 170 
+chair, 255 227 231 190 
+chair, 31 0 225 187 
+chair, 57 32 191 170 
+table, 241 179 183 164 
+row of desks, 219 145 162 147 
+row of desks, 149 110 160 146 
+row of desks, 111 39 160 145 
+row of desks, 85 0 160 145 
+door, 229 211 164 125 
+door, 256 244 171 121 
+door, 174 170 150 132 
+door, 164 157 147 135 
+door, 90 83 147 134 
+window, 69 38 144 124 
+window, 74 70 141 130 
+window, 29 0 146 118 
+row of chairs, 161 101 176 173 
+row of chairs, 153 106 168 165 
+whiteboard, 127 105 144 134 

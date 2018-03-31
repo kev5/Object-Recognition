@@ -1,0 +1,10 @@
+bed, 188 2 201 43 
+window, 159 113 87 1 
+window, 275 208 98 1 
+table, 298 218 240 135 
+rug, 87 7 226 172 
+computer crop, 299 276 155 113 
+armchair occluded, 280 224 161 108 
+wall, 70 2 156 1 
+wall, 300 67 160 1 
+floor, 299 2 240 125 

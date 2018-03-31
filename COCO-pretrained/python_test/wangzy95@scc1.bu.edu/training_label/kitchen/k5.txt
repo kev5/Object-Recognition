@@ -1,0 +1,13 @@
+counter, 255 0 214 138 
+sink, 52 0 203 177 
+cabinet, 75 0 256 195 
+cabinet, 241 167 143 98 
+dishwasher, 145 71 255 177 
+cabinets, 255 141 255 152 
+cabinets, 256 75 103 0 
+wall outlet, 80 66 148 131 
+wall outlet, 100 93 144 128 
+wall outlet, 254 246 129 118 
+window, 63 0 156 0 
+ceiling, 256 139 18 0 
+floor, 255 182 256 235 

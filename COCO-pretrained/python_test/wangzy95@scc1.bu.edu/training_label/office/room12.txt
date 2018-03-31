@@ -1,0 +1,23 @@
+chair, 193 126 252 169 
+chair, 103 24 255 181 
+statue, 157 125 149 118 
+statue, 229 215 191 178 
+statue, 221 201 158 139 
+statue, 224 198 98 81 
+lamp, 73 38 166 113 
+chair top, 89 63 160 129 
+book, 105 76 159 152 
+painting, 155 98 133 63 
+ceiling, 254 1 38 1 
+curtain, 54 1 127 24 
+desk, 166 27 223 151 
+bookshelves, 241 185 201 28 
+books, 230 194 70 51 
+books, 49 28 167 152 
+books, 205 195 188 168 
+books, 221 195 129 113 
+books, 230 224 95 80 
+books, 231 224 160 142 
+ceiling lamp, 90 77 13 5 
+plant, 192 162 171 149 
+window, 24 0 175 76 

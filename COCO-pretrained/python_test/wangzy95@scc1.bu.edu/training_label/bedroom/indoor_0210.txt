@@ -1,0 +1,18 @@
+ceiling, 132 54 14 1 
+bed crop, 224 184 299 243 
+closet, 206 88 299 33 
+door, 115 102 274 36 
+handle, 102 98 226 216 
+shelf, 188 114 187 176 
+shelf, 188 113 142 134 
+shelf, 187 112 105 94 
+shelf, 187 115 222 206 
+shelf, 189 115 261 243 
+photograph, 9 2 186 107 
+clothes, 189 142 134 116 
+clothes, 187 121 175 142 
+clothes, 187 114 212 188 
+clothes, 189 115 254 217 
+shoes, 175 140 288 267 
+wall, 79 2 299 1 
+wall, 224 79 300 1 

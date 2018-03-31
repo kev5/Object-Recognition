@@ -1,0 +1,9 @@
+armchair, 94 9 236 149 
+armchair occluded, 131 58 213 141 
+sofa, 256 136 216 122 
+picture, 256 193 96 23 
+table crop, 229 111 256 194 
+curtain, 131 48 150 0 
+wall, 138 0 213 0 
+wall, 255 137 190 1 
+floor, 255 0 255 168 

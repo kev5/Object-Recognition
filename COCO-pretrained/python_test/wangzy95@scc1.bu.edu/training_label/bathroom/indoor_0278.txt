@@ -1,0 +1,20 @@
+window, 116 29 86 14 
+wc, 195 144 322 249 
+cistern occluded, 195 176 251 201 
+bath, 295 168 442 264 
+curtain, 294 194 328 1 
+washbasin, 123 33 345 254 
+washing machine, 162 32 306 147 
+tumble dryer occluded, 82 18 262 155 
+door, 51 2 448 18 
+rug, 296 103 448 365 
+lamp, 30 6 98 21 
+shelf, 134 31 146 137 
+bottle, 85 74 137 102 
+bottle, 115 100 137 106 
+bottle, 68 62 137 112 
+toilet paper, 182 167 235 202 
+ceiling, 162 94 11 1 
+wall, 296 132 316 1 
+wall, 135 2 278 1 
+floor, 294 2 448 257 

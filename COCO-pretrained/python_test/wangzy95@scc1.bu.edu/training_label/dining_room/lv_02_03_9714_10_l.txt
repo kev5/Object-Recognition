@@ -1,0 +1,25 @@
+picture window with city view, 143 53 168 93 
+table, 210 34 183 167 
+chair, 45 15 222 170 
+chair, 93 46 241 185 
+chair, 142 102 241 185 
+chair, 198 148 240 183 
+chair, 227 196 219 168 
+chair top, 164 142 169 162 
+chair top, 132 110 169 163 
+chair top, 99 77 168 163 
+ceiling lamp, 146 96 103 4 
+ceiling lamp, 167 159 30 24 
+ceiling lamp, 79 71 28 23 
+ceiling lamp, 239 232 52 46 
+ceiling lamp, 88 81 51 48 
+ceiling lamp, 156 150 51 48 
+window, 87 52 162 94 
+window, 157 94 164 95 
+window, 25 11 192 156 
+buffet, 255 221 205 154 
+plant, 114 72 163 124 
+ceiling, 255 1 91 5 
+lamp, 90 78 164 141 
+statue, 255 243 148 122 
+hanging plate, 237 220 100 71 

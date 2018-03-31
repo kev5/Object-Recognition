@@ -1,0 +1,4 @@
+soap bar, 147 96 203 173 
+brush, 104 54 184 164 
+ceramic tile, 252 2 145 0 
+bathtub, 255 1 256 105 

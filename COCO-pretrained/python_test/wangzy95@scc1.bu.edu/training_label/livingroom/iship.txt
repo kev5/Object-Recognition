@@ -1,0 +1,25 @@
+candle, 241 205 184 95 
+candle, 255 241 183 95 
+small vase, 124 102 229 204 
+armchair, 151 25 170 55 
+armchair, 66 0 192 63 
+armchair, 255 191 156 37 
+bouquet, 199 113 195 89 
+decorative box, 209 134 224 170 
+ashtray, 128 65 198 175 
+small table, 255 6 255 153 
+decorative boat, 233 183 49 13 
+curtain, 170 132 87 1 
+curtain, 255 204 42 1 
+curtain, 19 0 76 0 
+pillow, 255 227 95 49 
+book, 168 95 254 215 
+book, 97 61 237 207 
+book, 158 71 237 178 
+cabinet, 212 180 113 47 
+box, 237 177 161 125 
+cabinets, 81 15 82 0 
+cart, 143 76 85 17 
+books, 122 84 62 43 
+glasses, 99 87 27 17 
+bottles, 130 102 26 1 

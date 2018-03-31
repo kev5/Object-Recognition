@@ -1,0 +1,16 @@
+chest of drawers, 197 27 442 129 
+cradle, 484 260 370 151 
+basket, 255 206 319 275 
+basket, 267 197 371 306 
+armchair, 652 485 414 179 
+window, 689 500 259 15 
+cuddly toy, 601 511 302 215 
+cuddly toy, 158 114 161 110 
+picture, 319 290 99 66 
+picture, 377 354 114 87 
+picture, 116 91 95 63 
+curtain, 688 488 84 9 
+wall, 426 0 418 0 
+wall, 689 424 351 0 
+ceiling, 481 370 14 0 
+floor, 688 2 458 272 

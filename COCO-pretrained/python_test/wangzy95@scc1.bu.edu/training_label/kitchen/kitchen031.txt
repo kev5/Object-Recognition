@@ -1,0 +1,30 @@
+stove, 81 1 154 121 
+pot, 35 6 147 121 
+pot, 143 123 144 124 
+pot, 81 61 145 127 
+pot, 75 56 190 173 
+pot, 76 57 217 196 
+pitcher, 71 51 42 22 
+plate, 53 10 40 5 
+decorative plate, 43 20 42 23 
+decorative plate, 71 54 70 53 
+decorative plate, 49 31 71 52 
+decorative plate, 27 9 71 52 
+sink, 194 151 150 140 
+sink faucet, 194 173 139 113 
+fruit bowl, 222 204 151 130 
+bowl, 115 99 147 133 
+bowl, 95 74 145 135 
+bowl, 28 4 192 181 
+bowl, 38 4 221 204 
+bowl, 44 32 192 179 
+shelves, 78 0 229 171 
+shelves, 78 1 81 41 
+bottle, 123 117 147 124 
+cabinets, 256 66 254 10 
+bottles, 57 34 220 198 
+hanging pan, 51 33 108 79 
+hanging utensils, 34 2 110 83 
+window, 152 81 22 0 
+rug, 200 1 255 238 
+floor, 236 0 255 223 

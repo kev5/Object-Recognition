@@ -1,0 +1,16 @@
+door, 140 107 92 14 
+chair top, 213 177 115 83 
+chair top, 254 229 135 94 
+chair top, 165 139 99 77 
+chair top, 99 80 82 69 
+chair top, 40 17 79 68 
+chair top, 129 103 91 70 
+chair, 255 155 255 153 
+chair, 147 0 256 127 
+painting, 44 0 66 35 
+plant, 216 185 86 55 
+plant, 68 47 75 49 
+small table, 255 174 99 77 
+conference table, 255 1 198 78 
+phone, 250 232 90 81 
+ceiling, 169 0 15 0 

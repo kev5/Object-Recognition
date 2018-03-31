@@ -1,0 +1,27 @@
+conference table, 255 0 210 91 
+painting, 46 15 73 60 
+window, 157 118 35 0 
+window, 182 162 32 0 
+window, 208 188 27 1 
+window, 245 214 23 0 
+window, 158 119 100 36 
+window, 245 215 108 22 
+window, 209 188 108 29 
+window, 183 164 114 33 
+plant, 187 160 61 45 
+plant, 95 75 93 68 
+chair, 256 119 254 148 
+chair, 119 0 254 134 
+chair top, 255 221 136 102 
+chair top, 28 13 91 81 
+chair top, 52 43 93 83 
+chair top, 64 55 94 82 
+chair top, 203 177 125 97 
+chair top, 169 146 117 92 
+chair top, 138 122 110 90 
+chair top, 118 104 105 88 
+chair top, 102 90 101 87 
+chair top, 86 78 100 86 
+chair top, 73 65 97 84 
+ceiling lamp, 73 57 15 0 
+ceiling lamp, 40 30 34 27 

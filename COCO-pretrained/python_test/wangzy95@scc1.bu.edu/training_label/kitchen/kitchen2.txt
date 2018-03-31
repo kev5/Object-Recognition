@@ -1,0 +1,12 @@
+banana, 177 125 339 301 
+sink, 229 117 254 214 
+vase, 184 105 120 31 
+door frame, 445 312 359 7 
+tissue paper, 533 505 229 174 
+cup board, 639 486 112 5 
+tab, 166 101 195 160 
+apple, 219 187 335 304 
+stove, 272 108 328 262 
+pottery cat, 98 65 124 78 
+kitchen desk, 333 70 448 215 
+microwave, 638 580 293 194 

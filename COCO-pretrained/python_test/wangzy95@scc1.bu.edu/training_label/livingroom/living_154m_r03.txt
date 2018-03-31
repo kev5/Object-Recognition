@@ -1,0 +1,12 @@
+chair, 48 5 212 173 
+window, 400 336 199 87 
+window, 330 270 160 89 
+window, 163 134 134 90 
+television, 41 5 145 107 
+alcove, 225 192 169 73 
+sofa, 282 175 234 158 
+parquet, 424 3 265 200 
+pendant, 513 479 143 75 
+chairs, 464 411 244 167 
+plant, 344 300 154 94 
+mirror, 635 572 255 35 

@@ -1,0 +1,34 @@
+painting, 100 65 70 50 
+stairs, 254 201 75 16 
+television, 41 18 98 82 
+bouquet, 210 183 134 104 
+plant, 256 234 123 105 
+plant, 144 126 99 89 
+plant, 115 1 254 105 
+television stand, 45 11 121 93 
+sofa, 112 62 118 92 
+lamp, 49 42 76 64 
+lamp, 122 114 78 66 
+cabinet, 194 161 123 97 
+cup, 203 187 151 142 
+cup, 187 175 144 136 
+cup, 221 211 143 134 
+place mat, 217 177 170 150 
+place mat, 181 146 149 133 
+place mat, 249 217 151 140 
+plate, 207 185 165 152 
+plate, 172 153 145 136 
+plate, 238 224 148 140 
+chair top, 254 232 135 120 
+chair top, 178 156 134 114 
+chair top, 151 122 143 118 
+chair, 164 97 255 152 
+chair, 256 193 255 185 
+chair, 116 95 127 107 
+chair part, 254 233 188 166 
+table, 254 122 254 126 
+window, 6 0 119 49 
+armchair, 69 37 131 101 
+armchair, 148 126 118 98 
+door, 240 214 120 61 
+candles, 177 167 98 84 

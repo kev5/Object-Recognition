@@ -1,0 +1,16 @@
+electrical outlet, 233 215 161 141 
+toilet paper, 471 441 365 291 
+towel, 370 340 304 248 
+Mirror, 216 2 219 0 
+Trash Can, 295 252 367 302 
+Bidet, 435 285 367 303 
+Toilet, 550 482 367 277 
+Haire Dryer, 264 221 172 51 
+Sink, 186 27 273 213 
+stool, 177 60 366 322 
+toilet paperr holder, 476 430 300 269 
+tile, 467 451 109 100 
+tile, 505 488 83 74 
+floor, 250 198 367 350 
+wall, 549 356 366 1 
+mirror, 216 2 221 1 

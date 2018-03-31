@@ -1,0 +1,9 @@
+coffee table, 300 175 215 99 
+table lamp, 38 12 82 47 
+throw pillow, 186 150 82 45 
+coach, 279 52 147 34 
+pouf, 269 211 203 155 
+sofa, 137 0 225 78 
+floor, 299 132 225 107 
+pillow, 265 215 81 36 
+pillow, 138 77 102 44 

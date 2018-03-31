@@ -1,0 +1,44 @@
+lamp, 794 594 346 170 
+chair, 1025 584 722 263 
+cage, 387 313 460 283 
+minature chair, 290 237 501 443 
+minature chair, 808 758 319 276 
+stack of books, 304 86 559 501 
+stack of books, 447 269 509 452 
+stack of books, 809 751 343 308 
+vase of flowers, 333 15 465 17 
+shutter, 499 428 266 2 
+shutter, 197 128 203 1 
+shelf, 403 228 227 3 
+plate, 301 243 54 1 
+plate, 383 323 52 2 
+plate, 384 323 147 86 
+plate, 305 243 145 86 
+plate, 260 125 508 470 
+plate, 485 331 546 511 
+wall, 1025 3 505 1 
+ottoman, 1024 626 767 693 
+end table, 804 700 506 344 
+decorative wood, 1024 910 285 37 
+pillow, 94 2 455 254 
+pillow, 244 34 453 276 
+pillow, 427 227 447 277 
+pillow, 528 401 445 267 
+pillow, 661 460 439 257 
+pillow, 986 757 545 397 
+sofa, 723 3 631 295 
+coconuts in bowl, 422 151 768 644 
+coffee table, 551 32 767 483 
+tea pot, 338 284 53 2 
+orange, 412 358 536 482 
+orange, 465 412 534 483 
+orange, 423 392 499 475 
+coconuts, 403 338 737 680 
+coconut, 422 385 726 665 
+coconut, 389 331 697 659 
+coconut, 339 260 699 644 
+coconut, 349 281 739 693 
+coconut, 284 219 741 682 
+coconut, 228 160 745 681 
+potted flowers, 788 664 322 212 
+tree, 930 614 294 4 

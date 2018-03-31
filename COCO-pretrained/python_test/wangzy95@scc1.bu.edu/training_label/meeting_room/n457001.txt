@@ -1,0 +1,16 @@
+painting, 111 95 54 34 
+painting, 239 218 56 38 
+painting, 256 245 57 38 
+chair, 238 123 255 112 
+chair, 92 10 208 91 
+chair, 133 98 96 70 
+conference table, 236 37 221 85 
+bouquet, 24 0 91 39 
+bouquet, 209 187 78 63 
+sofa, 255 201 95 67 
+chair top, 108 75 106 81 
+chair top, 162 133 92 75 
+door, 185 155 88 11 
+shelf, 74 1 102 79 
+ceiling lamp, 248 241 7 3 
+chair part, 255 231 192 113 

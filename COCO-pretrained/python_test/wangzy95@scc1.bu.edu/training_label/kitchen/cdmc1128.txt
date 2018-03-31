@@ -1,0 +1,33 @@
+kitchen, 255 0 255 0 
+counter, 168 2 223 169 
+counter, 129 2 176 143 
+counter, 216 72 132 120 
+dish towel, 246 223 161 133 
+window, 255 235 113 59 
+cabinet, 162 1 255 192 
+cabinet, 254 231 230 143 
+cabinet, 188 74 199 127 
+cabinet, 209 170 93 38 
+cabinet, 210 166 93 36 
+cabinet, 186 74 195 128 
+cabinets, 167 72 126 28 
+coffee pot, 86 74 127 108 
+bowl, 83 51 187 171 
+cake, 48 5 204 184 
+counter top, 51 1 140 125 
+pitcher, 86 73 128 107 
+pot, 65 39 86 21 
+jar, 48 35 187 167 
+jar, 16 1 199 177 
+china cabinet, 139 98 100 52 
+bouquet, 31 5 128 97 
+kettle, 233 214 135 122 
+plant, 253 225 130 94 
+plant, 143 42 32 6 
+basket, 210 190 177 157 
+basket, 229 212 182 159 
+basket, 50 17 57 23 
+basket, 213 171 128 105 
+stove, 50 1 155 129 
+lamp, 193 175 38 28 
+wall outlet, 173 167 112 103 

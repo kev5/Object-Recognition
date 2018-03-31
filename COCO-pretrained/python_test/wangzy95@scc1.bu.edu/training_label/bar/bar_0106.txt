@@ -1,0 +1,9 @@
+bar, 499 2 333 60 
+ceiling, 338 2 108 0 
+wall, 499 0 141 0 
+wall, 142 0 72 1 
+billboard, 409 389 71 38 
+billboard, 375 342 81 47 
+billboard, 330 310 83 59 
+stool, 232 140 333 175 
+stools, 157 0 328 171 

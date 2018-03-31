@@ -1,0 +1,22 @@
+toilet, 144 45 251 128 
+shelf, 224 151 239 96 
+shelf, 135 27 255 1 
+rack, 227 162 79 1 
+towels, 208 151 218 185 
+towels, 212 173 77 51 
+towel, 198 163 45 22 
+towel, 79 34 119 92 
+towel, 209 168 217 187 
+towel, 187 151 213 185 
+towel, 211 193 76 51 
+towel, 191 172 75 50 
+towel, 187 165 42 23 
+towel, 197 180 42 33 
+vase, 189 164 131 107 
+vase, 222 206 41 12 
+vase, 206 199 43 22 
+plant, 132 78 25 1 
+picture frame, 97 70 65 30 
+bottle, 71 58 67 54 
+basket, 99 77 112 99 
+magazine, 54 30 179 139 

@@ -1,0 +1,19 @@
+painting, 200 171 98 57 
+painting, 91 66 94 55 
+painting, 241 227 125 59 
+chair, 200 164 165 129 
+chair, 69 37 175 121 
+night stand, 255 204 255 184 
+magazines, 39 1 249 229 
+window, 154 104 107 39 
+laptop, 166 133 135 114 
+bed, 253 41 247 140 
+pillow, 249 191 185 155 
+magazine, 122 83 189 179 
+wardrobe, 38 1 199 29 
+alarmclock, 246 227 191 181 
+curtain, 157 93 128 36 
+ceiling, 233 0 12 1 
+little bear, 128 118 131 113 
+cabinet dresser, 171 61 168 122 
+radio, 97 77 129 116 

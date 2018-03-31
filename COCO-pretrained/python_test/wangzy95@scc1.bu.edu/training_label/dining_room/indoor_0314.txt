@@ -1,0 +1,20 @@
+chair, 173 6 456 225 
+chair, 326 200 454 217 
+chair occluded, 215 143 255 199 
+chair occluded, 241 205 244 181 
+chair occluded, 378 322 365 196 
+chair occluded, 68 5 316 196 
+table occluded, 364 65 452 246 
+display cabinet, 368 268 249 99 
+picture, 249 229 127 101 
+picture, 250 229 155 132 
+picture, 252 232 184 157 
+window, 168 52 273 71 
+curtain, 203 11 283 19 
+curtain, 510 388 344 1 
+large window, 502 429 336 57 
+carpet, 511 2 456 290 
+wall, 508 327 348 2 
+wall, 329 2 344 1 
+floor, 510 2 455 285 
+lamp, 282 157 107 12 

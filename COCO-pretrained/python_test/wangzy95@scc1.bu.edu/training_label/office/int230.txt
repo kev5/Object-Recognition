@@ -1,0 +1,19 @@
+monitor, 207 109 165 75 
+keyboard, 180 80 197 153 
+mouse, 208 185 202 189 
+notebooks, 255 193 255 197 
+notebooks, 43 0 181 134 
+desk, 255 48 254 146 
+paper, 108 66 75 13 
+paper, 72 46 69 13 
+paper, 102 59 169 153 
+books, 115 77 150 96 
+disks, 226 198 160 152 
+chair part, 86 0 255 184 
+envelope, 69 28 144 91 
+cd, 250 211 177 162 
+calendar, 255 229 93 0 
+mouse pad, 234 171 209 181 
+computer, 256 245 204 109 
+cup, 36 23 132 121 
+window, 25 0 137 1 

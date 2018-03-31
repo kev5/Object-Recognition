@@ -1,0 +1,19 @@
+picture, 174 94 99 50 
+large window, 510 227 180 1 
+table occluded, 314 227 205 173 
+closet crop, 510 419 322 10 
+table, 341 291 188 152 
+table, 270 19 341 206 
+vase, 327 319 162 142 
+flowers, 354 299 153 104 
+chair, 408 345 216 127 
+chair occluded, 291 244 179 118 
+floor lamp, 375 336 155 71 
+sofa occluded, 370 56 341 174 
+lamp, 127 42 225 97 
+telephone, 149 98 237 206 
+ashtray, 232 180 252 229 
+wall, 510 200 210 4 
+wall, 213 2 288 4 
+floor, 510 4 341 173 
+carpet, 451 133 314 173 

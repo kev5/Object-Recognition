@@ -1,0 +1,17 @@
+painting, 14 1 81 20 
+ceiling lamp, 176 108 28 11 
+window, 254 123 98 0 
+chair, 150 21 254 103 
+chair, 255 161 255 101 
+chair, 29 0 203 94 
+chair top, 215 169 107 89 
+chair top, 131 88 107 88 
+table, 252 21 139 94 
+conference table, 233 27 142 107 
+plant, 62 26 100 62 
+cabinet, 86 29 104 97 
+place mat, 209 162 133 119 
+place mat, 133 95 132 123 
+place mat, 133 94 113 108 
+place mat, 197 154 112 108 
+place mat, 211 200 117 112 

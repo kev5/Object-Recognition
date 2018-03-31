@@ -1,0 +1,19 @@
+night table crop, 103 2 534 365 
+bed, 792 39 532 258 
+blanket, 703 452 483 386 
+ledge, 468 359 250 200 
+lamp, 410 383 204 153 
+vase, 35 4 381 291 
+flowers, 103 2 359 140 
+radiator, 625 590 320 221 
+picture, 641 614 60 4 
+picture, 680 664 83 35 
+table occluded, 726 658 291 188 
+chair, 777 713 285 177 
+wall, 796 687 272 4 
+wall, 575 381 344 4 
+wall, 693 577 342 2 
+wall, 383 2 526 2 
+floor, 796 6 534 266 
+pillow, 295 50 404 291 
+pillow, 412 243 324 256 

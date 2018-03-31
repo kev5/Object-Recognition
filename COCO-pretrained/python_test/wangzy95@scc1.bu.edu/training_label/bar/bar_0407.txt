@@ -1,0 +1,26 @@
+ceiling, 456 0 133 0 
+wall, 456 131 355 56 
+wall, 132 0 230 130 
+door occluded, 143 131 206 140 
+lamp, 274 201 211 95 
+lamp, 81 62 200 171 
+lamp, 34 0 51 19 
+lamp, 37 0 100 85 
+lamp, 118 79 121 111 
+bulletin board, 268 198 292 209 
+bar, 391 62 355 201 
+plaque, 327 292 148 113 
+bell, 315 289 90 62 
+basket, 187 132 268 229 
+basket, 208 157 292 240 
+sofa crop, 61 0 253 191 
+seats occluded, 110 62 351 232 
+picture, 169 158 171 151 
+picture, 57 39 171 156 
+glass, 215 62 111 0 
+fire extinguisher, 424 406 353 304 
+floor, 113 0 355 228 
+shelves, 434 346 263 100 
+bottle, 388 374 226 180 
+bottle, 414 402 228 177 
+boxs, 331 256 280 233 

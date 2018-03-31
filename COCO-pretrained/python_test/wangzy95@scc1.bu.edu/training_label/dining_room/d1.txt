@@ -1,0 +1,27 @@
+table, 222 48 217 123 
+table, 224 53 217 124 
+window, 79 0 103 45 
+chair, 138 81 226 138 
+chair, 222 150 242 145 
+chair, 79 47 198 124 
+chair, 149 126 135 117 
+chair, 197 165 142 124 
+door, 174 143 134 44 
+painting, 129 111 91 67 
+painting, 191 185 83 76 
+cup, 141 126 150 140 
+cup, 93 87 135 129 
+cup, 158 149 141 131 
+ceiling lamp, 162 110 49 1 
+cabinet, 32 0 180 118 
+chair top, 118 92 126 110 
+plate, 243 229 95 81 
+plate, 256 244 96 83 
+plate, 181 158 143 136 
+plate, 84 66 137 130 
+buffet, 256 217 254 159 
+buffet, 256 205 173 111 
+china cabinet, 255 215 103 34 
+ceiling, 255 0 33 1 
+bouquet, 130 112 140 126 
+bowl, 231 214 119 109 

@@ -1,0 +1,24 @@
+ceiling lamp, 144 97 112 30 
+rug, 193 29 251 188 
+painting, 229 189 144 104 
+chair, 121 67 231 155 
+pillow, 98 74 194 176 
+chair top, 180 139 217 150 
+chair top, 148 128 159 144 
+chair top, 79 61 164 146 
+table, 164 72 219 158 
+window door, 114 34 187 79 
+side table, 238 178 196 150 
+ceiling, 255 25 81 28 
+ceiling, 254 24 74 30 
+window, 97 44 101 85 
+lamp, 229 211 153 114 
+lamp, 192 177 151 114 
+lamp, 136 128 126 111 
+plant, 59 48 160 144 
+door, 78 41 188 100 
+door, 110 81 162 105 
+door frame, 174 152 161 98 
+wall outlet, 32 27 145 135 
+candles, 214 187 186 169 
+vase, 214 206 152 140 

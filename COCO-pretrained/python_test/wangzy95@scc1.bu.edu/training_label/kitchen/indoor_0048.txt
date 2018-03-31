@@ -1,0 +1,18 @@
+wall, 299 142 213 1 
+wall, 142 2 170 1 
+wall, 77 28 117 11 
+door, 39 14 162 10 
+floor, 299 2 224 117 
+trash, 122 95 161 127 
+sofa occluded, 77 44 124 80 
+chair crop, 33 2 210 127 
+door occluded, 176 151 102 10 
+cupboard, 206 161 38 4 
+cupboard, 260 206 35 3 
+cupboard, 178 140 205 110 
+cupboard, 261 228 224 141 
+cupboard occluded, 298 258 67 3 
+fridge, 299 257 223 46 
+worktop, 264 135 150 97 
+oven, 228 179 224 126 
+tin, 245 231 123 104 

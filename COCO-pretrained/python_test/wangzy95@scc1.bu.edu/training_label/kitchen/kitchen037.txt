@@ -1,0 +1,58 @@
+clock, 858 751 259 110 
+light, 527 369 281 2 
+light, 1053 896 268 2 
+basket, 1288 1179 116 43 
+basket, 229 57 994 874 
+refrigerator, 1397 1237 663 162 
+freezer, 1397 1243 827 643 
+kitchen utensils, 880 813 456 364 
+lemons, 482 456 531 518 
+bowl of fruit, 641 491 654 585 
+vase of flowers, 1071 905 598 437 
+flowers, 966 804 621 565 
+basket of bread, 702 546 528 503 
+basket of bread, 1211 1118 516 477 
+mill, 806 759 327 276 
+plate, 623 561 498 453 
+faucet, 326 254 540 488 
+picture, 283 221 480 411 
+curtain, 212 100 499 181 
+curtain, 480 381 469 180 
+potted plant, 467 406 530 424 
+potted plant, 80 24 555 487 
+potted plant, 700 512 195 73 
+potted plant, 1053 884 195 91 
+potted plant, 913 795 866 721 
+baskets, 79 3 110 25 
+bottle, 174 143 548 473 
+bottle, 726 698 505 428 
+bottle, 214 203 481 425 
+bottles, 1115 1079 502 428 
+pumpkin, 871 776 897 820 
+vase, 761 712 907 801 
+porcelin cookware, 760 646 651 543 
+cabinet, 684 499 447 164 
+cabinet, 687 464 441 135 
+cabinet, 1311 896 441 99 
+window, 469 99 480 178 
+chair, 311 3 1047 795 
+sink, 442 189 562 533 
+porcelin jar, 566 512 519 465 
+counter top, 1176 324 694 573 
+stove top, 923 716 521 494 
+dishwasher, 631 469 602 551 
+cup and saucer, 103 52 563 537 
+napkin, 168 100 564 551 
+soap dish, 359 324 534 516 
+dishtowels, 808 765 430 368 
+tray, 1244 1134 127 34 
+tray, 827 725 875 729 
+jar, 1078 1047 472 436 
+cabinets, 458 5 861 564 
+cabinets, 120 3 477 115 
+kitchen island, 1176 342 1046 639 
+cloth, 938 712 984 870 
+jar of tea, 732 700 328 292 
+metal teapot, 926 894 325 285 
+jar *X, 708 685 512 469 
+morar and pestle, 886 866 325 293 

@@ -1,0 +1,21 @@
+floor, 429 2 378 322 
+painting, 182 116 121 27 
+painting, 460 427 112 4 
+wall, 500 2 378 0 
+book shelf, 500 466 378 160 
+dressor, 95 0 349 72 
+storage box, 67 10 56 34 
+storage box, 68 6 74 52 
+storage box, 456 416 219 180 
+chair, 321 191 367 169 
+pencil cup, 417 400 214 190 
+paper weight, 395 379 214 198 
+monitor, 358 277 200 142 
+mouse, 356 324 216 208 
+key pad, 352 275 212 201 
+book, 416 352 218 208 
+magazines, 499 485 376 313 
+books, 498 487 245 187 
+fax machine, 193 128 201 170 
+desk, 458 108 378 197 
+dried plant, 302 147 204 54 

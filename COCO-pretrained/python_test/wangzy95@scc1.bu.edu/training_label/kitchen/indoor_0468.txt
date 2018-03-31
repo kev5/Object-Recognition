@@ -1,0 +1,27 @@
+ceiling, 344 2 110 -1 
+lamp, 149 113 73 40 
+fridge, 399 279 523 128 
+cupboard, 399 285 145 2 
+cupboard, 152 41 235 96 
+cupboard, 45 2 236 8 
+cupboard, 102 2 502 332 
+handle, 331 318 115 77 
+handle, 349 331 111 73 
+cupboards, 285 192 234 65 
+corner, 196 151 235 100 
+microwave, 214 149 295 260 
+stove, 254 177 309 296 
+oven, 213 168 407 306 
+dishwasher, 167 111 409 307 
+drawers, 279 212 445 319 
+cupboard occluded, 111 66 399 311 
+sink, 91 62 307 298 
+faucet, 87 57 299 267 
+bottle, 67 48 323 272 
+glass, 59 43 329 291 
+glass, 45 28 332 289 
+knives, 144 129 297 255 
+worktop, 282 2 341 291 
+wall, 198 2 385 6 
+wall, 400 195 494 1 
+floor, 399 5 599 367 

@@ -1,0 +1,24 @@
+ceiling, 561 179 57 0 
+bed, 494 225 375 175 
+cushion, 346 305 242 211 
+cushion, 311 251 251 217 
+nighttable, 224 178 292 245 
+lamp, 214 181 251 185 
+lamp, 624 523 313 170 
+window, 564 418 230 43 
+window, 147 2 269 0 
+drawers, 681 500 454 295 
+photo, 673 620 353 280 
+table, 182 84 424 308 
+chair, 105 0 454 309 
+chair occluded, 235 152 395 283 
+doll, 225 165 385 282 
+picture crop, 681 636 88 0 
+picture crop, 681 642 197 93 
+picture occluded, 217 178 206 123 
+decoration, 380 274 175 27 
+wall, 180 0 419 0 
+wall, 349 179 323 16 
+wall, 563 346 318 10 
+wall, 681 560 454 1 
+floor, 614 2 453 280 

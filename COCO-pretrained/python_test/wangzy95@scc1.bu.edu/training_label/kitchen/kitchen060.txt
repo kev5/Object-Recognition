@@ -1,0 +1,47 @@
+dishwasher, 556 364 619 481 
+faucet, 592 466 386 338 
+sink, 758 388 534 324 
+basket of plants, 849 688 411 260 
+vase of flowers, 1283 988 470 125 
+candle, 1294 1272 428 408 
+candle, 1333 1308 473 447 
+candle, 1369 1343 476 452 
+candle, 1398 1379 448 430 
+sun mask, 1398 1311 243 79 
+kettle, 1046 996 419 383 
+urn, 981 883 423 276 
+stove top, 1210 963 458 420 
+champaign bucket, 315 225 473 356 
+champaign, 308 268 367 318 
+pitcher, 444 379 468 375 
+decanter, 398 340 471 361 
+decanter, 356 311 468 340 
+platter of food, 500 141 1049 923 
+bowl of garlic, 513 365 666 603 
+cabinet, 662 399 254 3 
+cabinet, 364 157 589 512 
+cabinet, 644 462 1045 663 
+cabinets, 1213 831 240 2 
+cabinets, 933 547 746 415 
+dried flowers, 167 35 323 161 
+countertop, 642 112 792 555 
+countertop, 1392 863 544 453 
+kitchen island, 1397 868 969 454 
+garlic, 486 395 648 610 
+glass table, 688 5 1050 935 
+plate of food, 1212 1084 499 423 
+flowers, 647 628 336 299 
+object, 715 619 424 405 
+bucket, 891 851 397 370 
+counter top, 941 691 441 396 
+counter top, 549 157 528 454 
+counter ledge, 1400 1286 1049 915 
+bench seating, 544 2 1051 330 
+floor, 1400 616 1048 670 
+wall, 1400 1212 475 3 
+wall, 24 2 43 2 
+wall, 159 2 318 2 
+wall, 609 374 345 2 
+wall, 1209 788 432 1 
+window, 390 156 423 2 
+window, 788 611 371 1 

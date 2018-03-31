@@ -1,0 +1,23 @@
+vase, 245 234 95 73 
+vase, 100 92 103 95 
+vase, 102 96 102 99 
+cushion, 68 44 144 129 
+painting, 57 30 110 84 
+curtain, 175 152 140 50 
+bed, 135 20 191 116 
+bouquet, 103 83 127 103 
+ceiling, 255 0 35 0 
+rug, 174 0 256 227 
+cabinet, 146 73 196 150 
+cabinet, 113 1 81 43 
+ottoman, 127 22 254 222 
+wardrobe, 256 171 197 29 
+wardrobe, 148 114 157 50 
+wardrobe, 222 170 188 34 
+night stand dresser, 21 0 177 130 
+plant, 255 241 126 107 
+basket, 255 233 187 166 
+large bowl, 256 235 157 146 
+window, 174 164 106 54 
+shelves, 255 222 197 29 
+carpet, 255 0 255 164 

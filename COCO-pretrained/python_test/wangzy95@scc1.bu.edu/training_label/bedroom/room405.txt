@@ -1,0 +1,20 @@
+bed, 187 41 217 94 
+box, 254 177 249 207 
+box, 250 186 215 177 
+box, 255 167 254 231 
+box, 240 227 146 137 
+ceiling lamp, 148 96 35 0 
+mirror, 98 45 121 90 
+lamp, 45 25 97 73 
+pillow, 164 128 148 131 
+rug, 185 0 256 190 
+rug, 53 0 219 189 
+picture frame, 97 86 130 119 
+picture frame, 69 59 130 120 
+picture frame, 58 51 133 125 
+dresser, 123 50 150 127 
+curtain, 21 1 185 57 
+curtain, 255 195 171 45 
+bouquet, 228 210 147 114 
+ceiling, 174 1 17 0 
+small table, 244 194 164 141 

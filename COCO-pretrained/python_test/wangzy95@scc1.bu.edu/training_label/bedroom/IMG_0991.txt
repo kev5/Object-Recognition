@@ -1,0 +1,15 @@
+painting, 1577 1283 437 109 
+painting, 535 5 499 55 
+alarm clock, 1098 966 865 808 
+bed, 1722 6 1947 580 
+bed, 2580 1118 1521 491 
+lamp, 1207 793 716 444 
+lamp, 2077 1870 521 284 
+pillow, 769 343 976 681 
+pillow, 432 24 1036 716 
+table occluded, 2314 1775 781 592 
+armchair occluded, 2474 2142 840 592 
+night table occluded, 1189 823 1018 817 
+wall, 2154 6 1332 6 
+wall, 2580 2119 1154 6 
+floor, 2580 12 1947 900 

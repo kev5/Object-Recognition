@@ -1,0 +1,15 @@
+pillow, 196 137 146 119 
+pillow, 142 84 144 120 
+pillow, 216 151 145 116 
+pillow, 159 84 145 113 
+bed, 224 0 229 87 
+wardrobe, 55 1 166 52 
+bench, 125 0 244 167 
+painting, 37 1 48 8 
+vase, 31 10 53 38 
+night stand dresser, 256 212 203 136 
+box, 47 26 51 33 
+window, 210 91 127 16 
+lamp, 252 230 138 94 
+plant, 256 129 89 0 
+carpet, 255 0 255 191 

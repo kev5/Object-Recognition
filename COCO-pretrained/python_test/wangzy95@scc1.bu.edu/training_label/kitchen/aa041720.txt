@@ -1,0 +1,22 @@
+sink, 234 85 164 153 
+sink, 234 79 166 138 
+cabinet, 66 0 101 0 
+cabinet, 66 0 100 0 
+cabinet, 255 232 101 0 
+curtain, 232 66 51 24 
+window, 233 64 107 23 
+window, 227 199 104 51 
+dish rack, 101 13 160 120 
+dish rack, 81 19 160 140 
+cabinets, 255 0 255 169 
+sink faucet, 166 143 156 139 
+air vent, 170 134 10 1 
+counter, 254 0 169 153 
+toaster, 14 1 155 133 
+plates, 33 13 141 121 
+utensils, 99 86 154 130 
+dish towel, 71 47 142 126 
+soap, 176 164 157 152 
+soap, 101 93 160 147 
+wall outlet, 255 250 136 124 
+cutting board, 88 41 138 121 

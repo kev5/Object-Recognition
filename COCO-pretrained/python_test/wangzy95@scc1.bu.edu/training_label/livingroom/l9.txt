@@ -1,0 +1,36 @@
+painting, 68 48 112 91 
+painting, 228 193 111 72 
+painting, 44 26 112 89 
+painting, 21 1 114 91 
+painting, 176 169 99 86 
+painting, 144 135 102 93 
+small table, 182 58 227 183 
+small table, 85 65 161 133 
+small table, 255 241 187 147 
+sofa, 254 0 255 212 
+ottoman, 65 8 200 157 
+chair, 208 160 175 120 
+chair, 42 1 185 129 
+armchair, 119 87 158 119 
+armchair, 69 27 157 123 
+door frame, 177 133 145 65 
+pedestal, 146 129 143 99 
+lamp, 105 90 117 99 
+lamp, 239 220 130 101 
+lamp, 176 168 73 66 
+candles, 99 77 185 162 
+table, 240 162 173 121 
+paintings, 256 250 106 72 
+plant, 147 125 119 100 
+plant, 178 154 118 101 
+air vent, 112 101 77 69 
+air vent, 202 190 69 60 
+side table, 125 112 146 118 
+vase, 118 113 120 110 
+pot, 110 103 117 114 
+decoration, 116 107 107 99 
+decoration, 176 142 201 188 
+magazines, 50 26 170 158 
+papers, 215 190 130 120 
+ceiling, 254 1 59 1 
+candle, 238 232 129 118 

@@ -1,0 +1,19 @@
+window, 500 278 123 1 
+window door, 285 222 122 3 
+window door, 618 499 116 3 
+cistern occluded, 293 195 358 216 
+wc, 437 249 459 311 
+bide, 389 232 523 385 
+bath crop, 799 605 523 271 
+faucet, 748 692 288 244 
+washbasin crop, 151 3 388 251 
+countertop, 252 2 436 241 
+closet, 244 3 523 288 
+handle, 118 82 511 408 
+handle, 99 56 521 430 
+vase, 118 66 253 162 
+plant, 142 55 244 40 
+towel occluded, 171 105 249 182 
+wall, 800 263 401 1 
+wall, 271 3 522 1 
+floor, 647 74 523 388 

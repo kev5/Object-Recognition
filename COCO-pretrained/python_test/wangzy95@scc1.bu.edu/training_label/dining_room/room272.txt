@@ -1,0 +1,29 @@
+hanging lamp, 177 98 120 3 
+candle, 203 184 229 135 
+sliding glass door, 111 0 210 102 
+painting, 215 188 140 110 
+door, 256 240 191 95 
+chair top, 246 199 213 168 
+chair top, 81 40 252 163 
+chair top, 38 3 255 194 
+curtain, 146 1 98 43 
+table, 256 50 256 185 
+plate, 253 212 242 225 
+plate, 126 91 227 204 
+bouquet, 178 105 219 139 
+window, 254 231 183 82 
+window, 107 68 186 105 
+window, 62 13 194 103 
+window, 8 0 197 103 
+wall outlet, 226 219 145 138 
+ceiling, 255 1 52 1 
+glass, 237 222 238 207 
+glass, 113 101 220 195 
+glass, 97 89 194 176 
+spoon, 131 112 232 223 
+napkin, 231 183 252 236 
+napkin, 100 71 219 208 
+napkin, 219 193 212 203 
+place mat, 138 74 233 208 
+place mat, 256 188 253 226 
+place mat, 101 69 203 194 

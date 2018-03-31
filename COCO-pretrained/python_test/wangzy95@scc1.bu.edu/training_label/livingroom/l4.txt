@@ -1,0 +1,14 @@
+table lamp, 179 128 135 61 
+pillow, 79 37 147 115 
+pillow, 212 174 158 124 
+sofa, 101 0 205 105 
+rug, 144 1 255 206 
+armchair, 256 146 234 110 
+ottoman, 192 86 243 161 
+painting, 157 77 75 13 
+lamp, 178 127 135 62 
+plant, 80 17 105 50 
+window, 23 0 112 9 
+small table, 176 107 162 127 
+book, 152 116 141 129 
+wall outlet, 254 249 86 75 

@@ -1,0 +1,12 @@
+window, 448 305 111 2 
+picture, 164 134 81 27 
+night table occluded, 125 31 224 157 
+curtain, 285 188 125 2 
+lamp, 98 59 169 104 
+bed, 423 102 335 111 
+bed occluded, 285 20 354 174 
+door, 36 2 353 16 
+wall, 199 2 250 1 
+wall, 448 197 276 1 
+wall, 448 419 354 78 
+floor, 427 2 353 196 

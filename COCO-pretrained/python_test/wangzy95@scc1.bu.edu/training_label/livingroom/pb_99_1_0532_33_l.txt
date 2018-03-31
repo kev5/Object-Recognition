@@ -1,0 +1,35 @@
+candle, 170 160 207 184 
+candle, 83 78 180 154 
+candle, 90 85 177 154 
+plant, 192 170 210 175 
+plant, 224 143 158 56 
+plant, 55 0 163 73 
+chair, 164 138 196 156 
+chair, 138 109 189 149 
+chair, 200 169 192 152 
+armchair, 147 66 256 198 
+armchair, 255 171 254 180 
+armchair, 103 59 178 152 
+table, 201 157 255 200 
+table, 176 132 169 156 
+small table, 131 57 196 176 
+small table, 62 30 202 164 
+lamp, 55 28 166 131 
+lamp, 20 0 144 124 
+side table, 46 15 255 201 
+sofa, 42 0 240 161 
+display case, 256 206 194 88 
+curtain, 191 10 154 0 
+pillow, 39 3 194 177 
+pillow, 32 4 180 163 
+vase, 207 200 184 171 
+vase, 239 231 128 115 
+decoration, 123 85 191 176 
+statue, 39 21 247 216 
+decorative plate, 239 223 165 154 
+candles, 233 225 126 103 
+picture frame, 238 227 151 141 
+picture frame, 255 251 169 156 
+window, 154 35 166 36 
+wall hanging, 246 203 65 40 
+wall hanging, 255 230 75 58 

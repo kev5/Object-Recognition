@@ -1,0 +1,23 @@
+window, 208 170 131 46 
+poster, 97 64 95 50 
+sofa, 202 16 207 117 
+cushion, 125 63 168 131 
+box occluded, 77 45 216 194 
+shelves, 281 208 194 43 
+basket occluded, 256 242 194 163 
+swivel chair, 299 255 207 119 
+photograph, 132 125 57 47 
+photograph, 135 123 71 63 
+photograph, 131 123 87 76 
+photograph, 153 142 58 50 
+photograph, 167 159 60 50 
+photograph, 153 141 73 64 
+photograph, 167 157 73 63 
+photograph, 168 155 85 77 
+table occluded, 42 2 218 167 
+bed crop, 299 135 225 204 
+wall, 12 2 225 1 
+wall, 170 12 180 1 
+wall, 230 170 165 2 
+wall, 299 225 194 1 
+floor, 298 2 225 165 

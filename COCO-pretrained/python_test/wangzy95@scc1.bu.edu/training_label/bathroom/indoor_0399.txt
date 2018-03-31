@@ -1,0 +1,10 @@
+mirror crop, 35 2 242 2 
+picture, 326 237 176 81 
+cistern occluded, 162 64 422 321 
+towels, 126 36 340 263 
+washbasin crop, 151 2 512 397 
+faucet, 51 2 457 401 
+wc, 276 145 512 400 
+wall, 134 3 511 1 
+wall, 338 123 485 3 
+floor, 338 24 512 421 

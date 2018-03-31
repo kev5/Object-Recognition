@@ -1,0 +1,25 @@
+bath, 235 48 237 167 
+painting, 131 81 113 69 
+bathtub, 238 45 242 166 
+sink, 256 205 254 154 
+curtain, 237 133 65 1 
+window, 238 131 143 1 
+window, 205 149 137 25 
+window, 239 207 145 3 
+towel basket, 75 0 256 195 
+shower, 62 1 218 46 
+bath faucet, 223 194 184 174 
+towel, 76 14 256 211 
+towel, 31 1 217 197 
+towel, 37 23 211 199 
+basket, 22 0 245 218 
+vase, 86 79 169 160 
+vase, 96 88 169 160 
+vase, 255 246 131 114 
+candle, 98 91 167 123 
+candle, 87 82 157 123 
+bouquet, 82 62 170 117 
+candel, 256 250 118 78 
+ceiling, 233 0 26 0 
+floor, 249 0 256 236 
+sink faucet, 256 246 167 149 

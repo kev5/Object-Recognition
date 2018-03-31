@@ -1,0 +1,5 @@
+toaster, 1707 1595 558 423 
+coffee machine, 1522 1422 551 352 
+microwave, 1687 1387 743 587 
+table leg, 1032 977 1145 660 
+book, 902 434 805 682 

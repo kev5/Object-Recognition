@@ -1,0 +1,24 @@
+window, 59 17 124 16 
+table, 165 0 254 210 
+chair top, 90 40 212 176 
+chair top, 226 167 254 217 
+desk, 250 108 230 129 
+laptop, 178 141 142 113 
+cabinet, 40 0 227 140 
+chair, 255 203 230 161 
+chair, 136 87 202 123 
+magazines, 179 136 170 156 
+paper, 195 170 154 146 
+printer, 123 95 130 110 
+file box, 146 121 130 108 
+cabinets, 255 108 115 76 
+picture frame, 202 188 143 129 
+ceiling lamp, 138 125 6 0 
+ceiling lamp, 86 73 22 18 
+ceiling lamp, 24 11 12 7 
+ceiling, 195 1 28 0 
+monitor, 178 151 136 112 
+keyboard, 172 142 142 132 
+boxes, 111 87 153 109 
+mouse, 185 178 143 138 
+mouse pad, 187 171 145 139 

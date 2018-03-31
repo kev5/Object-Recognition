@@ -1,0 +1,9 @@
+mirror, 421 76 317 113 
+mirror, 67 8 315 108 
+electric toothbrush, 64 24 427 334 
+faucet, 287 196 412 360 
+bathroom sink, 325 133 446 402 
+light fixture, 378 151 116 36 
+Cabinet, 226 117 640 508 
+Drawer, 113 15 610 500 
+drawer, 455 335 635 524 

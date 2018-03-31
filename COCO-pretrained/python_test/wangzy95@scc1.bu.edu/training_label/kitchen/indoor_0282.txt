@@ -1,0 +1,17 @@
+rug, 367 268 313 250 
+stove, 296 240 237 117 
+fridge occluded, 242 211 254 43 
+cupboard, 362 299 282 135 
+cupboard, 418 210 77 1 
+vase, 85 2 301 199 
+flowers, 122 2 214 108 
+table occluded, 171 2 341 213 
+window, 193 35 145 2 
+armchair crop, 255 129 339 226 
+wall, 510 383 339 1 
+wall, 416 360 298 4 
+wall, 370 208 235 1 
+wall, 210 2 278 2 
+microwave, 385 327 130 93 
+worktop, 398 295 180 112 
+floor, 388 4 341 203 

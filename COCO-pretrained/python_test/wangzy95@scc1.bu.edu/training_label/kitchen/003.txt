@@ -1,0 +1,23 @@
+chair, 192 81 431 250 
+book, 233 167 252 226 
+clock, 468 416 84 40 
+table, 362 160 412 221 
+chair leg, 120 98 430 357 
+chair leg, 192 164 429 357 
+table leg, 275 260 412 291 
+table leg, 187 163 365 260 
+table leg, 359 335 367 264 
+cabinet, 283 217 150 11 
+cabinet, 210 145 105 13 
+door, 51 2 423 2 
+plastic chair, 567 457 374 222 
+adjustable lamp, 572 418 431 122 
+wardrobe, 472 345 327 79 
+counter, 284 66 195 156 
+oven, 212 171 139 106 
+window, 136 83 157 25 
+painting, 65 35 100 36 
+painting, 65 38 166 106 
+painting, 311 285 139 105 
+painting, 344 321 143 106 
+wall, 574 246 339 0 

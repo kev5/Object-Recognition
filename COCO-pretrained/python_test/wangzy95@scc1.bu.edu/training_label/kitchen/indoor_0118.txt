@@ -1,0 +1,17 @@
+wall, 129 23 191 2 
+wall, 299 127 225 1 
+floor, 249 34 224 177 
+door, 37 2 225 1 
+cupboard, 127 66 71 5 
+cupboard, 68 25 74 5 
+cupboard, 184 147 32 4 
+cupboard, 255 183 74 4 
+cupboard, 218 149 225 138 
+cupboard, 111 34 214 123 
+extractor hood, 183 135 52 29 
+fridge, 298 218 224 62 
+worktop, 218 151 158 126 
+worktop, 148 31 130 108 
+cutlery, 214 192 134 88 
+stove, 194 113 225 116 
+sink, 67 31 127 111 

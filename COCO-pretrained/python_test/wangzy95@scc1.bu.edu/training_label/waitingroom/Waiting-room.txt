@@ -1,0 +1,21 @@
+ceiling, 174 12 7 0 
+showcase, 196 126 211 40 
+picture, 114 74 85 57 
+picture, 114 75 117 90 
+picture, 297 243 117 51 
+window, 35 0 162 30 
+plant pot, 61 37 204 179 
+plant, 79 8 179 75 
+plant, 343 276 191 130 
+armchair, 56 0 232 145 
+armchair, 123 64 214 135 
+armchair, 279 223 222 141 
+armchair occluded, 359 296 208 153 
+armchair crop, 359 297 252 187 
+table, 247 161 269 192 
+book occluded, 213 168 249 231 
+wall, 345 32 200 0 
+wall, 39 0 210 0 
+wall, 359 339 249 0 
+floor, 359 0 270 183 
+statue, 156 133 39 12 

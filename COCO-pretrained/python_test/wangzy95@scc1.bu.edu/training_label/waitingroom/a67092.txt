@@ -1,0 +1,23 @@
+door, 148 124 76 42 
+wall, 207 27 113 1 
+wall, 256 244 103 29 
+arch, 256 0 112 0 
+picture, 101 88 49 33 
+picture, 49 40 69 52 
+picture, 101 88 84 71 
+armchair occluded, 138 87 135 88 
+armchair occluded, 86 34 136 92 
+armchair occluded, 39 0 118 96 
+armchair occluded, 255 218 112 84 
+floor, 256 0 256 119 
+handrail, 212 164 105 81 
+handrail, 147 75 112 84 
+sofa occluded, 182 106 142 96 
+sofa occluded, 256 183 142 93 
+table occluded, 93 58 128 117 
+table occluded, 104 60 165 127 
+table occluded, 230 137 256 187 
+armchair, 77 0 190 116 
+armchair, 188 115 172 105 
+armchair crop, 255 210 238 157 
+lamp, 132 106 29 2 

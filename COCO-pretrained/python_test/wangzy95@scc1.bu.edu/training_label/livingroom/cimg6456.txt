@@ -1,0 +1,13 @@
+candle, 395 367 348 303 
+pillow, 189 48 342 249 
+pillow, 261 201 297 251 
+chair, 628 544 332 183 
+picture, 222 145 128 29 
+lamp, 293 272 69 28 
+vase, 354 332 337 282 
+flowers, 395 295 281 209 
+art, 88 9 129 1 
+ceiling light, 431 417 14 7 
+windows, 640 378 173 11 
+plant, 389 233 224 64 
+giraffe, 322 299 328 274 

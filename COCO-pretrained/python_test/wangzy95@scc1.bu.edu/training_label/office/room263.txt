@@ -1,0 +1,24 @@
+monitor, 208 169 122 89 
+map, 174 113 112 66 
+table, 58 0 255 165 
+table, 256 218 255 201 
+plant, 23 1 159 130 
+chair, 161 95 233 138 
+chair, 96 24 255 166 
+window, 26 0 157 43 
+chair top, 58 19 166 147 
+ceiling, 254 13 13 1 
+desk, 220 80 212 121 
+bookshelves, 83 47 112 60 
+file cabinet, 86 43 168 113 
+bookshelf, 254 221 205 44 
+phone, 152 128 140 113 
+printer, 77 48 114 94 
+keyboard, 170 130 146 139 
+paper, 217 192 147 142 
+pitcher, 103 93 125 107 
+computer, 128 93 144 133 
+books, 150 123 155 151 
+mouse, 185 178 146 141 
+boxes, 255 227 48 28 
+wall outlet, 40 36 136 127 

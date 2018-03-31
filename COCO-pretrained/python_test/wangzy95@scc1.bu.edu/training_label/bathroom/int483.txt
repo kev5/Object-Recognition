@@ -1,0 +1,15 @@
+window, 184 128 75 1 
+sink, 89 15 142 86 
+sink, 91 14 145 82 
+mirror, 82 11 41 1 
+bath tub, 242 123 254 112 
+sink faucet, 57 46 101 85 
+shelf, 80 15 68 60 
+bath faucet, 213 156 197 144 
+wall outlet, 118 101 79 68 
+pipe, 58 47 147 127 
+pipe, 189 174 251 206 
+pipe, 174 164 254 176 
+pipe, 205 193 252 175 
+floor, 156 0 255 171 
+floor, 256 208 255 200 

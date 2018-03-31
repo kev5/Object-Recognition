@@ -1,0 +1,22 @@
+conference table, 255 4 227 161 
+projection screen, 93 0 161 77 
+podium, 180 148 172 145 
+chair, 179 136 232 175 
+chair, 216 177 224 171 
+chair, 249 214 218 169 
+chair, 89 45 231 173 
+chair, 49 27 220 168 
+chair, 32 10 213 165 
+table, 239 180 155 149 
+table, 235 179 161 147 
+ceiling, 255 1 88 0 
+chair top, 253 243 157 148 
+chair top, 251 239 164 157 
+projector, 138 118 78 59 
+ceiling lamp, 228 151 40 16 
+ceiling lamp, 94 51 66 49 
+ceiling lamp, 30 0 78 66 
+ceiling lamp, 199 152 76 62 
+ceiling lamp, 194 160 89 80 
+air vent, 186 158 19 12 
+air vent, 93 71 44 38 

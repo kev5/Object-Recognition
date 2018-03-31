@@ -1,0 +1,18 @@
+cupboards, 482 111 96 1 
+sink, 283 200 219 190 
+stove, 180 86 291 173 
+fridge occluded, 466 384 295 99 
+bowl, 473 416 106 68 
+cupboards occluded, 272 142 283 203 
+tray occluded, 379 316 200 155 
+dish rack, 357 290 215 180 
+faucet, 278 254 196 173 
+glass, 378 319 339 244 
+dishwasher occluded, 382 272 312 231 
+worktop, 389 140 250 181 
+bottle, 251 237 189 150 
+table crop, 378 62 338 257 
+glass crop, 304 240 336 257 
+wall, 155 2 338 2 
+wall, 510 154 332 1 
+floor, 510 10 341 266 

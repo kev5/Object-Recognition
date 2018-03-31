@@ -1,0 +1,19 @@
+conference table, 225 55 164 91 
+plant, 242 195 108 48 
+chair, 131 0 254 146 
+chair, 254 166 254 154 
+chair, 39 2 151 118 
+chair, 255 208 176 117 
+table, 219 52 92 84 
+chair top, 244 218 132 108 
+chair top, 203 189 107 93 
+chair top, 56 30 141 105 
+chair top, 72 52 120 100 
+chair top, 86 69 109 94 
+chair top, 105 87 100 90 
+chair top, 152 128 94 87 
+chair top, 186 171 100 92 
+chair top, 220 201 118 98 
+ceiling lamp, 152 125 36 6 
+lighting, 77 57 119 99 
+ceiling, 255 17 15 0 

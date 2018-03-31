@@ -1,0 +1,12 @@
+lamp, 84 61 139 111 
+painting, 29 0 110 65 
+armchair, 243 171 202 125 
+armchair, 256 152 254 168 
+bouquet, 256 219 185 144 
+bed, 166 0 253 115 
+small table, 255 208 197 170 
+curtain, 254 116 153 1 
+pillow, 40 1 152 133 
+pillow, 68 37 141 128 
+window, 216 139 158 21 
+ceiling, 196 0 37 0 

@@ -1,0 +1,11 @@
+night table, 78 2 194 86 
+lamp, 60 20 95 15 
+lamp, 299 264 74 12 
+clock, 272 258 74 62 
+night table occluded, 299 246 92 66 
+bed crop, 299 89 224 35 
+cushion, 240 190 85 50 
+cushion, 187 136 90 52 
+wall, 14 2 224 66 
+wall, 299 2 162 1 
+floor, 298 12 224 127 

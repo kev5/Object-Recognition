@@ -1,0 +1,16 @@
+bed, 197 1 243 93 
+window, 135 97 118 47 
+window, 218 182 83 33 
+wardrobe, 101 41 129 51 
+pillow, 48 7 157 127 
+pillow, 18 0 163 113 
+pillow, 64 43 145 127 
+box, 81 55 53 40 
+plant, 95 75 55 36 
+lamp, 25 10 55 31 
+ceiling, 242 23 20 0 
+door, 256 238 88 2 
+carpet, 255 2 256 156 
+wall outlet, 146 142 126 119 
+ceiling lamp, 129 123 16 13 
+ceiling lamp, 74 65 16 14 

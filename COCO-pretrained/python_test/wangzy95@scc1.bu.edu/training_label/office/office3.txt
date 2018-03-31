@@ -1,0 +1,20 @@
+monitor, 135 100 133 98 
+monitor, 67 50 114 93 
+keyboard, 127 95 154 131 
+keyboard, 41 8 136 121 
+chair, 204 126 255 145 
+computer, 110 59 233 172 
+desk, 238 32 213 114 
+desk, 67 0 159 101 
+window, 188 119 69 13 
+window, 62 12 77 10 
+file box, 212 181 139 121 
+statue, 53 41 75 35 
+books, 72 56 73 56 
+shelf, 79 53 129 108 
+shelf, 185 20 98 59 
+briefcase, 31 0 111 96 
+footrest, 48 10 201 175 
+vase, 147 141 81 69 
+vase, 155 149 81 70 
+vase, 163 156 83 70 

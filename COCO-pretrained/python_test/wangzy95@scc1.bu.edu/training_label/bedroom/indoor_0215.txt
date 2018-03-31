@@ -1,0 +1,18 @@
+window, 173 137 124 7 
+mirror, 272 225 87 26 
+bed, 299 33 240 70 
+pillow occluded, 82 44 153 106 
+cushion, 118 70 155 92 
+cushion, 140 105 133 84 
+cushion, 136 114 145 110 
+picture, 120 106 52 13 
+picture crop, 14 2 49 1 
+night table crop, 76 10 240 173 
+lamp, 49 4 194 71 
+lamp, 137 121 102 66 
+lamp, 285 263 106 73 
+curtain, 153 140 119 10 
+chest of drawers occluded, 299 189 133 105 
+wall, 299 133 138 1 
+wall, 133 2 186 1 
+wall, 16 2 240 4 

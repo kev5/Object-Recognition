@@ -1,0 +1,20 @@
+TELEPHONE, 250 185 238 197 
+window, 148 76 116 50 
+lamp, 52 17 142 92 
+lamp, 246 190 155 76 
+small table, 108 0 241 162 
+small table, 256 130 256 203 
+ceiling, 254 0 57 0 
+pillow, 168 121 156 117 
+pillow, 95 51 151 114 
+pillow, 243 183 197 127 
+sofa, 180 26 199 115 
+sofa, 256 106 255 126 
+phone, 252 182 237 195 
+box, 57 34 180 159 
+wardrobe, 21 0 166 75 
+paper, 182 158 230 213 
+fan, 47 1 26 0 
+pen, 184 175 237 221 
+vase, 199 188 149 142 
+magazines, 208 183 154 147 

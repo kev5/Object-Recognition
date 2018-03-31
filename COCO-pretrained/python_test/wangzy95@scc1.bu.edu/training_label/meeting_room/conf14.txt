@@ -1,0 +1,33 @@
+conference table, 229 93 255 126 
+chair top, 228 194 160 117 
+chair top, 190 162 150 112 
+chair top, 165 142 140 110 
+chair top, 146 128 134 108 
+chair top, 107 81 127 107 
+chair, 160 85 255 127 
+chair, 255 179 255 142 
+chair, 94 68 201 120 
+chair, 78 59 182 115 
+bookshelves, 154 1 155 52 
+bookshelves, 255 154 164 37 
+clock, 82 54 49 21 
+ceiling lamp, 156 119 18 1 
+ceiling lamp, 20 8 6 1 
+books, 83 46 91 73 
+books, 44 6 105 87 
+books, 119 84 112 93 
+books, 119 85 92 75 
+books, 151 121 77 66 
+books, 45 5 128 109 
+books, 44 8 149 132 
+books, 151 120 97 82 
+books, 45 4 71 61 
+books, 168 154 92 77 
+books, 168 155 109 96 
+books, 188 170 84 70 
+books, 210 190 85 68 
+books, 209 188 104 89 
+books, 238 211 112 91 
+books, 239 213 88 70 
+books, 240 211 69 54 
+ceiling, 210 0 24 0 

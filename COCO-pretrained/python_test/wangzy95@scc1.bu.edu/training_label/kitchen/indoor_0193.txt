@@ -1,0 +1,19 @@
+fridge, 273 205 208 40 
+basket, 146 119 184 167 
+bottle, 141 125 174 147 
+sink, 287 245 149 127 
+cupboard, 280 227 224 128 
+cupboard, 81 36 224 141 
+cupboard, 123 72 181 102 
+cupboard, 91 25 68 1 
+worktop, 288 228 189 115 
+stove, 114 32 224 90 
+dishcloth, 111 93 178 133 
+pressure cooker, 80 39 123 99 
+microwave, 102 51 110 76 
+extractor hood, 75 27 50 23 
+wall, 274 92 175 1 
+wall, 299 261 222 1 
+wall, 100 20 223 2 
+wall, 42 2 224 1 
+floor, 296 44 224 177 

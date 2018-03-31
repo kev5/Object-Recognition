@@ -1,0 +1,28 @@
+picture, 278 203 129 0 
+bottle, 114 99 66 16 
+bottle, 183 159 76 21 
+bottle, 166 146 72 39 
+bottle, 91 75 97 50 
+bottle, 137 121 168 125 
+bottle, 151 134 168 133 
+bottle, 170 151 169 134 
+bottle, 122 112 224 185 
+bottle, 418 406 109 83 
+shelf, 377 230 152 134 
+shelf, 381 243 187 175 
+shelf, 198 96 180 168 
+shelf, 376 243 224 216 
+showcase, 455 85 293 65 
+bottles, 375 234 144 114 
+glasses, 368 231 178 147 
+glasses, 224 181 332 300 
+glasses, 372 244 216 188 
+billboard, 244 200 262 160 
+wall, 499 0 332 1 
+person crop, 499 376 333 151 
+person crop, 402 254 330 208 
+person occluded, 444 380 331 202 
+person occluded, 201 94 332 194 
+bar, 255 170 333 298 
+botlle, 125 112 168 138 
+decoration, 306 280 90 25 

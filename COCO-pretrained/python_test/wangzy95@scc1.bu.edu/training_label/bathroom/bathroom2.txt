@@ -1,0 +1,16 @@
+Bunch flowers, 200 149 143 105 
+toilet, 125 82 256 200 
+sink faucet, 255 226 187 163 
+sink, 255 168 210 178 
+light, 141 126 103 76 
+soap, 214 190 173 161 
+mirror, 255 149 152 1 
+shower curtain, 131 91 201 42 
+towel, 19 3 172 113 
+cabinet, 254 126 254 178 
+shower, 134 1 238 0 
+bouquet, 196 155 167 107 
+counter, 254 122 242 164 
+ceiling lamp, 74 63 34 26 
+picture frame, 143 125 154 133 
+ceiling, 145 5 39 0 

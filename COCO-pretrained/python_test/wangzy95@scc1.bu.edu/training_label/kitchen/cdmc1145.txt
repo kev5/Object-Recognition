@@ -1,0 +1,42 @@
+basket, 152 84 248 198 
+basket, 204 185 24 9 
+cabinet, 255 150 97 13 
+cabinet, 87 43 99 27 
+cabinet, 83 44 97 32 
+washing machine, 212 127 225 123 
+dryer, 251 178 242 126 
+cabinets, 130 1 223 137 
+cabinets, 250 152 74 19 
+cabinets, 255 247 242 14 
+window, 36 1 114 35 
+bouquet, 80 58 133 108 
+towels, 115 95 107 91 
+towels, 144 122 84 70 
+towels, 140 89 220 199 
+shelves, 151 83 135 38 
+shelf, 248 151 98 67 
+jug, 136 124 107 85 
+sink, 54 1 136 131 
+sink faucet, 30 14 133 115 
+picture frame, 94 75 32 16 
+picture frame, 233 212 18 0 
+picture frame, 255 229 16 0 
+plant, 169 120 36 17 
+plant, 130 104 36 16 
+iron, 116 103 83 65 
+can, 150 143 81 62 
+can, 150 144 107 88 
+can, 93 88 106 92 
+box, 189 172 94 82 
+box, 149 135 127 113 
+bottle, 222 215 93 73 
+bottle, 214 205 95 71 
+bottle, 136 129 133 116 
+bottle, 58 50 132 121 
+spray bottle, 106 97 128 112 
+jar, 51 44 132 128 
+vase, 32 23 113 101 
+vase, 20 14 114 108 
+vase, 11 3 115 109 
+dish towel, 110 89 145 128 
+ceiling, 157 90 10 1 

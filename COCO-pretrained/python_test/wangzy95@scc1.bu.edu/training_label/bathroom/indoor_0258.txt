@@ -1,0 +1,17 @@
+ceiling, 211 2 48 1 
+curtain, 161 2 434 40 
+rail, 150 2 57 37 
+fluorescent light, 289 139 56 1 
+mirror, 264 149 234 35 
+washbasin, 229 98 333 250 
+faucet, 188 161 287 263 
+pipe, 213 165 375 315 
+cistern occluded, 274 223 436 325 
+bucket occluded, 226 175 422 378 
+wc, 263 146 512 416 
+wall, 288 142 438 1 
+wall, 137 102 49 33 
+wall, 28 2 512 69 
+shower occluded, 158 13 445 343 
+door, 289 262 512 54 
+floor, 266 29 512 391 

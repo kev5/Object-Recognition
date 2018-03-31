@@ -1,0 +1,25 @@
+ceiling, 307 42 31 1 
+cupboard, 168 51 167 55 
+cupboard, 225 130 130 43 
+extractor hood, 227 133 154 128 
+cupboards, 508 224 174 10 
+sink, 497 352 281 241 
+faucet, 487 439 261 221 
+coffee marker, 375 337 251 190 
+toaster, 326 280 246 206 
+blender, 272 241 244 181 
+teapot, 227 204 232 203 
+microwave occluded, 94 53 236 184 
+cupboard occluded, 103 58 304 244 
+cupboard occluded, 242 200 331 255 
+cupboard occluded, 502 345 386 275 
+stove occluded, 249 101 326 193 
+dishwasher occluded, 345 242 354 262 
+worktop, 502 200 282 225 
+worktop, 162 55 247 215 
+open plan, 500 16 388 297 
+telephone, 63 51 173 128 
+wall, 99 42 311 2 
+wall, 508 96 388 2 
+wall, 57 2 313 1 
+wall, 25 2 386 2 

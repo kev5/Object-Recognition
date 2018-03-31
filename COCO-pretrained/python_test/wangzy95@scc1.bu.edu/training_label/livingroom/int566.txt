@@ -1,0 +1,25 @@
+painting, 75 25 71 5 
+painting, 154 101 113 47 
+plant, 255 199 123 62 
+plant, 34 10 156 138 
+plant, 201 171 160 128 
+lamp, 28 0 157 102 
+pillow, 82 26 238 173 
+pillow, 73 42 167 138 
+pillow, 80 54 164 133 
+pillow, 92 75 164 137 
+pillow, 99 84 161 135 
+pillow, 151 128 155 131 
+pillow, 158 144 152 123 
+pillow, 174 157 147 123 
+sofa, 196 32 201 121 
+sofa, 147 0 254 158 
+small table, 33 1 173 151 
+small table, 230 138 230 164 
+box, 221 197 178 167 
+chair, 255 227 182 124 
+chair, 231 212 165 120 
+bouquet, 179 147 184 148 
+table, 255 207 135 123 
+counter, 213 178 114 108 
+counter, 209 168 127 116 

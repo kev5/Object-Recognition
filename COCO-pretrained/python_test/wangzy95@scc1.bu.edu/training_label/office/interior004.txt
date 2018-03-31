@@ -1,0 +1,25 @@
+monitor, 216 149 124 60 
+chair, 256 153 254 97 
+folder, 168 101 142 129 
+paper, 229 182 132 124 
+books, 248 209 44 23 
+books, 74 42 149 128 
+books, 118 65 131 115 
+books, 255 243 86 54 
+painting, 175 119 31 0 
+painting, 66 0 34 0 
+desk, 231 66 254 113 
+keyboard, 227 172 163 144 
+pens, 153 148 128 100 
+side table, 149 7 208 86 
+files, 120 40 98 54 
+files, 143 110 91 53 
+magazines, 138 121 76 54 
+book, 71 40 183 162 
+instrument, 37 13 99 49 
+papers, 100 78 68 51 
+magazine, 75 52 78 59 
+magazine, 70 47 64 50 
+bookshelf, 256 196 119 0 
+pencil, 226 199 130 127 
+rug, 70 10 256 239 

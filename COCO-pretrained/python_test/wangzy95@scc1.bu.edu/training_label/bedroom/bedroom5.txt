@@ -1,0 +1,7 @@
+bed, 572 84 424 151 
+lamp, 454 394 163 96 
+lamp, 95 0 324 63 
+window, 136 0 210 21 
+electricity contact, 599 589 261 244 
+pillow, 505 379 229 161 
+wall, 640 279 329 1 

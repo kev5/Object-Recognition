@@ -1,0 +1,37 @@
+painting, 621 419 229 7 
+painting, 876 748 419 307 
+painting, 273 147 404 300 
+fireplace, 681 351 597 342 
+sculpture *X, 382 258 632 255 
+sculpture *X, 634 564 634 457 
+bird figure, 233 156 648 521 
+bird figure, 468 393 652 522 
+table lamp, 143 12 459 202 
+table lamp, 1002 836 408 187 
+pillow, 1003 807 577 384 
+pillow, 860 739 519 378 
+pillow, 1025 927 717 530 
+pillow, 342 61 719 674 
+pillow, 35 3 539 408 
+couch, 1025 692 768 371 
+pokers *fireplace tools, 741 672 581 388 
+armchair, 131 3 706 409 
+armchair, 499 3 768 681 
+coffee tablwe, 533 58 768 552 
+books, 71 3 187 133 
+books, 58 1 359 259 
+glass sculpture *X, 142 109 459 382 
+glass sculpture *X, 205 151 460 382 
+table, 267 80 584 426 
+plant, 470 213 537 338 
+basket of acorns, 557 450 586 464 
+rug, 728 528 768 635 
+box, 71 2 73 25 
+plate, 259 210 573 552 
+bowl, 466 403 674 650 
+golden figurine, 250 223 657 586 
+figurine, 375 342 655 586 
+wall, 1024 72 530 1 
+Lios, 932 700 590 430 
+Lios, 635 401 227 7 
+Cas, 550 483 180 14 

@@ -1,0 +1,10 @@
+bongo drums, 498 468 417 374 
+lamp, 215 165 290 239 
+sofa, 326 2 480 291 
+Door, 469 404 311 153 
+Door, 262 199 280 159 
+Light, 74 32 177 126 
+candelabrum, 384 226 68 1 
+crucifix, 239 229 216 186 
+red cushion, 529 410 480 431 
+drop light, 324 308 156 115 

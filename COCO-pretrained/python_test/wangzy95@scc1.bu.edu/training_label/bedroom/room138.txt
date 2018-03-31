@@ -1,0 +1,13 @@
+bed, 255 73 234 102 
+window, 73 0 109 36 
+picture on wall, 255 197 85 24 
+lamp, 170 145 117 83 
+dresser, 101 1 186 110 
+painting, 255 199 87 26 
+pillow, 204 176 129 117 
+pillow, 215 186 129 98 
+night stand, 158 140 122 115 
+ceiling, 232 21 26 0 
+carpet, 255 0 256 169 
+vase, 46 34 118 107 
+bouquet, 89 70 111 95 

@@ -1,0 +1,39 @@
+ceiling, 551 60 62 1 
+light, 272 174 45 13 
+light, 482 418 20 1 
+light, 29 4 40 13 
+wall, 263 2 338 0 
+wall, 536 251 240 32 
+wall, 601 534 262 1 
+floor, 301 2 455 262 
+floor, 470 333 454 314 
+poster, 199 167 150 95 
+poster, 242 222 148 101 
+poster, 349 312 143 97 
+window, 459 369 173 81 
+door, 527 459 219 74 
+exit sign, 506 482 59 46 
+stool, 418 384 241 212 
+chair, 383 329 239 212 
+chair, 482 417 245 215 
+chair, 409 182 454 219 
+massage table, 338 223 231 181 
+soap dispenser, 76 54 194 171 
+desk, 181 13 336 190 
+desk, 601 274 454 232 
+sink, 92 36 223 208 
+faucet, 64 51 213 197 
+table, 31 2 335 218 
+jars, 160 85 208 180 
+papers, 342 274 258 231 
+telephone, 521 455 311 272 
+mouse, 505 469 340 319 
+mouse pad, 533 466 348 315 
+keyboard, 469 357 287 260 
+monitor, 589 470 255 162 
+computer, 599 484 295 238 
+printer, 601 450 455 302 
+smoke alarm, 157 144 56 34 
+object, 449 407 263 242 
+object, 480 455 265 245 
+trash can, 448 427 220 186 

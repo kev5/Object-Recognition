@@ -1,0 +1,21 @@
+chair, 59 5 199 153 
+chair, 150 86 255 181 
+chair, 108 66 238 165 
+chair, 254 181 255 205 
+table, 251 112 250 156 
+armchair, 59 6 202 156 
+armchair, 41 1 180 146 
+painting, 84 63 130 107 
+sofa, 117 32 157 131 
+pillow, 36 15 160 147 
+chair top, 240 211 181 157 
+bouquet, 202 131 177 135 
+lamp, 16 4 157 87 
+lamp, 167 146 135 66 
+lamp, 113 98 129 81 
+piano, 183 130 144 104 
+small table, 95 61 165 151 
+ceiling, 220 1 74 1 
+pillows, 112 91 147 136 
+pillows, 53 35 144 135 
+window, 174 137 133 57 

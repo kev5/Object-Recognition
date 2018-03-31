@@ -1,0 +1,12 @@
+rail, 56 28 64 53 
+curtain, 49 11 282 61 
+wall, 58 2 271 1 
+wall, 224 116 299 1 
+wall, 122 56 299 1 
+shower, 57 44 297 255 
+floor, 58 2 300 263 
+closet, 221 78 299 143 
+washbasin, 174 117 213 189 
+faucet, 178 152 199 175 
+mirror, 223 127 157 20 
+spotlights, 222 130 44 2 

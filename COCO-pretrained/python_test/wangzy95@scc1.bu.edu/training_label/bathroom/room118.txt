@@ -1,0 +1,17 @@
+painting, 126 93 39 13 
+plant, 253 197 119 64 
+sink, 113 1 224 136 
+toilet, 215 143 254 179 
+toilet, 243 127 254 112 
+counter, 34 0 254 207 
+counter, 253 30 140 90 
+counter, 251 30 140 93 
+counter, 117 1 250 92 
+bouquet, 58 35 113 54 
+picture frame, 195 170 103 85 
+cabinet, 254 107 229 109 
+cabinets, 109 1 255 176 
+cabinets, 111 92 153 112 
+bottles, 99 76 98 69 
+soap, 58 35 136 124 
+sink faucet, 43 2 164 136 

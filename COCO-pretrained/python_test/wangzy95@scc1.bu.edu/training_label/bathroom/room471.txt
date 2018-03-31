@@ -1,0 +1,5 @@
+pedestal sink, 205 60 256 134 
+soapdish, 40 4 145 126 
+shelf, 178 47 115 90 
+mirror, 158 56 71 0 
+bathtub, 255 166 255 166 

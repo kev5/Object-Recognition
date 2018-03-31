@@ -1,0 +1,32 @@
+cabinet, 196 179 153 111 
+cabinet, 216 197 159 113 
+cabinet, 255 216 179 117 
+cabinet, 255 242 54 0 
+cabinet, 12 0 170 113 
+cabinet, 66 49 71 18 
+cabinet, 170 124 100 76 
+counter, 255 170 117 94 
+counter, 172 38 149 118 
+counter, 163 79 108 93 
+ceiling lamp, 126 78 63 2 
+cabinets, 170 46 254 136 
+cabinets, 209 79 77 8 
+cabinets, 182 80 161 104 
+cabinets, 66 31 140 97 
+curtain, 226 208 97 52 
+curtain, 255 236 99 54 
+curtain, 241 213 50 5 
+curtain, 21 6 47 20 
+curtain, 22 8 89 56 
+chair, 92 10 256 137 
+chair, 17 0 231 119 
+stove, 154 74 136 120 
+window, 252 213 98 8 
+window, 19 7 88 22 
+bouquet, 205 171 104 78 
+sink, 237 187 112 104 
+sink faucet, 225 206 106 87 
+door frame, 68 3 162 11 
+pot, 116 98 102 87 
+jar, 142 132 102 92 
+jar, 79 70 121 107 

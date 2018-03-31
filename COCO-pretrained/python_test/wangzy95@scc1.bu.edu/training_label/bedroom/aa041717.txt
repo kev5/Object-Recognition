@@ -1,0 +1,16 @@
+slippers, 169 134 215 200 
+slippers, 170 130 218 200 
+window, 135 35 114 37 
+window, 132 30 33 0 
+armchair, 94 41 252 105 
+lamp, 157 134 80 42 
+books, 137 108 147 134 
+bed, 255 142 255 67 
+radio, 106 89 122 112 
+bouquet, 132 115 122 102 
+pillow, 256 211 132 108 
+pillow, 250 152 134 75 
+dresser, 58 0 255 78 
+head stand, 227 143 121 75 
+radio alarm clock, 107 92 124 108 
+night stand, 167 86 211 116 

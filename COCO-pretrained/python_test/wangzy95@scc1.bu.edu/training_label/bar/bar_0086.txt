@@ -1,0 +1,23 @@
+glass, 243 91 418 16 
+wall, 373 221 499 1 
+wall, 223 2 341 1 
+bottle, 21 3 189 147 
+bottle, 50 25 189 146 
+bottle, 68 50 188 132 
+bottle, 84 68 190 128 
+bottle, 100 84 189 133 
+bottle, 117 101 190 138 
+bottle, 134 116 189 145 
+bottle, 153 135 189 146 
+bottle, 101 87 257 204 
+bottle, 87 68 257 208 
+bottle, 71 54 255 203 
+bottle, 55 38 257 211 
+bottle, 40 22 258 199 
+bottle, 24 9 257 199 
+bottle, 54 39 329 266 
+bottle, 90 74 328 266 
+bottle, 38 19 336 279 
+bottle, 71 56 326 266 
+bottle occluded, 132 119 240 202 
+bottle occluded, 120 100 257 210 

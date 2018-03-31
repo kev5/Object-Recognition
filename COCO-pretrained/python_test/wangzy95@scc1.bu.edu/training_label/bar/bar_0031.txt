@@ -1,0 +1,34 @@
+bottle, 70 2 458 209 
+bottle, 146 70 460 203 
+bottle, 205 137 465 181 
+bottle, 259 194 467 179 
+bottle, 321 257 471 128 
+bottle, 389 322 478 162 
+bottle, 464 383 480 158 
+bottle, 533 451 488 157 
+bottle, 615 522 495 178 
+bottle, 690 590 402 87 
+bottle, 738 661 334 12 
+bottle, 767 717 268 34 
+bottle occluded, 631 584 189 35 
+bottle occluded, 583 516 244 129 
+bottle occluded, 567 513 198 34 
+bottle occluded, 586 556 157 129 
+bottle occluded, 524 482 225 140 
+bottle occluded, 497 442 237 75 
+bottle occluded, 440 412 158 111 
+bottle occluded, 670 613 147 1 
+bottle occluded, 578 502 149 1 
+bottle occluded, 484 422 201 10 
+bottle occluded, 421 367 220 56 
+bottle occluded, 405 363 161 28 
+bottle occluded, 365 315 228 105 
+bottle occluded, 351 313 221 76 
+bottle occluded, 339 312 145 63 
+bottle occluded, 301 247 259 110 
+bottle occluded, 246 193 272 109 
+bottle occluded, 184 128 272 133 
+bottle occluded, 293 259 147 61 
+bottle occluded, 272 216 227 72 
+bottle occluded, 209 170 202 85 
+shelves, 766 611 491 266 

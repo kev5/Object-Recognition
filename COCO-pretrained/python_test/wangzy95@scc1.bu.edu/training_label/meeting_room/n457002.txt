@@ -1,0 +1,31 @@
+chair, 191 91 252 108 
+chair, 186 99 200 114 
+chair, 104 54 175 104 
+chair, 60 24 157 96 
+chair, 28 0 143 91 
+picture, 154 105 109 32 
+painting, 150 115 104 32 
+painting, 251 191 118 24 
+plant, 100 60 94 50 
+conference table, 255 0 162 83 
+chair top, 256 227 124 100 
+chair top, 207 183 117 95 
+chair top, 170 150 110 90 
+chair top, 138 118 104 86 
+chair top, 111 96 99 84 
+chair top, 88 77 97 85 
+chair top, 71 59 93 80 
+chair top, 57 45 91 77 
+chair top, 42 32 89 77 
+chair top, 29 21 88 76 
+ceiling, 255 0 29 0 
+ashtray, 145 132 118 113 
+chair part, 255 212 192 165 
+ceiling lamp, 75 63 10 0 
+ceiling lamp, 49 40 15 7 
+ceiling lamp, 33 21 20 9 
+ceiling lamp, 163 153 13 8 
+ceiling lamp, 184 175 11 5 
+ceiling lamp, 213 202 8 2 
+ceiling lamp, 143 132 17 12 
+ceiling lamp, 125 113 19 13 

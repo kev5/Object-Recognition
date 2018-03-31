@@ -1,0 +1,15 @@
+ceiling, 255 0 33 0 
+painting, 230 111 147 38 
+bouquet, 150 109 154 102 
+window, 104 36 138 37 
+clock, 26 1 180 39 
+ceiling lamp, 162 99 78 39 
+candle, 181 169 158 111 
+candle, 90 80 156 109 
+chair, 158 99 254 154 
+chair, 233 164 255 151 
+chair, 255 222 235 134 
+chair, 91 22 255 154 
+chair top, 208 167 148 129 
+chair top, 93 51 148 131 
+table, 253 8 170 144 

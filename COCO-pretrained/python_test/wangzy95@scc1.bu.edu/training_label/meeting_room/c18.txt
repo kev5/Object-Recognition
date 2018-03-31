@@ -1,0 +1,34 @@
+projection screen, 159 101 83 53 
+rows of chairs, 255 0 191 112 
+ceiling, 255 1 46 1 
+row of chairs, 163 95 92 87 
+chair, 162 104 235 151 
+chair, 236 170 235 151 
+chair, 99 34 234 150 
+chair part, 37 2 232 148 
+chair part, 255 237 168 138 
+chair part, 20 0 156 136 
+chair top, 227 195 151 138 
+chair top, 179 143 167 138 
+chair top, 124 89 163 137 
+chair top, 69 36 156 137 
+chair top, 146 121 146 132 
+chair top, 104 78 146 129 
+chair top, 192 166 150 131 
+chair top, 26 1 150 128 
+chair top, 65 34 137 129 
+chair top, 161 141 138 125 
+chair top, 125 103 136 123 
+chair top, 88 69 136 124 
+chair top, 141 123 132 121 
+chair top, 174 158 131 122 
+lots of chairs, 255 0 142 109 
+lots of chairs, 43 0 119 107 
+lots of chairs, 255 203 123 110 
+microphone, 90 81 93 80 
+podium, 184 68 108 93 
+projector, 132 118 40 31 
+speaker, 131 117 15 8 
+curtain, 219 192 112 87 
+ceiling lamp, 190 153 42 28 
+ceiling lamp, 98 64 42 27 

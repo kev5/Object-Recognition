@@ -1,0 +1,3 @@
+chair, 413 276 424 225 
+picture frame, 378 287 179 54 
+picture frame, 268 195 101 1 

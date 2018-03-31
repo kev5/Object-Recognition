@@ -1,0 +1,9 @@
+lamp, 272 158 394 171 
+flowers, 350 230 434 355 
+bed crop, 257 2 598 78 
+rail crop, 198 2 115 56 
+switch, 149 118 264 214 
+night table occluded, 373 118 600 372 
+wall, 324 246 600 2 
+wall, 253 2 599 2 
+wall, 383 321 599 1 

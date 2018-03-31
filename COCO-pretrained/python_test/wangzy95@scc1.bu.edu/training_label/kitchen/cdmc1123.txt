@@ -1,0 +1,46 @@
+oven, 107 40 207 126 
+oven, 108 48 201 147 
+fruit bowl, 156 108 237 204 
+cake, 200 153 224 195 
+cabinet, 42 7 116 49 
+cabinet, 150 94 116 71 
+cabinet, 255 183 116 33 
+cabinet, 255 165 236 142 
+cabinet, 159 109 202 144 
+cabinet, 48 6 210 151 
+cabinet, 42 0 150 43 
+cabinet, 46 0 209 152 
+cabinet, 149 94 114 73 
+cabinet, 157 110 198 146 
+cabinet, 256 183 116 50 
+table, 255 95 255 203 
+table, 255 93 255 204 
+counter top, 255 166 161 139 
+plate, 136 115 142 117 
+plate, 240 146 255 226 
+plate, 248 204 152 142 
+window, 134 65 47 9 
+window, 255 202 49 0 
+dish towel, 96 8 255 221 
+stool, 79 24 255 233 
+hood, 105 42 95 54 
+stove, 107 39 147 124 
+cabinets, 255 166 231 146 
+lamp, 42 19 52 19 
+lamp, 148 128 57 30 
+lamp, 215 195 46 24 
+pot, 64 47 144 134 
+pot, 96 76 142 128 
+mixer, 205 184 144 120 
+teapot, 237 224 66 55 
+teapot, 251 237 63 53 
+sink, 255 224 157 145 
+sink faucet, 255 244 144 134 
+painting, 221 208 138 120 
+fruit, 150 114 229 202 
+jars, 135 123 72 63 
+pots, 81 53 121 96 
+book, 34 16 147 143 
+plant, 235 207 145 131 
+plant, 12 1 42 16 
+jar, 141 136 72 63 

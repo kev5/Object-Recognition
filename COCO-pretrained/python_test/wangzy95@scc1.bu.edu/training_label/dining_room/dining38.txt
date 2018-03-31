@@ -1,0 +1,58 @@
+books, 727 547 80 3 
+books, 299 237 105 88 
+speaker, 133 53 231 69 
+pitcher, 120 74 442 403 
+picture, 665 468 445 277 
+picture, 763 659 446 360 
+picture, 440 339 431 293 
+picture, 330 243 440 329 
+picture, 291 187 442 348 
+picture, 217 107 438 337 
+book, 273 139 37 16 
+book, 504 361 15 1 
+book, 728 683 122 88 
+book, 246 213 226 123 
+book, 198 141 229 118 
+book, 438 310 449 430 
+window, 537 418 193 55 
+window, 1024 879 377 1 
+box, 538 462 217 175 
+books on shelf, 204 139 112 43 
+books on shelf, 273 203 107 43 
+books on shelf, 326 299 102 26 
+books on shelf, 684 545 213 97 
+books on shelf, 731 681 208 111 
+books on shelf, 331 246 225 119 
+books on shelf, 234 157 230 132 
+flowers in pot, 461 353 219 133 
+flowers in pot, 321 167 535 348 
+bowl, 405 325 432 419 
+bowl, 175 134 442 413 
+pillow, 887 765 551 408 
+pillow, 1024 854 557 410 
+pear, 242 195 543 510 
+pears, 302 257 541 508 
+drawer, 483 365 518 472 
+drawer, 361 280 516 470 
+drawer, 605 490 525 476 
+drawer, 728 634 522 480 
+drawer, 241 141 510 466 
+drawer, 139 56 504 466 
+seat cushion, 1025 737 623 551 
+knob, 429 415 502 490 
+knob, 307 298 497 489 
+knob, 678 669 512 499 
+knob, 557 543 505 495 
+knob, 198 183 493 483 
+table, 816 2 769 510 
+tea pot, 678 576 539 483 
+napkin, 779 636 545 511 
+cake, 601 557 549 523 
+sugar dish, 551 499 543 488 
+plate, 647 541 558 537 
+saucer, 723 657 555 537 
+tea cup, 715 669 542 520 
+chair, 168 2 768 451 
+chair, 548 288 768 503 
+chair, 639 400 768 442 
+chair, 1024 739 768 470 

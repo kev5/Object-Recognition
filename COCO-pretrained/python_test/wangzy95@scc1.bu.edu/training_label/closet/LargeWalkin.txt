@@ -1,0 +1,21 @@
+closet, 256 0 234 0 
+floor, 256 0 256 194 
+chest, 96 15 256 182 
+cuddly toy, 105 54 255 206 
+clothing, 153 114 192 68 
+shirts, 127 78 197 121 
+shirts, 255 196 217 122 
+trousers, 255 199 86 15 
+hangers, 255 196 25 0 
+sweaters, 89 65 48 28 
+sweaters, 111 88 48 31 
+sweaters, 90 67 78 57 
+sweaters, 113 93 108 85 
+T-shirts, 91 67 110 88 
+shoes, 254 206 106 93 
+shoes, 35 26 80 65 
+shoes, 35 27 96 83 
+shoes, 23 15 113 100 
+shoes, 21 13 80 67 
+shoes, 33 24 63 51 
+drawers, 193 147 145 106 

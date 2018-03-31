@@ -1,0 +1,19 @@
+portrait, 137 74 99 48 
+armchair, 116 12 239 137 
+armchair, 255 195 158 109 
+coffee table, 221 117 199 139 
+sofa, 178 59 167 107 
+lamp, 195 168 117 89 
+lamp, 45 5 136 97 
+vase, 211 196 120 93 
+plant, 237 187 90 34 
+plant, 28 1 78 22 
+plant, 16 1 164 128 
+small table, 68 27 151 133 
+small table, 211 158 141 113 
+painting, 139 70 104 44 
+chair, 255 219 255 147 
+cabinet, 255 212 124 45 
+cabinet, 46 1 255 201 
+statue, 37 0 210 150 
+ceiling, 256 147 21 1 

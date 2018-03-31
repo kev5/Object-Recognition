@@ -1,0 +1,23 @@
+basket table, 205 88 240 163 
+sofa, 255 48 182 71 
+pillow, 118 82 131 96 
+pillow, 145 116 128 95 
+pillow, 212 175 124 92 
+pillow, 255 200 121 73 
+pillow, 38 0 255 205 
+pillow, 119 49 130 70 
+magazine, 197 152 181 165 
+slippers, 250 216 200 178 
+rug, 92 21 217 181 
+rug, 94 38 245 217 
+rug, 255 203 214 182 
+statue, 63 0 192 30 
+statue, 150 92 180 142 
+painting, 202 163 75 37 
+painting, 104 86 50 32 
+painting, 130 112 78 59 
+blanket, 238 124 161 119 
+boat decoration, 63 20 167 0 
+decorative wall hanging, 153 118 57 25 
+rack, 234 73 90 22 
+lamp, 256 246 96 69 

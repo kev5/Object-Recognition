@@ -1,0 +1,25 @@
+bed, 256 35 247 105 
+dresser, 57 0 194 125 
+dresser, 140 105 148 98 
+window, 245 190 106 22 
+lamp, 132 104 99 55 
+bouquet, 49 23 127 92 
+painting, 23 0 101 76 
+painting, 23 7 56 34 
+painting, 138 120 68 39 
+painting, 84 72 60 41 
+painting, 90 71 89 69 
+painting, 135 119 97 83 
+door, 105 84 147 29 
+pillow, 254 190 167 128 
+pillow, 205 151 148 125 
+pillow, 256 208 255 238 
+curtain, 191 154 109 7 
+curtain, 255 236 118 1 
+books, 8 0 125 108 
+tea pot, 46 15 255 224 
+notebook, 100 59 255 239 
+boat, 45 14 55 28 
+shelf, 151 82 31 9 
+shelf, 43 0 77 55 
+floor, 254 0 256 188 

@@ -1,0 +1,27 @@
+ceiling, 448 0 126 0 
+awning, 425 207 123 63 
+sign, 338 303 108 95 
+bar, 433 222 247 149 
+person occluded, 291 271 151 136 
+table, 332 84 299 230 
+chair occluded, 358 315 297 201 
+chair occluded, 217 168 246 201 
+chair occluded, 152 101 256 208 
+chair occluded, 60 35 294 195 
+chair occluded, 135 73 258 201 
+chair occluded, 276 260 189 175 
+chair occluded, 300 279 218 177 
+chair crop, 346 273 298 241 
+chair crop, 272 193 298 254 
+chair crop, 92 57 299 238 
+screen, 183 165 147 131 
+table occluded, 257 209 233 188 
+table occluded, 95 54 238 203 
+table occluded, 65 46 205 182 
+beam, 434 6 65 1 
+beam, 357 2 79 36 
+beam, 304 2 90 63 
+wall, 183 0 190 126 
+wall, 449 182 252 63 
+floor, 449 0 298 177 
+ashtray, 239 217 256 244 

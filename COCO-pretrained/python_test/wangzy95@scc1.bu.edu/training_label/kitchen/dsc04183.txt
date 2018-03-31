@@ -1,0 +1,50 @@
+microwave, 458 401 319 279 
+sink, 406 358 261 228 
+television, 276 241 149 115 
+painting, 206 156 177 128 
+chair, 176 122 350 247 
+chair, 236 180 355 249 
+chair, 264 207 332 244 
+light, 339 311 149 118 
+light, 430 418 65 50 
+cupboard, 531 332 218 123 
+cupboard, 526 313 389 244 
+remote control, 206 182 386 369 
+floor tile, 340 291 389 365 
+floor tile, 371 318 403 377 
+floor tile, 410 352 418 389 
+floor tile, 66 18 367 344 
+table, 238 119 432 348 
+table, 276 131 345 244 
+ceiling, 575 2 107 1 
+floor, 575 2 431 275 
+handle, 355 347 197 179 
+handle, 382 374 197 183 
+handle, 389 383 196 184 
+handle, 444 437 163 146 
+handle, 455 448 164 145 
+handle, 489 480 207 187 
+handle, 491 474 298 290 
+handle, 470 464 325 305 
+handle, 433 414 342 333 
+handle, 373 368 286 271 
+handle, 364 358 285 270 
+handle, 334 320 268 262 
+handle, 337 331 294 279 
+doorway_ lintel, 111 18 335 119 
+window, 93 32 203 143 
+countertop, 526 312 285 241 
+stovetop, 458 419 273 259 
+cofeemaker, 495 476 273 245 
+bed, 98 34 302 237 
+beam, 383 163 100 7 
+beam, 487 403 77 5 
+beam, 441 265 90 3 
+beam, 554 497 82 7 
+door handle, 568 543 229 195 
+fridge/freezer, 533 501 399 249 
+cooker hood, 476 407 192 183 
+extractor pipe, 463 449 123 87 
+bowl, 182 166 263 255 
+wall, 576 238 432 68 
+wall, 243 2 342 59 

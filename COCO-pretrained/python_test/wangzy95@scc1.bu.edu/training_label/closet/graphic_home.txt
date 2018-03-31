@@ -1,0 +1,16 @@
+ceiling, 255 2 25 0 
+wall, 71 0 60 0 
+wall, 256 70 174 24 
+closet, 256 103 198 72 
+closet, 90 0 253 0 
+floor, 256 0 256 195 
+seat, 256 92 250 197 
+jackets, 74 39 141 56 
+jackets, 104 68 152 77 
+jackets, 102 39 240 157 
+vase, 173 162 146 127 
+flowers, 184 150 129 112 
+drawer, 242 195 159 146 
+drawer, 241 196 179 167 
+books, 192 181 108 92 
+books, 163 145 108 94 

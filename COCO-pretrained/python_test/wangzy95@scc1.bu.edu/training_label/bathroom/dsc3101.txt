@@ -1,0 +1,21 @@
+door, 211 132 283 42 
+table, 353 2 427 264 
+table, 640 592 290 224 
+table lamp, 377 354 212 85 
+ceiling fan, 568 409 47 1 
+sofa, 594 373 264 172 
+toilet, 209 179 230 169 
+painting, 544 402 84 55 
+painting, 478 413 146 87 
+painting, 542 488 114 90 
+painting, 629 499 149 123 
+painting, 620 560 119 52 
+tile, 493 418 425 391 
+tile, 628 584 354 329 
+chair, 406 348 427 340 
+chair, 271 196 305 261 
+chair, 421 239 372 224 
+chair, 173 112 292 242 
+chair, 589 397 416 236 
+wall, 309 2 361 1 
+ceiling, 640 148 39 1 

@@ -1,0 +1,42 @@
+car, 115 35 103 59 
+car, 115 74 80 55 
+beam, 111 30 101 1 
+card, 62 42 117 101 
+card, 126 107 106 90 
+card, 91 72 154 140 
+card, 103 87 157 142 
+nutcracker, 97 63 113 80 
+window, 131 28 126 0 
+frame, 154 136 39 19 
+frame, 174 159 39 20 
+frame, 192 180 43 20 
+frame, 210 196 37 19 
+frame, 211 195 58 38 
+frame, 194 179 64 43 
+frame, 174 159 60 40 
+frame, 156 137 64 42 
+frame, 320 308 59 40 
+calander, 151 128 123 62 
+socket, 40 32 184 168 
+plug, 54 33 237 175 
+wall, 320 0 234 0 
+file organizer, 132 80 150 119 
+files, 132 99 150 119 
+files, 266 234 68 59 
+picture, 146 118 150 143 
+object, 153 118 144 131 
+chair, 237 136 240 195 
+chair, 141 50 240 166 
+end table, 108 64 191 151 
+basket, 296 253 156 129 
+desk, 300 106 240 129 
+floor, 287 236 240 216 
+floor, 318 295 240 166 
+file cabinet, 275 222 141 64 
+cabinet, 320 275 169 105 
+American flag, 289 272 113 13 
+binder, 302 287 110 82 
+binder, 311 296 109 82 
+hair, 264 226 141 100 
+pen holder, 175 152 134 117 
+table, 200 146 138 117 

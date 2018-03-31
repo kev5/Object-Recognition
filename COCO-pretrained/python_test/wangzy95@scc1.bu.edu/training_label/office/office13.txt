@@ -1,0 +1,26 @@
+chair, 62 17 148 92 
+desk mat, 93 34 172 143 
+monitor, 145 109 154 118 
+desk, 158 10 248 105 
+lamp, 114 80 131 84 
+lamp, 18 13 30 15 
+lamp, 88 80 23 9 
+books, 231 204 60 37 
+books, 178 152 38 18 
+books, 175 147 62 38 
+books, 231 195 86 56 
+cabinets, 237 134 175 75 
+window, 79 22 99 1 
+window, 139 90 86 1 
+window, 12 0 106 1 
+keyboard, 105 92 153 136 
+folder, 108 83 123 109 
+shelf, 240 188 69 48 
+shelf, 239 185 95 72 
+shelf, 184 142 68 50 
+shelf, 184 145 44 31 
+box, 203 192 53 45 
+box, 85 70 176 150 
+box, 73 54 180 168 
+file box, 199 170 103 79 
+door frame, 256 239 194 0 

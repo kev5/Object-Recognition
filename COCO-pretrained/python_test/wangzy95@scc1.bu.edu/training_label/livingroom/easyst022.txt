@@ -1,0 +1,27 @@
+pillow, 161 129 146 129 
+pillow, 106 71 148 118 
+pillow, 74 39 149 109 
+pillow, 178 153 147 126 
+pillow, 195 151 147 107 
+vase, 163 142 184 161 
+vase, 137 119 183 144 
+vase, 13 0 140 111 
+vase, 36 16 140 119 
+painting, 179 104 113 13 
+table, 238 2 254 197 
+curtain, 254 216 120 1 
+sofa, 223 19 193 109 
+plant, 123 25 116 3 
+small table, 255 213 183 119 
+small table, 51 0 188 133 
+small table, 243 97 194 170 
+small table, 70 0 208 189 
+fruits plate, 219 164 184 162 
+lamp, 255 233 87 63 
+lamp, 256 233 121 49 
+bouquet, 238 192 169 121 
+window, 242 202 113 3 
+window, 11 0 111 9 
+bowl, 239 216 122 110 
+bowl, 34 12 199 184 
+cup, 176 162 187 176 

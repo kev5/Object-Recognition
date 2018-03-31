@@ -1,0 +1,15 @@
+bed, 206 11 240 71 
+lamp, 245 206 132 78 
+painting, 256 238 135 115 
+night stand dresser, 256 200 210 132 
+window, 81 37 132 27 
+pillow, 159 130 130 103 
+pillow, 131 102 126 101 
+pillow, 108 99 126 103 
+pillow, 137 112 104 96 
+pillow, 154 139 104 94 
+pillow, 204 160 127 95 
+pillow, 183 155 130 108 
+curtain, 79 41 90 29 
+ceiling, 193 19 21 0 
+carpet, 254 0 255 182 

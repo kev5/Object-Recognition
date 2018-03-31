@@ -1,0 +1,17 @@
+ceiling, 273 185 24 1 
+bed, 319 2 377 175 
+cushion, 83 29 245 214 
+cushion, 108 62 241 205 
+cushion, 143 97 236 205 
+cushion, 169 133 230 196 
+basket occluded, 432 384 331 239 
+large window, 510 291 220 86 
+tv, 510 430 318 213 
+tv stand, 508 414 377 287 
+remote control, 432 418 320 304 
+curtain, 296 264 217 105 
+digital watch, 227 204 232 223 
+wall, 215 2 268 1 
+wall, 511 214 344 2 
+floor, 512 2 378 250 
+purse, 106 77 183 153 

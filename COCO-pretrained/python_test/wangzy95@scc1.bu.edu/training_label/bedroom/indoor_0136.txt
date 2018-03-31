@@ -1,0 +1,14 @@
+wall, 299 159 224 1 
+wall, 161 2 209 1 
+window, 227 181 143 11 
+window, 299 240 157 3 
+bureau, 174 43 220 133 
+shelves, 48 2 224 154 
+chair, 141 93 223 141 
+radiator hood, 207 173 200 141 
+lamp, 67 40 141 90 
+papers, 145 85 124 64 
+shelf, 23 2 113 87 
+loudspeaker, 23 2 87 60 
+bed crop, 299 213 225 194 
+floor, 298 2 225 181 

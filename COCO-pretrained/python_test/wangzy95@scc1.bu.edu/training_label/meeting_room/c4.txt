@@ -1,0 +1,35 @@
+bookshelves, 254 129 105 16 
+bookshelves, 132 1 133 30 
+conferance table and chairs, 256 15 234 88 
+string, 52 45 45 7 
+ant, 20 16 195 190 
+conference table, 218 41 160 100 
+chair, 162 71 235 129 
+chair, 251 164 233 130 
+chair back, 83 51 173 116 
+chair back, 60 41 155 107 
+chair back, 48 14 157 96 
+chair top, 81 51 103 87 
+chair top, 131 105 108 89 
+chair top, 149 121 112 93 
+chair top, 200 166 127 103 
+chair top, 170 141 119 98 
+chair top, 253 208 135 109 
+books, 228 202 97 78 
+books, 241 210 37 21 
+books, 203 180 37 25 
+books, 173 151 39 27 
+books, 149 132 68 56 
+books, 149 131 86 71 
+books, 172 149 89 72 
+books, 66 54 53 48 
+books, 106 69 70 60 
+books, 118 108 83 72 
+books, 105 71 86 81 
+books, 45 30 90 83 
+books, 199 173 52 49 
+books, 122 108 40 36 
+books, 201 172 72 62 
+books, 149 131 51 44 
+projection screen, 104 1 8 0 
+book, 238 232 75 57 

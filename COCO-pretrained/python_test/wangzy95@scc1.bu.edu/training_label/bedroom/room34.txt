@@ -1,0 +1,21 @@
+hanging hat, 154 130 111 83 
+pillow, 176 136 176 144 
+pillow, 59 1 233 167 
+pillow, 204 167 176 147 
+toy, 108 85 155 118 
+toy, 250 225 254 217 
+desk lamp, 22 0 160 122 
+frieze, 255 106 141 121 
+window, 103 0 139 0 
+chair, 83 0 253 167 
+bed, 255 99 255 142 
+plant, 40 27 139 124 
+plant, 79 67 154 143 
+plant, 222 125 255 232 
+books, 47 19 160 149 
+curtain, 99 2 57 23 
+basket, 107 86 218 188 
+basket, 221 161 195 156 
+table, 117 1 214 152 
+wall outlet, 83 78 187 180 
+ceiling, 254 126 32 1 

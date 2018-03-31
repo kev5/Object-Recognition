@@ -1,0 +1,29 @@
+monitor, 256 181 132 66 
+books, 135 86 80 57 
+books, 196 171 80 58 
+books, 70 29 84 69 
+picture frame, 155 136 77 52 
+picture frame, 167 151 78 63 
+keyboard, 246 154 157 121 
+mouse, 170 154 150 140 
+fruit, 75 55 144 133 
+paper, 138 96 153 134 
+pen, 133 103 140 137 
+plate, 35 11 141 132 
+plate, 79 52 150 142 
+pens, 138 109 110 94 
+cup, 133 114 123 110 
+plant, 41 10 120 87 
+plant, 57 38 119 92 
+plant, 79 55 120 87 
+painting, 242 206 74 31 
+window, 226 37 65 0 
+desk, 255 0 162 114 
+book, 160 129 256 227 
+magazines, 157 85 255 224 
+statue, 163 147 104 71 
+card, 163 142 126 105 
+chair, 207 61 255 177 
+basket, 31 0 248 178 
+bouquet, 96 56 77 16 
+radiator, 181 75 116 94 

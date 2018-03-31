@@ -1,0 +1,36 @@
+rug, 242 1 256 172 
+rug, 75 0 205 159 
+carpet, 82 1 210 155 
+window, 113 90 104 44 
+window, 197 162 108 46 
+window, 246 207 115 44 
+window, 154 123 106 45 
+armchair, 105 64 158 104 
+small table, 192 97 190 139 
+small table, 57 38 156 120 
+painting, 69 44 81 33 
+fireplace, 31 1 170 112 
+sofa, 256 104 234 105 
+speaker, 89 70 33 19 
+bouquet, 158 134 152 121 
+bouquet, 61 41 122 100 
+ceiling, 255 43 22 0 
+cat, 42 21 90 73 
+decorations, 24 3 82 65 
+decoration, 15 1 78 23 
+pillow, 129 113 128 115 
+pillow, 118 101 130 113 
+pillow, 253 230 151 138 
+pillow, 225 201 145 132 
+pillow, 255 235 164 150 
+books, 123 104 170 156 
+books, 141 126 174 162 
+books, 177 160 159 153 
+magazines, 138 117 152 142 
+box, 187 157 183 170 
+box, 156 143 176 166 
+blanket, 255 225 145 118 
+blanket, 92 73 126 105 
+blanket, 255 224 189 170 
+blanket, 198 159 145 131 
+lamp, 151 114 102 57 

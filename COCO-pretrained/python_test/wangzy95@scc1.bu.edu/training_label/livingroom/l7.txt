@@ -1,0 +1,25 @@
+alcove, 192 150 107 89 
+alcove, 118 95 58 19 
+alcove, 109 90 153 114 
+bouquet, 141 100 225 146 
+fireplace, 178 56 199 155 
+sofa, 255 182 256 175 
+sofa, 85 0 254 176 
+window, 58 6 88 11 
+window, 219 192 58 35 
+windows, 45 8 187 107 
+vase, 174 161 201 182 
+vase, 112 98 58 42 
+vase, 108 98 153 129 
+vase, 80 75 152 148 
+vase, 73 67 152 148 
+pot, 103 78 206 180 
+pot, 182 153 108 99 
+small table, 151 95 245 202 
+plant, 256 188 179 63 
+pillow, 225 202 205 183 
+pillow, 68 43 202 181 
+pillow, 254 237 219 200 
+pillows, 51 14 218 194 
+decoration, 145 126 231 219 
+painting, 254 233 178 132 

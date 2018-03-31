@@ -1,0 +1,23 @@
+window, 181 60 189 1 
+window, 396 297 174 1 
+curtain, 183 60 87 1 
+curtain, 398 298 89 2 
+shutter, 178 142 180 82 
+shutter, 106 67 185 85 
+shutter, 331 303 171 85 
+shutter, 380 349 171 87 
+picture crop, 510 485 112 55 
+bed occluded, 510 214 314 133 
+bed crop, 503 342 375 220 
+pillow, 508 423 191 133 
+blanket, 327 239 216 178 
+blanket, 498 399 292 232 
+radiator occludd, 140 86 265 189 
+chest of drawers, 126 2 377 188 
+lamp, 63 2 205 102 
+wall, 437 2 260 1 
+wall, 510 410 307 1 
+wall, 24 2 375 1 
+wall, 510 492 377 195 
+floor, 497 24 377 231 
+carpet, 419 106 377 265 

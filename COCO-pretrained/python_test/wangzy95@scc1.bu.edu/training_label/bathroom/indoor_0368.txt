@@ -1,0 +1,16 @@
+window, 102 2 198 21 
+curtain, 120 2 107 1 
+picture, 146 125 169 146 
+wc occluded, 158 142 323 287 
+closet occluded, 45 13 379 253 
+washbasin occluded, 73 14 366 286 
+screen, 230 191 403 92 
+ceiling, 155 49 24 1 
+wall, 159 2 366 3 
+wall, 230 196 94 1 
+wall, 226 156 439 1 
+wall, 280 223 511 1 
+wall, 23 2 511 229 
+rug, 223 98 511 396 
+door occluded, 36 2 511 206 
+floor, 226 15 512 331 

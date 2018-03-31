@@ -1,0 +1,21 @@
+television screen, 236 144 111 33 
+fireplace, 223 156 172 133 
+speaker, 35 18 207 144 
+sofa, 256 26 255 195 
+pillow, 255 188 228 208 
+pillow, 188 122 228 207 
+pillow, 121 64 230 211 
+armchair, 116 50 209 159 
+plant, 104 5 160 61 
+plant, 110 2 206 60 
+small table, 243 131 206 186 
+remote control, 187 170 200 193 
+ceiling, 255 16 16 2 
+curtain, 128 58 192 12 
+curtain, 255 248 195 14 
+decoration, 235 208 193 166 
+decoration, 190 175 192 172 
+bowl, 158 142 194 181 
+candles, 167 145 184 155 
+ceiling lamp, 77 65 6 2 
+rug, 52 19 227 206 

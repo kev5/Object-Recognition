@@ -1,0 +1,20 @@
+closet, 256 79 251 20 
+shirts, 255 175 132 46 
+shirts, 230 174 249 158 
+trousers, 252 223 248 173 
+hangers, 255 221 180 157 
+hangers, 254 173 63 42 
+dress, 126 96 217 92 
+coats, 106 67 206 88 
+suitcase, 185 131 38 8 
+purse occluded, 99 84 70 55 
+picture, 49 3 113 64 
+purse, 119 97 70 52 
+furniture, 77 3 252 133 
+sweaters, 169 146 137 113 
+shoes, 145 128 175 160 
+shoes, 154 141 177 159 
+boots, 168 152 177 158 
+wall, 104 0 248 0 
+wall, 256 102 250 0 
+floor, 256 0 256 226 

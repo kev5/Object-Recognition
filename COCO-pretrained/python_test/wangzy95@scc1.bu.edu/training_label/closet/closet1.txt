@@ -1,0 +1,10 @@
+closet, 256 0 256 0 
+shelf, 129 0 69 40 
+shirt, 76 2 238 85 
+clothing, 157 26 249 75 
+clothing, 254 166 212 137 
+shelves, 255 157 255 18 
+boxs, 195 166 77 52 
+boxs, 229 197 76 50 
+boxs, 254 181 136 102 
+basket crop, 243 172 255 230 

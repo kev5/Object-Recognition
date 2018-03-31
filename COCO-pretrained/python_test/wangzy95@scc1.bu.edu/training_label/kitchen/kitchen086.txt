@@ -1,0 +1,36 @@
+dishwasher, 103 54 220 159 
+cabinets, 194 76 107 64 
+cabinets, 255 213 127 52 
+cabinets, 216 104 229 160 
+cabinets, 256 237 256 180 
+cabinets, 84 0 255 179 
+stove, 256 224 171 161 
+oven, 240 214 250 167 
+sink, 167 105 176 154 
+sink faucet, 141 127 155 132 
+pot, 247 220 156 130 
+basket, 185 162 156 134 
+basket, 99 84 127 111 
+statue, 84 63 155 120 
+counter, 256 167 166 151 
+counter, 119 57 158 150 
+counter, 85 1 226 169 
+shelves, 34 1 169 0 
+shelves, 67 33 145 30 
+picture frame, 147 127 127 112 
+vase, 183 168 127 118 
+pitcher, 123 108 126 116 
+pitcher, 52 27 185 156 
+bowl, 68 16 195 177 
+floor, 232 77 254 221 
+ceiling lamp, 103 84 34 11 
+ceiling lamp, 231 216 24 0 
+ceiling lamp, 211 194 45 27 
+ceiling lamp, 192 180 56 39 
+ceiling lamp, 104 87 49 31 
+ceiling lamp, 99 77 11 0 
+ceiling lamp, 105 93 59 45 
+plant, 209 195 110 79 
+mug, 200 188 153 142 
+mug, 162 149 126 118 
+plate, 27 15 123 85 

@@ -1,0 +1,29 @@
+vase, 245 204 256 198 
+vase, 205 175 255 215 
+painting, 134 119 68 50 
+painting, 132 118 90 73 
+painting, 134 118 113 96 
+painting, 14 0 106 90 
+painting, 13 1 57 35 
+painting, 13 0 85 62 
+picture, 11 1 83 64 
+lamp, 18 0 138 104 
+lamp, 148 123 139 107 
+mirror, 255 224 138 76 
+plant, 217 164 180 86 
+dressing table, 254 193 193 141 
+foot board, 176 79 209 151 
+head stand, 110 24 135 106 
+window, 99 23 104 44 
+window, 160 140 139 59 
+bed, 179 23 208 105 
+drawers, 30 0 189 143 
+round table, 252 139 254 234 
+ceiling, 255 0 42 1 
+night stand dresser, 32 0 193 141 
+dresser, 256 192 194 138 
+hat, 92 64 154 145 
+pillow, 71 31 152 134 
+pillow, 115 74 143 135 
+pillow, 87 41 151 140 
+rug, 255 0 255 193 

@@ -1,0 +1,8 @@
+headboard, 112 3 254 159 
+radiator, 397 319 221 170 
+curtains, 315 160 179 1 
+wall, 477 405 278 1 
+Curtain, 316 160 185 2 
+bed, 344 4 318 186 
+pillow, 163 51 281 219 
+floor, parquet, 454 311 317 224 

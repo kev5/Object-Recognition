@@ -1,0 +1,62 @@
+tiger, 447 379 343 300 
+elephant, 520 458 369 319 
+sculpture, 670 568 373 263 
+sculpture, 480 440 144 93 
+net, 309 225 179 45 
+potted plant, 880 711 365 226 
+hat, 342 262 486 389 
+box, 494 421 184 141 
+window, 23 4 552 1 
+books, 479 419 259 198 
+books, 530 499 182 121 
+books, 418 365 182 121 
+books, 166 119 356 315 
+books, 176 131 269 206 
+picture, 161 117 181 113 
+picture, 337 195 303 191 
+jar, 141 117 185 146 
+mirror m, 798 578 352 30 
+teddy bear, 997 849 523 362 
+stack of books, 169 119 384 354 
+cow on wheels, 153 122 270 208 
+decorative boxes, 340 289 363 277 
+horse statue, 283 190 373 240 
+shelf, 194 25 398 47 
+shelf, 558 345 370 62 
+deer, 428 364 260 192 
+decorative box *X, 528 482 260 212 
+comforter, 1024 732 689 493 
+bedskirt, 1023 782 738 676 
+rug, 758 253 665 603 
+rug, 789 323 738 678 
+dressor, 822 24 645 358 
+drawer, 801 557 424 384 
+drawer, 676 559 463 428 
+drawer, 801 683 461 428 
+drawer, 679 558 500 464 
+drawer, 803 683 501 465 
+drawer, 680 558 545 505 
+drawer, 804 684 545 505 
+drawer, 527 365 423 386 
+drawer, 528 355 460 427 
+drawer, 528 353 500 464 
+drawer, 528 353 549 505 
+basket, 295 238 551 520 
+chair, 375 174 646 363 
+handle, 638 603 453 433 
+handle, 762 724 453 431 
+handle, 762 728 490 470 
+handle, 636 601 489 471 
+handle, 762 725 531 511 
+handle, 634 602 531 511 
+handle, 512 476 453 433 
+handle, 403 368 453 433 
+handle, 400 368 493 471 
+handle, 511 476 492 472 
+handle, 509 477 532 513 
+handle, 402 369 533 512 
+knob, 501 486 413 401 
+knob, 391 377 412 400 
+knob, 604 591 413 400 
+knob, 769 756 411 399 
+door, 1025 929 492 33 

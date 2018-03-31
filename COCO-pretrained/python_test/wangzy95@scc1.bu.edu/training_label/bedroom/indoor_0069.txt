@@ -1,0 +1,17 @@
+wall, 164 2 190 1 
+wall, 299 164 208 1 
+floor, 299 2 225 146 
+window, 28 2 171 10 
+window, 148 105 120 18 
+picture, 86 48 76 36 
+picture, 298 252 90 25 
+picture, 214 191 76 49 
+picture, 183 171 59 35 
+picture, 185 170 82 62 
+bed, 299 79 225 116 
+duvet, 248 83 224 145 
+rocking chair occuded, 173 122 148 99 
+table occluded, 111 42 191 122 
+television, 95 62 129 103 
+clushion, 259 192 151 116 
+cushion, 299 237 170 126 

@@ -1,0 +1,22 @@
+painting, 86 69 61 21 
+podium, 232 196 116 86 
+chair back, 256 151 254 177 
+chair back, 104 1 256 174 
+chair part, 36 1 177 140 
+chair part, 256 217 181 143 
+chair part, 254 233 143 131 
+chair top, 68 18 154 126 
+chair top, 104 60 145 117 
+chair top, 127 96 133 112 
+chair top, 154 124 123 104 
+conference table, 246 15 185 114 
+clock, 222 211 49 36 
+window, 190 138 104 36 
+window, 256 241 106 32 
+window, 44 0 150 0 
+door, 130 110 112 34 
+plant, 92 20 122 35 
+ceiling, 256 65 32 1 
+pitcher, 192 178 129 105 
+pitcher, 152 137 144 116 
+table runner, 206 115 151 122 

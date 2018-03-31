@@ -1,0 +1,30 @@
+windows, 177 13 140 19 
+refrigerator, 256 228 179 100 
+stool, 256 239 220 170 
+stool, 248 213 238 178 
+stool, 33 0 254 212 
+stool, 13 0 212 197 
+stove, 224 167 157 148 
+dishwasher, 153 133 187 145 
+outlet, 67 55 238 220 
+cabinets, 133 80 178 147 
+cabinets, 256 154 139 66 
+cabinet, 170 153 185 142 
+cabinet, 17 0 166 1 
+shelves, 224 176 142 119 
+shelves, 189 158 229 157 
+bouquet, 158 143 140 130 
+counter, 168 1 190 139 
+counter, 252 157 163 147 
+sink, 131 79 149 142 
+sink faucet, 112 96 143 134 
+bottle, 199 191 73 61 
+pot, 213 200 73 67 
+pot, 186 176 192 174 
+plant, 255 226 68 52 
+plant, 29 13 156 126 
+ceiling lamp, 194 180 23 14 
+ceiling lamp, 224 213 38 32 
+ceiling lamp, 248 238 48 41 
+ceiling lamp, 154 143 45 39 
+ceiling lamp, 188 179 56 50 

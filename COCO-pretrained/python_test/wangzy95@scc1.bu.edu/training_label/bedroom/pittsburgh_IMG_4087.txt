@@ -1,0 +1,14 @@
+lampshade, 155 5 448 338 
+swivel chair, 1302 1010 1040 585 
+curtain, 1369 741 877 130 
+picture occluded, 761 621 448 279 
+table occluded, 1345 1206 1083 671 
+furniture, 2049 1312 1701 40 
+chair occluded, 1332 1252 1259 937 
+armchair occluded, 415 7 933 615 
+bed crop, 528 7 1701 917 
+wall, 1375 492 844 120 
+wall, 521 405 907 113 
+wall, 1611 13 920 7 
+wall, 2272 1614 1701 3 
+floor, 2003 3 1701 837 

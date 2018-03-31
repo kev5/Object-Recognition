@@ -1,0 +1,18 @@
+mirror, 234 136 122 18 
+painting, 108 74 105 41 
+window, 31 0 80 27 
+bath tub, 105 8 232 180 
+bouquet, 148 122 172 114 
+sink, 239 104 255 160 
+sink, 190 137 187 173 
+bathtub, 108 9 256 182 
+towel rack, 123 110 164 145 
+towel rack, 255 221 255 177 
+soap, 206 197 178 174 
+soap dish, 205 194 183 177 
+cup, 218 206 191 176 
+towel, 120 108 173 165 
+counter, 231 104 203 161 
+sink faucet, 181 165 176 161 
+ceiling, 88 1 10 0 
+cabinet, 229 107 255 181 

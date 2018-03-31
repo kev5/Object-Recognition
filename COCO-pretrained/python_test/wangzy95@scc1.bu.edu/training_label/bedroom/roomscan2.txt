@@ -1,0 +1,25 @@
+painting, 29 7 86 67 
+painting, 26 9 61 45 
+painting, 33 7 107 91 
+painting, 48 29 86 69 
+painting, 48 35 103 87 
+night stand table, 225 184 163 131 
+pillow, 255 235 155 120 
+pillow, 185 160 137 112 
+pillow, 165 129 141 107 
+pillow, 255 217 171 150 
+pillow, 146 120 143 128 
+bed, 256 90 255 122 
+bed, 192 23 216 105 
+chair, 101 70 139 112 
+chair, 46 0 210 132 
+bouquet, 230 207 134 102 
+bouquet, 66 45 118 90 
+blanket, 52 0 203 144 
+blanket, 254 90 252 172 
+lamp, 210 188 135 97 
+window, 255 227 133 77 
+window, 215 184 128 78 
+window, 170 147 106 77 
+small table, 70 42 135 118 
+ceiling, 254 25 58 0 

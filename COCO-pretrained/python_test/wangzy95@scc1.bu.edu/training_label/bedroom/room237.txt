@@ -1,0 +1,14 @@
+painting, 77 50 101 59 
+painting, 128 104 102 65 
+lamp, 22 2 118 97 
+lamp, 163 147 120 101 
+bed, 250 31 242 142 
+curtain, 179 164 146 42 
+curtain, 202 190 151 45 
+night stand, 43 0 215 161 
+window, 254 206 143 64 
+window, 187 176 143 68 
+chair, 234 195 152 129 
+ceiling, 255 44 40 1 
+small table, 255 232 180 146 
+bouquet, 17 1 165 147 

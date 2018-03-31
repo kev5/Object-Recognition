@@ -1,0 +1,111 @@
+painting, 716 425 278 1 
+candle in holder, 395 358 278 83 
+candle in holder, 430 396 279 85 
+vase, 714 617 449 308 
+vase, 940 916 471 376 
+vase, 911 882 472 364 
+pottery, 249 191 128 75 
+pottery, 117 71 199 158 
+pottery, 160 119 201 162 
+pottery, 145 108 242 219 
+pottery, 87 50 259 238 
+pottery, 46 8 260 230 
+pottery, 842 788 330 301 
+pottery, 872 843 329 308 
+pottery, 855 810 398 342 
+books on a shelf, 28 2 118 48 
+books on a shelf, 96 26 122 47 
+stacked books, 160 96 123 90 
+stacked books, 92 5 278 257 
+stacked books, 166 93 278 240 
+books on shelf, 65 2 198 131 
+books on shelf, 277 160 203 134 
+books on shelf, 275 165 281 207 
+books on shelf, 122 2 398 316 
+books on shelf, 275 133 396 305 
+books on shelf, 112 2 485 426 
+books on shelf, 829 785 83 21 
+books on shelf, 864 829 85 25 
+books on shelf, 982 896 92 32 
+books on shelf, 839 787 144 87 
+books on shelf, 865 840 144 99 
+books on shelf, 911 864 148 93 
+books on shelf, 986 947 150 105 
+books on shelf, 829 786 206 147 
+books on shelf, 980 845 280 215 
+books on shelf, 994 894 379 310 
+books on shelf, 822 788 438 408 
+books on shelf, 989 909 470 396 
+blanket, 419 107 601 414 
+sofa, 466 2 854 417 
+pear, 29 7 642 618 
+pear, 52 24 644 622 
+pear, 219 195 644 622 
+pear, 202 181 642 619 
+pear, 188 163 646 627 
+pear, 168 157 644 626 
+pear, 161 132 647 627 
+pear, 156 129 628 610 
+pear, 128 101 634 608 
+pear, 133 113 646 628 
+pear, 98 74 647 623 
+pear, 112 97 648 630 
+plate_, 252 3 667 623 
+orange, 43 4 749 717 
+orange, 88 46 751 711 
+orange, 126 83 752 720 
+orange, 150 109 726 688 
+orange, 162 125 752 721 
+orange, 202 161 752 718 
+plate, 256 3 771 725 
+plate, 256 2 871 820 
+plate, 853 759 448 438 
+plate, 865 759 464 448 
+plate, 876 758 475 460 
+plate, 890 762 491 472 
+plate, 908 765 510 489 
+plate, 1033 978 411 396 
+plate, 1029 978 436 422 
+metal ball, 239 187 857 809 
+metal ball, 140 98 856 819 
+metal ball, 158 112 830 805 
+metal ball, 90 49 854 822 
+metal ball, 53 13 852 816 
+metal ball, 114 69 837 799 
+decorative ball, 179 138 858 821 
+stand, 301 2 900 524 
+stand, 1046 971 458 377 
+flower bouquet, 757 552 308 172 
+stack of books, 904 865 88 35 
+stack of books, 948 912 149 103 
+stack of books, 982 914 208 155 
+book, 976 929 105 98 
+mug, 845 830 206 189 
+mug, 876 855 206 188 
+mug, 793 769 443 426 
+mug, 805 775 466 448 
+mug, 814 782 481 462 
+mug, 821 786 500 475 
+bowl, 939 867 208 177 
+bowl, 620 572 451 432 
+area rug, 1199 131 900 639 
+box, 875 788 280 260 
+pottery ball, 859 816 260 226 
+basket, 822 790 399 374 
+picture frame, 888 823 455 407 
+runner cloth, 718 528 666 438 
+lemon slice, 739 720 401 390 
+lemon slice, 743 719 409 398 
+lemon slice, 744 721 421 404 
+lemon slice, 741 713 438 410 
+place mat, 941 725 522 505 
+chop stick, 904 820 502 491 
+glass, 758 726 503 419 
+table, 978 455 838 439 
+ladder, 1193 1080 600 60 
+chair, 1147 933 831 478 
+chair, 1080 900 734 450 
+wall, 1201 277 599 1 
+glasses, 755 739 417 386 
+mantle, 790 313 591 275 
+books, 270 2 50 0 

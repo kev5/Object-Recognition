@@ -1,0 +1,23 @@
+bed crop, 299 134 225 162 
+mirror, 205 180 90 42 
+radiator occluded, 155 114 170 99 
+rug, 154 118 132 97 
+rug, 129 79 208 181 
+table, 225 139 181 122 
+lamp, 229 213 146 119 
+tin, 202 197 138 126 
+flask, 176 169 127 111 
+curtain, 299 211 117 1 
+curtain, 152 99 108 1 
+furniture occluded, 117 103 162 108 
+wall, 300 146 216 2 
+wall, 106 2 192 1 
+chimney crop, 65 2 184 88 
+photograph, 47 32 72 63 
+photograph, 67 52 50 38 
+photograph, 22 13 63 50 
+photograph, 36 13 25 8 
+photograph, 49 40 57 46 
+floor, 299 2 225 160 
+ventilator crop, 25 2 190 136 
+poster, 176 167 90 35 

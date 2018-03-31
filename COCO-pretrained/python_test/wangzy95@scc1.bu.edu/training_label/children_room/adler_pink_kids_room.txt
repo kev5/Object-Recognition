@@ -1,0 +1,14 @@
+chest of drawers, 38 2 293 87 
+ceiling, 345 0 30 0 
+door, 85 46 289 84 
+bed, 332 101 341 169 
+canopy, 346 69 358 0 
+cushion, 192 119 224 197 
+cushion occluded, 172 117 239 219 
+cuddly toy, 205 166 237 202 
+table, 131 52 330 255 
+rug, 242 19 367 296 
+wall, 102 39 294 15 
+wall, 40 0 286 23 
+wall, 346 97 292 1 
+floor, 345 0 367 251 

@@ -1,0 +1,14 @@
+window, 164 2 257 5 
+window, 349 265 196 28 
+window, 464 364 196 15 
+vase, 86 48 257 219 
+kitchen sink, 399 302 255 233 
+kitchen sink, 487 382 260 235 
+pineapple, 315 291 232 164 
+fruit basket, 225 161 252 218 
+chairs, 272 137 384 254 
+lamp, 417 371 75 1 
+curtains, 512 251 82 12 
+curtains, 184 0 84 2 
+kitchen counter, 512 2 384 223 
+cabinets, 512 298 384 263 

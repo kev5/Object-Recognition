@@ -1,0 +1,25 @@
+cupboard, 251 227 82 22 
+cupboard, 299 250 87 1 
+cupboard, 243 205 163 110 
+cupboard, 254 224 218 128 
+cupboard, 297 278 225 169 
+extractor hood, 251 229 84 55 
+stove, 280 207 188 113 
+sink, 299 245 139 125 
+dishwasher, 287 249 225 145 
+worktop, 299 229 171 123 
+picture, 78 60 76 51 
+chair occluded, 75 52 123 113 
+table, 109 15 186 124 
+chair, 122 82 185 116 
+chair, 52 17 200 125 
+chair, 80 50 192 125 
+wall, 298 244 224 1 
+wall, 248 35 169 2 
+wall, 42 2 205 2 
+door, 20 2 224 1 
+rug, 252 161 225 190 
+floor, 296 17 225 163 
+window, 183 151 134 22 
+window, 137 106 133 23 
+curtain, 195 92 42 12 

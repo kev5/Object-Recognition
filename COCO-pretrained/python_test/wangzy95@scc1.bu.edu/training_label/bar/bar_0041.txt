@@ -1,0 +1,22 @@
+ceiling, 399 264 73 1 
+arch, 398 196 200 1 
+furniture, 134 2 315 37 
+bottle, 38 21 135 88 
+bottle, 62 46 135 84 
+bottle, 88 75 136 93 
+bottle, 113 98 137 91 
+bottle, 65 47 209 155 
+bottle, 97 82 205 154 
+bottle, 111 96 203 154 
+bottle, 79 66 207 161 
+bottle, 35 20 216 157 
+bottle, 354 330 289 199 
+bottle, 358 343 208 154 
+glass, 304 285 264 216 
+glass, 365 334 299 258 
+person occluded, 307 109 315 66 
+person occluded, 298 266 167 130 
+cocktail shaker, 311 264 214 179 
+bar, 399 172 315 193 
+wall, 249 2 315 1 
+wall, 399 265 198 46 

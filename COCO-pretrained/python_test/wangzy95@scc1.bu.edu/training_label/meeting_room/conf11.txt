@@ -1,0 +1,18 @@
+window, 209 178 102 5 
+window, 98 55 89 14 
+conference table, 255 45 256 106 
+chair top, 229 197 124 104 
+chair top, 196 168 119 100 
+chair top, 167 146 111 91 
+chair top, 102 68 109 91 
+chair, 218 110 255 131 
+chair, 128 62 235 120 
+chair, 75 38 196 111 
+chair, 45 23 153 101 
+blackboard, 165 133 90 22 
+blackboard, 115 99 91 23 
+poster, 35 16 99 76 
+poster, 14 1 96 75 
+phone, 69 49 98 88 
+cabinet, 109 0 133 96 
+lamp, 24 3 21 12 

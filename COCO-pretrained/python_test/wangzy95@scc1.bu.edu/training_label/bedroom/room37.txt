@@ -1,0 +1,14 @@
+bed, 256 51 251 63 
+pillow, 202 169 148 116 
+pillow, 234 195 150 118 
+pillow, 256 225 157 121 
+lamp, 168 149 119 77 
+window, 103 1 159 23 
+window, 92 58 144 33 
+window, 52 15 146 26 
+window, 7 1 148 27 
+curtain, 105 76 150 33 
+bench, 57 0 173 137 
+night stand table, 169 144 143 120 
+carpet, 254 1 256 176 
+ceiling, 192 61 13 0 

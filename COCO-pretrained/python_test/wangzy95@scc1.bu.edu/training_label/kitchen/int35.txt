@@ -1,0 +1,41 @@
+painting, 164 144 119 101 
+cabinets, 57 1 120 59 
+cabinets, 150 87 171 157 
+chair back, 166 85 254 189 
+chair back, 255 193 255 187 
+chair back, 68 0 255 187 
+paper towel holder, 170 157 151 129 
+bouquet, 43 8 152 133 
+bouquet, 126 115 119 112 
+bouquet, 142 133 120 112 
+plate, 217 176 192 182 
+plate, 41 1 190 181 
+plate, 129 87 192 183 
+plate, 16 0 149 131 
+sink, 144 90 153 147 
+plant, 89 75 119 108 
+window, 125 93 112 101 
+window, 215 185 131 102 
+window, 256 239 133 96 
+bottles, 208 188 150 128 
+counter, 255 0 204 147 
+kettle, 222 202 159 141 
+utensils, 176 167 193 185 
+utensils, 83 74 194 187 
+utensils, 54 42 194 186 
+bowl, 68 54 151 140 
+sink faucet, 119 111 150 138 
+dishwasher, 85 41 171 158 
+statue, 254 229 175 161 
+stove, 237 182 167 155 
+ceiling lamp, 92 79 47 43 
+ceiling lamp, 179 165 49 43 
+ceiling lamp, 232 216 47 40 
+cabinet, 40 1 174 157 
+place mat, 233 162 195 184 
+place mat, 141 69 197 184 
+place mat, 59 0 195 182 
+ceiling, 255 0 96 1 
+wall outlet, 56 49 138 131 
+book shelves, 182 73 130 118 
+cups, 10 3 80 73 

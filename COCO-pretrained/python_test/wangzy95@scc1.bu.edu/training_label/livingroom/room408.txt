@@ -1,0 +1,20 @@
+painting, 174 137 66 9 
+painting, 229 183 96 32 
+painting, 32 19 46 22 
+painting, 36 9 65 51 
+painting, 8 1 47 34 
+sofa, 246 77 220 93 
+lamp, 90 59 109 64 
+lamp, 255 219 214 59 
+pillow, 198 163 151 122 
+pillow, 140 105 135 102 
+pillow, 122 91 127 93 
+pillow, 231 190 160 110 
+pillow, 178 137 135 100 
+small table, 140 45 243 156 
+small table, 92 50 140 105 
+bouquet, 109 49 193 133 
+rug, 247 0 255 164 
+picture frame, 77 62 112 98 
+plant, 30 0 173 36 
+ceiling, 111 10 6 0 

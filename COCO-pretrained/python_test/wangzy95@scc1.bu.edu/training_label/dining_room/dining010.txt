@@ -1,0 +1,17 @@
+chair, 254 182 236 118 
+chair, 68 0 236 121 
+painting, 230 201 101 78 
+lamp, 223 207 68 38 
+hanging plate, 69 47 81 61 
+hanging plate, 67 50 104 86 
+bouquet, 144 102 147 104 
+tapestry, 173 75 121 44 
+table, 216 31 241 139 
+chair top, 179 139 139 114 
+chair top, 107 68 140 116 
+plates, 92 64 147 130 
+buffet, 43 0 155 35 
+table runner, 212 33 183 141 
+rug, 249 0 255 245 
+ceiling, 255 0 28 0 
+ceiling lamp, 159 71 59 2 

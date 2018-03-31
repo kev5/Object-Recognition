@@ -1,0 +1,10 @@
+chair, 473 441 153 72 
+bed, 385 4 219 75 
+table lamp, 251 212 134 67 
+estanteria, 580 536 180 66 
+picture, 138 85 61 4 
+picture, 638 621 60 1 
+herb, 56 30 50 12 
+pillows, 198 66 172 114 
+Air conditioner, 479 427 34 7 
+floor, 610 376 219 149 

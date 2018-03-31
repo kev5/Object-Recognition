@@ -1,0 +1,36 @@
+window, 229 175 129 46 
+plant, 193 181 126 93 
+plant, 209 198 126 93 
+plant, 224 215 126 93 
+ceiling lamp, 228 157 38 14 
+jars, 122 100 136 120 
+pot, 87 72 136 123 
+cutting board, 82 34 150 145 
+wall outlet, 35 23 133 123 
+dish towel, 224 209 147 136 
+dish towel, 128 115 187 151 
+cans, 157 142 117 108 
+counter, 254 121 143 129 
+bottles, 240 225 139 125 
+fruit stand, 256 235 127 90 
+rug, 237 126 233 205 
+bread, 72 32 147 139 
+mugs, 56 38 104 93 
+cabinet, 31 0 105 32 
+cabinet, 255 232 89 23 
+cabinets, 149 61 105 35 
+cabinets, 250 130 208 141 
+microwave, 157 128 135 119 
+stove, 132 75 155 136 
+oven, 133 103 224 151 
+decorative plate, 72 60 128 109 
+decorative plate, 86 75 126 108 
+shelves, 63 29 105 36 
+boxes, 57 34 57 40 
+boxes, 98 74 40 20 
+hood, 109 80 94 82 
+chair, 112 16 256 173 
+table, 18 0 255 199 
+cup, 11 0 199 186 
+sink, 217 160 139 134 
+books, 30 2 147 125 

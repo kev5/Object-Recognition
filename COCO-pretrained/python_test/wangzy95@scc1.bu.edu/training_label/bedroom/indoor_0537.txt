@@ -1,0 +1,16 @@
+ceiling, 511 95 40 1 
+picture, 181 107 221 151 
+large window, 692 292 344 52 
+curtain, 704 284 182 44 
+armchair occluded, 721 551 507 326 
+shelves, 799 721 392 281 
+vase, 775 751 284 249 
+furniture occluded, 782 671 503 408 
+notebooks, 790 678 415 393 
+chair crop, 800 637 600 393 
+lamp, 200 159 345 282 
+bed crop, 500 2 596 229 
+wall, 236 3 471 4 
+wall, 797 226 415 1 
+wall, 799 779 596 59 
+floor, 782 4 600 411 

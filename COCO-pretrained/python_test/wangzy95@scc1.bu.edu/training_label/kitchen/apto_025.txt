@@ -1,0 +1,21 @@
+drawer, 501 398 305 264 
+sink, 639 524 277 248 
+handle, 492 405 298 274 
+chair, 384 137 480 264 
+chair, 165 2 479 248 
+kitchen hood, 431 300 76 34 
+stove, 449 291 257 227 
+worktop, 520 78 366 222 
+shelves, 206 2 114 29 
+vase, 90 56 97 63 
+tile, 433 396 215 151 
+tile, 510 470 219 154 
+shelf, 212 2 105 87 
+shelf, 212 4 61 31 
+pot, 195 172 30 8 
+pot, 19 2 98 79 
+faucet, 628 610 251 215 
+water tap, 597 585 249 237 
+dish drainer, 546 445 254 219 
+Handle, 525 516 71 11 
+tiles, 637 326 235 92 

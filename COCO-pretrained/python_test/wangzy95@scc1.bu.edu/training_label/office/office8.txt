@@ -1,0 +1,19 @@
+chair, 97 43 200 111 
+chair, 256 181 242 124 
+chair top, 157 131 124 93 
+window, 164 122 95 27 
+window, 256 220 110 28 
+monitor, 218 192 127 99 
+keyboard, 245 205 135 127 
+desk, 246 83 235 117 
+lamp, 192 179 102 37 
+cabinet, 109 41 145 13 
+cabinet, 54 0 175 109 
+statue, 38 12 114 64 
+books, 56 33 112 89 
+box, 191 156 146 129 
+pen, 176 164 135 131 
+paper, 175 142 151 139 
+desk mat, 200 130 156 131 
+file cabinet, 255 239 210 155 
+boxes, 157 125 143 131 

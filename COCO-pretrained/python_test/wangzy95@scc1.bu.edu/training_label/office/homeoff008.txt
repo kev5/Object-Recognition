@@ -1,0 +1,14 @@
+printer, 251 180 150 104 
+monitor, 142 102 115 74 
+monitor, 97 44 114 74 
+speaker, 48 29 119 94 
+speaker, 162 146 118 93 
+computer, 24 0 174 114 
+small table, 255 168 207 134 
+rug, 254 1 255 188 
+desk, 172 28 201 112 
+chair, 123 46 224 100 
+keyboard, 120 63 126 116 
+mouse, 142 135 122 118 
+hat, 226 190 193 174 
+blanket, 192 151 151 81 

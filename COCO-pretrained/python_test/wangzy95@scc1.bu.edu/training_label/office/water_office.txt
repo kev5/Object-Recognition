@@ -1,0 +1,29 @@
+ceiling, 243 50 10 0 
+wall, 320 0 221 0 
+floor, 320 185 240 193 
+floor, 54 0 240 211 
+chair, 62 2 239 151 
+chair, 156 125 163 134 
+picture, 159 139 114 85 
+picture, 320 260 61 27 
+objects, 259 205 64 38 
+objects, 210 185 137 104 
+objects, 123 42 156 126 
+objects, 148 58 181 151 
+objects, 313 296 109 98 
+objects, 237 216 105 97 
+objects, 311 272 153 134 
+objects, 235 199 142 125 
+object, 144 119 145 120 
+object, 320 311 152 127 
+object, 271 256 106 95 
+object, 245 238 107 97 
+object, 292 286 135 123 
+typewriter, 185 137 141 119 
+desk, 198 41 239 138 
+desk, 320 196 229 59 
+key board, 262 217 161 149 
+objectds, 313 294 142 117 
+key board shelf, 275 215 168 149 
+mouse, 271 256 162 157 
+monitpr, 288 238 146 101 

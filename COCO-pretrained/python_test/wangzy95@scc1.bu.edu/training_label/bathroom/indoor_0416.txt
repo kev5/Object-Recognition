@@ -1,0 +1,14 @@
+mirror, 114 16 190 39 
+lamp, 118 17 58 3 
+ceiling, 289 104 43 1 
+wall, 288 179 314 22 
+wall, 186 2 396 1 
+wall, 289 258 510 150 
+screen, 288 123 369 82 
+faucet, 178 148 81 54 
+faucet, 85 66 269 254 
+washbasin, 128 57 294 270 
+closet, 164 14 451 264 
+wc occluded, 77 15 512 389 
+bath, 269 158 437 305 
+floor, 260 57 512 392 

@@ -1,0 +1,27 @@
+door frame, 206 137 223 43 
+door frame, 224 213 200 19 
+ceiling lamp, 131 76 46 1 
+ceiling lamp, 141 129 6 0 
+ceiling lamp, 193 186 68 64 
+cabinet, 96 0 256 174 
+cabinet, 118 98 233 157 
+mirror, 30 1 144 25 
+mirror, 16 0 147 37 
+sink, 114 70 163 153 
+counter, 117 1 221 151 
+bed, 198 144 176 138 
+towel, 255 246 192 117 
+towel, 109 94 152 136 
+bathtub, 255 222 255 203 
+towel rack, 109 95 135 124 
+towel rack, 245 235 124 111 
+bottle, 86 78 154 141 
+tube, 91 88 155 142 
+bouquet, 67 44 136 54 
+bath faucet, 249 218 208 192 
+window, 58 44 137 47 
+window, 199 179 147 94 
+floor, 209 80 255 184 
+soap, 38 30 183 172 
+jar, 25 0 196 126 
+curtain, 198 178 145 97 

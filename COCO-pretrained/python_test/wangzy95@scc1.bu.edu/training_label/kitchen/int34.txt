@@ -1,0 +1,30 @@
+kitchen sink, 128 60 185 161 
+counter, 150 1 197 163 
+counter, 243 148 163 153 
+stove, 167 86 167 157 
+cabinets, 194 16 127 23 
+cabinets, 235 126 236 162 
+cabinet, 147 88 254 183 
+cabinet, 255 233 190 107 
+cabinet, 194 170 153 127 
+fruits, 213 189 157 149 
+fruits, 73 38 176 154 
+door frame, 236 214 155 98 
+door frame, 15 0 170 67 
+microwave, 256 244 105 79 
+plant, 123 107 147 132 
+plant, 50 40 159 145 
+bowl, 167 150 158 149 
+bowl, 126 115 149 142 
+ceiling, 255 0 76 0 
+ceiling lamp, 251 234 8 1 
+ceiling lamp, 204 195 71 65 
+hood, 164 93 106 43 
+outlet, 109 101 224 210 
+outlet, 231 226 180 173 
+outlet, 94 88 140 133 
+outlet, 78 73 141 134 
+sink, 125 80 180 172 
+sink faucet, 107 73 180 159 
+fruit stand, 42 13 175 144 
+oven, 169 146 154 127 

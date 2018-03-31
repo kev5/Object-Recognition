@@ -1,0 +1,55 @@
+wall picture, 242 16 185 2 
+picture, 750 581 158 1 
+picture, 529 305 189 2 
+flowers in pot, 750 485 459 65 
+jelly jar, 557 515 444 344 
+plate, 702 519 474 434 
+plate, 405 199 486 439 
+plate, 576 515 511 475 
+plate, 875 638 531 478 
+strawberry, 415 376 441 413 
+strawberry, 317 260 424 392 
+strawberry, 802 724 467 435 
+strawberry, 552 509 500 465 
+strawberry, 484 468 474 457 
+strawberry, 419 395 480 462 
+strawberry, 447 416 489 460 
+strawberry, 470 440 481 461 
+strawberry, 493 461 504 478 
+strawberry, 466 438 504 485 
+strawberry, 411 383 503 473 
+strawberry, 438 407 504 478 
+strawberry, 486 463 483 470 
+strawberry, 509 490 476 459 
+strawberry, 513 484 497 464 
+croissant, 485 438 436 411 
+croissant, 643 565 492 451 
+croissant, 942 873 424 400 
+glass of oj, 463 392 427 350 
+glass of oj, 738 661 466 359 
+chair top half, 1025 862 435 246 
+chair top half, 570 360 416 255 
+grapefruit, 337 248 446 412 
+grapefruit, 807 705 486 456 
+bowl, 352 226 471 428 
+bowl, 825 681 518 465 
+bowl, 525 376 539 483 
+chair, 432 2 768 276 
+chair, 1024 713 768 333 
+fork, 692 599 538 487 
+mug, 849 759 468 419 
+mug, 472 405 464 426 
+saucer, 854 821 480 459 
+tray, 962 724 455 386 
+pitcher, 903 767 420 309 
+spoon, 928 858 518 477 
+spoon, 379 250 500 474 
+chair bottom half, 568 351 767 607 
+chair bottom half, 1016 746 752 551 
+napkin, 737 556 561 487 
+place mat, 953 534 566 481 
+place mat, 389 204 516 466 
+cloth, 785 750 418 365 
+tablecloth runner, 1016 812 718 555 
+tablecloth runner, 247 149 710 462 
+table, 1024 168 768 402 

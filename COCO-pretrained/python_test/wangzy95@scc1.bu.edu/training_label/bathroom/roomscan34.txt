@@ -1,0 +1,39 @@
+cabinet, 142 27 173 4 
+cabinet, 143 23 176 1 
+cabinet, 227 161 166 48 
+mirror, 224 165 164 52 
+mirror, 127 46 157 32 
+mirror, 217 177 154 67 
+sink, 175 40 256 197 
+sink, 255 167 255 185 
+sink, 174 37 255 198 
+sink, 255 166 254 185 
+picture, 19 1 122 89 
+lamp, 167 150 87 61 
+lamp, 23 2 60 17 
+lamp, 167 141 88 56 
+lamp, 24 0 62 17 
+lamp, 239 221 103 79 
+light switch, 149 142 164 149 
+plug point, 14 1 171 152 
+glass, 156 145 137 127 
+tap, 84 71 221 208 
+faucet, 100 87 219 206 
+wall outlet, 14 0 171 152 
+wall outlet, 149 143 164 150 
+painting, 20 0 123 87 
+towels, 197 153 255 200 
+towels, 255 228 247 215 
+towels, 256 232 198 182 
+shelf, 254 229 158 152 
+bottle, 242 233 154 139 
+bottle, 256 246 157 144 
+towel rack, 191 144 215 196 
+towel rack, 237 225 195 180 
+bouquet, 252 236 156 119 
+cup, 155 146 135 126 
+rack, 159 143 145 137 
+sink faucet, 213 183 198 188 
+sink faucet, 110 62 219 202 
+soap, 67 50 224 213 
+ceiling, 255 133 45 2 

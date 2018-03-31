@@ -1,0 +1,16 @@
+ceiling lamp, 180 97 78 5 
+painting, 193 171 110 82 
+window, 120 10 171 48 
+curtains, 134 1 203 11 
+door, 255 223 196 56 
+chair, 165 70 256 131 
+chair, 256 167 255 137 
+chair, 81 56 242 133 
+bouquet, 172 106 171 118 
+rug, 255 1 255 160 
+table, 249 72 191 151 
+candle, 179 162 171 146 
+chair top, 241 207 168 130 
+chair top, 189 169 161 129 
+chair top, 102 71 154 130 
+ceiling, 238 0 33 1 

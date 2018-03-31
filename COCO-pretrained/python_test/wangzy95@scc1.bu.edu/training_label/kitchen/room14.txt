@@ -1,0 +1,35 @@
+chair, 252 188 255 153 
+chair, 154 82 238 177 
+vase, 222 206 149 131 
+vase, 147 134 167 147 
+vase, 94 87 154 129 
+vase, 85 76 156 137 
+cabinet, 255 197 118 40 
+cabinet, 193 153 93 50 
+cabinet, 148 117 101 57 
+cabinet, 116 59 120 67 
+cabinet, 58 2 123 60 
+cabinet, 185 152 249 178 
+cabinet, 10 0 206 154 
+bowl, 99 73 168 156 
+cup, 155 147 167 157 
+cup, 168 159 168 157 
+cup, 179 172 166 157 
+counter, 210 6 175 154 
+bouquet, 101 0 253 196 
+ceiling, 253 86 60 2 
+refrigerator, 61 15 155 101 
+pitcher, 188 167 164 142 
+ceiling lamp, 135 0 65 1 
+ceiling lamp, 142 131 27 21 
+microwave, 193 156 125 92 
+oven, 146 115 145 101 
+pig statue, 256 225 153 128 
+kettle, 117 93 164 142 
+stove, 122 26 170 156 
+bottle, 114 105 137 126 
+table, 195 132 254 234 
+cabinets, 82 7 220 164 
+bottles, 200 184 146 128 
+chair top, 210 185 165 148 
+chair top, 169 147 161 142 

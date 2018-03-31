@@ -1,0 +1,20 @@
+ceiling, 33 2 28 9 
+ceiling, 298 89 16 1 
+wall, 38 2 105 24 
+wall, 150 2 143 1 
+wall, 299 146 128 7 
+bed occluded, 39 4 139 95 
+picture, 35 22 59 39 
+picture, 124 98 83 34 
+sofa, 176 79 154 89 
+table crop, 85 2 221 137 
+chair crop, 108 24 222 141 
+chair occluded, 95 55 147 117 
+large window, 243 149 125 28 
+table occluded, 199 164 149 117 
+table occluded, 290 187 203 117 
+chair, 289 223 222 130 
+carpet, 281 109 199 129 
+lamp, 100 66 119 69 
+lamp, 299 273 138 67 
+floor, 298 2 221 117 

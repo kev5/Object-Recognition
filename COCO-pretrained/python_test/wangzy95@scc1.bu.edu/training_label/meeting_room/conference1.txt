@@ -1,0 +1,31 @@
+ceiling, 569 2 49 1 
+light, 429 290 37 21 
+vent, 403 316 24 12 
+wall, 601 498 451 2 
+wall, 505 295 264 46 
+wall, 295 2 316 14 
+floor, 579 202 449 262 
+whiteboard, 197 2 206 73 
+electrical outlet, 67 56 212 199 
+electrical outlet, 587 581 367 344 
+markers, 58 19 192 186 
+window, 292 196 200 41 
+window, 435 305 192 54 
+window, 592 538 347 29 
+tree, 426 266 198 116 
+television stand, 487 440 280 203 
+television, 497 446 211 157 
+poster, 544 479 335 137 
+calendar, 599 559 298 115 
+paper, 246 206 250 239 
+table, 380 9 451 224 
+chair, 32 2 280 267 
+chair, 174 2 449 331 
+chair, 319 162 448 294 
+chair, 388 288 447 254 
+chair, 427 362 236 192 
+chair, 360 308 230 193 
+chair, 305 251 226 193 
+chair, 211 134 256 203 
+chair, 136 55 277 213 
+chairs, 421 376 334 221 

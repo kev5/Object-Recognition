@@ -1,0 +1,14 @@
+door, 121 76 154 37 
+painting, 255 192 84 25 
+bed, 256 36 255 91 
+pillow, 196 163 151 126 
+pillow, 226 186 152 118 
+pillow, 233 179 147 115 
+lamp, 166 156 112 80 
+lamp, 150 139 90 76 
+mirror, 21 0 115 23 
+rug, 99 0 255 226 
+rug, 255 202 255 220 
+night stand table, 170 145 147 111 
+statue, 21 1 128 86 
+dresser, 39 0 205 125 

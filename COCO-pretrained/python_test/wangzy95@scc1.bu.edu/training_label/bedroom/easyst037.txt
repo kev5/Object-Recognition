@@ -1,0 +1,7 @@
+lamp shade, 108 29 218 176 
+drawer, 467 406 308 284 
+window, 486 389 238 61 
+pillow, 274 197 300 245 
+rug, 298 65 565 456 
+Wicker basket, 511 372 432 362 
+Bedstead, 293 94 324 163 

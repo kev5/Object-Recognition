@@ -1,0 +1,16 @@
+picture, 616 483 97 2 
+large window, 237 2 303 2 
+mirror, 322 247 256 54 
+bed crop, 738 2 524 163 
+pillow occluded, 687 567 318 250 
+pillow occluded, 480 412 252 212 
+cushion, 472 322 276 183 
+cushion, 353 270 276 200 
+cushion, 629 466 336 198 
+cushion, 530 392 340 237 
+night table crop, 796 695 476 282 
+lamp, 796 740 301 157 
+lamp, 367 322 192 117 
+wall, 311 239 282 2 
+wall, 796 293 402 2 
+floor, 796 2 532 272 

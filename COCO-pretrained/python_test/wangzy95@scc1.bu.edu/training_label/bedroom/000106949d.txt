@@ -1,0 +1,11 @@
+bed, 798 241 598 152 
+teddy bear, 566 457 363 244 
+teddy bear, 554 497 366 297 
+wardrobe, 470 203 394 2 
+drawer, 345 275 303 248 
+window, 140 2 369 1 
+window, 128 64 332 5 
+floor, 384 2 598 364 
+wall, 796 475 388 2 
+reflection, 176 7 593 430 
+railings, 90 9 355 155 

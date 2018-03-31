@@ -1,0 +1,21 @@
+ceiling, 251 0 55 1 
+handrail, 244 0 146 76 
+bar, 127 2 209 132 
+person sitting, 123 70 205 99 
+person sitting, 189 127 236 118 
+person sitting, 264 179 237 113 
+stool, 120 88 224 167 
+stool, 157 121 237 204 
+stool crop, 223 186 237 226 
+table occluded, 319 175 237 163 
+billboard, 309 289 188 154 
+lamp, 70 27 55 14 
+window, 319 293 144 42 
+pot, 319 309 141 123 
+plant, 319 302 124 100 
+wall, 319 67 41 1 
+wall, 196 0 85 39 
+wall, 319 190 181 30 
+column, 136 123 197 2 
+person standing crop, 33 0 237 55 
+floor, 319 2 237 196 

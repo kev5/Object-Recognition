@@ -1,0 +1,24 @@
+painting, 231 198 104 53 
+cushion, 185 132 172 137 
+cushion, 45 1 180 162 
+cushion, 59 2 214 181 
+small table, 220 114 256 187 
+small table, 254 211 197 152 
+sofa, 179 0 239 130 
+books, 175 147 85 69 
+books, 178 145 110 97 
+books, 187 157 139 124 
+books, 169 146 127 116 
+books, 195 183 156 145 
+ceiling lamp, 199 163 51 0 
+ceiling, 255 110 22 0 
+teapot, 41 26 114 103 
+arch, 107 0 37 0 
+magazine rack, 210 197 188 170 
+lamp, 88 76 52 39 
+phone, 210 197 163 154 
+shelves, 90 24 140 28 
+plant, 55 43 113 88 
+jar, 76 64 112 104 
+stereo, 237 214 180 167 
+wall outlets, 218 201 141 132 

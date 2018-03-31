@@ -1,0 +1,14 @@
+conference table, 229 20 239 138 
+bouquet, 110 98 132 110 
+chair, 217 136 248 169 
+chair, 97 1 254 186 
+chair, 236 214 217 155 
+chair top, 248 235 182 146 
+chair top, 217 191 143 133 
+chair top, 151 134 148 133 
+chair top, 130 110 155 137 
+chair top, 103 77 160 142 
+chair top, 70 33 173 148 
+counter, 256 151 140 124 
+ceiling, 256 1 70 0 
+cabinets, 254 154 165 132 

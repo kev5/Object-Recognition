@@ -1,0 +1,23 @@
+lamp, 50 0 190 127 
+wall outlet, 105 98 188 180 
+ceiling light, 133 120 23 10 
+painting, 36 2 164 31 
+blanket, 43 1 254 185 
+bed, 254 91 254 155 
+pillow, 217 194 167 156 
+pillow, 219 185 176 168 
+pillow, 255 223 182 169 
+pillow, 240 219 170 157 
+pillow, 256 240 171 158 
+curtain, 204 155 174 49 
+door, 142 117 187 80 
+small table, 73 48 207 162 
+plant, 59 45 160 129 
+window, 255 184 156 50 
+window, 254 203 76 52 
+window, 255 191 155 84 
+ceiling, 255 48 56 1 
+cabinet, 52 6 254 182 
+ceiling lamp, 223 214 27 22 
+ceiling lamp, 171 162 43 36 
+air vent, 254 229 26 11 

@@ -1,0 +1,10 @@
+picture, 146 96 93 49 
+picture, 140 105 46 15 
+bed, 224 2 282 151 
+night table, 224 167 299 248 
+photograph, 208 182 273 219 
+furniture crop, 20 2 205 152 
+ceiling, 184 87 7 1 
+wall, 181 2 193 1 
+wall, 224 181 271 1 
+floor, 223 2 299 191 

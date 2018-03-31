@@ -1,0 +1,21 @@
+picture frame, 464 376 282 162 
+picture frame, 569 463 287 162 
+picture frame, 568 471 146 21 
+alarm clock, 461 415 321 300 
+curtains, 281 171 287 48 
+book, 151 35 350 304 
+tv, 155 2 478 291 
+bed, 533 152 479 327 
+book stack, 325 235 296 241 
+cushion, 508 383 392 329 
+cushion, 374 298 360 321 
+picture, 546 480 256 184 
+picture, 453 383 274 171 
+picture, 543 490 125 43 
+window, 173 2 275 67 
+drawers, 637 534 472 354 
+telephone, 522 470 330 302 
+pictures, 363 320 295 264 
+lamp, 388 365 305 251 
+remote control, 605 566 354 337 
+wall, 639 267 341 1 

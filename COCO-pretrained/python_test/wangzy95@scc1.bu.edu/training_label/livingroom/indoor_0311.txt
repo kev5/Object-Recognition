@@ -1,0 +1,20 @@
+mirror, 82 2 173 17 
+picture, 480 399 170 53 
+wall lamp, 386 363 152 112 
+wall lamp, 503 472 150 101 
+fireplace, 296 117 324 147 
+vase, 231 196 148 113 
+vase, 60 43 235 211 
+console table, 107 2 352 222 
+flowers, 75 22 222 175 
+table occluded, 318 254 281 257 
+lamp, 319 271 265 162 
+sofa, 490 222 483 262 
+magazine rack, 495 378 483 411 
+table crop, 510 456 409 360 
+lamp crop, 511 470 383 193 
+carpet, 230 2 483 349 
+wall, 127 2 338 2 
+wall, 297 108 332 1 
+wall, 510 295 470 2 
+floor, 510 4 482 322 

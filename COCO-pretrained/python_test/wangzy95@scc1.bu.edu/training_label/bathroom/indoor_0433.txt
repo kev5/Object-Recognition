@@ -1,0 +1,17 @@
+ceiling, 230 2 41 1 
+rail, 116 2 58 30 
+mirror, 228 120 233 44 
+lamp, 246 105 55 1 
+cistern occluded, 235 194 418 322 
+wc occluded, 232 131 512 408 
+washbasin, 200 63 346 259 
+basket occluded, 170 80 467 360 
+towel, 122 91 428 395 
+towels, 179 93 432 366 
+pipe, 179 133 376 342 
+faucet, 162 132 297 278 
+curtain, 132 2 432 36 
+bath occluded, 87 3 460 387 
+wall, 248 73 437 1 
+door, 263 226 512 1 
+floor, 229 2 512 402 

@@ -1,0 +1,15 @@
+wall, 108 2 178 1 
+wall, 119 106 120 1 
+wall, 138 119 122 1 
+wall, 290 138 129 1 
+closet, 299 234 224 1 
+window, 234 178 80 4 
+swivel chair, 189 151 126 76 
+door, 284 212 130 9 
+floor lamp, 280 223 165 25 
+bed, 210 2 224 107 
+floor, 255 2 225 101 
+picture, 67 2 72 1 
+shelf, 147 140 34 31 
+shelf, 145 141 20 15 
+cushion, 109 25 224 170 

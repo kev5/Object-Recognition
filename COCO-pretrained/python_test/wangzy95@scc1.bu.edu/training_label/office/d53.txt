@@ -1,0 +1,31 @@
+plant, 77 1 253 152 
+plant, 242 205 55 33 
+plant, 164 144 157 141 
+plant, 164 144 95 78 
+curtain, 16 0 165 39 
+curtain, 123 106 196 69 
+window, 105 16 192 61 
+ceiling, 255 85 34 0 
+clock, 232 219 163 144 
+chair, 140 119 170 149 
+rug, 254 56 255 195 
+table, 207 91 191 167 
+lamp, 122 87 182 145 
+laptop, 161 143 173 160 
+books, 174 155 180 171 
+books, 161 147 76 67 
+books, 197 176 74 63 
+books, 244 230 83 70 
+books, 192 177 118 107 
+books, 230 212 100 90 
+books, 158 144 133 123 
+books, 244 235 114 104 
+books, 234 224 132 120 
+picture frame, 156 146 114 103 
+picture frame, 197 180 87 79 
+bookshelves, 255 132 134 45 
+painting, 194 173 55 34 
+vase, 201 191 131 124 
+cabinets, 255 149 203 160 
+magnifying glass, 144 124 183 175 
+armchair, 112 71 219 162 

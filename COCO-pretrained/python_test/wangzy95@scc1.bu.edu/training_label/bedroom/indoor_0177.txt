@@ -1,0 +1,17 @@
+bed crop, 154 2 224 111 
+picture, 182 149 40 1 
+picture, 247 208 38 1 
+swivel chair crop, 299 238 208 103 
+furniture, 108 55 143 95 
+lamp, 69 52 101 66 
+litter bin, 154 137 143 122 
+shoes, 237 209 168 153 
+jeans occluded, 100 15 225 139 
+table, 106 26 225 179 
+book, 89 27 204 173 
+wall, 126 2 158 1 
+wall, 299 119 168 1 
+floor, 298 2 224 135 
+carpet, 298 117 225 173 
+window, 112 55 95 4 
+window crop, 34 4 121 4 

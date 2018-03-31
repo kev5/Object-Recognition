@@ -1,0 +1,15 @@
+fireplace, 1060 582 630 338 
+table top, 1034 344 1102 866 
+candle stick one of two, 528 524 909 719 
+candle stick two of two, 592 588 889 702 
+basin, 825 631 961 864 
+water pitcher, 969 829 1038 840 
+barrel chair, 620 336 856 659 
+blanket rack, 170 2 606 2 
+set of cushions, 264 0 891 612 
+base of sofa, 323 18 1495 704 
+animal rug, 1061 198 1489 1280 
+stripped rug, 1059 94 1465 1102 
+side of chair, 1061 991 983 715 
+sofa cushions, 290 4 1143 831 
+bull skull, 968 753 214 0 

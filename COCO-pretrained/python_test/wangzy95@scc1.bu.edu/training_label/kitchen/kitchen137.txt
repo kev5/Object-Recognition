@@ -1,0 +1,92 @@
+chair, 481 246 900 588 
+chair, 212 1 900 600 
+chair, 582 523 559 487 
+flowers, 1144 1031 783 650 
+basket, 690 615 643 566 
+basket, 346 219 556 491 
+basket, 566 464 745 680 
+bowl of fruit, 549 457 570 510 
+plate, 532 458 683 609 
+plate, 133 98 387 356 
+plate, 1200 1155 576 475 
+plate, 563 516 781 731 
+plates, 1198 1112 440 372 
+plates, 301 213 602 568 
+plates, 50 2 482 420 
+chandelier, 222 45 261 116 
+stovetop, 952 788 543 512 
+sink, 457 329 570 536 
+sink, 200 88 522 475 
+faucet, 396 358 560 479 
+faucet, 161 145 479 447 
+stained glass, 942 839 264 86 
+stained glass, 680 471 302 222 
+stained glass, 680 639 563 309 
+stained glass, 513 480 508 314 
+window, 646 540 468 315 
+rafter, 836 1 137 50 
+rafter, 1108 1 87 2 
+plant, 292 219 277 212 
+plant, 1186 978 272 165 
+plant, 832 764 298 241 
+plant, 89 3 274 244 
+vase, 327 298 278 245 
+vase, 634 618 464 437 
+vase, 282 255 475 431 
+bootles, 996 967 547 466 
+bottles, 566 546 466 422 
+box of tea, 1028 1002 528 500 
+picture, 747 721 449 412 
+picture, 749 720 403 367 
+picture, 746 721 361 326 
+picture, 446 408 461 413 
+picture, 447 407 405 362 
+picture, 449 408 355 308 
+picture, 176 144 387 357 
+picture, 217 185 386 355 
+pitcher, 237 197 485 455 
+pitcher, 544 514 794 747 
+candle sticks, 385 353 484 421 
+cup and saucer, 524 494 674 653 
+plum, 467 449 578 562 
+plum, 490 476 578 563 
+stack of plates, 144 46 576 538 
+forks, 181 125 613 592 
+pastries, 227 149 533 510 
+pastries, 217 166 560 535 
+pillow, 565 531 506 488 
+pillow, 629 589 522 499 
+pillow, 625 580 495 472 
+couch, 630 548 565 467 
+ceiling, 1178 2 164 3 
+wall, 1200 2 639 2 
+cabinets, 390 2 420 275 
+cabinets, 1200 1010 473 205 
+cabinets, 1200 721 901 497 
+cabinets, 828 759 505 274 
+urn, 1178 1109 216 154 
+urn, 68 35 266 228 
+platter, 1200 1171 203 124 
+platter, 192 132 348 297 
+platter, 44 5 254 226 
+bowl, 808 766 280 239 
+jar, 828 812 413 305 
+wine glasses, 227 188 350 308 
+wine glasses, 132 89 349 306 
+cook books, 1115 1038 553 481 
+cook books, 1129 1002 574 537 
+saucers and tea cups, 1183 1127 591 553 
+tea canister, 1048 1022 542 526 
+tea canister, 1024 998 556 528 
+canister, 1124 1078 554 484 
+canister, 42 7 485 437 
+utencils, 943 867 488 450 
+tea pot, 940 872 526 446 
+counter top, 1200 719 630 487 
+bowl of towels, 113 55 486 428 
+dishwasher, 83 -1 594 495 
+floor, 1191 3 901 581 
+towel, 279 227 502 457 
+potted flowers, 351 282 480 420 
+flowers in vase, 383 288 562 437 
+doilie, 336 51 644 573 

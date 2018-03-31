@@ -1,0 +1,25 @@
+microwave, 242 182 117 89 
+cabinets, 177 0 129 31 
+cabinets, 142 50 245 184 
+sink, 136 28 188 169 
+dishwasher, 47 0 254 199 
+counter, 249 1 197 162 
+counter, 256 27 255 204 
+window, 141 0 166 125 
+cabinet, 247 178 86 43 
+cabinet, 192 143 227 178 
+cabinet, 250 192 214 176 
+stove, 255 129 254 222 
+pitcher, 56 30 97 73 
+wall outlet, 178 168 146 133 
+sink faucet, 72 56 174 157 
+glass, 117 108 171 161 
+glass, 103 94 98 83 
+glass, 112 103 98 84 
+glass, 123 114 99 84 
+mugs, 123 89 116 111 
+glasses, 68 32 69 50 
+glasses, 166 136 116 107 
+glasses, 165 136 97 87 
+pot, 63 47 118 108 
+mug, 156 145 72 62 

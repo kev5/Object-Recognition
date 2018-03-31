@@ -1,0 +1,20 @@
+wall, 140 2 186 1 
+wall, 299 141 225 2 
+window, 299 247 164 42 
+window, 63 4 133 16 
+curtain, 299 241 98 42 
+curtain, 67 2 76 15 
+rail, 76 3 17 12 
+bed, 238 79 221 114 
+radiator occluded, 299 240 222 154 
+table, 297 252 224 185 
+chair, 246 188 216 141 
+cushion, 237 206 192 161 
+picture, 188 162 74 44 
+picture, 118 95 70 49 
+lamp, 220 207 79 66 
+lamp, 84 73 82 67 
+lamp, 63 36 137 90 
+table occluded, 83 2 181 125 
+armchair, 70 7 224 155 
+floor, 296 2 225 149 

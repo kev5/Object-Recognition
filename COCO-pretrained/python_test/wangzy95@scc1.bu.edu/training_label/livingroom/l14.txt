@@ -1,0 +1,33 @@
+window, 214 183 143 72 
+window, 169 107 142 59 
+window, 96 61 145 73 
+window, 34 7 142 70 
+window, 166 110 143 63 
+fruit bowl, 153 99 227 191 
+armchair, 194 151 163 120 
+armchair, 120 79 162 118 
+armchair, 91 25 182 140 
+armchair, 235 178 192 142 
+armchair, 92 30 177 143 
+small table, 149 126 160 136 
+small table, 23 0 253 190 
+small table, 255 235 202 174 
+lamp, 32 1 198 136 
+lamp, 255 225 199 138 
+rug, 185 84 192 164 
+fan, 166 105 37 14 
+couch, 256 22 255 174 
+table, 213 43 253 206 
+plant, 252 208 139 80 
+plant, 70 23 146 68 
+ottoman, 161 107 182 163 
+pillows, 190 163 145 125 
+pillows, 106 82 145 126 
+ceiling, 256 1 50 0 
+pillow, 211 194 167 150 
+pillow, 73 52 167 149 
+pillow, 233 186 198 177 
+pillow, 183 139 199 177 
+pillow, 116 81 196 173 
+pillow, 79 30 190 174 
+wardrobe, 23 0 138 80 

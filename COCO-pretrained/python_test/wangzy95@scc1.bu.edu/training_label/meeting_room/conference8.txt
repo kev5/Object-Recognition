@@ -1,0 +1,55 @@
+floor, 691 7 1026 553 
+window, 45 5 464 306 
+window, 292 97 444 317 
+window, 362 336 384 332 
+plant, 381 340 424 381 
+light, 633 584 308 296 
+light, 554 506 313 301 
+light, 491 446 317 305 
+light, 433 401 320 311 
+ceiling, 692 2 320 1 
+wall, 371 2 522 286 
+wall, 691 365 492 302 
+art piece, 607 547 415 370 
+art piece, 534 480 406 362 
+art piece, 472 427 404 366 
+chair, 116 43 560 499 
+chair, 178 119 528 477 
+chair, 190 128 509 454 
+chair, 264 220 491 437 
+chair, 239 189 502 462 
+chair, 296 250 488 450 
+chair, 354 313 477 444 
+chair, 454 411 469 434 
+chair, 411 371 469 442 
+chair, 44 2 600 529 
+chair, 473 429 469 442 
+chair, 692 649 547 491 
+chair, 671 384 1019 734 
+chair, 692 614 891 664 
+chiar, 82 4 551 475 
+decorative bowl, 217 187 466 448 
+end table, 395 299 479 436 
+chairs, 600 485 490 441 
+chairs, 680 601 519 459 
+table, 691 2 994 469 
+place mat, 120 16 606 564 
+place mat, 171 85 563 532 
+place mat, 219 157 529 504 
+place mat, 269 210 509 490 
+place mat, 579 531 503 478 
+place mat, 622 562 513 495 
+place mat, 653 586 539 515 
+place mat, 675 601 578 542 
+place mat, 675 589 634 579 
+place mat, 653 527 716 634 
+place mat, 563 383 812 696 
+pen, 509 478 683 650 
+pen, 593 558 625 593 
+pen, 615 587 579 552 
+pen, 615 586 542 515 
+ceiling light, 144 109 171 149 
+ceiling light, 242 218 212 198 
+ceiling light, 331 308 239 224 
+ceiling light, 641 607 210 192 
+ceiling light, 685 669 149 128 

@@ -1,0 +1,19 @@
+picture, 171 103 122 29 
+sofa, 290 77 270 132 
+rocking chair occluded, 152 2 263 149 
+table occluded, 314 257 201 167 
+plant, 317 267 171 134 
+lamp, 288 240 164 106 
+large window, 510 252 200 1 
+furniture, 508 442 362 195 
+tv, 510 459 221 143 
+table, 354 241 282 195 
+lamp crop, 61 2 130 41 
+door crop, 14 2 404 263 
+table crop, 199 2 388 249 
+chair crop, 180 24 404 303 
+carpet, 467 200 324 201 
+carpet, 429 4 404 281 
+wall, 507 230 221 1 
+wall, 235 2 297 1 
+floor, 510 2 401 188 

@@ -1,0 +1,48 @@
+fence - x, 1008 960 163 136 
+light, 793 759 170 133 
+light, 884 809 311 166 
+light, 628 569 147 1 
+bowl of apples, 628 569 324 229 
+lamp, 194 123 289 141 
+table, 223 10 583 401 
+table, 841 711 678 554 
+chair, 495 177 640 294 
+chair, 1007 857 358 244 
+chair, 769 633 517 299 
+chair, 576 402 532 315 
+chair, 699 603 455 289 
+chair, 479 426 327 278 
+pillow, 370 225 490 341 
+pillow, 767 716 304 265 
+pillow, 983 917 309 256 
+cactus, 862 749 572 454 
+vase, 791 757 265 209 
+picture, 683 661 205 133 
+picture, 709 691 200 136 
+tabletop, 742 464 341 305 
+window, 402 212 285 36 
+curtain, 435 364 403 9 
+curtain, 954 872 276 67 
+curtain, 278 191 294 4 
+curtain, 637 587 253 69 
+end table, 196 46 504 276 
+end table, 828 758 354 258 
+stack of books, 391 176 652 582 
+stack of books, 184 45 434 383 
+couch, 1021 599 766 480 
+couch, 801 625 380 252 
+ottoman, 969 822 381 312 
+ottoman, 456 162 766 573 
+willow branches, 509 444 315 116 
+flowers, 828 790 265 216 
+fireplace, 109 5 560 134 
+decorative glass bowl, 149 72 297 263 
+shrub *X, 1003 959 199 167 
+jar, 78 6 462 366 
+bottle, 37 15 138 51 
+rug, 1009 704 438 356 
+rug, 777 415 769 607 
+floor, 1010 414 668 387 
+wall, 1024 1013 484 1 
+wall, 1012 569 350 1 
+wall, 570 2 504 1 

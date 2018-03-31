@@ -1,0 +1,24 @@
+painting, 110 77 70 23 
+painting, 250 222 56 30 
+trash can, 192 154 226 162 
+trash can, 247 229 140 106 
+monitor, 137 94 122 77 
+keyboard, 79 41 137 122 
+keyboard, 158 139 108 99 
+window, 218 122 83 4 
+window, 64 0 100 1 
+plant, 180 151 123 97 
+mouse pad, 94 66 142 132 
+desk, 155 1 246 102 
+desk, 226 133 188 98 
+books, 88 50 115 85 
+books, 201 171 116 108 
+chair top, 227 205 119 92 
+chair top, 206 178 110 88 
+folder, 37 4 122 108 
+mouse, 87 74 138 132 
+file box, 61 28 119 105 
+lamp, 145 107 84 69 
+chair, 256 240 146 84 
+chair part, 39 1 239 167 
+box, 158 139 120 110 

@@ -1,0 +1,25 @@
+ceiling, 299 4 52 1 
+ceiling, 92 2 87 1 
+ceiling, 299 276 74 36 
+lamp, 66 51 187 77 
+poster, 108 90 80 55 
+photograph, 188 178 66 55 
+photograph, 193 172 87 71 
+photograph, 191 171 112 97 
+photograph, 189 175 137 119 
+photograph, 187 175 156 143 
+photograph, 39 27 112 89 
+photograph, 269 254 92 71 
+bookshelf, 110 61 111 90 
+bookshelf, 105 60 191 125 
+bookshelf, 298 256 117 90 
+window, 245 200 151 71 
+window, 165 120 149 69 
+computer, 33 2 167 135 
+table, 55 2 223 149 
+chair, 91 42 224 165 
+wall, 50 2 222 84 
+wall, 299 48 181 49 
+floor, 299 3 224 174 
+bed crop, 297 200 224 162 
+spotlight, 72 40 41 15 

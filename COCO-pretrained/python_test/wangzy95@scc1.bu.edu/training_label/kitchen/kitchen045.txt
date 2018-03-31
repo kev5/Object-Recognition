@@ -1,0 +1,64 @@
+stove, 563 174 768 585 
+floor, 1195 622 894 646 
+pasta, 236 120 531 485 
+oven, 748 696 746 393 
+cabinet, 604 405 473 58 
+pot, 246 130 624 535 
+flowers, 1175 1093 557 453 
+flowers, 798 749 497 409 
+rooster, 89 30 532 468 
+book, 648 567 551 478 
+doorway, 928 795 655 337 
+doorway, 875 836 631 367 
+picture, 1072 983 479 379 
+picture, 1196 1095 485 371 
+light, 850 788 99 69 
+light, 906 863 188 168 
+light, 83 54 416 365 
+speaker, 814 782 317 291 
+wall decoration, 775 762 402 369 
+bread, 598 516 589 560 
+bread, 1132 1107 579 563 
+bottle, 493 474 550 474 
+bottle, 479 447 566 467 
+bottl, 454 423 582 522 
+pan, 529 279 625 525 
+ceiling, 1200 311 287 2 
+ceiling, 378 2 219 1 
+ceiling, 248 69 313 254 
+glass, 1093 1073 558 537 
+glass, 1161 1141 567 544 
+jelly jar, 1107 1095 570 542 
+bowl of fruit, 1087 1056 578 559 
+bowl of fruit, 1059 1012 569 545 
+chair, 1199 1087 774 530 
+chair, 1078 930 732 508 
+chair, 1188 1105 565 510 
+cabinets, 802 745 746 505 
+cabinets, 767 518 574 106 
+cabinets, 747 2 899 590 
+pepper, 575 540 597 563 
+pepper, 511 488 580 562 
+pepper, 350 307 602 564 
+pepper, 415 348 611 580 
+garlic, 557 542 599 581 
+tomato, 536 509 593 576 
+onion, 505 475 591 575 
+bowl, 138 1 664 590 
+towel, 600 559 631 594 
+side table, 109 3 592 530 
+utencil canister, 446 351 578 442 
+wall, 517 2 574 1 
+wall, 246 2 591 278 
+chandelier, 1200 1066 399 217 
+flowers in vase, 350 170 572 300 
+pot lid, 234 83 689 623 
+spoons, 219 2 708 681 
+counter top, 337 2 772 652 
+counter top, 693 590 618 571 
+dishes, 1165 1124 583 565 
+napkin, 1117 1093 585 571 
+table runner, 1055 997 622 567 
+chair cushion, 1195 1082 643 605 
+table, 1200 1014 753 576 
+mug, 1198 1177 574 559 

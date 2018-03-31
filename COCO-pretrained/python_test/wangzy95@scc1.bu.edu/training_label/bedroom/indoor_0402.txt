@@ -1,0 +1,16 @@
+window, 425 155 220 88 
+curtain, 450 104 261 30 
+bed crop, 510 2 398 256 
+cushion, 50 2 297 267 
+cushion, 91 39 301 261 
+cushion, 135 58 326 280 
+cushion, 155 26 357 303 
+cushion, 157 31 385 318 
+tv stand, 510 420 307 236 
+tv, 498 425 247 191 
+basket occluded, 388 329 276 227 
+door occluded, 476 446 194 83 
+door occluded, 510 485 237 73 
+wall, 485 2 357 1 
+wall, 510 483 291 1 
+floor, 510 4 398 271 

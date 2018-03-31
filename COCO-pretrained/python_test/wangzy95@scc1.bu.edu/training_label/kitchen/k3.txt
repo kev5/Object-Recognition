@@ -1,0 +1,39 @@
+curtain, 64 17 106 0 
+decorative plate, 199 178 25 9 
+decorative plate, 233 209 26 7 
+decorative plate, 154 143 18 3 
+door, 129 103 97 6 
+stove oven kitchen, 184 99 229 99 
+sink, 116 16 179 150 
+television, 240 220 126 101 
+hood, 172 128 76 47 
+window, 66 1 143 2 
+window, 256 242 105 41 
+dish towel, 79 64 162 141 
+paper towels, 92 81 145 112 
+dish towels, 188 170 202 162 
+kettle, 148 129 132 112 
+toaster oven, 179 142 125 104 
+knives, 210 197 127 102 
+monitor, 255 247 141 111 
+rug, 223 141 255 230 
+counter, 256 223 207 152 
+counter, 159 1 238 136 
+stove, 183 99 147 109 
+oven, 186 158 229 137 
+cabinet, 246 130 94 12 
+picture frame, 66 56 132 120 
+bottles, 42 23 143 115 
+sink faucet, 88 56 157 133 
+plant, 98 62 150 115 
+pot, 192 175 86 76 
+plates, 230 217 88 80 
+plates, 215 206 69 57 
+pitcher, 196 186 68 55 
+floor, 223 130 256 201 
+dishwasher, 82 6 255 192 
+rack, 128 100 117 99 
+bib, 37 6 178 133 
+statue, 193 185 123 109 
+cabinets, 246 183 201 127 
+cabinets, 158 79 254 149 

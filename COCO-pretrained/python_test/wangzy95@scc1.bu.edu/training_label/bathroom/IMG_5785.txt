@@ -1,0 +1,4 @@
+mirror, 1078 876 607 98 
+soap dispenser, 502 327 892 646 
+towel dispenser, 333 0 718 208 
+waste basket, 798 247 1528 1188 

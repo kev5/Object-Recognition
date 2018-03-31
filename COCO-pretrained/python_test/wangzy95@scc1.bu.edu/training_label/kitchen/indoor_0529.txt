@@ -1,0 +1,11 @@
+cupboard, 796 4 254 2 
+sink, 305 105 445 398 
+faucet, 291 198 406 332 
+dishwasher crop, 548 311 600 462 
+oven crop, 783 542 598 458 
+stove, 773 518 447 379 
+dish, 687 598 410 369 
+tray, 458 363 404 332 
+worktop, 790 6 460 390 
+cupboard crop, 315 12 600 462 
+wall, 796 2 404 4 

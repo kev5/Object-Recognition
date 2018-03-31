@@ -1,0 +1,21 @@
+painting, 253 206 111 33 
+ceiling lamp, 135 69 93 42 
+table, 196 38 254 148 
+plant, 175 141 47 10 
+chair top, 174 137 150 101 
+chair top, 182 159 171 136 
+chair top, 188 167 181 150 
+chair top, 210 186 233 166 
+chair top, 197 61 256 171 
+chair top, 142 93 148 110 
+chair top, 63 50 164 135 
+chair top, 58 42 184 148 
+chair top, 50 25 214 164 
+bowl, 143 74 181 159 
+wall outlet, 233 228 228 209 
+cabinets, 183 45 143 105 
+cabinets, 42 1 174 29 
+ceiling, 201 1 30 0 
+clock, 92 78 47 34 
+window, 129 70 82 48 
+window, 163 150 90 47 

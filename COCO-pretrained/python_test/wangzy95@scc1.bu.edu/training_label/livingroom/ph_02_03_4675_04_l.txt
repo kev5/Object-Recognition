@@ -1,0 +1,37 @@
+tv, 163 121 153 116 
+window, 83 0 151 43 
+ceiling lamp, 232 165 90 1 
+ceiling lamp, 108 59 88 1 
+fireplace, 256 179 193 138 
+small table, 153 32 241 173 
+pillow, 40 3 184 153 
+pillow, 173 152 176 160 
+pillow, 63 45 173 158 
+pillow, 216 183 186 170 
+painting, 256 198 122 43 
+plant, 160 123 91 73 
+plant, 89 2 256 205 
+plant, 201 181 131 105 
+sofa, 252 128 255 173 
+sofa, 194 107 193 148 
+sofa, 143 117 174 151 
+sofa, 81 0 207 150 
+candle, 89 80 183 153 
+candle, 71 63 181 142 
+end table, 169 112 255 221 
+candles, 255 208 140 128 
+candles, 43 25 151 127 
+candles, 105 88 162 118 
+candles, 256 209 138 126 
+fruit bowl, 139 111 190 174 
+table, 255 213 255 197 
+chair, 212 184 255 202 
+blanket, 250 215 195 170 
+blanket, 195 156 193 158 
+vase, 81 69 164 151 
+glass, 96 84 199 180 
+book, 105 78 203 194 
+decorations, 78 52 196 179 
+television, 160 124 150 122 
+television cabinet, 182 108 158 90 
+magazines, 171 118 244 222 

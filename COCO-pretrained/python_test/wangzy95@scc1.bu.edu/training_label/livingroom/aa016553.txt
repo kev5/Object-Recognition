@@ -1,0 +1,18 @@
+sofa, 221 125 207 124 
+windows, 232 144 166 27 
+windows, 123 16 156 36 
+small table, 209 70 255 187 
+small table, 255 208 222 166 
+bouquet, 137 104 199 152 
+armchair, 122 1 256 154 
+candles, 254 241 174 159 
+painting, 254 240 100 58 
+magazine, 163 125 211 199 
+ottoman, 108 25 200 155 
+plant, 143 120 106 79 
+plant, 142 116 154 77 
+plant, 254 196 170 87 
+ceiling, 189 40 12 0 
+pillow, 224 161 164 131 
+pillow, 178 129 161 124 
+pillow, 48 0 249 157 

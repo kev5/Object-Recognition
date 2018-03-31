@@ -1,0 +1,16 @@
+ceiling, 225 40 80 0 
+window, 187 176 161 144 
+window, 100 63 168 129 
+wall, 198 145 165 140 
+wall, 198 130 167 135 
+wall, 207 123 188 79 
+wall, 256 206 255 0 
+wall, 125 0 209 0 
+plant pot, 177 123 197 165 
+plants, 183 103 170 69 
+column, 255 223 254 111 
+column, 232 216 204 129 
+vase, 34 0 221 183 
+flowers, 58 2 195 56 
+table occluded, 84 0 256 219 
+floor, 236 0 256 163 

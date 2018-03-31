@@ -1,0 +1,17 @@
+mirror, 296 84 214 2 
+litter bin, 195 168 343 289 
+washbasin, 295 245 255 232 
+faucet, 291 283 228 215 
+closet, 292 188 387 250 
+wc, 111 49 448 344 
+cistern occluded, 55 42 426 346 
+rail, 60 2 38 12 
+curtain, 81 3 340 21 
+wall, 91 2 327 1 
+wall, 110 71 329 1 
+wall, 296 89 342 3 
+shower occluded, 87 42 348 302 
+door, 54 2 448 19 
+floor, 296 2 448 311 
+rug, 168 98 449 365 
+rug, 283 156 447 377 

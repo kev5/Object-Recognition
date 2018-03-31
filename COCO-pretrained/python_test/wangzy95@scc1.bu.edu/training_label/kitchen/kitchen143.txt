@@ -1,0 +1,83 @@
+sink, 754 64 721 548 
+knob *X, 307 295 397 388 
+bread, 563 498 375 346 
+bread, 638 535 368 343 
+bread, 769 663 378 338 
+bread, 802 741 340 302 
+bread, 960 874 472 431 
+cover, 667 548 363 303 
+wine glass, 748 714 385 315 
+bottle of red wine, 696 663 368 246 
+bottle of white wine, 717 691 362 244 
+jar, 841 814 355 322 
+jar, 810 783 355 322 
+jar, 513 491 116 85 
+jar, 190 161 118 73 
+brush, 474 397 640 572 
+pottery, 526 439 734 614 
+sponge, 547 468 757 706 
+soap, 628 536 742 688 
+mug, 899 801 720 616 
+mug, 959 855 624 522 
+mug, 978 913 576 502 
+plate, 1022 969 700 518 
+plate, 1022 971 632 450 
+glass, 840 778 695 596 
+glass, 921 856 691 600 
+glass, 889 822 653 559 
+faucet, 385 197 670 445 
+jug, 809 714 605 464 
+jug, 769 706 602 526 
+jug, 612 545 293 220 
+basket, 725 550 599 486 
+basket, 826 683 558 416 
+basket, 867 674 611 459 
+basket, 970 810 571 444 
+bowl, 904 765 341 271 
+kettle, 123 49 368 319 
+pan, 418 260 327 257 
+pot, 403 332 314 253 
+pot, 561 511 293 248 
+pot, 197 129 352 225 
+countertop, 667 1 415 281 
+stove, 485 200 347 307 
+plant, 137 65 320 240 
+broom, 1021 947 509 164 
+picture, 352 289 114 9 
+picture, 459 388 85 9 
+picture, 421 363 115 59 
+bottle, 489 468 108 39 
+bottle, 38 16 320 278 
+bottle, 72 46 311 266 
+chair, 950 846 322 244 
+candle, 306 276 118 90 
+candle, 449 425 118 90 
+sculpture, 254 214 117 3 
+basket of eggs, 72 6 389 272 
+onions, 703 595 541 504 
+hot peppers, 412 372 262 165 
+onion, 675 653 530 509 
+window, 1024 820 450 1 
+cabinets, 817 573 277 1 
+cabinets, 689 2 569 305 
+cabinets, 143 2 266 1 
+cabinets, 632 463 195 1 
+ovens, 793 714 315 112 
+soap dish, 635 533 762 721 
+kitchen towel, 983 697 743 645 
+objects, 477 450 117 88 
+object, 217 181 118 66 
+paper, 275 238 115 63 
+potted herbs, 659 602 290 204 
+potted herbs, 507 408 312 242 
+card, 680 649 221 189 
+card, 648 614 264 224 
+cards, 692 646 261 219 
+shelf, 529 140 238 117 
+decorative plate, 91 2 314 244 
+dish rack, 1023 836 767 522 
+table, 991 413 586 320 
+utincils in canister, 511 434 307 206 
+platter, 666 458 397 356 
+counter top, 1024 3 768 510 
+towel, 870 761 479 339 

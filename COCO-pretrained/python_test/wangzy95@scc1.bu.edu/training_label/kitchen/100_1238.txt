@@ -1,0 +1,17 @@
+microwave oven, 640 475 325 228 
+telephone, 231 217 283 213 
+chord, 224 213 284 262 
+door handle, 194 166 327 314 
+door, 463 358 480 88 
+door, 203 53 478 84 
+hinge, 358 352 159 137 
+cabinet, 629 475 218 18 
+handle, 554 546 200 165 
+handle, 580 571 202 160 
+spice rack, 537 492 409 370 
+spice jar, 525 511 407 389 
+counter, 639 394 480 375 
+rooster, 470 445 214 178 
+cookie jar, 461 415 414 356 
+Tiny Door, 302 239 264 174 
+wall, 346 53 480 1 

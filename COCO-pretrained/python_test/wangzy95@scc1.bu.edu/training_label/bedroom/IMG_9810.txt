@@ -1,0 +1,17 @@
+picture, 557 326 555 162 
+bed, 1437 232 1383 592 
+ceiling, 2048 548 102 2 
+Air Conditioner, 1721 1318 969 748 
+Lamp shade, 868 757 689 466 
+curtain, 1457 1273 710 159 
+curtain, 2029 1847 743 145 
+window, 1882 1657 663 186 
+window, 1637 1453 651 194 
+drawer, 2047 1861 1534 424 
+bed crop, 711 5 1534 1024 
+night table occluded, 290 5 1103 865 
+lamp, 285 5 701 486 
+wall, 1010 14 1188 9 
+wall, 2039 996 987 47 
+floor, 2034 14 1538 907 
+Desk _ Chair, 1113 729 804 641 

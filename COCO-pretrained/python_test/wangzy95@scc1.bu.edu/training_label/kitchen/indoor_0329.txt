@@ -1,0 +1,25 @@
+cupboard, 98 2 104 1 
+cupboard, 229 94 106 1 
+cupboard, 350 231 106 1 
+cupboard occluded, 471 347 104 1 
+door, 510 440 338 1 
+blender, 418 380 201 123 
+pot, 369 348 194 162 
+cutlery, 377 334 157 126 
+teapot, 329 283 205 162 
+coffee marker, 63 2 234 147 
+microwave, 165 29 219 142 
+stand, 230 201 196 117 
+glass, 213 198 153 132 
+glass, 235 219 150 133 
+glass, 211 195 171 155 
+glass, 236 217 173 153 
+sink crop, 121 2 316 245 
+stove crop, 360 231 339 163 
+cupboard crop, 446 359 341 226 
+cupboard crop, 230 143 339 231 
+cupboard crop, 145 89 341 257 
+worktop, 234 2 341 186 
+worktop, 447 331 230 185 
+wall, 508 51 341 4 
+wall, 75 2 338 2 

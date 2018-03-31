@@ -1,0 +1,17 @@
+window crop, 29 2 101 1 
+mirror, 216 156 64 1 
+gel, 167 157 137 106 
+gel, 223 209 141 116 
+washbasin, 206 141 155 138 
+closet, 226 121 225 135 
+cistern occluded, 276 249 196 159 
+toilet seat cover occluded, 275 248 225 178 
+towel, 260 225 117 21 
+bath occluded, 95 8 225 170 
+faucet, 195 178 139 125 
+wall, 71 2 198 1 
+wall, 282 62 224 1 
+wall, 299 273 224 1 
+wall, 12 2 224 154 
+curtain, 127 93 173 4 
+box, 129 95 224 161 

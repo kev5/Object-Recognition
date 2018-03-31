@@ -1,0 +1,21 @@
+toilet, 242 184 237 115 
+toilet brush, 253 236 212 159 
+towel, 161 129 113 70 
+towel, 234 183 180 153 
+towel, 239 186 188 167 
+sink, 121 26 132 104 
+mirror, 80 27 86 19 
+lamp, 85 30 21 2 
+shower curtain, 34 0 248 1 
+towels, 237 186 188 153 
+shower, 106 0 256 211 
+kleenex, 56 27 115 98 
+towel rack, 168 162 75 70 
+bottle, 76 70 91 79 
+toothbrush, 54 39 95 77 
+shelf, 89 28 99 88 
+tube, 218 203 171 157 
+sink faucet, 71 61 115 106 
+pipe, 79 50 155 133 
+window, 107 89 46 1 
+floor, 255 33 256 169 

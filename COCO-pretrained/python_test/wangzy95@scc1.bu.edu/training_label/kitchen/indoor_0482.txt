@@ -1,0 +1,19 @@
+poster, 779 662 181 2 
+poster, 583 522 148 12 
+sink, 643 338 480 322 
+faucet, 553 452 384 262 
+pot, 734 652 499 396 
+utensil, 796 662 421 311 
+toaster, 419 363 268 217 
+coffee marker occluded, 383 334 256 184 
+knives, 285 254 256 183 
+teapot, 241 184 266 208 
+stove, 256 66 501 254 
+washing machine, 350 258 532 301 
+fridge crop, 50 4 530 2 
+cupboard, 371 54 146 2 
+cupboard, 404 351 530 439 
+worktop, 796 249 530 247 
+wall, 386 52 392 2 
+wall, 796 377 530 2 
+floor, 452 54 532 388 

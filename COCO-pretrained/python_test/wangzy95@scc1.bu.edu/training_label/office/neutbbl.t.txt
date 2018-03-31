@@ -1,0 +1,19 @@
+painting, 196 147 70 8 
+painting, 121 72 68 7 
+lamp, 105 57 117 31 
+television, 35 1 168 108 
+shelves, 43 0 98 0 
+chair, 225 107 254 73 
+phone, 121 95 117 99 
+desk, 230 58 221 115 
+fireplace, 255 223 209 51 
+pillow, 197 124 178 150 
+decorative plate, 28 1 60 36 
+decorative plate, 14 0 22 3 
+decorative plate, 35 16 27 16 
+decorative plate, 255 237 50 34 
+bookshelves, 53 1 207 0 
+VCR, 28 0 93 79 
+vase, 13 3 77 68 
+vase, 22 15 78 71 
+bouquet, 206 149 120 63 

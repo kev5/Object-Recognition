@@ -1,0 +1,10 @@
+mirror, 163 119 99 42 
+picture, 77 34 93 47 
+closet, 383 186 241 2 
+night table occluded, 406 358 231 191 
+lamp, 447 365 190 83 
+bed crop, 510 2 391 108 
+wall, 99 2 312 4 
+wall, 510 91 247 2 
+floor, 510 2 390 231 
+switch, 154 138 140 124 

@@ -1,0 +1,44 @@
+conference table, 194 25 239 99 
+conference table, 255 72 202 98 
+chair, 106 39 234 152 
+microphone, 157 119 251 182 
+microphone, 164 128 186 151 
+microphone, 123 93 166 139 
+microphone, 103 77 153 129 
+microphone, 72 48 138 119 
+chair part, 43 16 212 129 
+chair part, 22 10 184 123 
+chair part, 255 244 132 107 
+chair top, 241 227 128 105 
+chair top, 226 204 123 102 
+chair top, 210 200 120 100 
+chair top, 198 188 115 98 
+chair top, 187 169 113 89 
+chair top, 174 165 110 96 
+chair top, 165 157 110 95 
+chair top, 155 147 107 95 
+chair top, 146 139 108 93 
+chair top, 95 86 97 90 
+chair top, 109 101 97 90 
+chair top, 49 39 101 91 
+lots of chairs, 137 111 105 90 
+lots of chairs, 38 3 127 92 
+window, 83 49 111 58 
+window, 130 101 100 56 
+window, 23 0 111 56 
+window, 163 137 66 45 
+window, 248 174 63 26 
+window, 248 211 123 60 
+window, 192 179 108 65 
+window, 206 198 110 66 
+window, 163 140 102 69 
+desk, 255 48 256 228 
+ceiling lamp, 166 152 10 4 
+ceiling lamp, 225 211 12 7 
+ceiling lamp, 105 89 7 2 
+ceiling lamp, 39 24 7 2 
+ceiling, 255 1 57 0 
+paper, 83 57 158 151 
+paper, 69 46 149 143 
+paper, 57 38 140 135 
+paper, 51 34 135 130 

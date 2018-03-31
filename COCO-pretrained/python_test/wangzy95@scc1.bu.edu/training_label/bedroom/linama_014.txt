@@ -1,0 +1,26 @@
+cushion, 335 233 267 200 
+lamp, 435 384 205 154 
+lamp, 82 9 270 199 
+bed, 633 98 479 115 
+painting, 280 154 76 1 
+curtain, 537 443 170 1 
+night table, 122 2 404 252 
+night table, 464 361 250 196 
+window, 602 537 165 1 
+window, 580 551 60 12 
+window, 576 544 150 96 
+bedroom, 640 2 480 1 
+drawer, 108 10 339 284 
+drawer, 113 16 384 327 
+drawer, 458 410 242 214 
+handle, 69 54 316 308 
+handle, 74 60 362 353 
+handle, 441 432 236 229 
+duvet, 632 118 479 201 
+bedhead, 338 101 293 116 
+tiling, 311 2 479 341 
+tiling, 640 481 479 372 
+wall, 456 2 267 3 
+wall, 639 453 305 2 
+tile, 177 98 451 409 
+tile, 206 126 477 434 

@@ -1,0 +1,12 @@
+bed crop, 285 5 1062 84 
+table occluded, 610 81 976 520 
+lamp, 420 30 577 3 
+table, 1095 3 1632 905 
+magazine, 751 409 1076 940 
+sofa occluded, 1664 401 1089 328 
+lamp crop, 2282 1813 734 3 
+armchair, 2409 1176 1922 547 
+cushion, 1989 1791 1100 734 
+wall, 2323 5 976 3 
+wall, 2585 2279 1943 3 
+floor, 2442 5 1943 867 

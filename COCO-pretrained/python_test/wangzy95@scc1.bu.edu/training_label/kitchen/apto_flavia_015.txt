@@ -1,0 +1,22 @@
+fridge, 215 117 404 194 
+window, 126 2 223 105 
+faucet, 40 21 254 238 
+drawer, 133 84 345 322 
+picture, 505 468 185 141 
+picture, 573 529 124 79 
+kitchen cupboards, 382 210 181 70 
+kitchen worktop, 265 2 323 274 
+wall, 598 175 447 1 
+wall, 173 2 290 20 
+socket, 378 360 258 234 
+socket, 375 356 413 388 
+socket, 241 227 366 352 
+stool, 123 46 447 365 
+stool, 186 113 448 356 
+stool, 53 2 450 380 
+floor, 344 5 447 399 
+beam, 365 263 31 1 
+, 90 48 283 235 
+cupboard door, 347 294 176 75 
+cupboard door, 295 247 178 82 
+cupboard door, 249 207 182 90 

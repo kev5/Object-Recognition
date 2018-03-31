@@ -1,0 +1,42 @@
+painting, 78 55 98 66 
+painting, 176 108 85 29 
+painting, 234 210 95 63 
+painting, 256 251 109 76 
+painting, 256 251 69 39 
+lamp, 74 54 139 99 
+lamp, 234 215 130 97 
+lamp, 196 178 86 50 
+lamp, 106 89 86 55 
+fireplace, 171 115 143 113 
+ceiling lamp, 173 101 98 0 
+ceiling, 255 19 18 0 
+glass, 118 107 174 151 
+glass, 203 192 170 147 
+glass, 163 153 176 150 
+glass, 151 141 175 150 
+glass, 187 180 163 145 
+plate, 226 203 176 167 
+plate, 79 56 165 156 
+plate, 93 66 181 170 
+plate, 232 210 160 155 
+place mat, 233 192 184 164 
+place mat, 107 59 187 170 
+place mat, 85 47 165 156 
+bouquet, 105 82 166 141 
+bouquet, 187 172 169 138 
+bouquet, 153 135 145 130 
+candle, 101 93 136 105 
+candle, 113 104 139 107 
+candle, 179 172 133 106 
+candle, 189 184 134 103 
+candles, 153 127 133 97 
+curtain, 40 1 207 0 
+pot, 62 45 139 126 
+side table, 90 38 144 114 
+side table, 252 201 142 112 
+chair, 182 115 253 179 
+chair, 114 20 244 161 
+chair, 256 237 181 140 
+chair top, 45 19 165 144 
+chair top, 220 192 151 133 
+table, 238 47 193 147 
