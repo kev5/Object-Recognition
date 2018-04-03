@@ -1,4 +1,3 @@
-# Shreeya Khadka
 # Program to detect objects via images
 
 '''Import libraries..'''
@@ -121,7 +120,7 @@ def start_testing_images(model_path):
                 plt.imsave(arr=image_np, fname='img')
 
 def main():
-    default_model = MODEL_INCEPTION
+    default_model = MODEL_MOST_ACCURATE
     start_testing_images(default_model)
 
 if __name__ == "__main__":
