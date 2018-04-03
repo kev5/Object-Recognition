@@ -1,0 +1,18 @@
+bathtub, 198 13 214 153 
+plant, 142 93 161 123 
+plant, 60 20 82 46 
+plant, 216 188 164 138 
+fireplace, 64 11 180 65 
+towel, 212 170 219 192 
+towel, 208 176 210 194 
+window, 139 64 130 36 
+window, 226 162 138 26 
+cabinet, 254 211 243 11 
+picture frame, 254 242 120 105 
+picture frame, 255 248 82 68 
+picture frame, 256 246 100 90 
+ceiling, 228 42 20 0 
+bath faucet, 119 83 175 152 
+statue, 149 137 155 126 
+soap, 52 35 173 162 
+floor, 256 0 255 231 

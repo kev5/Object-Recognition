@@ -1,0 +1,8 @@
+contacto, 161 122 221 188 
+bed, 639 3 480 139 
+wall, 640 439 294 1 
+wall, 458 2 392 1 
+floor, 640 2 479 228 
+pillow, 625 396 250 136 
+bedspread, 630 3 477 138 
+Flower Texture, 133 58 467 427 

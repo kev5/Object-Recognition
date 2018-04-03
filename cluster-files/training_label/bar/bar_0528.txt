@@ -1,0 +1,10 @@
+bar, 328 8 221 122 
+shelf, 328 7 129 7 
+stool crop, 76 31 220 168 
+stool crop, 163 118 221 168 
+stool crop, 235 191 220 170 
+stool crop, 304 258 219 167 
+lamp occluded, 34 6 58 25 
+wall, 328 7 126 18 
+shelves, 258 112 125 75 
+glasses, 237 167 124 113 

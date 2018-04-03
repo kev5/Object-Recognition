@@ -1,0 +1,23 @@
+monitor, 108 77 128 99 
+decorative bowl, 189 160 106 92 
+desk, 197 0 234 117 
+file cabinet, 54 0 233 165 
+chair, 133 60 255 159 
+cabinet, 243 141 174 95 
+cabinet, 256 241 180 7 
+keyboard, 123 81 136 128 
+computer, 132 94 175 145 
+window, 23 0 107 1 
+window, 92 36 101 0 
+window, 148 108 90 0 
+boxes, 168 131 149 124 
+boxes, 244 203 114 84 
+lamp, 188 173 45 38 
+lamp, 230 214 46 38 
+lamp, 131 99 132 110 
+book, 70 48 148 136 
+jar, 197 184 105 83 
+ceiling lamp, 76 63 55 0 
+ceiling lamp, 53 39 80 0 
+stapler, 25 7 143 127 
+desk mat, 93 16 157 132 

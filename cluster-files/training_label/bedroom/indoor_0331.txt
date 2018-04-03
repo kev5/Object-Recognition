@@ -1,0 +1,19 @@
+window, 308 250 251 71 
+curtain, 324 209 76 21 
+picture, 365 334 184 50 
+picture occluded, 506 477 179 109 
+mirror, 129 51 157 76 
+poster, 169 134 150 78 
+chest of drawers occluded, 170 57 280 194 
+vase, 99 83 205 178 
+flowers, 108 72 190 147 
+lamp, 159 130 201 149 
+lamp, 496 436 283 201 
+bed, 450 36 454 189 
+night table, 495 420 467 278 
+telephone, 497 440 295 270 
+wall, 321 19 298 2 
+wall, 510 491 469 26 
+wall, 508 323 353 4 
+wall, 45 2 471 1 
+floor, 493 42 471 266 

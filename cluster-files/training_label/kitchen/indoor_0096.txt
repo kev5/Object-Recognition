@@ -1,0 +1,15 @@
+chair occluded, 277 189 225 134 
+table crop, 299 232 224 165 
+wall, 299 189 225 1 
+wall, 188 2 225 1 
+fridge occluded, 134 20 225 74 
+tin, 76 63 84 58 
+flask, 63 52 84 59 
+flask, 33 24 80 54 
+coffe marker, 176 151 135 99 
+food processor, 146 130 140 87 
+cupboard, 186 132 224 121 
+cupboard, 182 3 132 3 
+window, 297 243 152 7 
+toy, 269 229 194 166 
+tray, 157 133 82 52 

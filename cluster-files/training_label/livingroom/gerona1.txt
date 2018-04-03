@@ -1,0 +1,8 @@
+door, 118 29 312 25 
+painting, 376 252 154 51 
+lamp, 293 221 55 1 
+chair, 359 109 448 204 
+end table, 479 394 299 236 
+window pane, 560 497 195 14 
+curtain, 555 481 223 1 
+handle, 113 94 171 164 

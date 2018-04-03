@@ -1,0 +1,44 @@
+windows, 238 6 292 111 
+table, 594 5 654 422 
+ceiling, 904 6 104 1 
+hood, 793 573 200 73 
+platter, 507 442 178 116 
+chair, 436 156 766 588 
+measuring spoons, 564 514 312 284 
+kettle, 747 694 384 333 
+plant, 984 892 414 327 
+bowl, 917 806 416 388 
+sink, 232 12 459 369 
+faucet, 142 76 371 278 
+dishwasher, 361 241 408 374 
+light, 480 439 54 37 
+light, 70 41 52 34 
+decorative plates, 626 585 360 314 
+decorative plate, 910 869 395 363 
+stack of dishes, 424 385 222 196 
+stack of plates, 334 314 216 193 
+cup, 479 459 185 161 
+cup, 558 527 345 323 
+kitchen island, 602 1 768 426 
+dish drying rack, 316 215 375 311 
+basket of flowers, 401 184 493 401 
+mug, 459 408 512 455 
+spoon, 436 382 526 492 
+bowl of fruit, 510 451 352 299 
+plate of salad, 551 500 358 338 
+peach, 126 96 504 473 
+peach, 171 141 491 458 
+peach, 131 104 482 459 
+magizine, 364 156 564 502 
+teapot, 530 484 185 150 
+cabinets, 569 363 489 363 
+cabinets, 1023 271 406 2 
+large rabbit, 194 177 364 332 
+small rabbit, 172 164 363 345 
+drawers, 1018 741 728 422 
+counter top, 1018 740 455 397 
+counter top, 645 2 407 334 
+stove, 839 560 636 333 
+chandelier, 348 2 226 4 
+potted plant, 439 385 355 233 
+floor, 1023 514 768 568 

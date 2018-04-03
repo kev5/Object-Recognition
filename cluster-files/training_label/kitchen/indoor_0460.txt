@@ -1,0 +1,28 @@
+ceiling, 794 99 74 2 
+lamp, 334 295 43 19 
+lamp, 573 528 21 4 
+cupboard, 317 -4 219 4 
+cupboard, 144 2 532 346 
+cupboards, 777 363 217 41 
+cupboards, 427 239 445 299 
+corner, 365 317 212 68 
+tray, 150 12 344 307 
+sink, 307 229 307 285 
+faucet, 280 243 289 254 
+microwave, 656 575 307 260 
+fridge occluded, 781 658 367 136 
+oven, 522 431 419 301 
+stove, 528 452 299 285 
+coffee marker, 186 138 309 254 
+dishwasher, 233 146 513 324 
+cupboard occluded, 652 520 417 311 
+worktop, 652 4 365 278 
+skirting board, 540 237 466 398 
+skirting board, 144 58 532 493 
+chair occluded, 583 540 396 315 
+chair occluded, 637 511 530 342 
+table crop, 796 546 532 353 
+wall, 796 779 526 4 
+wall, 775 318 439 43 
+wall, 328 2 505 2 
+floor, 788 2 532 386 

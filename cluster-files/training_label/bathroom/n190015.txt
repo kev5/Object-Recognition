@@ -1,0 +1,20 @@
+bath, 255 101 255 150 
+curtain, 74 43 156 1 
+curtain, 31 0 162 0 
+rug, 128 1 255 182 
+toilet, 105 66 184 126 
+toilet, 255 234 138 17 
+toilet, 157 66 184 106 
+towel, 228 171 137 27 
+window, 58 9 139 3 
+sink, 158 103 151 106 
+cabinet, 156 123 92 30 
+lamp, 183 144 28 7 
+plant, 102 78 82 48 
+shelf, 104 77 91 81 
+towel rack, 173 165 57 39 
+box, 55 48 135 128 
+jar, 99 77 191 166 
+bath faucet, 144 125 165 152 
+toilet paper holder, 124 112 116 105 
+small table, 27 0 256 186 

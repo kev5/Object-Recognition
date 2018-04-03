@@ -1,0 +1,30 @@
+armchair, 255 159 243 147 
+mirror, 192 143 132 67 
+window, 91 30 148 18 
+window, 255 234 152 26 
+bookcase, 31 0 178 80 
+curtain, 234 201 166 26 
+curtain, 59 34 184 17 
+lamp, 42 0 231 132 
+lamp, 126 96 171 70 
+lamp, 167 151 135 113 
+small table, 199 124 255 213 
+small table, 156 49 223 167 
+small table, 255 231 251 173 
+chair, 202 159 184 137 
+chair, 139 113 176 135 
+table, 84 2 255 207 
+table, 181 124 176 136 
+vase, 174 162 142 132 
+vase, 24 7 79 63 
+chessboard, 158 135 144 136 
+pillow, 235 203 191 156 
+plate, 254 243 181 176 
+bowl, 170 138 236 216 
+bowl, 98 72 176 164 
+ceiling, 254 0 34 0 
+books, 27 9 108 85 
+books, 9 0 109 98 
+books, 25 1 130 114 
+book, 141 108 184 173 
+rug, 231 122 256 214 

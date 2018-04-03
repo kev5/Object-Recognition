@@ -1,0 +1,16 @@
+chair, 217 93 251 104 
+chair, 78 0 234 122 
+chair, 255 212 215 86 
+conference table, 256 0 145 63 
+plant, 212 158 62 5 
+window, 170 0 71 1 
+chair top, 91 49 91 66 
+chair top, 37 0 100 71 
+chair top, 132 97 83 60 
+chair top, 163 136 76 56 
+chair top, 189 165 70 55 
+chair top, 255 235 71 55 
+ashtray, 192 171 85 78 
+ashtray, 220 211 77 70 
+ashtray, 138 123 97 89 
+small table part, 235 221 66 57 

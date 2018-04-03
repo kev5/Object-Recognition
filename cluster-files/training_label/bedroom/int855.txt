@@ -1,0 +1,21 @@
+chair, 61 24 206 149 
+rug, 186 1 255 214 
+bed, 219 81 232 155 
+pillow, 177 145 172 158 
+pillow, 205 171 176 159 
+night stand, 247 222 203 167 
+painting, 89 73 135 114 
+painting, 126 106 144 114 
+painting, 163 148 133 123 
+painting, 175 165 136 128 
+painting, 167 156 144 136 
+ceiling lamp, 163 120 76 32 
+window, 51 2 193 93 
+ceiling, 180 1 66 0 
+lamp, 217 205 114 106 
+lamp, 148 140 118 111 
+bouquet, 110 98 160 150 
+bouquet, 236 223 165 152 
+cabinet, 97 72 180 150 
+door, 13 0 208 82 
+door, 66 47 194 94 

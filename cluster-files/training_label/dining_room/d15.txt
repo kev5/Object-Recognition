@@ -1,0 +1,16 @@
+window, 195 152 109 19 
+ceiling lamp, 147 85 51 0 
+chair, 46 25 216 108 
+chair, 92 31 245 109 
+chair, 202 113 255 109 
+chair top, 97 64 128 108 
+chair top, 209 180 142 110 
+small rug, 255 190 255 215 
+painting, 124 50 83 27 
+vase, 129 111 135 106 
+bouquet, 156 85 135 44 
+table, 215 48 255 128 
+place mat, 109 66 144 136 
+place mat, 90 54 136 131 
+place mat, 174 112 149 140 
+door frame, 16 1 185 27 

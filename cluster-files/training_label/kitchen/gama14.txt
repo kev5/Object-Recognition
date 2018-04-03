@@ -1,0 +1,8 @@
+Microwave oven, 483 347 191 105 
+bowl, 223 189 263 242 
+faucet, 578 549 323 248 
+Sink, 345 236 297 272 
+Sink, 582 469 343 310 
+computer monitor, 20 2 282 225 
+washer, 448 311 427 321 
+cabinet, 175 97 169 5 

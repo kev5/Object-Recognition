@@ -1,0 +1,15 @@
+tile wall, 180 105 388 217 
+stove burner, 431 307 459 358 
+soup cooking stock pot, 432 394 349 245 
+Table, 361 178 352 158 
+window, 286 168 168 12 
+paper towel, 171 147 213 117 
+paper towel dispenser, 172 123 128 52 
+power outlet, 54 38 191 172 
+plug, 48 35 186 175 
+extension cord, 49 11 186 70 
+sink, 427 100 573 471 
+tile, 84 55 268 225 
+power socket, 65 57 308 306 
+floor, 390 2 517 266 
+male human, 432 396 256 87 

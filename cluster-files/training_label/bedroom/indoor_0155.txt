@@ -1,0 +1,11 @@
+wall, 200 2 173 1 
+wall, 299 199 224 1 
+night table crop, 50 4 199 116 
+lamp, 31 4 126 41 
+bed crop, 297 33 225 127 
+window, 298 236 165 4 
+cushion, 272 227 170 121 
+cushion, 231 183 141 114 
+cushion, 240 189 173 129 
+cushion, 183 125 162 111 
+floor, 296 2 224 163 

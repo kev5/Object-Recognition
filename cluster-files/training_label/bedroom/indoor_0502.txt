@@ -1,0 +1,14 @@
+window, 796 489 252 2 
+bed, 682 10 540 83 
+bed, 709 227 392 99 
+rail, 373 2 122 87 
+night table occluded, 427 361 260 198 
+radiator occluded, 678 555 301 262 
+wall, 796 410 384 2 
+wall, 412 2 495 2 
+floor, 796 4 540 317 
+lamp, 404 371 210 136 
+pillow, 272 47 355 243 
+cushion, 270 122 342 239 
+cushion, 388 295 285 204 
+pillow occluded, 330 241 291 233 

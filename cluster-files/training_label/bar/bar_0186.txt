@@ -1,0 +1,18 @@
+person sitting occluded, 173 111 290 139 
+person sitting occluded, 260 183 178 134 
+billboard, 112 67 96 8 
+billboard, 319 296 186 151 
+picture, 137 113 79 28 
+picture, 52 34 117 81 
+table, 372 125 300 183 
+chair occluded, 119 100 284 185 
+chair, 180 120 300 183 
+chair, 238 172 300 178 
+chair, 327 224 300 174 
+ceiling, 52 2 18 0 
+wall, 72 20 292 1 
+wall, 157 67 293 1 
+wall, 399 153 271 0 
+wall, 22 0 283 13 
+floor, 399 2 300 267 
+picture crop, 337 291 59 1 

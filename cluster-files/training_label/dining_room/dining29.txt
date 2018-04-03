@@ -1,0 +1,19 @@
+painting, 235 191 139 89 
+ceiling lamp, 227 179 121 85 
+bouquet, 221 181 165 135 
+bouquet, 162 150 112 99 
+lamp, 186 176 143 111 
+lamp, 247 237 146 112 
+shelf, 158 147 128 113 
+curtain, 147 125 186 83 
+curtain, 102 79 204 65 
+door, 114 91 189 98 
+door knob, 113 105 152 147 
+window, 132 112 188 102 
+buffet, 249 172 162 138 
+chair top, 157 141 159 148 
+chair top, 245 216 163 147 
+chair, 192 147 219 154 
+chair, 242 184 231 156 
+table, 255 135 179 154 
+ceiling, 256 81 74 2 

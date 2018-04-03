@@ -1,0 +1,15 @@
+teddy bear, panda, 508 309 794 618 
+window, 850 452 682 58 
+printer, 234 35 581 494 
+boot, 717 653 871 663 
+photo, 986 923 590 515 
+photo, 975 922 453 389 
+photo, 1051 998 588 511 
+carpet, 971 0 1195 946 
+apple, 63 19 642 603 
+prize ribbon, 115 41 440 309 
+window blind, 835 480 350 55 
+bean bag, 592 314 933 741 
+desk, 314 0 993 612 
+pillow, 938 784 835 667 
+cupboard, 1080 878 727 96 

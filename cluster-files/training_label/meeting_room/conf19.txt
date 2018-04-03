@@ -1,0 +1,44 @@
+monitor, 66 33 244 210 
+monitor, 111 83 234 204 
+monitor, 153 130 224 197 
+monitor, 10 0 248 216 
+monitor, 220 212 196 175 
+monitor, 77 63 155 143 
+monitor, 105 87 154 145 
+monitor, 130 114 158 144 
+monitor, 156 141 158 149 
+monitor, 177 164 162 150 
+monitor, 196 186 165 152 
+monitor, 209 200 168 157 
+monitor, 52 37 153 143 
+conference table, 255 0 216 152 
+conference table, 217 0 256 206 
+door, 62 33 151 96 
+wall outlet, 67 63 128 123 
+microphone, 195 156 218 205 
+microphone, 157 116 226 213 
+microphone, 111 75 236 221 
+microphone, 55 23 243 230 
+microphone, 248 217 194 177 
+chair top, 248 203 254 215 
+chair top, 201 166 255 227 
+chair top, 164 123 255 232 
+chair top, 101 45 256 245 
+chair top, 248 232 178 161 
+chair top, 85 77 153 144 
+chair top, 116 102 156 146 
+chair top, 165 156 162 151 
+chair top, 188 178 164 153 
+chair top, 221 209 160 155 
+chair top, 24 6 152 143 
+chair top, 191 176 144 134 
+chair top, 207 194 148 135 
+chair top, 226 211 149 137 
+chair top, 245 230 151 138 
+chair top, 153 142 142 132 
+chair top, 138 125 143 130 
+chair part, 256 250 179 165 
+bouquet, 47 0 198 169 
+row of chairs, 254 136 140 125 
+row of chairs, 255 156 129 119 
+lamp, 255 0 89 73 

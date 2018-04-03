@@ -1,0 +1,18 @@
+chair top, 102 73 84 67 
+chair top, 127 99 89 70 
+chair top, 150 128 96 74 
+chair top, 178 149 99 77 
+chair top, 209 172 109 82 
+chair top, 244 205 116 87 
+chair top, 30 4 90 73 
+chair, 76 2 225 117 
+chair, 131 19 253 149 
+row of chairs, 43 0 132 83 
+chair part, 256 153 254 200 
+conference table, 254 24 231 81 
+poster, 102 69 70 25 
+poster, 27 0 75 24 
+whiteboard, 106 65 87 22 
+whiteboard, 33 0 89 19 
+window, 211 158 97 3 
+ceiling, 200 127 12 0 

@@ -1,0 +1,12 @@
+window, 299 221 162 37 
+window, 63 2 138 23 
+stove crop, 299 267 225 160 
+fridge, 178 95 215 71 
+lamp, 177 148 71 24 
+sink, 93 22 149 133 
+curtain, 79 64 122 31 
+cupboard, 120 2 225 136 
+worktop, 119 2 159 125 
+wall, 142 2 224 1 
+wall, 298 141 221 1 
+floor, 298 7 225 190 

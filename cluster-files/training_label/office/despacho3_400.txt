@@ -1,0 +1,24 @@
+floor, 400 2 290 128 
+wall, 400 165 173 1 
+wall, 168 0 166 0 
+window, 399 196 131 1 
+cabinet, 98 2 164 87 
+fish tank, 96 3 92 20 
+vase, 114 105 78 66 
+plant, 120 110 65 50 
+lamp, 215 155 76 40 
+desk divider, 240 113 232 70 
+monitor, 137 95 128 77 
+monitor, 273 233 119 76 
+desk, 112 40 198 110 
+desk, 342 118 249 112 
+books, 97 55 123 108 
+books, 204 158 131 106 
+chair, 90 66 110 76 
+chair, 371 282 274 117 
+cup, 224 215 123 101 
+magazine, 269 210 133 120 
+mouse, 290 279 126 123 
+mouse pad, 300 269 128 122 
+keyboard, 289 232 150 136 
+bottom of chair, 111 68 178 146 

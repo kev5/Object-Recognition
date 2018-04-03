@@ -1,0 +1,22 @@
+painting, 118 97 94 59 
+painting, 145 121 78 39 
+painting, 208 153 96 21 
+painting, 253 220 72 24 
+armchair, 74 2 195 92 
+armchair, 255 141 254 126 
+small table, 216 56 206 147 
+magazines, 202 154 165 147 
+sofa, 254 69 198 105 
+pillow, 214 173 143 110 
+pillow, 235 202 143 111 
+pillow, 255 224 148 104 
+pillow, 173 131 141 111 
+pillow, 146 115 139 112 
+pillow, 59 6 158 123 
+plate, 152 111 159 148 
+plant, 118 26 132 1 
+candle, 99 87 155 120 
+candle, 117 107 151 114 
+curtain, 31 11 91 1 
+ottoman, 187 83 255 172 
+window, 26 0 127 0 

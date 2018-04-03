@@ -1,0 +1,28 @@
+ceiling, 751 432 23 1 
+cupboard, 238 3 255 47 
+cupboards occluded, 800 505 253 48 
+window, 499 238 285 88 
+lamp, 467 304 59 3 
+curtain, 348 251 323 44 
+curtain, 495 399 323 56 
+dish, 100 30 45 3 
+fridge, 800 595 600 170 
+cupboard crop, 51 2 579 397 
+drawers, 136 45 577 396 
+cupboards, 608 132 573 379 
+sink, 478 308 378 352 
+soap bottle, 432 416 349 295 
+faucet, 389 351 348 321 
+dish rack, 555 468 364 316 
+knives, 59 34 360 277 
+socket, 126 97 315 290 
+flask, 610 581 349 295 
+bottle, 685 649 75 36 
+worktop, 612 2 395 340 
+dishcloth, 286 214 373 348 
+wall, 679 3 547 3 
+wall, 799 666 578 3 
+floor, 797 2 599 501 
+plant pot, 793 749 53 32 
+plant, 799 727 60 4 
+handle, 664 641 437 284 

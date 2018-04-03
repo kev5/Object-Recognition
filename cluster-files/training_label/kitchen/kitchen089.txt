@@ -1,0 +1,40 @@
+oven, 78 31 221 151 
+microwave, 56 23 111 90 
+window, 210 175 119 52 
+window, 130 88 119 50 
+stove, 208 128 178 151 
+counter, 216 0 167 131 
+counter, 255 84 210 147 
+cabinets, 96 22 119 20 
+cabinets, 203 79 178 135 
+cabinet, 31 0 161 9 
+cabinet, 255 212 154 35 
+cabinet, 173 133 112 50 
+cabinet, 183 83 253 195 
+cabinet, 30 1 236 165 
+cabinet, 255 215 88 44 
+counter top, 255 79 214 146 
+central table, 255 81 255 147 
+bouquet, 158 140 181 164 
+stool, 256 217 254 188 
+towel, 154 130 195 183 
+pot, 53 44 148 139 
+pot, 64 54 147 134 
+pot, 74 64 145 130 
+plate, 174 153 190 180 
+plate, 251 225 165 145 
+sink, 144 96 144 134 
+curtain, 129 89 75 48 
+pitcher, 221 205 156 140 
+plant, 154 146 134 121 
+fruit bowl, 173 154 134 121 
+bowl, 197 182 135 124 
+bowl, 107 97 143 133 
+ceiling, 255 0 55 0 
+refridgerator, 256 215 152 90 
+ceiling lamp, 200 185 9 2 
+ceiling lamp, 122 108 30 21 
+ceiling lamp, 231 216 29 21 
+ceiling lamp, 62 46 9 0 
+ceiling lamp, 157 148 41 35 
+sink faucet, 115 106 135 127 

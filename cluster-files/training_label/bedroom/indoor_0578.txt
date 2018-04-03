@@ -1,0 +1,22 @@
+ceiling, 799 344 58 1 
+radiator occluded, 277 68 349 208 
+bed occluded, 644 329 299 152 
+bed occluded, 302 2 597 403 
+open suitcase, 626 477 232 170 
+bed crop, 799 663 371 196 
+wall lamp, 708 658 97 71 
+wall lamp, 332 300 62 38 
+curtain, 211 26 293 1 
+curtain, 295 200 258 1 
+night table occluded, 340 278 273 199 
+table occluded, 471 289 520 265 
+chair, 568 428 488 247 
+coat, 537 411 455 255 
+chest occluded, 100 2 411 354 
+suitcase crop, 240 2 597 402 
+rug, 445 239 599 484 
+backpack, 471 422 216 165 
+wall, 414 2 395 1 
+wall, 799 405 325 33 
+rug crop, 799 755 438 390 
+floor, 798 2 599 267 

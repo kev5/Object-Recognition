@@ -1,0 +1,11 @@
+sink, 278 176 278 239 
+cooktop, 174 59 254 229 
+exhaust fan, 175 23 93 1 
+fridge, 165 51 437 273 
+table, 407 159 573 347 
+chair, 378 197 575 456 
+chair, 329 198 349 332 
+counter, 401 260 282 239 
+cabinet, 395 175 434 278 
+backsplash, 410 58 261 85 
+floor, 430 8 574 434 

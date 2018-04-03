@@ -1,0 +1,13 @@
+oven, 435 370 448 305 
+Markise, 290 19 101 3 
+Vent hood, 479 391 166 102 
+Refrigerator, 349 299 441 122 
+Oranges, 548 499 298 279 
+Fruit bowl, 551 496 322 295 
+Counter top, 640 350 401 291 
+Blinds, 280 179 373 127 
+Blinds, 153 39 325 128 
+kettle, 474 436 292 259 
+clothes washer, 606 470 475 361 
+toaster oven, 587 546 309 261 
+microwave oven, 517 482 197 117 

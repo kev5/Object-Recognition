@@ -1,0 +1,37 @@
+ceiling, 593 128 209 0 
+ceiling, 699 450 210 0 
+window, 699 648 360 180 
+window, 267 227 350 180 
+window, 155 0 454 0 
+wall, 586 448 352 203 
+wall, 421 268 348 208 
+wall, 649 417 352 1 
+wall, 699 616 429 148 
+wall, 392 300 345 253 
+wall, 360 318 322 283 
+wall, 271 2 502 0 
+column, 506 472 381 157 
+column, 540 507 369 155 
+column, 591 531 414 82 
+column, 635 582 412 82 
+floor, 699 0 524 320 
+furniture crop, 697 657 523 302 
+armchair occluded, 665 593 489 366 
+furniture, 245 164 393 250 
+chair, 221 172 436 358 
+chair, 154 66 513 390 
+auxiliary table, 160 101 445 375 
+plants, 168 106 391 330 
+curtain, 155 14 352 0 
+curtain, 148 0 444 0 
+armchair, 541 489 427 351 
+lamp, 266 188 107 9 
+lamp, 533 444 106 7 
+lamp, 383 321 264 102 
+lamp, 416 387 222 164 
+lamp, 310 274 225 166 
+lamp, 697 629 229 113 
+table, 389 325 456 377 
+flowers, 364 334 379 355 
+rug, 429 277 385 357 
+rug, 592 144 522 402 

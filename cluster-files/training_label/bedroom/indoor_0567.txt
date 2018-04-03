@@ -1,0 +1,20 @@
+window, 537 440 210 1 
+window, 800 667 221 1 
+shutter, 440 389 193 3 
+shutter, 677 593 201 1 
+radiator, 503 421 404 277 
+armchair, 799 459 552 266 
+book, 578 490 411 385 
+socket, 622 603 385 367 
+table occluded, 627 521 397 334 
+vase, 582 566 342 310 
+flowers, 593 537 330 251 
+bed, 358 2 484 229 
+cushion, 153 36 326 296 
+bookshelf empty, 312 218 316 55 
+picture, 368 337 138 68 
+lamp, 204 55 111 3 
+wall, 221 2 334 1 
+wall, 799 284 519 1 
+wall, 286 221 295 1 
+floor, 796 2 555 292 

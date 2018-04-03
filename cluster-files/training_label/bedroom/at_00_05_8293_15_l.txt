@@ -1,0 +1,28 @@
+ottoman, 77 26 185 148 
+wooden dresser, 20 1 176 106 
+curtains, 45 32 157 52 
+curtains, 77 65 123 57 
+curtains, 112 99 136 55 
+curtains, 136 116 139 50 
+painting, 226 182 96 55 
+painting, 163 142 121 90 
+painting, 225 184 99 56 
+picture frame, 6 0 91 59 
+bed, 241 80 223 102 
+headboard, 222 176 114 101 
+window, 68 47 124 68 
+window, 117 111 125 70 
+pillow, 214 178 146 116 
+pillow, 227 201 147 125 
+pillow, 69 46 149 133 
+pillow, 192 168 148 127 
+pillow, 180 156 146 120 
+pillow, 66 46 150 134 
+lamp, 256 237 152 107 
+dresser, 20 0 178 106 
+chaise lounge, 79 24 187 122 
+ceiling, 255 0 57 0 
+night stand, 256 238 201 151 
+vase, 15 2 105 89 
+floor carpet, 255 1 254 174 
+ceiling lamp, 92 70 59 1 

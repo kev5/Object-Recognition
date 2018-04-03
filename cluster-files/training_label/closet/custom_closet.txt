@@ -1,0 +1,11 @@
+closet, 255 0 256 0 
+dress, 204 164 204 89 
+hanger, 204 166 98 70 
+shirt, 74 28 227 147 
+shirt occluded, 46 13 221 147 
+trousers, 68 23 103 47 
+box, 59 26 25 7 
+box, 199 168 63 45 
+hat, 121 90 45 32 
+shoes, 193 171 243 219 
+floor, 205 0 256 219 

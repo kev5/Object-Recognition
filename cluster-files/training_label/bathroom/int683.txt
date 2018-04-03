@@ -1,0 +1,9 @@
+curtain, 243 104 164 0 
+shelf, 226 200 254 163 
+sink, 77 19 243 148 
+towels, 91 41 147 66 
+bathtub, 203 48 255 187 
+towel, 202 155 255 223 
+bath faucet, 82 53 184 166 
+hand rail, 187 122 193 170 
+towel rack, 88 39 79 61 

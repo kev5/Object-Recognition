@@ -1,0 +1,19 @@
+closet, 345 0 206 0 
+drawers, 262 134 261 121 
+skirts, 24 2 97 45 
+trousers, 50 24 89 47 
+trousers, 214 166 97 54 
+shirts, 136 106 63 13 
+shirts, 102 56 99 50 
+shirts, 299 262 107 49 
+jackets, 343 310 108 44 
+box, 336 310 30 16 
+box, 293 266 37 25 
+box, 89 61 36 24 
+purse, 32 9 156 143 
+boots, 41 23 181 160 
+boots, 332 310 191 173 
+suitcase, 94 54 176 156 
+hanger occluded, 50 43 53 40 
+floor, 345 0 262 168 
+hat, 185 162 130 105 

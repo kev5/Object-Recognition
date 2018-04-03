@@ -1,0 +1,20 @@
+mirror, 164 96 173 84 
+tin, 82 70 246 212 
+tin, 90 83 245 216 
+tin, 104 97 263 238 
+tin, 105 98 238 219 
+tin, 163 154 237 214 
+soap, 96 80 255 244 
+toothbrush, 92 89 201 181 
+washbasin, 200 71 300 233 
+faucet, 129 119 238 225 
+bath crop, 225 198 299 240 
+cistern occluded, 73 37 299 246 
+door, 38 2 299 0 
+closet, 180 73 177 63 
+photograph, 137 112 64 33 
+flask, 94 89 66 55 
+flask, 191 185 175 141 
+flask, 147 141 238 214 
+window, 225 189 151 23 
+wall, 225 32 300 0 

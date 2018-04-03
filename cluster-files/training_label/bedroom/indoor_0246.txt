@@ -1,0 +1,17 @@
+bed, 299 103 197 98 
+book, 159 135 141 125 
+book, 175 154 138 125 
+spread, 267 181 151 114 
+furniture crop, 28 2 225 156 
+tallboy occluded, 151 105 141 84 
+box occluded, 109 93 164 146 
+box, 119 91 146 129 
+window, 250 185 118 20 
+window, 85 41 141 14 
+curtain, 200 173 122 15 
+curtain, 269 237 125 9 
+curtain, 92 31 145 1 
+lamp, 22 6 76 39 
+wall, 130 2 211 1 
+wall, 299 129 146 1 
+floor, 299 2 225 145 

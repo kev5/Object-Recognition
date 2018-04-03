@@ -1,0 +1,11 @@
+microwave oven, 246 2 457 281 
+electrical outlet, 32 2 164 131 
+vase with flowers, 355 267 395 259 
+stovetop, 509 333 450 362 
+knob, 383 365 422 404 
+kitchen hood, 588 294 101 1 
+burner, 449 389 415 392 
+burner, 481 414 395 370 
+sticker, 193 152 363 332 
+flowers, 353 260 337 261 
+push buttons, 425 385 24 9 

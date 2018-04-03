@@ -1,0 +1,81 @@
+helicopter, 411 163 745 630 
+picture, 970 811 211 91 
+picture, 62 2 230 156 
+picture, 50 2 348 239 
+roman shade, 329 64 172 1 
+block, 109 99 321 305 
+block, 109 101 337 321 
+block, 119 109 333 319 
+block, 109 101 353 337 
+block, 121 109 349 333 
+block, 136 120 349 335 
+block, 111 101 368 353 
+block, 140 125 365 350 
+block, 156 140 365 349 
+blocks, 125 111 366 350 
+blocks, 102 37 502 465 
+puppet, 187 154 365 265 
+puppet, 250 216 361 265 
+puppet, 296 265 356 261 
+window, 320 77 380 160 
+hammer, 43 22 453 411 
+work bench, 72 3 473 410 
+stuffed animal, 432 400 62 26 
+stuffed animal, 483 429 66 1 
+stuffed animal, 431 401 122 83 
+stuffed animal, 483 432 124 79 
+stuffed animal, 483 443 182 132 
+stuffed animal, 434 402 239 208 
+stuffed animal, 477 436 241 203 
+stuffed animal, 552 516 241 193 
+stuffed animal, 626 582 179 133 
+stuffed animal, 676 640 239 215 
+stuffed animal, 656 598 239 189 
+stuffed animal, 471 419 382 319 
+stuffed animal, 679 648 386 326 
+books, 432 401 181 145 
+books, 784 672 434 333 
+apple, 439 428 182 167 
+toy horse, 552 498 198 113 
+doll, 664 636 178 144 
+doll, 709 672 225 124 
+book, 614 571 239 207 
+paper dove, 770 686 131 67 
+hotel, 491 372 133 8 
+shelf, 491 373 248 130 
+shelf, 554 491 248 131 
+shelf, 736 554 248 119 
+train, 1024 983 389 353 
+train, 286 131 580 527 
+throw pillow, 986 850 440 346 
+arm chair, 1021 744 541 343 
+globe, 830 742 434 319 
+clock, 713 665 434 380 
+toy, 690 667 337 301 
+toy, 885 807 499 457 
+toy, 677 608 568 487 
+xylophone, 699 575 466 442 
+guitar, 778 619 478 448 
+helicoptor, 730 692 485 462 
+phone, 830 734 498 456 
+tin box, 775 661 588 544 
+steering wheel, 948 856 768 738 
+end table, 831 629 447 423 
+end table, 488 126 768 696 
+dressor, 1024 933 764 382 
+pillow, 653 482 373 322 
+pillow, 35 4 743 698 
+comforter, 663 160 495 349 
+bed, 686 144 549 312 
+camera, 47 3 523 485 
+airplane, 196 72 546 460 
+table, 449 2 749 469 
+storage table, 919 538 760 442 
+storage box, 692 564 678 573 
+storage box, 777 665 717 605 
+stool, 1024 800 767 541 
+wall, 1024 321 427 0 
+wall, 142 2 478 1 
+floor, 1025 327 769 526 
+floor, 124 2 768 656 
+rug, 536 337 678 527 

@@ -1,0 +1,35 @@
+clock, 52 27 39 15 
+pot, 186 160 154 132 
+pot, 146 125 30 20 
+pot, 88 72 29 16 
+stool, 128 80 255 183 
+stool, 86 41 247 167 
+counter, 236 11 167 131 
+vegetables, 129 93 145 130 
+counter top, 256 200 141 131 
+cabinet, 255 198 212 135 
+cabinet, 23 1 183 48 
+shelf, 254 226 110 105 
+bottle, 181 174 60 29 
+bottle, 189 183 60 41 
+bottle, 177 169 59 37 
+plates, 117 98 29 19 
+plates, 102 90 29 22 
+bowl, 17 2 24 18 
+bowl, 48 28 129 116 
+ceiling, 236 0 16 0 
+teapot, 161 148 151 136 
+cup, 193 186 156 144 
+cup, 183 176 157 146 
+sink faucet, 80 58 137 122 
+cutting board, 126 84 147 142 
+sink, 90 65 143 135 
+mixer, 71 53 131 104 
+refrigerator, 146 75 139 49 
+bowls, 144 130 47 36 
+plate, 119 105 47 34 
+plant, 97 66 64 32 
+hanging rack, 212 51 77 2 
+hanging utensils, 96 76 116 71 
+hood, 175 133 76 0 
+shelves, 255 216 98 11 

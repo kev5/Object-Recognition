@@ -1,0 +1,11 @@
+wall, 224 71 184 1 
+wall, 71 2 159 1 
+wall, 299 258 224 1 
+wall, 261 215 183 1 
+floor, 298 2 224 158 
+mirror, 173 143 135 4 
+shelves, 298 226 224 148 
+television, 298 232 163 90 
+music system, 299 261 173 122 
+ventilator, 208 169 186 129 
+bed, 175 2 224 122 

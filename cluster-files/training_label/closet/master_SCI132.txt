@@ -1,0 +1,18 @@
+bed crop, 255 85 255 175 
+closet, 255 0 199 0 
+dress, 210 186 113 27 
+hanger, 210 188 34 10 
+box, 148 132 111 95 
+box, 100 79 112 98 
+drawers, 185 129 186 112 
+clothes, 125 25 92 21 
+clothes, 76 46 112 100 
+clothes, 185 156 72 61 
+auxiliary table, 62 3 208 163 
+person siting crop, 43 0 232 178 
+backpack, 87 41 233 181 
+lamp, 23 10 168 126 
+cuddly toy, 255 200 193 153 
+floor, 120 0 255 198 
+photo, 44 27 166 142 
+dress occluded, 217 195 135 27 

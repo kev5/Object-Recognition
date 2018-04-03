@@ -1,0 +1,20 @@
+stove, 501 353 456 260 
+microwave, 233 146 346 231 
+extractor hood, 518 381 169 120 
+cupboard, 788 664 235 2 
+cupboard, 243 161 559 320 
+window, 408 299 239 97 
+window, 652 532 272 107 
+window, 515 410 252 171 
+drawers, 350 280 433 287 
+drawers occluded, 559 468 460 311 
+fridge, 167 2 594 117 
+cupboard crop, 140 2 85 2 
+worktop, 761 338 598 282 
+worktop, 414 280 299 258 
+wall, 777 280 402 2 
+wall, 282 148 509 2 
+wall, 177 2 518 6 
+wall, 796 736 600 8 
+floor, 748 2 600 388 
+dishcloth, 406 369 400 320 

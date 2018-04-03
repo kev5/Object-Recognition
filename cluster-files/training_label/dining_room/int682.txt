@@ -1,0 +1,24 @@
+lamp, 115 87 118 47 
+mirror, 222 130 76 44 
+curtain, 80 0 145 0 
+window, 54 21 143 39 
+window, 11 0 148 36 
+buffet, 222 77 175 112 
+chair top, 59 27 172 120 
+chair top, 175 129 160 132 
+chair part, 256 189 256 202 
+mug, 129 113 178 163 
+plate, 168 149 120 99 
+box, 53 27 192 182 
+box, 218 192 131 121 
+kleenex, 77 57 192 169 
+hat, 104 71 203 180 
+radio, 195 174 126 109 
+poster, 249 224 97 80 
+wall outlet, 235 229 107 98 
+wall outlet, 239 230 66 60 
+table, 222 3 255 149 
+watering can, 29 11 181 161 
+book, 149 113 202 189 
+book, 188 160 177 164 
+book, 152 122 186 175 

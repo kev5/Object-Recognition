@@ -1,0 +1,16 @@
+Stove, 278 91 594 318 
+cabinet, 708 474 493 259 
+cabinet, 474 344 470 257 
+Sink, 530 228 266 197 
+Power outlet, 226 182 227 178 
+pwer outlet, 633 575 199 158 
+bottles, 698 648 250 169 
+rug, 729 315 595 461 
+drawer, 350 252 351 270 
+drawer, 356 254 397 302 
+drawer, 356 259 442 344 
+drawer, 360 260 522 379 
+floor tile, 401 257 576 492 
+bottle, 426 402 239 175 
+pot, 356 284 268 230 
+stovetop, 242 14 327 268 

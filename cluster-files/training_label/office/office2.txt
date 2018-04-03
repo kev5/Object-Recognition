@@ -1,0 +1,20 @@
+chair, 96 38 226 125 
+chair, 185 136 168 97 
+desk, 227 71 110 77 
+desk, 81 0 195 97 
+cabinets, 121 48 157 104 
+cabinets, 137 17 68 22 
+book, 25 0 169 152 
+keyboard, 15 0 128 110 
+box, 71 42 106 90 
+box, 214 183 94 80 
+desk mat, 155 105 103 88 
+file box, 160 131 90 78 
+shelf, 215 187 77 62 
+shelf, 169 126 66 49 
+lamp, 138 121 13 3 
+window, 195 176 23 1 
+window, 92 1 31 1 
+papers, 149 114 100 90 
+papers, 35 19 107 91 
+bowl, 175 165 84 80 

@@ -1,0 +1,14 @@
+window, 158 111 251 96 
+picture, 64 9 218 120 
+night table, 60 2 434 298 
+chest of drawers, 297 228 283 178 
+mirror, 282 241 176 133 
+lamp, 291 271 174 153 
+bed, 315 2 382 204 
+rug, 310 6 497 372 
+ventilator, 256 141 89 34 
+ceiling, 331 2 73 1 
+wall, 109 2 411 12 
+wall, 325 108 284 67 
+wall, 334 306 511 3 
+floor, 316 2 512 269 

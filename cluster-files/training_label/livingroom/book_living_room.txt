@@ -1,0 +1,35 @@
+pillow, 173 97 149 94 
+pillow, 256 180 146 112 
+lamp, 185 135 95 11 
+bookcase, 219 136 95 1 
+bookcase, 38 0 129 0 
+bookcase, 255 225 88 0 
+small table, 255 138 254 156 
+coffee table top, 255 140 185 159 
+box, 238 164 243 203 
+box, 222 162 178 160 
+box, 187 167 53 44 
+box, 256 245 256 207 
+armchair, 79 0 255 128 
+book, 25 0 75 69 
+book, 27 1 79 75 
+book, 21 0 18 10 
+books, 30 1 51 29 
+books, 216 193 54 38 
+books, 254 229 53 38 
+books, 193 165 87 70 
+books, 159 140 89 65 
+books, 252 235 86 65 
+books, 159 139 54 36 
+books, 32 0 122 96 
+books, 18 0 123 98 
+books, 217 181 28 9 
+books, 158 139 22 4 
+sofa, 255 84 214 96 
+statue, 221 172 159 122 
+curtain, 71 39 128 1 
+curtain, 119 84 126 1 
+chair top, 235 194 94 61 
+small table part, 22 0 255 173 
+plant, 256 229 149 77 
+window, 84 71 101 2 

@@ -1,0 +1,17 @@
+Microwave Owen, 169 42 125 41 
+Washing Machine, 508 337 424 160 
+Window, 480 250 71 1 
+Table, 638 540 479 234 
+Floor, 536 19 479 348 
+Electrical Outlet, 581 542 239 218 
+Kitchen Sink, 369 193 138 73 
+Traditional Owen, 115 2 429 226 
+door, 340 257 349 148 
+plates, 624 564 140 115 
+tile, 258 121 478 409 
+tile, 367 234 466 389 
+handle, 272 265 199 162 
+handle, 123 113 212 168 
+knob, 73 58 238 220 
+utensil holder, 564 521 142 106 
+tiles, 222 20 479 356 

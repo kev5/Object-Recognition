@@ -1,0 +1,21 @@
+painting, 255 207 157 88 
+chair, 204 121 255 181 
+chair, 110 36 253 166 
+ceiling lamp, 186 113 24 3 
+ceiling lamp, 151 94 42 20 
+ceiling lamp, 126 82 54 40 
+ceiling lamp, 110 72 63 52 
+ceiling lamp, 77 33 63 1 
+ceiling lamp, 240 225 44 38 
+ceiling lamp, 192 181 61 54 
+ceiling lamp, 251 224 18 0 
+phone, 128 116 154 149 
+chair top, 92 66 161 148 
+chair top, 154 133 171 148 
+chair top, 172 151 177 151 
+chair top, 200 169 181 154 
+chair top, 237 199 225 161 
+small table, 134 90 161 152 
+lots of chairs, 47 26 175 151 
+ceiling, 255 1 78 0 
+conference table, 201 57 205 159 

@@ -1,0 +1,15 @@
+window, 117 0 253 23 
+curtain, 117 2 102 49 
+wall, 117 0 47 0 
+wall, 256 111 237 0 
+chair, 65 2 255 161 
+chair, 100 37 255 157 
+chair, 177 120 249 156 
+chair, 212 153 250 159 
+chair occluded, 253 193 234 162 
+chair occluded, 227 194 247 224 
+chair crop, 255 157 255 195 
+table, 136 79 239 192 
+vase, 117 104 201 178 
+plant, 132 89 184 161 
+floor, 255 2 255 221 

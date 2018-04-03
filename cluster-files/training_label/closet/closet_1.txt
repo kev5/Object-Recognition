@@ -1,0 +1,15 @@
+ceiling, 256 14 59 0 
+closet, 255 14 255 27 
+jackets, 199 147 147 74 
+jackets, 141 106 137 79 
+jackets occluded, 196 148 240 158 
+drawers, 188 28 256 156 
+cushion, 166 127 237 190 
+cushion, 150 81 256 217 
+door, 19 0 256 0 
+floor, 47 16 256 217 
+lamp, 133 50 57 40 
+lamp, 39 24 18 11 
+lamp, 47 40 50 45 
+lamp, 142 131 44 36 
+boots, 248 223 247 206 

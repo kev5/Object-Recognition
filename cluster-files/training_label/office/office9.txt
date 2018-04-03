@@ -1,0 +1,18 @@
+lamp, 65 47 141 41 
+lamp, 169 108 149 79 
+monitor, 43 16 108 86 
+keyboard, 40 3 136 131 
+window, 200 135 104 25 
+window, 85 40 90 8 
+printer, 252 206 134 105 
+cabinet, 255 178 183 112 
+chair, 129 66 248 148 
+desk mat, 138 71 148 125 
+shelf, 45 0 56 43 
+shelf, 50 5 117 104 
+chair top, 132 103 124 94 
+chair top, 177 144 136 109 
+desk, 205 0 232 105 
+coat rack, 119 90 54 38 
+desk organizer, 112 80 128 116 
+phone, 143 129 137 117 

@@ -1,0 +1,25 @@
+painting, 205 167 113 63 
+painting, 62 40 109 76 
+painting, 28 0 114 73 
+painting, 152 121 111 69 
+ceiling lamp, 138 88 102 0 
+dining table, 177 31 198 138 
+chair, 196 115 250 139 
+chair, 203 142 212 129 
+chair, 104 0 256 161 
+place mat, 110 51 189 165 
+place mat, 156 111 177 158 
+place mat, 170 136 158 148 
+place mat, 100 59 168 151 
+napkin, 148 120 167 160 
+napkin, 88 69 182 168 
+napkin, 166 145 155 149 
+chair top, 66 35 166 130 
+chair top, 92 67 155 125 
+chair top, 164 140 143 119 
+curtain, 255 223 255 1 
+curtain, 236 219 179 51 
+ceiling, 239 1 59 0 
+window, 250 234 189 50 
+plant, 119 69 144 77 
+bouquet, 137 109 158 113 

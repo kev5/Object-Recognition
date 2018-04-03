@@ -1,0 +1,22 @@
+bed occluded, 285 215 168 62 
+picture occluded, 308 292 51 27 
+picture occluded, 116 63 73 12 
+night table occluded, 304 283 138 89 
+lamp, 306 290 94 62 
+lamp, 123 91 109 61 
+lamp, 473 344 65 2 
+wall, 318 214 114 2 
+wall, 219 2 196 1 
+wall, 510 306 214 2 
+tv stand, 204 113 214 106 
+tv, 190 134 124 72 
+bureau, 132 12 203 94 
+table occluded, 508 225 341 165 
+chair occluded, 460 360 179 157 
+chair occluded, 425 271 341 227 
+vase, 510 476 227 169 
+books, 510 446 267 222 
+book, 439 375 219 190 
+bookshelf occluded, 510 357 178 1 
+floor, 510 2 341 96 
+carpet, 508 5 339 185 

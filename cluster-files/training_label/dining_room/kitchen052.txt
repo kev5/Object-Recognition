@@ -1,0 +1,29 @@
+plant, 42 20 174 49 
+plant, 128 64 132 22 
+ceiling lamp, 167 103 85 1 
+ceiling, 255 25 24 0 
+door, 18 1 187 37 
+door frame, 46 3 189 40 
+window, 198 146 143 46 
+window, 255 215 163 42 
+window, 79 54 151 48 
+curtain, 77 1 49 13 
+curtain, 256 118 48 19 
+table cloth, 205 79 171 133 
+table, 205 72 169 126 
+pillow, 97 55 194 173 
+pillow, 195 136 218 187 
+bouquet, 219 150 145 91 
+cake, 143 117 128 112 
+coffee pot, 108 90 134 99 
+plate, 165 145 164 155 
+plate, 98 77 152 146 
+plate, 160 138 145 141 
+plate, 147 114 141 125 
+cup, 111 101 155 147 
+cup, 169 151 153 146 
+knife, 141 132 164 156 
+jar, 122 113 149 137 
+chair, 99 28 245 117 
+chair, 235 130 253 138 
+chair, 251 207 221 109 

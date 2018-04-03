@@ -1,0 +1,4 @@
+sofa bed, 299 25 225 23 
+mattress, 299 73 225 78 
+floor, 299 2 224 41 
+lamp occluded, 30 3 141 33 

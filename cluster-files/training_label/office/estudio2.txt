@@ -1,0 +1,24 @@
+glasses, 624 562 347 305 
+mouse, 484 443 293 275 
+monitor, 344 155 331 136 
+portrait, 90 42 179 92 
+lamp, 395 278 143 54 
+mug, 609 548 269 211 
+router, 419 367 230 205 
+ventana, 406 100 236 1 
+keyboard, 401 197 381 290 
+camera, 459 434 106 81 
+cup, 521 488 250 206 
+mouse pad, 558 398 321 260 
+hole puncher, 159 112 310 266 
+loudspeaker, 243 215 328 304 
+loudspeaker, 346 328 290 270 
+disc spindle, 96 24 349 285 
+clown, 463 432 237 181 
+rack, 474 422 259 212 
+screen, 336 194 287 153 
+sticky tape dispenser, 153 108 329 287 
+cloth, 443 257 401 304 
+cloth, 148 2 479 402 
+note, 447 404 167 125 
+switch, 485 469 113 90 

@@ -1,0 +1,18 @@
+monitor, 159 112 125 76 
+monitor, 99 22 142 79 
+chair, 191 84 254 120 
+chair, 254 173 254 157 
+shelf, 71 1 32 0 
+shelf, 71 1 71 40 
+books, 65 30 22 1 
+folder, 47 0 172 160 
+window, 238 111 100 1 
+computer, 197 170 144 88 
+computer, 255 197 154 45 
+speaker, 192 176 87 66 
+chair top, 90 0 255 228 
+keyboard, 80 20 158 141 
+keyboard, 249 194 166 154 
+coffee maker, 30 15 50 24 
+mouse, 97 81 150 142 
+desk, 137 1 199 129 

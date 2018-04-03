@@ -1,0 +1,14 @@
+bed, 254 96 255 168 
+window, 219 174 131 86 
+lamp, 180 164 149 119 
+bouquet, 217 186 153 126 
+curtain, 121 81 192 53 
+chair, 163 134 178 144 
+mirror, 152 123 130 83 
+door, 33 18 212 45 
+door, 93 60 195 63 
+painting, 255 245 118 70 
+wardrobe, 20 1 221 8 
+small table, 212 158 177 151 
+small table, 59 34 180 163 
+ceiling, 254 0 62 0 

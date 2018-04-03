@@ -1,0 +1,28 @@
+chair, 165 73 254 202 
+chair, 126 55 232 182 
+chair, 99 42 205 167 
+chair, 222 154 255 178 
+chair, 157 125 217 163 
+chair, 125 103 201 153 
+chair, 174 150 182 145 
+chair, 207 172 200 150 
+chair, 256 203 241 160 
+chair, 144 114 168 137 
+chair, 109 73 184 142 
+chair top, 212 186 160 137 
+chair top, 240 209 168 143 
+chair top, 177 148 147 130 
+chair part, 256 238 179 150 
+row of chairs, 63 0 202 115 
+row of chairs, 77 15 170 111 
+row of chairs, 113 36 151 111 
+row of chairs, 147 56 148 110 
+row of chairs, 190 73 142 108 
+lots of chairs, 255 79 149 106 
+window, 170 112 107 62 
+window, 94 0 108 50 
+podium, 252 232 117 101 
+ceiling lamp, 109 68 21 0 
+ceiling lamp, 184 136 38 21 
+ceiling lamp, 72 47 37 23 
+ceiling, 255 0 61 1 

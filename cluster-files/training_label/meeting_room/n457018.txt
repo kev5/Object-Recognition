@@ -1,0 +1,27 @@
+painting, 60 37 138 88 
+painting, 176 157 119 101 
+conference table, 196 10 217 133 
+ashtray, 151 135 163 155 
+ashtray, 167 157 140 133 
+plant, 110 72 132 77 
+plant, 256 218 151 80 
+door, 210 184 136 76 
+door, 138 114 143 81 
+lamp, 148 139 106 96 
+cabinet, 31 0 179 126 
+air vent, 223 210 63 47 
+air vent, 118 94 68 56 
+air vent, 40 0 23 0 
+sofa, 180 151 131 119 
+chair, 244 163 255 156 
+chair, 231 194 184 144 
+chair, 223 195 168 136 
+chair top, 52 13 187 144 
+chair top, 83 58 168 136 
+chair top, 105 84 157 134 
+chair top, 120 106 147 132 
+chair top, 132 120 142 127 
+lots of chairs, 216 195 154 126 
+ceiling lamp, 256 245 48 42 
+ceiling lamp, 238 232 66 59 
+ceiling lamp, 187 35 78 0 

@@ -1,0 +1,15 @@
+toilet, 145 60 243 121 
+bathtub, 64 0 233 135 
+bath faucet, 50 18 159 116 
+toilet paper, 182 157 162 134 
+sink, 255 209 254 140 
+bottle, 235 223 153 131 
+bottle, 58 50 140 127 
+bottle, 63 50 128 118 
+mirror, 255 225 68 13 
+window, 72 31 30 1 
+Blue Tile, 184 141 250 225 
+sink faucet, 252 238 157 140 
+toilet brush, 138 118 230 184 
+wall outlet, 234 219 94 73 
+floor, 230 0 255 203 

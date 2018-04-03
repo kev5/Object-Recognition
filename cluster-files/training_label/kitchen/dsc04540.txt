@@ -1,0 +1,18 @@
+vent, 629 573 94 51 
+microwave oven, 631 439 166 41 
+freezer door, 463 391 325 182 
+freezer compartment, 624 395 327 172 
+door handle, 309 295 233 217 
+poster, 286 235 121 74 
+cupboard, 434 353 162 83 
+vacuum cleaner hose, 381 331 460 274 
+mobile, 156 107 188 60 
+door, 346 169 391 14 
+heater, 160 99 479 360 
+doorknob, 132 87 327 293 
+scissors, 386 372 232 192 
+handle, 473 457 140 64 
+picture, 418 394 444 320 
+star, 135 119 240 226 
+square, 278 244 112 79 
+fridge, 623 375 480 167 

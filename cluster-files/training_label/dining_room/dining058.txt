@@ -1,0 +1,21 @@
+chair, 255 116 254 133 
+chair, 88 0 254 109 
+mirror, 105 61 71 26 
+bouquet, 157 94 144 74 
+chair top, 237 193 157 108 
+chair top, 115 71 129 98 
+plate, 195 152 172 157 
+plate, 101 67 152 140 
+plate, 111 84 134 126 
+bowl, 164 130 152 130 
+ceiling lamp, 181 114 33 2 
+curtain, 35 1 91 2 
+curtain, 192 136 139 2 
+curtain, 248 206 113 2 
+window, 39 0 113 13 
+window, 251 217 119 15 
+window, 186 122 110 5 
+table, 256 47 255 124 
+napkin, 168 129 181 158 
+napkin, 204 175 151 143 
+candle, 149 138 126 108 

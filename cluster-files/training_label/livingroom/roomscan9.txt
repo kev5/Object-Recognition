@@ -1,0 +1,18 @@
+ottoman, 151 44 248 172 
+mirror, 202 168 95 36 
+fireplace, 230 141 182 124 
+chair, 256 231 197 148 
+chair, 35 0 254 169 
+chair, 175 129 194 134 
+sofa, 120 1 214 137 
+vase, 241 229 99 79 
+vase, 145 133 99 80 
+sofa part, 255 203 255 200 
+small table, 131 99 174 143 
+ceiling, 255 0 36 0 
+pillow, 93 63 159 138 
+pillow, 32 0 167 139 
+vases, 213 157 100 86 
+plant, 126 110 143 114 
+plant, 107 90 143 115 
+book, 117 82 185 174 

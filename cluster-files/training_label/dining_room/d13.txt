@@ -1,0 +1,17 @@
+mirror, 192 140 61 0 
+window, 120 69 112 10 
+window, 247 230 121 1 
+ceiling lamp, 129 85 47 0 
+door, 44 5 149 18 
+bowl, 121 97 162 147 
+fireplace, 200 130 157 121 
+table, 211 14 255 144 
+chair, 125 47 255 162 
+chair, 222 158 255 152 
+chair top, 38 11 158 137 
+chair top, 169 119 150 135 
+counter, 118 57 121 113 
+bouquet, 214 189 72 39 
+bouquet, 136 115 71 41 
+plant, 188 147 73 58 
+cabinet, 118 60 147 119 

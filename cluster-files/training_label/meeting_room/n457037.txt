@@ -1,0 +1,23 @@
+painting, 256 218 94 21 
+window, 142 80 81 16 
+window, 20 0 83 17 
+ceiling lamp, 72 48 29 3 
+ceiling lamp, 115 87 23 0 
+ceiling lamp, 200 156 17 4 
+conference table, 255 2 186 78 
+bouquet, 172 156 75 49 
+chair, 186 77 254 139 
+chair, 61 24 169 111 
+chair, 91 47 180 117 
+chair, 41 14 141 98 
+chair, 15 1 122 90 
+chair top, 256 232 114 103 
+chair top, 185 157 101 90 
+chair top, 50 23 83 74 
+chair top, 221 188 109 94 
+chair top, 151 127 97 83 
+chair top, 126 106 91 78 
+chair top, 103 89 84 74 
+tray, 115 85 104 92 
+small table, 181 140 92 72 
+ceiling, 253 0 17 0 

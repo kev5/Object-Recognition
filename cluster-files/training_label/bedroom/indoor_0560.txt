@@ -1,0 +1,12 @@
+bed, 609 14 538 206 
+bed crop, 715 370 517 155 
+cushion, 594 494 222 151 
+cushion, 519 422 225 169 
+cushion, 199 77 302 221 
+cushion, 316 183 297 207 
+large window crop, 395 2 244 1 
+curtain, 301 150 211 2 
+wall, 598 394 228 1 
+wall, 716 593 290 1 
+wall, 29 2 537 118 
+floor, 716 31 535 203 

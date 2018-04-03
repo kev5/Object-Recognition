@@ -1,0 +1,20 @@
+bed, 204 0 230 52 
+painting, 68 36 79 43 
+painting, 144 136 105 91 
+painting, 152 146 117 105 
+painting, 161 154 108 96 
+lamp, 221 204 130 113 
+window, 130 102 136 59 
+ceiling, 254 0 63 0 
+pillow, 69 24 147 129 
+pillow, 95 62 136 128 
+pillow, 31 10 150 131 
+curtain, 125 104 98 71 
+bouquet, 202 166 136 92 
+sleeping robe, 111 67 223 139 
+night stand dresser, 22 0 211 142 
+table part, 255 201 255 208 
+rug, 240 25 255 191 
+dresser, 255 170 189 70 
+mirror, 253 202 131 84 
+plant, 250 218 134 103 

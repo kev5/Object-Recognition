@@ -1,0 +1,28 @@
+ceiling, 236 2 27 1 
+cupboard, 122 7 181 43 
+cupboard, 205 119 179 42 
+cupboard, 337 206 112 22 
+cupboard, 486 336 183 4 
+cupboard, 347 301 419 298 
+cupboard crop, 510 478 149 1 
+cupboard crop, 510 451 431 316 
+blender, 94 62 249 195 
+coffee marker, 478 435 283 214 
+teapot, 427 383 277 244 
+teapot, 327 290 281 234 
+cutlery, 378 353 270 211 
+sink crop, 510 476 311 278 
+knives, 201 173 254 201 
+stove, 352 167 406 215 
+dishwasher, 452 348 431 302 
+cupboards, 119 41 362 276 
+drawers, 167 121 373 278 
+fridge occluded, 40 16 345 129 
+worktop, 232 37 281 242 
+worktop, 510 301 319 268 
+microwave, 328 200 190 114 
+tray, 173 123 232 188 
+open plan, 398 2 430 344 
+wall, 24 2 357 9 
+wall, 510 97 277 1 
+wall, 98 14 247 24 

@@ -1,0 +1,16 @@
+lampshade, 1145 714 586 285 
+lamp, 1148 716 1031 272 
+picture, 1537 1284 887 3 
+nightstand, 1169 493 1680 964 
+paper, 996 679 1127 1020 
+telephone, 703 535 1031 913 
+pad of paper, 634 527 1076 1036 
+drawer, 1065 602 1244 1151 
+headboard, 522 3 1454 5 
+pillow, 349 3 1076 708 
+pillow, 266 5 1121 770 
+Mattress, 461 3 1976 1031 
+Comforter, 471 8 1989 1411 
+Bed, 525 3 1984 3 
+Floor, 1308 344 1989 1449 
+wall, 1537 1119 1989 5 

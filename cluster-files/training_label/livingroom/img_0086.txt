@@ -1,0 +1,11 @@
+window, 460 394 188 66 
+window, 510 462 196 70 
+window shade, 459 400 124 67 
+window shade, 511 470 126 69 
+chair, 413 264 332 171 
+couch, 272 2 384 199 
+throw pillow, 127 51 308 254 
+throw pillow, 172 107 291 240 
+throw pillow, 237 163 280 218 
+throw pillow, 69 2 328 236 
+table top, 512 414 246 218 

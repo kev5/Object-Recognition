@@ -1,0 +1,28 @@
+ottoman, 158 53 255 202 
+wardrobe, 105 58 161 46 
+curtain, 51 22 115 46 
+cabinet, 235 107 83 44 
+dresser, 255 236 179 44 
+dresser, 45 2 192 123 
+dresser, 47 0 191 119 
+bed frame, 183 92 198 149 
+head stand, 215 136 151 115 
+lamp, 133 112 128 102 
+lamp, 232 210 138 105 
+pillow, 18 0 207 193 
+pillow, 24 1 157 144 
+pillow, 166 130 143 129 
+pillow, 202 168 148 130 
+pillow, 16 0 145 119 
+night stand dresser, 234 211 176 138 
+night stand dresser, 126 106 145 132 
+rug, 246 0 254 204 
+candle, 27 15 123 76 
+ceiling, 255 1 31 1 
+bed, 213 89 199 117 
+decoration, 181 168 106 88 
+wardrobe part, 256 236 181 42 
+window, 51 23 160 47 
+magazine, 248 218 190 180 
+tray, 145 92 221 203 
+mug, 111 102 211 201 

@@ -1,0 +1,31 @@
+ceiling, 464 101 67 1 
+door occluded, 290 256 249 115 
+picture, 186 158 161 99 
+picture, 225 209 144 109 
+picture, 201 187 164 143 
+picture, 311 297 168 154 
+picture, 312 299 147 134 
+picture, 314 299 126 111 
+person sitting, 420 337 303 189 
+person occluded, 198 159 211 167 
+person occluded, 265 226 211 163 
+chair, 403 364 318 246 
+chair, 473 416 329 248 
+person sitting crop, 124 8 374 138 
+bar, 290 0 375 208 
+vase, 126 102 193 150 
+plant, 148 79 154 101 
+loudspeaker, 167 125 51 28 
+cash register, 31 0 227 198 
+showcase, 156 2 232 39 
+bottle, 20 9 141 109 
+bottle, 29 20 142 107 
+window, 498 324 240 28 
+stool crop, 199 131 375 278 
+stool, 251 187 375 267 
+stool, 302 248 368 254 
+wall, 499 250 319 1 
+wall, 252 2 361 0 
+floor, 499 2 375 275 
+lamp, 205 198 141 107 
+glass, 38 3 182 156 

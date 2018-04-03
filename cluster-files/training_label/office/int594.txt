@@ -1,0 +1,15 @@
+desk, 206 74 216 146 
+desk, 57 2 204 141 
+chair, 158 126 144 120 
+rug, 248 17 236 191 
+window, 96 70 145 77 
+window, 126 103 145 79 
+window, 191 139 146 74 
+window, 216 206 151 68 
+window, 230 222 154 63 
+lamp, 202 171 147 108 
+ceiling, 254 0 53 0 
+painting, 56 41 105 87 
+book shelves, 46 2 143 54 
+desk calender, 177 98 150 145 
+mat, 185 100 214 188 

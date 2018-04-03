@@ -1,0 +1,12 @@
+petfood dish, 387 354 362 338 
+petfood dish, 417 380 379 352 
+letter mail, 130 40 432 379 
+ashtray, 61 5 287 263 
+kitchen roll, 86 64 260 200 
+drawer, 184 120 177 157 
+drawer, 183 123 198 178 
+chair, 222 190 418 235 
+dish drainer, 200 137 145 108 
+radiator, 574 458 431 258 
+oven, 316 289 274 165 
+magazine, 205 2 397 316 

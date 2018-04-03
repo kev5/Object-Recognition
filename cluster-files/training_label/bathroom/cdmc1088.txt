@@ -1,0 +1,15 @@
+bathtub, 236 52 169 52 
+toilet, 255 201 209 118 
+toilet, 256 201 207 117 
+rug, 156 49 206 150 
+rug, 234 34 255 209 
+sink, 37 0 241 111 
+painting, 148 79 40 0 
+towell, 255 241 95 17 
+towels, 110 86 55 38 
+towel, 256 241 95 17 
+window, 240 169 80 0 
+bath faucet, 204 175 87 71 
+bouquet, 240 213 92 5 
+bottle, 218 210 78 51 
+bottle, 202 189 63 48 

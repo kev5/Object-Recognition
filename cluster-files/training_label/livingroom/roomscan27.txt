@@ -1,0 +1,36 @@
+bookshelves, 255 219 221 39 
+bookshelves, 19 0 161 39 
+sofa, 214 39 249 182 
+pillows, 203 40 189 128 
+armchair, 75 1 254 165 
+mattress, 216 43 218 184 
+wall hanging, 139 100 59 8 
+wall hanging, 134 103 121 78 
+alcove, 207 32 188 44 
+vase, 243 226 40 19 
+vase, 13 0 40 23 
+books, 255 229 86 65 
+books, 249 229 115 94 
+books, 255 229 142 118 
+books, 255 229 178 150 
+books, 254 228 218 183 
+books, 255 229 61 41 
+books, 255 250 115 100 
+books, 9 1 67 44 
+books, 9 0 98 73 
+books, 9 0 128 104 
+books, 9 0 158 134 
+small table, 101 68 254 179 
+pillow, 180 136 189 157 
+pillow, 154 104 186 153 
+pillow, 200 160 189 151 
+pillow, 72 37 184 132 
+pillow, 121 71 183 135 
+pillow, 172 118 155 133 
+pillow, 204 159 158 130 
+candle, 91 73 178 156 
+box, 84 65 182 171 
+vases, 100 84 181 163 
+blanket, 69 1 254 162 
+chair, 245 175 254 215 
+ceiling, 255 0 18 0 

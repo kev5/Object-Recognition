@@ -1,0 +1,16 @@
+ceiling, 588 342 24 2 
+picture, 406 348 172 49 
+picture, 234 150 187 31 
+bed crop, 539 141 466 265 
+cushion, 297 172 326 241 
+cushion, 464 343 287 223 
+bed, 683 321 466 243 
+night table occluded, 506 440 282 245 
+night table occluded, 155 56 437 306 
+lamp, 124 70 323 234 
+lamp, 471 442 257 195 
+window, 620 518 241 41 
+curtain, 690 476 348 2 
+wall, 697 477 353 3 
+wall, 483 2 420 3 
+floor, 695 5 467 287 

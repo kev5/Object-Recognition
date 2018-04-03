@@ -1,0 +1,18 @@
+ceiling, 207 8 68 2 
+shelf, 167 10 201 159 
+plant, 92 6 254 124 
+fruit bowl, 137 4 446 386 
+apple, 48 2 420 373 
+apple, 66 34 394 359 
+appels, 102 46 410 378 
+ledge, 381 2 483 363 
+teapot, 195 153 384 342 
+bottle, 106 91 375 300 
+poster, 252 217 382 337 
+microwave crop, 165 3 574 422 
+worktop, 240 165 576 532 
+box occluded, 61 28 361 311 
+box occluded, 73 47 363 323 
+bowl, 90 49 370 351 
+wall, 382 3 576 1 
+wall, 15 2 475 1 

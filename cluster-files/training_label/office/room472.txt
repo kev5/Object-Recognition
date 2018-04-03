@@ -1,0 +1,22 @@
+remote control, 76 19 195 175 
+keyboard, 252 142 170 145 
+monitor, 230 146 122 45 
+phone, 88 31 170 138 
+painting, 146 101 39 2 
+painting, 208 197 24 1 
+painting, 207 197 46 27 
+painting, 238 213 41 1 
+desk, 254 10 254 120 
+candle, 121 98 94 34 
+shelf, 145 7 107 86 
+notebook, 163 54 201 158 
+notebook, 125 63 150 131 
+flowers, 93 28 81 14 
+computer, 224 154 149 123 
+bouquet, 99 25 98 1 
+book, 153 123 147 129 
+books, 8 0 241 179 
+desk organizer, 147 127 94 52 
+external drivers, 255 224 141 111 
+statue, 132 114 92 69 
+door, 184 158 47 2 

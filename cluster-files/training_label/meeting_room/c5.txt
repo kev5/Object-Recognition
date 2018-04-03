@@ -1,0 +1,26 @@
+painting, 107 78 89 60 
+painting, 147 119 89 61 
+plant, 82 59 111 88 
+plant, 255 221 195 151 
+plant, 234 180 160 136 
+chair, 217 188 178 142 
+chair, 55 2 249 159 
+chair, 60 22 198 139 
+conference table, 254 50 255 133 
+window, 245 205 159 38 
+window, 205 181 142 51 
+ceiling tile, 216 164 27 5 
+ceiling lamp, 106 99 32 28 
+ceiling lamp, 155 146 23 18 
+ceiling lamp, 149 62 12 0 
+ceiling lamp, 46 33 10 5 
+ceiling lamp, 143 133 36 32 
+chair part, 50 0 256 197 
+chair top, 114 83 138 122 
+chair top, 183 158 159 126 
+chair top, 223 187 187 140 
+chair top, 256 241 216 164 
+printer, 152 122 110 99 
+cabinet, 169 58 157 104 
+ceiling, 240 0 42 0 
+wall outlet, 179 174 105 99 

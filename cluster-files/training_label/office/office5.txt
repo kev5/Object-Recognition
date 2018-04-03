@@ -1,0 +1,26 @@
+monitor, 83 4 179 112 
+monitor, 187 146 158 124 
+monitor, 62 52 97 84 
+computers, 231 170 254 204 
+phone, 207 179 177 158 
+phone, 247 216 187 164 
+computer, 73 56 255 224 
+trash can, 255 219 255 227 
+trash can, 199 187 157 124 
+chair, 167 93 255 149 
+desk, 256 0 254 150 
+box, 256 231 170 150 
+box, 136 116 107 81 
+box, 157 142 108 82 
+ceiling lamp, 235 190 12 2 
+ceiling lamp, 105 68 22 12 
+ceiling lamp, 252 246 38 33 
+mailboxes, 193 164 124 54 
+book, 77 55 229 203 
+keyboard, 89 53 188 172 
+printer, 129 72 155 111 
+printer, 36 6 125 101 
+workstation, 83 42 111 79 
+cabinet, 112 88 112 80 
+ceiling, 254 1 44 0 
+table, 159 134 148 117 

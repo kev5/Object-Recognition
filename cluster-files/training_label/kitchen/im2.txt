@@ -1,0 +1,9 @@
+microwave oven, 296 224 166 121 
+lower cabinet, 118 39 223 128 
+upper cabinet, 97 11 77 1 
+upper cabinet, 299 268 78 1 
+heater, 175 140 192 149 
+dishes, 49 7 141 112 
+window, 255 104 148 10 
+blinds, 168 110 133 18 
+blinds, 250 182 142 14 

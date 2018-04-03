@@ -1,0 +1,41 @@
+chair, 171 108 248 158 
+chair, 117 73 226 150 
+chair, 81 44 208 143 
+chair, 50 23 196 137 
+chair, 31 4 187 133 
+chair, 223 184 197 137 
+chair, 251 224 172 127 
+lamp, 136 127 91 77 
+lamp, 184 176 92 80 
+chair top, 173 152 151 132 
+chair top, 143 123 146 129 
+chair top, 119 103 142 126 
+chair top, 92 78 138 123 
+chair top, 74 63 135 120 
+chair top, 215 198 134 124 
+chair top, 185 170 132 120 
+chair top, 163 148 129 119 
+chair top, 140 126 126 116 
+chair top, 122 111 123 114 
+table, 195 8 170 125 
+table, 237 65 147 119 
+table, 66 17 121 109 
+table, 106 52 116 108 
+table, 194 103 115 103 
+plant, 17 0 111 83 
+plant, 71 60 108 82 
+podium, 216 193 117 94 
+ceiling, 255 0 67 0 
+door, 105 81 106 82 
+overhead projector, 234 213 118 94 
+row of chairs, 49 3 128 109 
+row of chairs, 80 40 120 105 
+row of chairs, 116 71 116 104 
+row of chairs, 255 140 127 111 
+bouquet, 147 131 113 94 
+place mat, 179 149 160 151 
+place mat, 137 111 152 144 
+place mat, 104 82 145 139 
+place mat, 76 57 140 134 
+place mat, 54 36 136 131 
+airco, 118 107 34 30 

@@ -1,0 +1,74 @@
+fire place, 1198 1008 563 364 
+bench table, 1076 177 898 463 
+flowers, 733 546 536 307 
+flowers, 891 775 471 374 
+flowers, 87 1 546 430 
+pillow, 197 91 451 361 
+pillow, 266 180 435 346 
+pillow, 314 248 423 359 
+pillow, 382 311 420 353 
+pillow, 450 373 423 340 
+pillow, 498 432 414 353 
+pillow, 570 496 418 338 
+picture frame, 1084 1049 293 258 
+picture frame, 1129 1096 295 268 
+picture frame, 1166 1140 297 269 
+door, 969 871 507 127 
+window curtain, 708 4 198 4 
+mantel, 1200 935 343 294 
+fire, 1200 1141 504 439 
+window, 43 3 382 157 
+window, 219 55 376 163 
+window, 394 222 363 177 
+window, 557 402 352 188 
+window, 705 558 351 181 
+birdcage, 1035 973 532 341 
+fire tools, 978 958 512 371 
+jar, 974 960 286 252 
+plate, 792 749 252 200 
+plate, 791 752 311 261 
+plate, 408 341 554 535 
+plate, 430 349 603 581 
+clock, 1185 1081 234 121 
+bench cushion, 705 39 529 415 
+vase, 20 3 661 546 
+pitcher, 310 240 598 523 
+bowl of fruit, 406 344 547 523 
+bowl of fruit, 820 780 488 468 
+bowl of fruit, 893 845 521 501 
+coffee cup, 447 409 557 528 
+coffee cup, 822 791 515 493 
+coffee cup, 859 837 492 472 
+saucer, 441 395 562 544 
+saucer, 375 321 585 569 
+saucer, 868 826 496 484 
+saucer, 897 835 526 510 
+saucer, 833 787 519 505 
+doily, 253 188 589 555 
+doily, 333 241 608 581 
+doily, 785 498 634 504 
+doily, 583 244 764 561 
+doily, 970 782 626 500 
+coffe cup, 370 326 581 551 
+strawberry, 389 374 586 575 
+strawberry, 398 384 584 567 
+strawberry, 410 398 577 567 
+strawberry, 406 392 586 576 
+strawberry, 419 406 584 573 
+napkin, 522 428 598 544 
+napkin, 923 862 518 478 
+napkin, 327 302 577 535 
+napkin, 800 739 508 469 
+placemat, 528 308 623 564 
+placemat, 955 715 538 477 
+spoon, 858 821 534 517 
+spoon, 355 325 616 590 
+fork, 454 420 601 577 
+books, 1007 976 291 250 
+bunny statue, 1033 986 292 247 
+flower arrangement, 1200 1154 297 200 
+banquet seating, 711 22 639 444 
+ceiling, 973 661 40 2 
+brick wall, 1201 946 651 2 
+wall, 969 38 487 1 
+floor, 1200 3 901 516 

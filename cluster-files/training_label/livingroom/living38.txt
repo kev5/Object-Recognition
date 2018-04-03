@@ -1,0 +1,41 @@
+chair, 619 104 900 456 
+chair, 398 255 346 198 
+chair, 1185 1028 533 251 
+chair, 635 503 470 231 
+chair, 822 625 589 282 
+chair, 1069 869 660 314 
+rug, 308 1 624 416 
+picture, 1024 945 153 60 
+picture, 1121 1038 156 58 
+picture, 512 453 130 43 
+picture, 138 10 152 5 
+lamp, 851 824 172 75 
+couch, 310 0 448 225 
+vases, 925 872 180 127 
+tripod, 97 58 186 135 
+stack of books, 62 5 184 166 
+stack of books, 474 414 366 337 
+pillows, 152 2 331 225 
+apple, 1166 1136 341 316 
+apple, 1052 1018 300 279 
+apple, 1078 1051 305 288 
+vase, 452 410 129 85 
+vase, 452 364 125 3 
+table, 131 8 231 179 
+table, 1200 569 620 269 
+pillow, 357 274 275 249 
+log holder, 477 414 325 292 
+pineapple, 1123 1051 299 249 
+bowl of fruit, 1127 1010 336 246 
+bowl, 1009 954 188 165 
+side table, 1199 766 317 166 
+coffee table, 125 2 505 424 
+stacks of books *X, 109 13 215 190 
+candles, 566 514 136 54 
+floor, 1201 2 900 310 
+wall, 1200 2 343 1 
+mantle, 612 339 335 127 
+fireplace, 524 394 342 191 
+object, 520 497 372 284 
+object, 496 476 361 284 
+pot, 76 19 454 388 

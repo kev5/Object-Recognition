@@ -1,0 +1,14 @@
+bar, 250 0 199 74 
+bottle, 233 218 182 134 
+bottle, 220 207 177 133 
+bottle, 217 205 94 61 
+chair occluded, 9 0 123 110 
+chair occluded, 19 0 139 123 
+chair occluded, 37 2 160 135 
+chair occluded, 61 2 196 146 
+chair crop, 93 23 200 169 
+shelves, 250 133 182 0 
+bottles, 212 79 173 84 
+picture, 57 36 39 20 
+billboard, 27 13 78 55 
+wall, 249 1 191 1 

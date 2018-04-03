@@ -1,0 +1,29 @@
+window, 223 165 94 18 
+window, 255 226 99 11 
+rug, 229 172 204 184 
+rug, 227 209 253 226 
+counter, 148 0 140 113 
+counter, 255 101 142 104 
+counter, 256 222 186 156 
+refridgerator, 98 33 113 53 
+cabinets, 165 99 86 29 
+cabinets, 98 14 113 25 
+cabinets, 233 137 203 114 
+cabinets, 138 0 247 136 
+knives, 104 83 119 87 
+books, 25 4 118 95 
+plant, 162 139 28 10 
+plant, 133 109 29 7 
+plant, 93 78 24 4 
+plant, 71 30 27 1 
+plant, 225 202 107 94 
+sink, 252 206 121 110 
+calender, 90 66 105 63 
+ceiling lamp, 104 31 39 0 
+toaster, 169 153 109 96 
+bottle, 135 128 107 94 
+sink faucet, 247 230 116 98 
+pot, 71 38 112 93 
+bouquet, 177 155 94 62 
+cup, 205 195 113 106 
+cup, 148 140 108 103 

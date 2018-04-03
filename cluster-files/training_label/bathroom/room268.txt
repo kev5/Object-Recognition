@@ -1,0 +1,16 @@
+towel, 212 135 146 63 
+rug, 221 125 253 199 
+window, 207 103 39 0 
+mirror, 21 0 39 0 
+plant, 82 49 96 50 
+plant, 225 196 195 153 
+toilet, 142 99 203 127 
+sink, 68 5 133 110 
+sink, 71 6 138 111 
+cabinet, 100 7 256 118 
+counter, 101 6 180 102 
+bottle, 23 10 106 81 
+toothbrush, 39 24 105 80 
+wall outlet, 47 38 50 33 
+sink faucet, 28 6 120 102 
+floor, 221 76 255 175 

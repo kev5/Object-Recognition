@@ -1,0 +1,19 @@
+window, 234 141 79 0 
+window, 116 23 110 0 
+file box, 99 42 56 20 
+lamp, 150 123 96 67 
+printer, 200 159 102 59 
+keyboard, 105 41 152 134 
+monitor, 102 40 114 53 
+chair top, 171 92 179 109 
+papers, 45 0 166 130 
+papers, 255 166 256 211 
+boooks, 248 173 108 89 
+books, 254 196 144 111 
+shelf, 104 24 137 104 
+shelf, 255 194 118 105 
+calender, 21 0 54 0 
+computer, 229 193 89 48 
+book, 233 201 168 157 
+box, 176 160 152 135 
+desk, 254 0 176 92 

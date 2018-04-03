@@ -1,0 +1,28 @@
+sink, 56 0 122 93 
+sink, 56 0 122 93 
+toilet paper, 180 166 98 89 
+toilet seat, 207 162 151 105 
+toilet, 210 161 151 106 
+bouquet, 215 181 68 21 
+shelf, 255 214 144 0 
+shelf, 95 67 90 5 
+shelf, 256 169 255 214 
+bathtub, 255 0 255 135 
+bathtub, 256 87 241 146 
+bowl, 248 176 256 214 
+cabinet, 96 1 182 93 
+mirror, 79 0 93 0 
+mirror, 25 1 63 12 
+shower, 162 113 145 0 
+rug, 141 0 226 156 
+soap dish, 40 13 87 78 
+soap, 15 4 58 54 
+bottle, 246 239 108 92 
+bottle, 57 51 61 46 
+towels, 254 225 56 42 
+towels, 91 76 64 53 
+towels, 92 68 91 78 
+towel, 247 187 246 216 
+bath faucet, 194 165 175 160 
+shower door, 134 118 138 1 
+cup, 255 247 33 21 

@@ -1,0 +1,22 @@
+curtain, 79 67 133 38 
+curtain, 124 103 123 28 
+curtain, 248 211 126 0 
+window, 105 81 120 29 
+window, 255 243 127 2 
+lamp, 111 89 124 87 
+lamp, 247 214 126 78 
+painting, 197 141 95 37 
+painting, 48 38 88 70 
+painting, 47 38 111 93 
+bed, 207 23 200 99 
+picture frame, 249 232 127 110 
+night stand dresser, 255 191 183 126 
+night stand dresser, 105 73 134 123 
+armchair part, 254 155 254 176 
+rug, 178 0 244 176 
+rug, 173 0 247 178 
+door, 22 6 161 66 
+pillow, 177 137 138 121 
+pillow, 153 103 135 116 
+pillow, 195 177 135 115 
+ceiling, 203 1 37 0 

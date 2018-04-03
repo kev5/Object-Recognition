@@ -1,0 +1,14 @@
+picture, 327 7 126 1 
+bed crop, 398 2 600 307 
+ledge, 398 2 251 216 
+lamp, 349 316 221 144 
+lamp, 36 2 222 135 
+vase, 124 108 223 191 
+flowers, 162 70 200 120 
+pillow occluded, 45 7 430 361 
+pillow occluded, 276 202 404 341 
+cushion, 396 225 431 310 
+cushion, 396 324 439 366 
+cushion, 211 16 470 306 
+cushion, 256 110 466 369 
+wall, 398 2 415 2 

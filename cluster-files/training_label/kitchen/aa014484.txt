@@ -1,0 +1,26 @@
+oven, 107 55 206 103 
+cabinets, 226 0 255 140 
+cabinets, 198 150 125 75 
+cabinet, 138 72 114 38 
+hood, 164 138 99 60 
+curtain, 40 0 71 11 
+curtain, 252 198 109 85 
+window, 252 199 132 86 
+window, 25 0 133 60 
+plant, 99 42 102 55 
+plant, 179 161 78 62 
+plant, 48 6 131 75 
+plant, 118 106 148 120 
+plant, 131 120 136 123 
+table, 255 225 242 156 
+chair, 256 233 254 158 
+bowl, 32 0 155 136 
+ceiling, 256 71 69 1 
+ceiling lamp, 241 212 20 1 
+tray, 150 115 143 138 
+kettle, 150 138 137 128 
+counter, 54 0 161 149 
+counter, 145 109 150 143 
+sink, 246 199 139 135 
+pot, 173 156 137 125 
+floor, 239 54 254 178 

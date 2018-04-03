@@ -1,0 +1,24 @@
+painting, 144 100 123 68 
+painting, 188 147 123 67 
+pillow, 142 88 175 142 
+pillow, 197 162 168 141 
+pillow, 221 192 167 140 
+pillow, 54 34 193 177 
+pillow, 68 41 221 196 
+window, 247 218 127 69 
+window, 57 22 165 62 
+armchair, 107 7 254 164 
+armchair, 85 7 205 155 
+sofa, 216 83 213 139 
+lamp, 72 40 170 108 
+lamp, 249 221 156 105 
+small table, 188 147 229 174 
+small table, 236 197 220 172 
+small table, 85 36 195 162 
+small table, 255 223 185 157 
+curtain, 78 57 162 47 
+curtain, 19 0 208 47 
+curtain, 217 198 142 56 
+ceiling, 254 0 48 0 
+plant, 232 193 176 121 
+decorations, 183 150 180 165 

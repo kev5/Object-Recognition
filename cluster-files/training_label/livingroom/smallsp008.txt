@@ -1,0 +1,26 @@
+sofa, 208 69 231 146 
+pillow, 126 94 175 148 
+pillow, 184 152 187 156 
+small table, 118 14 255 185 
+painting, 120 103 102 76 
+painting, 170 149 88 59 
+painting, 73 62 80 63 
+lamp, 143 121 69 54 
+box, 245 206 229 196 
+box, 78 64 202 193 
+window, 35 16 105 52 
+window, 255 186 108 29 
+window, 55 49 106 55 
+ceiling lamp, 230 151 58 0 
+ceiling lamp, 37 22 10 2 
+ceiling lamp, 22 11 40 35 
+plant, 256 222 239 192 
+rug, 31 0 180 163 
+door, 90 79 117 47 
+vase, 64 51 116 105 
+magazine, 99 55 207 189 
+step, 72 36 189 174 
+rail, 91 42 150 110 
+cabinet, 72 50 125 114 
+ceiling, 254 1 47 0 
+books, 115 43 249 213 

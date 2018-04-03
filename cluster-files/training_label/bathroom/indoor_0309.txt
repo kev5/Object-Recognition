@@ -1,0 +1,14 @@
+washbasin, 215 140 300 273 
+faucet, 221 189 282 254 
+towel, 156 77 224 148 
+towel rail, 45 2 208 191 
+mirror, 303 180 201 2 
+closet, 259 113 454 262 
+cistern, 302 230 432 312 
+wc, 294 172 510 405 
+litter bin, 117 72 444 380 
+wall, 180 2 460 1 
+wall, 303 175 453 1 
+floor, 303 2 511 389 
+box, 302 270 337 292 
+handkerchief, 301 283 301 276 

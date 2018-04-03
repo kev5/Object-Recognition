@@ -1,0 +1,89 @@
+rooster, 691 560 607 436 
+rooster, 186 126 531 461 
+rooster, 958 920 592 530 
+rooster, 456 405 461 391 
+bottle of wine, 753 728 639 521 
+knife, 813 723 688 663 
+kitchen table, 926 451 897 559 
+plate of fruit, 721 569 651 581 
+window, 511 322 468 148 
+book, 574 521 481 443 
+range hood, 226 8 301 76 
+plates, 1090 1046 434 384 
+plates, 1019 988 428 389 
+plates, 291 271 276 257 
+sink, 504 356 501 484 
+plate, 871 772 675 639 
+melon, 639 587 642 605 
+melon, 709 663 616 579 
+grapes, 673 637 644 619 
+orange, 700 672 637 612 
+spice rack, 56 4 544 432 
+shelf, 150 37 390 351 
+light, 194 164 270 246 
+light, 459 406 251 30 
+light, 688 590 298 4 
+jar of utensils, 127 65 546 430 
+faucet, 452 408 485 457 
+mug, 111 79 337 306 
+mug, 1074 1058 514 496 
+mug, 248 231 273 258 
+mug, 283 273 316 302 
+glass, 1017 995 509 444 
+glass, 993 980 510 451 
+glass, 932 917 501 444 
+glass, 892 878 494 446 
+glass, 881 866 492 443 
+glass, 1012 980 561 530 
+glass, 1018 991 252 223 
+cups, 280 215 364 342 
+wine glass, 747 717 650 571 
+wine glass, 784 755 655 572 
+bowl, 724 654 699 643 
+bowl, 1091 1064 236 223 
+plant, 211 140 478 388 
+teapot, 1068 1041 574 536 
+cheese, 845 807 658 603 
+bowl of fruit, 395 363 467 446 
+ladle, 251 188 503 474 
+electrical outlet, 298 284 459 437 
+kettle, 296 260 489 460 
+microwave, 684 659 394 331 
+cup, 1086 1060 388 364 
+cup, 1019 995 349 331 
+cup, 1001 986 355 335 
+cup, 72 53 338 319 
+metal jar *X, 133 118 338 305 
+dishes, 626 596 326 310 
+dishes, 625 596 363 339 
+dishes, 578 544 325 302 
+dishes, 562 543 361 343 
+dishes, 578 565 363 341 
+dishes, 627 596 392 381 
+dishes, 250 218 313 297 
+glasses, 1075 1046 511 450 
+glasses, 1089 1071 517 476 
+mugs, 1079 1048 349 328 
+pitcher, 1093 1072 347 303 
+object, 941 911 360 330 
+object, 165 142 544 515 
+dish, 309 295 275 259 
+dish, 308 289 317 296 
+ceiling, 797 172 96 1 
+cabinet, 347 194 417 191 
+refrigerator, 910 668 619 118 
+china hutch, 1200 811 890 54 
+counter top, 616 112 510 456 
+counter top, 234 2 775 571 
+cabinets, 682 110 664 490 
+cabinets, 692 510 415 199 
+cabinets, 254 2 898 604 
+jar, 57 2 674 545 
+stove top, 245 50 580 524 
+floor, 1200 237 900 656 
+curtains, 518 326 467 153 
+wall, 1200 168 211 1 
+wall, 322 88 460 297 
+pasta jar, 611 593 484 430 
+molding, 190 2 261 1 
+back splash, 88 2 565 250 

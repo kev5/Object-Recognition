@@ -1,0 +1,21 @@
+bed, 123 0 256 89 
+dresser, 248 135 203 114 
+bouquet, 208 172 119 58 
+bookcase, 119 58 119 27 
+curtain, 168 128 186 16 
+curtain, 252 215 189 16 
+rug, 254 62 256 216 
+pillow, 67 18 123 99 
+pillow, 90 64 129 112 
+pillow, 95 70 126 107 
+pillow, 100 57 123 91 
+picture frame, 108 96 53 42 
+picture frame, 90 66 92 83 
+picture frame, 109 94 72 59 
+lamp, 137 113 199 86 
+picture, 71 63 73 61 
+books, 116 102 118 103 
+books, 116 108 74 61 
+books, 92 69 52 41 
+window, 221 159 112 23 
+plant, 92 73 74 63 

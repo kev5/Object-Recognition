@@ -1,0 +1,20 @@
+cupboard, 223 62 177 41 
+cupboard, 365 225 146 47 
+cupboard, 419 363 233 45 
+cupboard, 705 485 206 2 
+microwave, 363 225 227 144 
+coffee marker, 194 150 307 223 
+bottle, 550 507 346 227 
+bottle, 478 421 361 225 
+cupboard occluded, 344 217 495 320 
+cupboard occluded, 109 4 433 340 
+cupboard crop, 687 340 600 330 
+stove occluded, 221 66 509 243 
+chair crop, 381 80 600 383 
+worktop, 691 210 394 299 
+wall, 796 674 600 4 
+wall, 379 2 497 2 
+wall, 705 332 499 4 
+floor, 680 6 600 483 
+ladder crop, 641 538 596 563 
+mug, 427 391 353 310 

@@ -1,0 +1,11 @@
+person occluded, 253 4 199 6 
+person occluded, 238 167 182 18 
+person occluded, 264 222 157 47 
+mugs, 92 6 157 101 
+mug, 211 191 156 114 
+beer machine, 188 139 197 54 
+beer machine, 241 194 188 58 
+mug occluded, 162 147 154 116 
+bar, 264 21 204 152 
+cupboard, 47 0 204 136 
+wall, 264 2 199 0 

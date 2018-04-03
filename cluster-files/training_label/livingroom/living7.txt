@@ -1,0 +1,18 @@
+bowl, 79 35 192 163 
+lamp, 194 154 145 68 
+armchair, 108 36 195 129 
+armchair, 256 17 255 212 
+small table, 106 8 201 176 
+small table, 28 0 197 155 
+hanging rug, 136 27 97 0 
+sofa, 256 130 240 134 
+bouquet, 94 73 110 86 
+bouquet, 25 1 156 126 
+buffet, 121 47 166 108 
+windows, 255 215 138 23 
+pot, 160 125 156 132 
+pot, 39 8 168 130 
+pillow, 254 203 174 150 
+pillow, 93 59 160 141 
+blanket, 250 129 219 135 
+ottoman, 113 0 255 209 

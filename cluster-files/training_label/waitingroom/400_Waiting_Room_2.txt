@@ -1,0 +1,8 @@
+wall, 73 0 204 0 
+wall, 255 70 221 0 
+floor, 256 0 256 186 
+picture, 20 4 94 66 
+picture, 48 34 95 69 
+table, 70 2 218 149 
+sofa, 255 85 222 134 
+armchair crop, 255 175 255 209 

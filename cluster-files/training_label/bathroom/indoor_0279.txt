@@ -1,0 +1,19 @@
+mirror, 149 68 91 1 
+lamp, 187 167 45 10 
+washbasin, 148 54 227 160 
+pipe, 113 101 272 231 
+wc, 254 191 361 262 
+toilet seat cover, 254 197 263 194 
+cistern occluded, 264 178 266 194 
+glass, 141 129 140 123 
+faucet, 91 71 186 166 
+faucet, 128 117 184 168 
+faucet, 109 101 185 164 
+towel, 55 42 221 141 
+tin, 201 190 199 170 
+door, 53 2 449 1 
+curtain, 296 232 448 1 
+wall, 61 33 360 1 
+wall, 289 52 306 2 
+floor, 255 39 449 303 
+socket, 180 167 90 67 

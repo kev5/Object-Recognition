@@ -1,0 +1,18 @@
+ceiling lamp, 108 68 91 21 
+cabinet, 196 170 156 66 
+cabinet, 222 191 178 26 
+chair, 161 107 190 99 
+chair, 78 29 190 103 
+chair, 133 103 156 109 
+chair, 30 17 151 108 
+bouquet, 104 73 123 102 
+curtain, 117 1 160 59 
+curtain, 131 111 122 67 
+picture, 155 138 122 70 
+table, 140 40 180 121 
+beam, 255 220 253 1 
+china cabinet, 222 192 181 29 
+door frame, 193 164 163 52 
+window, 90 17 123 74 
+chair top, 73 54 124 110 
+ceiling, 222 1 63 1 

@@ -1,0 +1,25 @@
+ceiling, 796 2 118 2 
+lamp, 431 414 85 76 
+lamp, 134 115 64 47 
+lamp, 49 2 429 371 
+picture, 332 262 212 144 
+picture, 456 402 208 146 
+window, 217 132 303 124 
+window, 85 2 307 126 
+tv, 588 528 336 272 
+tv stand, 590 483 377 318 
+table occluded, 515 379 408 324 
+sofa, 398 179 456 299 
+armchair occluded, 134 2 416 307 
+table crop, 76 2 505 400 
+table crop, 767 487 532 377 
+chair occluded, 559 485 394 363 
+chair occluded, 786 645 526 365 
+chair crop, 796 664 530 466 
+chair crop, 614 450 532 421 
+wall, 483 2 410 85 
+wall, 586 485 371 103 
+wall, 796 581 513 12 
+vase, 645 616 414 344 
+flowers, 664 579 371 256 
+floor, 794 4 530 355 

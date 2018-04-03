@@ -1,0 +1,22 @@
+lamp, 75 0 140 57 
+lamp, 105 79 80 61 
+painting, 56 27 72 19 
+painting, 106 84 67 44 
+painting, 248 196 67 19 
+painting, 19 0 79 30 
+painting, 70 62 68 43 
+painting, 74 60 94 71 
+window, 153 115 97 25 
+rug, 255 163 255 148 
+armchair, 173 3 255 138 
+armchair, 163 93 156 86 
+small table, 113 59 169 117 
+small table, 84 60 116 105 
+fire place, 256 167 145 68 
+pillow, 135 114 127 109 
+chessboard, 102 62 136 119 
+curtain, 149 120 63 30 
+ceiling, 255 65 8 0 
+plant, 135 124 90 80 
+decoration, 241 206 68 54 
+pot, 165 143 143 113 

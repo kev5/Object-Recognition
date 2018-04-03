@@ -1,0 +1,27 @@
+window, 434 379 132 45 
+window, 210 168 145 42 
+ceiling, 470 61 35 1 
+stove crop, 67 2 309 163 
+cupboard crop, 71 2 101 1 
+screen occluded, 374 299 133 62 
+sofa occluded, 405 297 184 134 
+furniture crop, 510 434 355 48 
+spice rack, 96 70 157 114 
+utensil, 68 43 154 109 
+window occluded, 120 65 129 26 
+photograph, 118 102 127 107 
+cupboard, 103 56 278 164 
+cupboard, 163 100 263 163 
+cupboard, 210 156 271 164 
+dishwasher, 275 208 288 168 
+rug, 410 265 339 266 
+rug, 144 3 352 277 
+worktop, 334 25 173 145 
+lamp, 276 255 148 98 
+cross, 154 138 84 57 
+wall, 331 2 262 1 
+wall, 467 324 186 23 
+wall, 512 452 354 1 
+carpet, 447 329 233 175 
+floor, 456 2 354 175 
+wall lamp, 289 273 87 62 

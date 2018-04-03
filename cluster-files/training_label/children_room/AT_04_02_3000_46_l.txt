@@ -1,0 +1,31 @@
+ceiling, 495 317 117 56 
+ceiling, 432 192 97 1 
+fan, 347 248 84 44 
+mural, 318 89 256 171 
+door, 83 75 286 177 
+cuddly toy crop, 179 2 457 41 
+cuddly toy crop, 335 174 458 380 
+cuddly toy crop, 504 371 458 386 
+chair, 188 154 306 253 
+chair, 240 203 302 246 
+chair, 292 253 299 244 
+chair, 585 509 348 251 
+toy, 477 420 317 262 
+table, 431 366 286 238 
+window occluded, 526 482 243 119 
+awning, 519 468 157 120 
+shelves, 527 440 283 121 
+shelf, 689 541 349 233 
+chair crop, 689 612 401 266 
+car toy occluded, 308 224 367 303 
+car toy occluded, 631 556 330 269 
+car toy, 268 108 400 315 
+wall, 689 269 349 1 
+wall, 498 315 269 107 
+wall, 319 87 171 89 
+wall, 264 2 452 1 
+floor, 689 2 458 245 
+lamp, 297 291 118 110 
+lamp, 434 427 111 107 
+trunk, 237 190 255 212 
+trunk, 136 99 273 233 

@@ -1,0 +1,12 @@
+bed, 226 6 511 291 
+Chair, 370 263 412 231 
+Fan, 150 103 247 191 
+mirror, 100 31 254 127 
+window, 384 210 247 94 
+Bed skirt, 231 22 511 373 
+filing drawer, 259 217 355 271 
+computer keyboard, 326 286 289 277 
+ceiling, 381 4 84 3 
+waste paper basket, 293 269 359 341 
+chest-of-drawers, 159 4 315 240 
+computer screen, 381 360 267 236 

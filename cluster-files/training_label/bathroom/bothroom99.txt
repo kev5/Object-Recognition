@@ -1,0 +1,38 @@
+roll of toilet paper, 604 570 411 366 
+shaving brush, 786 768 390 345 
+laundry basket *basket, 1022 900 763 540 
+shelf, 722 555 720 78 
+mirror, 1001 818 356 1 
+faucet, 893 809 401 246 
+jar, 913 868 411 385 
+jar, 643 598 554 475 
+soap dispenser, 835 797 396 305 
+sculpture, 415 335 97 9 
+sculpture, 336 242 96 66 
+sculpture, 678 595 675 568 
+jar of cotton balls, 311 258 200 132 
+decorative bowl, 701 593 200 143 
+brush, 408 340 204 185 
+brush, 661 604 320 303 
+wood bowl, 412 241 309 277 
+glass jar, 664 619 313 265 
+jar soap, 691 664 320 249 
+book, 384 249 403 383 
+tray, 296 124 464 419 
+window, 137 2 478 1 
+pedastal sink, 933 671 769 383 
+bottle, 689 650 554 464 
+bottle, 192 155 440 357 
+bottle, 159 136 435 372 
+qtip canister, 661 617 436 345 
+perfume bottle, 659 615 560 508 
+canister, 514 455 663 466 
+towels, 310 113 561 466 
+wall, 1024 2 768 1 
+floor, 874 90 769 638 
+toilet, 453 220 707 391 
+storage rack, 454 195 672 39 
+sponges, 306 169 742 622 
+basket, 323 132 747 595 
+bathtub, 172 2 769 566 
+storage cart, 343 75 767 439 

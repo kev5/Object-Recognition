@@ -1,0 +1,20 @@
+tub, 85 1 246 138 
+sink, 191 110 209 151 
+sink, 198 107 212 148 
+mirror, 111 73 137 3 
+mirror, 255 140 143 0 
+mirror, 256 137 150 0 
+door, 255 189 147 17 
+drawers, 248 99 255 152 
+shower faucets, 26 4 120 17 
+cabinet, 222 100 256 177 
+counter, 255 100 256 145 
+window, 103 71 137 3 
+window shutter, 122 101 112 0 
+shower faucet, 27 2 118 9 
+sink faucet, 181 155 169 148 
+floor, 115 0 255 238 
+ceiling, 98 0 14 0 
+jar, 120 110 120 111 
+jar, 108 102 123 113 
+bottle, 99 95 124 106 

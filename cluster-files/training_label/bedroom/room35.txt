@@ -1,0 +1,19 @@
+grtgr, 152 54 181 94 
+bed, 255 19 254 132 
+basket, 151 113 89 70 
+picture, 255 228 131 106 
+pillow, 231 188 173 142 
+pillow, 196 157 169 139 
+pillow, 159 137 164 144 
+pillow, 202 184 148 137 
+pillow, 235 212 155 136 
+mirror, 24 0 131 43 
+mirror, 256 158 133 97 
+dresser, 58 0 215 133 
+cabinet, 152 102 143 91 
+night stand dresser, 141 83 175 140 
+plant, 224 169 107 62 
+plant tree, 100 37 180 66 
+cup, 118 112 145 140 
+tea pot, 130 117 144 131 
+ceiling, 255 1 51 1 

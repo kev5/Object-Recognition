@@ -1,0 +1,76 @@
+apron, 536 361 786 567 
+dishtowel, 429 304 540 486 
+window, 462 345 421 240 
+jar of cooking utensils, 1128 1031 470 369 
+dish rack, 649 517 463 366 
+drawers, 912 527 756 568 
+sandwiches, 715 578 580 540 
+plates, 854 795 85 28 
+plates, 639 571 412 353 
+plant, 748 648 101 53 
+plant, 1198 1071 53 1 
+plant, 188 2 110 1 
+soap, 524 505 463 399 
+floor *X, 1200 879 898 729 
+floor *X, 340 1 898 812 
+jar, 879 846 445 395 
+jar, 233 193 504 454 
+jar, 191 164 509 461 
+jar, 59 10 533 463 
+jar, 109 65 524 459 
+bowl, 597 570 431 404 
+bowl, 719 674 431 390 
+bowl, 491 458 465 445 
+bowl, 83 43 267 228 
+faucet, 457 384 469 389 
+vase, 315 272 61 10 
+vase, 653 610 97 59 
+vase, 56 21 163 89 
+pickles, 644 603 588 559 
+knives, 674 630 586 563 
+plate of food, 821 726 555 526 
+chips, 771 739 549 532 
+sandwich, 814 776 546 528 
+mixer, 725 667 434 354 
+sailboat, 894 844 83 7 
+cups, 82 22 370 302 
+cups, 632 578 459 427 
+microwave, 1030 846 318 206 
+mustard, 551 514 594 565 
+mayonnaise, 565 535 591 540 
+wisk, 1101 1072 400 352 
+glasses, 578 525 421 375 
+flowers, 405 274 494 324 
+ceiling, 807 566 23 1 
+painting, 1042 899 78 1 
+painting, 286 167 62 1 
+pitcher, 1058 1001 64 26 
+pitcher, 630 576 95 60 
+pitcher, 88 22 163 105 
+pitcher, 318 240 514 452 
+pot, 800 744 95 60 
+plate, 576 516 89 31 
+plate, 552 513 90 57 
+plate, 99 2 508 415 
+roman shade, 507 340 239 100 
+shudder, 522 463 435 278 
+cabinets, 359 9 378 47 
+cabinets, 1199 485 346 46 
+cabinets, 1200 992 767 495 
+cabinets, 336 2 899 550 
+cabinets, 916 339 900 561 
+stove, 1056 801 756 368 
+pepper mill, 961 945 462 420 
+tray, 875 778 413 351 
+basket of towels, 845 725 446 380 
+toaster, 1199 1104 476 419 
+cutting board, 739 565 601 552 
+bottle, 704 669 541 433 
+glass, 739 707 544 501 
+counter top, 1200 991 503 467 
+counter top, 867 2 578 426 
+counter top, 920 317 678 513 
+dishwasher, 410 226 820 524 
+twizlers in a cup, 62 23 265 193 
+sink, 571 367 497 458 
+books, 166 90 523 417 

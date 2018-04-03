@@ -1,0 +1,16 @@
+mirror, 212 136 201 55 
+spotlight, 165 144 75 53 
+spotlight, 190 171 75 55 
+spotlight, 217 199 77 60 
+cistern occluded, 83 2 386 310 
+wc, 94 2 511 396 
+toilet seat cover, 73 2 406 314 
+washbasin, 233 140 314 281 
+closet, 274 115 471 276 
+toilet paper, 143 117 354 322 
+door, 337 289 512 17 
+wall, 338 214 510 2 
+wall, 226 2 440 1 
+floor, 334 2 512 408 
+socket, 247 234 242 217 
+faucet, 190 164 289 268 

@@ -1,0 +1,16 @@
+lamp, 138 95 193 79 
+bed, 255 122 242 112 
+painting, 86 49 92 53 
+painting, 30 0 99 40 
+pillow, 226 175 140 119 
+window, 203 160 131 34 
+window, 247 214 133 33 
+curtain, 246 214 89 38 
+curtain, 199 163 89 37 
+small table, 111 82 190 161 
+chair, 112 30 254 153 
+bouquet, 98 80 167 143 
+magazine, 75 0 213 173 
+magazine, 30 3 167 159 
+desk, 79 1 196 153 
+ceiling, 255 52 26 0 

@@ -1,0 +1,24 @@
+curtain, 200 62 87 45 
+cabinet, 64 0 102 43 
+cabinet, 178 122 205 139 
+counter, 135 0 172 142 
+counter, 254 0 155 127 
+cabinets, 256 206 243 147 
+cabinets, 255 202 102 24 
+cabinets, 137 1 255 162 
+plate, 36 17 131 111 
+plate, 43 34 130 112 
+plate, 255 233 136 111 
+plant, 14 0 132 104 
+plant, 247 206 34 18 
+plants, 94 57 131 110 
+dishwasher, 207 176 223 141 
+sink, 155 103 135 126 
+windows, 201 71 125 82 
+sink faucet, 142 114 131 121 
+stove, 85 0 154 144 
+bowl, 241 224 140 120 
+pot, 161 154 127 120 
+jar, 41 29 44 39 
+ceiling, 255 0 31 0 
+floor, 255 136 254 202 

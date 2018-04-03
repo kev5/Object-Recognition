@@ -1,0 +1,45 @@
+ceiling lamp, 101 45 56 0 
+ceiling lamp, 49 11 55 0 
+mug, 130 113 209 197 
+mug, 64 46 212 197 
+plate, 136 101 223 209 
+plate, 37 1 214 201 
+plate, 53 27 23 9 
+chair, 203 135 255 200 
+counter, 168 0 200 150 
+counter, 255 98 160 119 
+counter, 192 6 243 204 
+counter, 54 0 137 125 
+vegetables, 127 73 184 152 
+plant, 31 6 150 100 
+plant, 255 230 41 0 
+plant, 209 161 38 16 
+plant, 97 45 31 8 
+plant, 164 149 108 100 
+plant, 166 149 123 64 
+plant, 154 146 123 110 
+plant, 150 135 124 86 
+plant, 183 170 113 95 
+plant, 209 193 117 105 
+window, 218 162 118 44 
+basket, 126 98 34 5 
+basket, 17 0 28 8 
+cabinet, 240 200 96 28 
+cabinet, 159 97 89 36 
+cabinet, 56 0 69 29 
+napkin, 55 3 228 213 
+napkin, 165 132 221 207 
+sink, 196 165 137 127 
+sink, 202 141 138 124 
+fork, 102 85 232 218 
+microwave, 52 0 106 71 
+pot, 82 52 152 123 
+cabinets, 130 61 163 56 
+cabinets, 254 130 246 132 
+pitcher, 44 28 30 17 
+pitcher, 150 136 34 26 
+cup, 216 206 140 130 
+stove, 82 20 168 146 
+trays, 36 0 208 192 
+sink faucet, 188 169 129 116 
+coffee maker, 244 222 139 118 

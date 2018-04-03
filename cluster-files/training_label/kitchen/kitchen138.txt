@@ -1,0 +1,90 @@
+towel, 550 446 605 548 
+faucet, 305 211 551 426 
+faucet, 531 483 424 366 
+pot, 165 83 165 125 
+pot, 76 8 168 135 
+pot, 109 34 255 203 
+candlestick, 872 839 275 154 
+candlestick, 896 866 281 148 
+candlestick, 918 881 278 154 
+old-fashioned coffee grinder, 705 674 432 391 
+ceiling, 872 2 90 1 
+window, 590 442 389 138 
+cabinets, 1122 577 430 1 
+cabinets, 1200 850 867 1 
+cabinets, 734 440 575 436 
+flower decoration, 915 750 165 35 
+wall, 1121 1013 78 1 
+wall, 594 441 426 385 
+wall, 769 2 166 52 
+wall, 1118 710 495 320 
+oven, 1200 1134 619 348 
+dishes, 763 744 228 211 
+dishes, 704 687 231 210 
+dishes, 705 671 320 291 
+plate, 761 724 226 175 
+plate, 1108 1074 203 123 
+plate, 1038 1014 263 216 
+plate, 1109 1074 270 213 
+plate, 1101 1073 336 289 
+plate, 1037 994 323 292 
+plate, 741 723 322 287 
+plate, 739 709 426 360 
+plate, 1116 1060 491 418 
+plate, 163 87 255 189 
+plate, 58 2 253 186 
+glasses, 764 725 276 241 
+glasses, 704 686 276 243 
+bowl, 1026 994 210 179 
+bowl, 160 128 254 229 
+bowl, 33 4 253 227 
+bowl, 139 91 323 300 
+goblet, 1038 1028 207 171 
+goblet, 1118 1092 201 166 
+tea cup and saucer, 1038 994 272 253 
+tea cup, 1119 1103 269 250 
+stack of plates, 1118 1101 338 323 
+stack of plates, 1036 991 336 324 
+bottle, 607 579 425 362 
+bottle, 1000 980 480 422 
+bottle, 1017 998 469 399 
+bottle, 1049 1023 466 403 
+bottle, 1068 1034 495 443 
+sink, 586 440 441 424 
+nozzle, 458 444 427 399 
+handle, 523 499 424 405 
+handle, 475 462 426 405 
+cabinet, 457 196 487 99 
+refrigerator, 439 245 523 183 
+jar, 769 723 421 364 
+jar, 987 963 484 456 
+jar, 1035 1001 491 450 
+jar, 32 3 377 337 
+counter top, 1128 845 543 474 
+counter top, 804 568 463 417 
+counter top, 952 44 697 484 
+utencils in canister, 834 792 447 378 
+cooking pot, 871 805 465 397 
+stove, 980 736 583 390 
+potted flowers, 588 517 425 347 
+floor, 1199 931 900 749 
+floor, 141 2 899 629 
+hutch, 220 2 605 158 
+island base, 942 46 900 523 
+loaf of bread, 698 603 609 562 
+loaf of bread, 616 548 599 544 
+cutting board, 699 535 627 585 
+knife, 777 696 611 590 
+onions, 323 223 611 564 
+bowl of vegitables, 475 295 603 497 
+dish, 35 3 322 298 
+dish, 57 33 322 297 
+pitcher, 80 36 323 272 
+pitcher, 91 65 323 294 
+pitcher, 175 140 321 286 
+pitcher, 176 123 373 334 
+cup, 128 113 377 357 
+cup, 110 93 376 357 
+cup, 70 51 377 357 
+cup, 48 28 377 358 
+canister, 103 62 376 330 

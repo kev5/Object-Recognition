@@ -1,0 +1,14 @@
+window, 158 114 106 20 
+window, 260 206 111 18 
+window, 296 272 108 13 
+tv, 296 248 143 104 
+ceiling, 296 66 18 1 
+sofa, 135 2 225 103 
+table occluded, 135 114 123 113 
+furniture, 185 136 202 133 
+table, 298 242 222 132 
+swivel chair, 269 208 225 138 
+wall, 284 99 145 13 
+wall, 299 265 210 1 
+wall, 101 2 224 1 
+floor, 299 3 225 135 

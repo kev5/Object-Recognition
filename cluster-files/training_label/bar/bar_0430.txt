@@ -1,0 +1,7 @@
+ceiling, 199 0 22 0 
+column, 191 155 110 0 
+person occluded, 180 19 255 37 
+bar, 200 0 299 219 
+mug occluded, 43 18 198 161 
+beer machine, 30 3 225 122 
+wall, 200 0 261 21 

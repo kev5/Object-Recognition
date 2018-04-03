@@ -1,0 +1,28 @@
+ceiling lamp, 164 147 26 17 
+ceiling lamp, 66 48 37 28 
+ceiling lamp, 121 109 47 39 
+microwave, 79 10 134 99 
+kettle, 41 22 175 159 
+fruit bowl, 143 120 173 154 
+decorative plate, 201 181 151 127 
+bouquet, 256 194 186 112 
+sink, 214 126 193 172 
+sink faucet, 187 162 180 162 
+plate, 159 140 169 147 
+pitcher, 103 85 172 151 
+stove, 88 8 189 149 
+oven, 90 17 255 181 
+counter, 53 1 256 174 
+counter, 255 70 224 164 
+cutting board, 254 201 210 188 
+vegetables, 250 210 201 186 
+cabinets, 204 0 136 16 
+plates, 198 150 102 77 
+vase, 237 221 99 86 
+vase, 236 220 44 24 
+doll, 254 221 86 50 
+shelves, 255 205 101 16 
+dish towel, 195 163 216 188 
+dishwasher, 244 174 256 208 
+ceiling, 256 1 47 0 
+floor, 134 84 254 242 

@@ -1,0 +1,19 @@
+swivel chair, 458 365 289 179 
+sofa, 680 274 530 216 
+chair occluded, 796 666 528 293 
+chair occluded, 767 722 328 250 
+table crop, 796 697 532 272 
+table, 353 122 357 229 
+tv, 287 188 260 161 
+vcr, 258 151 293 256 
+shelves, 111 2 400 208 
+carpet, 340 177 425 342 
+books, 68 2 522 441 
+funiture crop, 122 2 532 400 
+floor lamp, 239 4 167 97 
+loudspeaker, 146 117 214 190 
+loudspeaker, 313 285 184 163 
+large window, 796 445 258 2 
+wall, 421 2 371 2 
+wall, 794 417 346 2 
+floor, 794 2 532 256 

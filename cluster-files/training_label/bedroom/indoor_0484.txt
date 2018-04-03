@@ -1,0 +1,11 @@
+bed crop, 695 102 467 95 
+pillow occluded, 217 124 304 248 
+cushion, 348 167 309 214 
+cushion, 423 289 280 202 
+night table, 136 3 462 240 
+night table occluded, 447 369 255 192 
+lamp, 76 19 257 139 
+lamp, 421 391 199 124 
+wall, 440 2 420 3 
+closet, 697 443 314 3 
+floor, 697 3 467 277 

@@ -1,0 +1,15 @@
+mirror, 315 222 248 77 
+lamp, 264 243 89 40 
+ceiling, 316 2 43 1 
+bath occluded, 82 3 450 341 
+screen, 79 2 388 87 
+wc, 149 66 471 367 
+toilet seat cover, 152 96 374 295 
+cistern occluded, 183 91 377 297 
+litter bin, 173 144 455 386 
+washbasin, 300 220 342 301 
+closet, 298 169 509 296 
+faucet, 286 274 309 283 
+wall, 316 2 458 7 
+wall, 316 286 511 57 
+floor, 287 2 512 357 

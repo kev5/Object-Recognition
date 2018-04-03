@@ -1,0 +1,11 @@
+tile floor, 1536 243 2046 1593 
+toilet, 951 422 1928 1036 
+roll of toilet paper, 632 467 1083 932 
+towels, 932 389 385 109 
+toilet paper dispenser, 1168 979 1140 1033 
+shower curtain, 446 17 1958 14 
+countertop crop, 1533 1194 1513 974 
+towel, 878 575 751 431 
+wall, 1533 287 1641 12 
+cistern, 934 435 1417 1046 
+wc, 878 487 1928 1421 

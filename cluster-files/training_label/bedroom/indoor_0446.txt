@@ -1,0 +1,16 @@
+mirror, 201 162 254 113 
+window, 289 237 238 105 
+window occluded, 120 93 232 104 
+rug, 284 148 422 322 
+ceiling, 290 56 44 1 
+bed occluded, 286 208 371 235 
+basket, 220 172 321 292 
+tv, 101 65 229 90 
+furniture, 124 72 454 227 
+door, 94 2 512 1 
+handle, 91 74 300 287 
+wall, 35 2 512 194 
+wall, 338 281 512 2 
+wall, 288 58 326 4 
+hinge, 32 15 340 304 
+floor, 284 39 512 286 

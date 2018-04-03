@@ -1,0 +1,24 @@
+armchair, 70 16 230 161 
+armchair, 117 85 197 151 
+armchair, 205 75 255 196 
+painting, 137 101 158 98 
+ceiling lamp, 159 62 60 22 
+ceiling lamp, 167 102 80 64 
+ceiling lamp, 54 1 14 0 
+lamp, 255 209 222 149 
+plant, 219 168 158 96 
+plant, 21 0 218 156 
+bookshelves, 74 5 208 102 
+sofa, 248 129 200 158 
+small table, 255 203 250 209 
+small table, 135 90 206 189 
+magazine, 126 102 201 194 
+television, 44 29 163 144 
+books, 53 28 127 112 
+books, 73 56 128 116 
+books, 218 206 226 212 
+phone, 216 194 213 195 
+pillow, 157 140 175 159 
+pillow, 223 194 195 179 
+window, 247 241 151 79 
+ceiling, 255 0 93 1 

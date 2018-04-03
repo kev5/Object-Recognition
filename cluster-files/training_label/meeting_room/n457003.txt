@@ -1,0 +1,37 @@
+conference table, 211 53 160 92 
+painting, 235 199 98 42 
+chair, 208 120 254 161 
+chair, 246 202 217 122 
+chair, 101 22 252 137 
+chair, 62 20 151 120 
+chair top, 216 190 138 113 
+chair top, 60 23 131 112 
+chair top, 194 169 123 105 
+chair top, 174 152 118 99 
+chair top, 157 144 112 94 
+chair top, 144 132 105 91 
+chair top, 131 119 100 88 
+chair top, 90 71 94 86 
+chair top, 52 39 101 91 
+chair top, 53 32 107 95 
+chair top, 55 29 113 99 
+chair top, 56 25 121 104 
+plant, 28 0 122 47 
+cabinet, 182 151 92 46 
+cabinet, 255 153 161 90 
+counter, 255 170 115 91 
+ceiling, 255 0 36 0 
+bouquet, 114 91 111 90 
+door, 91 68 93 42 
+door, 67 49 93 45 
+door, 110 93 91 42 
+ceiling lamp, 220 212 11 2 
+ceiling lamp, 196 189 17 8 
+ceiling lamp, 129 120 9 4 
+ceiling lamp, 119 113 13 10 
+ceiling lamp, 83 75 7 3 
+place mat, 186 130 159 144 
+place mat, 105 70 150 134 
+place mat, 203 168 138 128 
+place mat, 92 65 131 122 
+place mat, 84 62 119 112 

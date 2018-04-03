@@ -1,0 +1,20 @@
+painting, 163 110 79 40 
+lamp, 65 43 120 46 
+lamp, 255 232 124 66 
+book, 107 78 155 143 
+table, 164 41 222 138 
+pillow, 102 69 127 105 
+pillow, 193 155 139 112 
+pillow, 255 237 159 136 
+sofa, 205 50 176 100 
+sofa, 255 209 253 134 
+rug, 210 0 255 161 
+small table, 250 213 135 125 
+circle, 28 13 76 62 
+radio, 244 216 128 82 
+phone, 255 240 133 123 
+ceiling, 252 1 17 0 
+decorative plate, 29 11 77 60 
+vase, 29 14 99 81 
+decoration, 141 108 163 147 
+display case, 50 0 146 43 

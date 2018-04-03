@@ -1,0 +1,23 @@
+chair top, 159 142 148 135 
+chair top, 195 167 150 134 
+chair top, 236 199 157 136 
+chair top, 104 77 147 132 
+chair, 255 176 253 148 
+chair, 179 79 254 143 
+chair, 98 59 232 140 
+chair, 73 44 213 137 
+ceiling, 255 0 57 2 
+ceiling lamp, 174 103 88 5 
+door frame, 191 176 136 86 
+painting, 254 224 135 91 
+side table, 82 37 180 139 
+candle, 46 40 133 111 
+candle, 51 46 135 111 
+candle, 57 50 136 104 
+candle, 66 59 139 104 
+candle, 74 69 139 106 
+bouquet, 169 105 155 94 
+table, 234 68 178 142 
+plant, 23 2 185 97 
+curtain, 99 10 170 27 
+windows, 129 15 157 30 

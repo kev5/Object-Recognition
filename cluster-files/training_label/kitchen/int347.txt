@@ -1,0 +1,29 @@
+cabinet, 53 0 97 0 
+counter, 197 1 169 145 
+counter, 256 189 160 149 
+cabinets, 254 0 254 154 
+cabinets, 200 119 108 17 
+window, 107 57 136 18 
+bottle, 12 1 156 130 
+cup, 157 149 149 143 
+cup, 173 165 149 143 
+cup, 193 183 148 139 
+towels, 179 163 175 155 
+pitcher, 35 11 154 131 
+vase, 198 189 125 114 
+glass, 183 174 124 117 
+glass, 167 160 124 120 
+hood, 256 190 85 16 
+hanging utensils, 253 222 145 111 
+dishwasher, 185 144 216 155 
+shelf, 199 127 129 122 
+sink, 105 50 156 147 
+sink faucet, 90 77 151 126 
+ceiling, 255 72 20 0 
+pot, 170 156 148 139 
+pot, 63 51 64 49 
+pot, 66 51 30 8 
+jar, 137 126 145 130 
+bowl, 183 171 80 73 
+kettle, 247 231 154 134 
+stove, 254 197 157 150 

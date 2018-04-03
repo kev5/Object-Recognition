@@ -1,0 +1,11 @@
+lamp, 127 92 108 49 
+pillow, 77 29 136 101 
+pillow, 181 143 133 110 
+pillow, 158 124 128 103 
+sofa, 254 103 204 85 
+armchair, 101 0 193 86 
+rug, 255 6 255 182 
+window, 81 0 105 0 
+painting, 255 175 69 12 
+small table, 126 70 139 102 
+ottoman, 144 28 234 145 

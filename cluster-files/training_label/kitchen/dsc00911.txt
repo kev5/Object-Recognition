@@ -1,0 +1,12 @@
+door, 406 240 422 14 
+stove, 204 3 478 388 
+microwave, 575 521 289 178 
+refrigerator, 502 418 478 93 
+stove hood, 192 2 110 55 
+faucet, 138 87 268 224 
+sink, 183 98 311 280 
+glass, 143 116 354 321 
+window, 106 3 220 1 
+lightswitch, 221 204 228 203 
+handle and lock, 277 245 248 217 
+shelf, 581 516 161 141 

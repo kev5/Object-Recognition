@@ -1,0 +1,111 @@
+candle, 211 184 305 172 
+candle, 167 134 307 158 
+candle, 121 88 302 149 
+soup and salad dish, 972 837 800 735 
+soup and salad dish, 1073 987 646 622 
+soup and salad dish, 673 566 730 688 
+soup and salad dish, 690 547 822 762 
+decorative plate, 489 331 319 187 
+decorative plate, 1154 1081 318 241 
+decorative plate, 1329 1291 374 328 
+decorative plate, 1288 1248 440 404 
+decorative plate, 1326 1294 441 404 
+vase, 1302 1266 306 233 
+vase, 1054 1031 378 331 
+vase, 1162 1138 376 345 
+plant in pot, 1246 1156 311 247 
+plant in pot, 1119 1070 376 344 
+decorative bowl, 1227 1174 375 343 
+decorative bowl, 1277 1245 375 357 
+treasure box, 1076 1022 437 413 
+plate, 1109 1083 439 411 
+bowl, 1143 1113 439 429 
+bowl, 1239 1198 441 425 
+plate on stand, 1191 1147 441 394 
+tea pot, 1324 1283 551 503 
+flower in vase, 1290 1194 553 405 
+decorative dish, 1226 1117 543 519 
+candle stick in holder, 1054 1038 534 472 
+candle stick in holder, 1073 1058 534 454 
+candle stick in holder, 1078 1071 534 472 
+candle stick holder, 1099 1082 539 457 
+flowers, 822 765 553 463 
+chair back, 793 688 652 553 
+chair back, 603 425 739 579 
+potted flowers, 933 766 718 538 
+chair, 1197 974 654 534 
+chair, 703 148 1200 759 
+chair, 1218 789 1200 690 
+chair, 1325 1014 1103 620 
+chair, 1590 1512 595 488 
+wine glass, 1067 1035 664 607 
+wine glass, 975 946 623 588 
+wine glass, 888 848 738 666 
+wine glass, 752 705 800 698 
+wine glass, 656 616 740 663 
+fork, 1097 1070 657 645 
+fork, 1077 1005 717 693 
+fork, 898 816 820 782 
+fork, 698 651 709 687 
+fork, 595 523 795 757 
+napkin, 1117 1056 665 640 
+napkin, 1100 986 726 691 
+napkin, 931 798 833 775 
+napkin, 695 651 717 684 
+napkin, 599 485 809 754 
+slice of bread, 1033 1011 657 646 
+slice of bread, 993 972 688 677 
+slice of bread, 801 777 773 757 
+slice of bread, 656 626 761 750 
+bread plate, 1044 1006 662 648 
+bread plate, 1007 959 698 675 
+bread plate, 819 757 782 752 
+bread plate, 667 608 764 742 
+soupl and salad dish, 1127 1021 702 665 
+serving dish, 1003 917 682 610 
+knife, 988 910 771 730 
+knife, 601 538 745 721 
+butter knife, 799 753 768 748 
+butter knife, 684 628 760 739 
+servering dish, 817 694 761 609 
+spoon, 575 527 743 728 
+spoon, 722 651 848 804 
+spoon, 797 775 818 784 
+KNIFE, 706 630 849 809 
+gravy boat, 821 714 864 784 
+chair bottom, 618 451 952 837 
+mantle, 754 2 924 290 
+shovel, 136 61 933 498 
+poker, 90 59 855 661 
+log, 380 234 745 670 
+iron, 427 105 762 495 
+stand, 438 147 808 598 
+brick wall and floor, 597 34 1038 444 
+drawer, 1404 1244 634 569 
+drawer, 1402 1242 692 626 
+drawer handle, 1334 1312 609 593 
+drawer handle, 1337 1319 665 647 
+drawer handle, 1406 1240 757 679 
+drawer handle, 1339 1313 725 708 
+doorknob, 881 866 521 506 
+door, 973 865 617 310 
+area rug, 1455 2 1200 754 
+books on shelf, 1572 1509 351 326 
+books on shelf, 1537 1508 388 355 
+books on shelf, 1568 1508 431 392 
+books on shelf, 1566 1508 475 437 
+books on shelf, 1591 1580 350 316 
+books on shelf, 1591 1578 433 393 
+books on shelf, 1592 1577 477 438 
+pitcher, 1567 1537 389 360 
+book, 1590 1578 388 352 
+chandelier, 1033 655 333 1 
+flame, 345 185 737 550 
+dining table, 1214 357 1197 607 
+cove, 1326 1018 560 188 
+ceiling, 1587 88 175 1 
+ceiling, 981 757 292 219 
+wall, 755 2 616 2 
+wall, 1586 979 778 84 
+hinge, 1485 1475 578 554 
+floor, 1591 1205 1200 568 

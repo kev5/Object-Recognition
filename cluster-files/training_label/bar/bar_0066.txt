@@ -1,0 +1,10 @@
+ceiling, 182 0 21 0 
+tv, 63 6 74 22 
+cash register, 226 168 138 113 
+bar, 255 0 237 142 
+billboard, 69 54 121 97 
+chair, 33 2 245 156 
+chair, 90 42 237 154 
+chair, 130 80 248 158 
+chair, 177 125 256 163 
+chair, 235 181 256 170 

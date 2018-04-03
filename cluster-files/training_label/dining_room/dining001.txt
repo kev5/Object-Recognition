@@ -1,0 +1,14 @@
+painting, 170 118 104 25 
+window, 63 16 119 8 
+window, 255 222 120 7 
+curtain, 15 0 147 0 
+curtain, 99 62 120 0 
+curtain, 222 188 107 1 
+armchair, 255 187 254 131 
+armchair, 94 2 254 130 
+chair, 184 85 256 127 
+table, 212 65 161 136 
+bouquet, 207 85 147 103 
+candle, 224 209 133 89 
+candle, 82 67 148 87 
+ceiling lamp, 204 91 55 0 

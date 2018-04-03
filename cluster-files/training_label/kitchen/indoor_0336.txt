@@ -1,0 +1,22 @@
+picture, 306 240 83 2 
+cupboards, 510 389 53 1 
+fridge occluded, 398 375 246 6 
+cupboard, 425 389 199 97 
+stove, 483 416 201 86 
+cupboard occluded, 510 475 213 101 
+furniture crop, 510 487 364 112 
+mirror, 159 99 94 9 
+console table occluded, 178 119 198 116 
+table, 313 163 303 145 
+chair occluded, 234 138 273 147 
+chair, 365 271 304 147 
+wall, 510 388 199 4 
+wall, 383 179 273 1 
+wall, 181 2 242 1 
+carpet, 193 63 240 178 
+carpet, 406 117 364 232 
+table occluded, 186 2 364 217 
+sofa crop, 159 2 365 332 
+lamp crop, 98 2 318 1 
+floor, 508 2 364 179 
+lamp, 291 239 158 88 

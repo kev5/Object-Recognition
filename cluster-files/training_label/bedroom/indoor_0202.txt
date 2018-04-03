@@ -1,0 +1,12 @@
+window, 171 87 87 1 
+window, 249 191 102 1 
+bed crop, 177 2 225 147 
+shelves, 285 211 181 74 
+shelf, 252 225 131 114 
+shelf, 249 223 150 132 
+wall, 183 2 125 1 
+wall, 299 188 191 1 
+column, 197 173 120 1 
+skirting board, 171 2 127 106 
+floor, 299 2 224 118 
+socket, 42 36 104 97 

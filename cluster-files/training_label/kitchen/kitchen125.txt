@@ -1,0 +1,81 @@
+pepergrinder, 602 566 584 501 
+bowl of vegetables, 651 432 677 572 
+coffee mug, 630 538 878 764 
+stove top, 1340 633 929 595 
+kettle, 1075 892 774 569 
+dual oven, 866 780 562 244 
+microwave, 731 627 293 197 
+cookbooks, 748 734 290 222 
+dish towel, 490 331 925 763 
+dish towel, 762 712 431 402 
+wine refrigerator, 385 172 716 502 
+chair, 1272 1110 664 459 
+chair, 1336 1194 621 420 
+chair, 1068 951 618 422 
+wine glass, 1142 1120 453 404 
+wine glass, 1075 1054 417 395 
+bottle of wine, 182 150 473 384 
+cheese, 140 98 498 473 
+cheese, 600 548 1024 968 
+cheese, 272 237 844 816 
+drawer, 777 624 490 431 
+cabinet, 322 1 329 2 
+cabinet, 779 624 579 469 
+cabinet, 752 628 178 55 
+cabinet, 873 785 239 61 
+cabinet, 1401 1328 350 30 
+glass, 78 53 294 219 
+glass, 26 5 294 217 
+porcelain fish, 706 626 409 333 
+porcelain fish, 101 22 84 21 
+refrigerator, 621 395 625 67 
+serving spoon, 1345 1135 873 819 
+window, 1341 1047 424 187 
+vase of roses, 1192 1081 433 322 
+plate, 390 205 861 763 
+plate, 756 420 1049 883 
+grapes, 671 580 994 907 
+grapes, 350 263 816 771 
+piece of bread, 576 516 982 896 
+piece of bread, 706 638 1049 964 
+flowers, 1315 1198 413 328 
+plates, 71 1 183 119 
+ceiling light, 717 675 21 7 
+ceiling light, 869 835 51 43 
+ceiling light, 1074 1025 24 11 
+ceiling light, 1014 980 107 95 
+ceiling light, 1184 1153 87 80 
+ceiling light, 1242 1218 108 100 
+ceiling light, 1088 1061 119 110 
+potted plant, 1082 989 406 215 
+countertop, 1396 23 1050 569 
+pot, 979 734 636 573 
+brocolii, 595 460 649 588 
+potoatos, 635 507 644 581 
+bowl of bread, 660 623 434 392 
+wine glasses, 286 194 480 389 
+bowl, 47 6 515 468 
+table, 1287 994 640 414 
+spoon holder *X, 1253 1058 873 811 
+cheese knife, 161 81 526 492 
+tray, 294 128 493 454 
+dishes, 1073 988 448 419 
+dishes, 1224 1119 469 432 
+dishes, 1120 1070 438 408 
+dishes, 1286 1190 457 426 
+mug and saucer, 1119 1078 458 430 
+back of chair, 1094 1006 423 393 
+counter top, 1401 1329 603 512 
+cabinets, 1401 1328 773 589 
+cabinets, 169 2 930 541 
+door, 1395 1347 535 185 
+ceiling, 1401 582 132 2 
+wall, 1365 866 537 98 
+wall, 649 4 485 2 
+wall, 885 623 416 24 
+floor, 1352 865 753 493 
+cook book, 93 2 490 392 
+stool, 215 8 1050 872 
+knife, 98 47 521 489 
+knife, 396 219 787 769 
+knife, 672 461 904 883 

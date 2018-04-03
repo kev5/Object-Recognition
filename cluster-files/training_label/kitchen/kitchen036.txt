@@ -1,0 +1,32 @@
+fruit plate, 367 66 761 652 
+expresso machine, 606 499 407 307 
+bowl, 1022 913 521 450 
+sink, 927 555 619 424 
+sink, 225 78 566 517 
+faucet, 898 759 388 317 
+faucet, 163 3 583 433 
+dried flowers, 756 533 202 3 
+window, 947 865 247 12 
+electrical outlet, 541 506 262 233 
+dishwasher, 544 415 652 422 
+cupboard, 466 300 406 5 
+cabinets, 417 266 592 399 
+cabinets, 994 553 769 483 
+cabinets, 1024 937 331 1 
+door, 247 29 524 3 
+hinge, 242 220 91 32 
+island counter, 737 3 768 442 
+apple, 229 173 745 691 
+apple, 232 184 691 656 
+apple, 169 118 685 646 
+apple, 295 239 683 655 
+grapes, 166 96 733 690 
+grapes, 332 232 735 678 
+door handle, 71 51 432 367 
+stove, 1024 976 768 558 
+oven light switch, 1007 993 630 608 
+counter top, 736 250 457 375 
+counter top, 1024 796 579 476 
+wall, 1024 458 453 1 
+wall, 302 231 376 2 
+wall, 49 2 454 1 

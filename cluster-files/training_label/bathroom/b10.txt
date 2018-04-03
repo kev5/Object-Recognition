@@ -1,0 +1,22 @@
+towel, 17 2 129 69 
+lamp, 210 167 139 76 
+lamp, 256 217 19 0 
+bathtub, 176 82 254 116 
+counter, 256 132 256 150 
+mirror, 256 203 178 28 
+toilet, 29 5 213 129 
+cabinet, 223 132 254 171 
+window, 194 162 129 17 
+towel rack, 26 17 72 67 
+bath faucet, 107 94 147 137 
+sink faucet, 256 237 205 178 
+plant, 157 136 146 124 
+wall outlet, 59 47 103 93 
+wall outlet, 62 51 152 138 
+wall outlet, 79 60 87 75 
+soap, 221 211 156 144 
+soap, 201 185 153 142 
+soap, 212 202 158 141 
+floor, 126 9 255 183 
+sink, 255 192 232 193 
+door knob, 23 10 254 238 

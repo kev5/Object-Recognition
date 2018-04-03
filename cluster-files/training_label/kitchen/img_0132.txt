@@ -1,0 +1,3 @@
+window, 369 223 196 1 
+electric tea kettle, 275 236 244 209 
+stove oven, 166 3 575 240 

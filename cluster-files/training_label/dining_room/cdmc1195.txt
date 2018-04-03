@@ -1,0 +1,20 @@
+window door, 135 9 237 61 
+window, 133 7 68 20 
+window, 230 200 79 53 
+window, 230 202 173 86 
+bouquet, 207 161 182 123 
+pot, 154 136 189 169 
+table, 256 102 255 174 
+chair, 255 182 256 181 
+chair, 171 106 251 163 
+fruits, 248 231 180 167 
+ceiling lamp, 210 139 91 1 
+door, 78 9 236 61 
+door, 145 81 225 69 
+door knob, 77 69 166 148 
+door knob, 90 81 166 145 
+ceiling, 256 61 42 1 
+chair top, 195 163 184 161 
+pitcher, 156 128 191 166 
+pitcher, 171 152 192 172 
+place mat, 211 170 194 186 

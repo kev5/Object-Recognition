@@ -1,0 +1,19 @@
+ceiling, 403 37 173 1 
+door, 106 48 576 1 
+doorframe, 43 13 576 1 
+doorframe, 432 390 575 1 
+stove, 286 200 459 332 
+cupboards, 423 228 252 2 
+cupboards, 390 222 576 363 
+hinge, 73 43 103 48 
+hinge, 72 45 545 497 
+coffee marker occluded, 360 329 429 355 
+microwalve occluded, 404 342 520 365 
+bottle, 314 300 369 309 
+clock, 246 236 199 168 
+lamp, 183 158 136 126 
+large window, 264 101 396 167 
+wall, 424 254 556 2 
+worktop, 393 223 559 351 
+extractor hood, 253 212 252 223 
+floor, 382 102 576 393 

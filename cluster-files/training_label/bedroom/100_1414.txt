@@ -1,0 +1,16 @@
+laptop, 480 391 263 196 
+backpack, 607 514 472 349 
+lamp, 449 400 243 131 
+chair, 442 332 364 222 
+painting, 531 391 166 16 
+switch, 627 613 198 174 
+drawer chest, 292 136 319 136 
+drawer, 283 176 192 149 
+bed, 506 2 480 287 
+regulador electrico, 566 554 189 166 
+handle, 241 223 173 169 
+ventana, 111 2 296 1 
+wall, 314 2 354 1 
+wall, 639 305 419 3 
+book, 203 157 138 125 
+cajon, 281 179 229 189 

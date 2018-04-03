@@ -1,0 +1,27 @@
+mirror, 138 93 95 26 
+pillow, 55 21 168 142 
+pillow, 29 1 187 155 
+pillow, 212 177 167 143 
+pillow, 234 199 188 150 
+pillow, 33 10 174 154 
+sofa, 69 0 243 140 
+sofa, 255 166 238 139 
+fireplace, 142 88 176 140 
+rug, 207 26 254 191 
+curtain, 255 218 143 21 
+lamp, 255 235 122 94 
+table, 254 208 208 185 
+candle, 92 88 98 77 
+candle, 152 145 97 46 
+candle, 142 135 97 64 
+candle, 134 128 98 72 
+candle, 86 79 97 81 
+ceiling, 255 0 30 1 
+ceiling lamp, 143 136 13 9 
+ceiling lamp, 94 87 14 8 
+plant, 85 45 100 54 
+vase, 166 152 191 167 
+vase, 78 67 189 168 
+window, 256 222 151 47 
+small table, 255 207 255 185 
+ottoman, 157 77 225 174 

@@ -1,0 +1,27 @@
+extractor hood, 621 361 97 2 
+oven, 565 392 460 274 
+stool, 606 499 534 419 
+sink, 202 2 311 247 
+faucet, 120 43 276 217 
+socket, 297 270 194 175 
+socket, 678 654 212 186 
+vase, 322 303 229 159 
+flowers, 346 262 198 87 
+window, 217 93 241 4 
+toaster, 254 188 233 188 
+teapot, 767 699 260 200 
+dishwasher, 142 2 534 313 
+cupboard, 266 138 511 264 
+cupboard, 392 268 447 266 
+cupboard, 122 2 138 2 
+drawers occluded, 682 569 421 287 
+cupboard occluded, 784 687 350 295 
+stove, 573 406 270 237 
+table crop, 796 594 534 338 
+utensil, 676 619 243 151 
+worktop, 781 2 357 206 
+wall, 775 221 394 2 
+wall, 796 761 526 4 
+wall, 233 4 503 6 
+ashtray, 786 697 470 419 
+floor, 779 4 534 369 

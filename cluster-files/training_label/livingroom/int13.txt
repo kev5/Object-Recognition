@@ -1,0 +1,26 @@
+television, 86 46 168 144 
+fire place, 210 147 186 139 
+lamp, 254 218 173 114 
+ceiling, 255 1 49 1 
+ceiling, 255 0 55 0 
+window, 35 16 180 70 
+window, 55 41 175 75 
+window, 9 0 183 65 
+pillow, 87 0 254 201 
+pillow, 249 208 201 175 
+sofa, 254 32 253 194 
+television stand, 94 43 204 162 
+bookshelves, 124 82 142 75 
+floor, 174 22 230 197 
+books, 108 85 108 95 
+books, 102 85 124 112 
+wall, 255 1 103 40 
+vcr, 84 51 189 177 
+ceiling lamp, 80 70 51 45 
+cabinet, 123 85 191 144 
+fireplace, 240 111 212 104 
+vases, 231 216 104 91 
+box, 122 104 199 170 
+wall outlet, 37 33 194 188 
+door frame, 255 239 191 60 
+plant, 21 0 199 163 

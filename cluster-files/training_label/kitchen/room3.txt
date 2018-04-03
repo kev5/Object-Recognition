@@ -1,0 +1,34 @@
+chair, 70 50 209 157 
+bouquet, 55 17 167 143 
+plant, 173 137 143 71 
+plant, 120 94 164 147 
+plant, 187 147 167 141 
+plant, 25 0 188 150 
+column, 187 173 142 66 
+column, 141 120 163 68 
+window, 206 183 158 69 
+window, 243 229 149 119 
+sofa, 229 193 167 156 
+stove, 222 150 197 182 
+pan, 216 190 190 174 
+pot, 187 159 189 162 
+counter, 154 76 171 157 
+counter, 256 133 242 171 
+counter, 50 0 235 175 
+table, 79 22 205 161 
+cabinet, 29 0 141 17 
+cabinet, 51 37 253 180 
+cabinet, 25 0 254 211 
+cabinet, 256 244 184 64 
+cabinets, 134 78 199 164 
+cabinets, 256 133 255 177 
+dishwasher, 42 24 254 194 
+door frame, 66 24 152 101 
+windows, 126 99 157 104 
+lamp, 120 104 144 127 
+ceiling lamp, 210 195 23 12 
+ceiling lamp, 187 175 43 33 
+ceiling lamp, 53 39 21 11 
+ceiling lamp, 67 55 69 64 
+ceiling lamp, 40 28 70 63 
+ceiling, 256 1 77 1 

@@ -1,0 +1,18 @@
+chair, 252 201 189 125 
+curtain, 230 177 121 53 
+painting, 44 13 98 62 
+painting, 46 13 99 62 
+pillow, 79 52 143 133 
+pillow, 34 7 146 127 
+wardrobe, 180 131 156 44 
+wardrobe, 255 226 179 36 
+wardrobe, 126 63 149 28 
+dresser, 228 171 168 119 
+chest, 142 64 205 152 
+bouquet, 223 199 123 98 
+bed, 131 3 201 117 
+sleeping robe, 158 104 197 150 
+blanket, 109 23 204 148 
+ceiling, 255 1 36 0 
+window, 229 188 101 69 
+floor, 255 0 255 158 

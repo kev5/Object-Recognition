@@ -1,0 +1,17 @@
+window, 248 144 155 49 
+window, 99 77 132 60 
+bathtub, 255 112 227 162 
+toilet, 99 70 210 149 
+curtain, 100 73 73 41 
+rug, 255 104 254 235 
+counter, 58 1 207 174 
+cabinet, 41 1 255 193 
+plant, 254 222 174 148 
+bath faucet, 255 245 184 167 
+vase, 98 87 152 119 
+vase, 54 33 98 67 
+vase, 70 54 111 91 
+candle, 155 146 165 124 
+candel, 146 138 168 131 
+ceiling, 255 129 32 1 
+door frame, 102 21 251 27 

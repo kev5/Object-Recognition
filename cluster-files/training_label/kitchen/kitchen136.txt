@@ -1,0 +1,42 @@
+bowl of fruit, 917 784 676 577 
+ovens, 505 413 420 287 
+light, 629 579 256 98 
+light, 391 279 201 28 
+light, 158 133 116 106 
+light, 301 272 81 69 
+light, 383 363 134 126 
+light, 522 502 128 120 
+light, 673 641 76 63 
+potted plant, 90 5 523 424 
+plant, 94 2 735 574 
+plant, 368 230 380 285 
+turtle, 446 383 397 369 
+flowers, 617 574 384 322 
+coffee maker, 570 531 380 337 
+faucet, 647 608 390 335 
+dishwasher, 668 607 546 404 
+chair, 702 508 768 515 
+chair, 998 816 588 478 
+chair, 965 845 582 407 
+chandelier, 1021 777 269 1 
+kitchen utensils, 182 156 383 343 
+table, 1021 625 768 578 
+sink, 645 559 400 389 
+books, 192 173 591 524 
+ceiling, 1020 4 158 2 
+orange, 884 847 653 618 
+apple, 840 807 652 623 
+cabinets, 602 503 521 389 
+cabinets, 174 97 511 395 
+cabinets, 593 80 324 165 
+jar, 157 145 385 370 
+window, 668 599 364 148 
+doorway, 78 2 494 181 
+object, 395 381 376 354 
+paper towels, 381 345 385 355 
+door, 1024 979 593 61 
+island, 585 144 692 377 
+floor, 717 2 767 495 
+refrigerator, 901 657 588 74 
+wall, 1024 805 584 6 
+wall, 670 2 437 116 

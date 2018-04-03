@@ -1,0 +1,19 @@
+window shutter, 75 56 147 12 
+sink, 104 0 204 156 
+mirror, 47 0 169 0 
+counter, 108 0 255 172 
+cabinet, 106 15 256 179 
+toilet, 143 96 256 202 
+bathtub, 231 106 238 176 
+towel, 212 188 229 195 
+towel, 91 70 159 150 
+trash can, 228 205 254 219 
+towels, 240 215 216 130 
+shower curtain, 127 79 171 4 
+towel rack, 244 223 143 127 
+door knob, 255 236 242 221 
+bottle, 15 0 183 153 
+sink faucet, 42 24 170 149 
+basket, 99 63 163 155 
+window, 81 50 150 2 
+bath faucet, 128 114 183 170 

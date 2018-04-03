@@ -1,0 +1,46 @@
+wall, 1022 933 416 0 
+wall, 466 2 385 84 
+wall, 684 523 376 125 
+wall, 908 806 414 322 
+wall, 760 619 146 43 
+microwave, 923 889 305 248 
+kitchen cabinet, 926 760 323 0 
+cup and saucer, 332 298 499 483 
+table, 1017 701 763 666 
+window, 804 702 378 149 
+faucet, 755 689 388 336 
+faucet, 222 169 410 348 
+light, 654 603 184 3 
+light, 900 849 196 3 
+light, 259 198 223 51 
+light, 699 677 139 132 
+cabinets, 682 534 314 95 
+cabinets, 759 521 428 371 
+door, 464 351 405 175 
+chair, 925 703 764 544 
+chair, 680 530 766 631 
+shelf, 463 277 614 443 
+pitcher, 382 349 519 465 
+pitcher, 1004 924 435 327 
+wine glasses, 424 395 518 469 
+oven, 222 113 383 228 
+intercom, 1018 987 402 335 
+light switch, 986 974 394 359 
+decorative mask, 1024 929 254 102 
+decorative bowl, 415 321 410 359 
+ceiling, 886 2 120 1 
+counter top, 1024 469 480 358 
+counter bottom, 1024 473 768 458 
+bar stool, 1024 897 768 538 
+counter, 186 2 767 466 
+stove top, 326 140 395 375 
+sink, 210 118 417 404 
+pillar, 542 456 626 60 
+pillar, 350 297 383 153 
+pillar, 98 36 400 127 
+decortive bowl, 394 322 598 559 
+entryway, 45 2 466 128 
+island, 467 43 630 381 
+floor, 484 170 768 616 
+object, 927 906 419 331 
+ceiling beam, 651 2 152 2 

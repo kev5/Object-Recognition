@@ -1,0 +1,27 @@
+lamp, 256 224 103 53 
+lamp, 117 97 80 65 
+lamp, 200 181 82 68 
+lamp, 25 0 81 33 
+pillow, 151 115 135 109 
+pillow, 165 132 133 117 
+pillow, 208 172 131 117 
+pillow, 216 177 130 109 
+frame, 43 30 122 107 
+books, 237 202 230 187 
+books, 255 245 124 99 
+books, 21 1 164 149 
+picture frame, 21 2 124 110 
+picture frame, 61 50 119 108 
+picture frame, 53 35 120 105 
+picture frame, 33 12 122 102 
+bed, 255 87 208 79 
+chaise lounge, 157 0 255 163 
+blanket, 253 102 188 130 
+blanket, 156 71 244 187 
+dresser, 75 0 180 124 
+bouquet, 243 219 123 99 
+curtain, 222 79 175 2 
+small table, 228 189 255 205 
+bench, 255 153 214 150 
+armchair part, 256 227 255 177 
+night stand table, 255 220 134 122 

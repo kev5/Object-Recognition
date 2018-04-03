@@ -1,0 +1,9 @@
+window, 311 2 447 2 
+microwave, 561 320 113 4 
+switch, 722 693 417 371 
+table crop, 769 381 600 388 
+vase, 503 431 417 338 
+flowers, 563 346 363 167 
+chair crop, 384 233 598 445 
+wall, 487 2 596 2 
+wall, 794 487 600 6 

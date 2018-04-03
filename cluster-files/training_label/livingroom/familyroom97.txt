@@ -1,0 +1,45 @@
+painting, 152 102 83 40 
+painting, 161 97 28 0 
+bookcase, 79 23 150 65 
+ottoman, 197 143 221 180 
+plant, 36 9 222 140 
+plant, 218 185 57 1 
+plant, 36 0 172 63 
+plant, 80 57 62 1 
+plant, 194 152 142 84 
+plant, 230 214 188 159 
+plant, 92 66 138 83 
+fireplace, 163 91 171 133 
+cabinets, 255 181 204 93 
+lamp, 256 236 191 130 
+armchair, 245 170 219 141 
+armchair, 67 22 184 142 
+sofa, 142 2 255 179 
+vase, 238 226 55 43 
+vase, 255 242 56 30 
+vase, 103 87 102 78 
+vase, 165 157 89 72 
+vase, 153 145 96 82 
+vase, 145 130 102 85 
+vase, 64 49 108 99 
+pillow, 69 43 171 149 
+pillow, 120 33 218 193 
+pillow, 203 178 181 160 
+pillow, 208 189 160 146 
+pillow, 123 70 200 179 
+flowers, 116 62 184 150 
+wardrobe, 255 182 180 56 
+rug, 200 131 255 215 
+side table, 66 0 255 205 
+small table, 255 210 232 184 
+statue, 58 37 66 47 
+decoration, 212 197 92 82 
+window, 243 206 58 20 
+window, 68 52 65 36 
+blanket, 234 199 177 143 
+bouquet, 133 110 102 86 
+picture frame, 232 212 91 73 
+picture frame, 60 48 142 134 
+picture frame, 53 33 91 76 
+basket, 166 141 186 168 
+books, 47 40 108 99 

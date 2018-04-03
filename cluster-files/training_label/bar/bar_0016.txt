@@ -1,0 +1,12 @@
+ceiling, 255 0 79 0 
+wall, 255 0 156 42 
+showcase, 170 2 157 67 
+showcase, 237 186 141 90 
+bar, 255 2 255 137 
+chair, 223 179 241 152 
+chair crop, 144 76 256 176 
+chair crop, 49 2 256 184 
+chair occluded, 253 221 220 150 
+beer machine, 79 62 160 127 
+floor, 255 112 256 193 
+bottles, 104 27 115 93 

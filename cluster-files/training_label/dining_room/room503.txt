@@ -1,0 +1,22 @@
+chair, 235 145 247 115 
+chair, 238 144 250 107 
+chair, 131 23 254 111 
+painting, 80 26 37 0 
+lamp, 103 75 83 40 
+wardrobe, 255 204 145 3 
+bouquet, 190 167 26 2 
+door, 18 0 128 1 
+buffet, 109 24 114 73 
+statue, 76 55 81 38 
+statue, 54 35 88 63 
+chair top, 90 55 110 79 
+chair top, 194 155 101 54 
+chair top, 208 174 107 80 
+table cloth, 190 77 132 100 
+tray, 170 100 117 101 
+teapot, 151 121 111 80 
+cup, 152 142 114 96 
+cup, 132 122 107 97 
+cup, 120 110 104 92 
+door frame, 159 119 86 2 
+rug, 254 0 255 141 

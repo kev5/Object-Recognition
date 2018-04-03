@@ -1,0 +1,22 @@
+ceiling, 644 0 148 1 
+lamp, 414 328 154 42 
+lamp, 276 249 293 258 
+bed, 418 299 375 274 
+window, 528 386 332 145 
+picture, 267 219 267 185 
+picture, 601 544 240 187 
+chest of drawers, 209 3 445 149 
+night table, 288 226 355 289 
+tallboy, 501 431 351 288 
+mirror, 148 44 285 161 
+table occluded, 631 466 453 324 
+chair occluded, 585 530 328 286 
+dress occluded, 614 563 320 246 
+toy, 635 596 314 238 
+toy, 258 217 382 330 
+canopy, 388 296 336 140 
+photo, 193 158 309 272 
+wall, 349 0 425 1 
+wall, 619 349 346 102 
+wall, 688 611 454 1 
+floor, 686 2 454 314 

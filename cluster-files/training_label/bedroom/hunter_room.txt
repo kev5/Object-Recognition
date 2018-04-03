@@ -1,0 +1,28 @@
+crib, 255 150 255 107 
+dresser, 94 0 212 135 
+box, 88 62 141 116 
+box, 26 0 149 120 
+armchair, 159 118 210 118 
+armchair, 173 126 166 118 
+toy, 117 71 202 160 
+toy, 51 39 143 126 
+toy, 43 27 34 21 
+toy, 11 0 120 104 
+toy, 76 59 118 101 
+toy, 142 129 155 140 
+toy, 254 233 196 145 
+toy, 43 31 61 47 
+shelves, 64 16 79 28 
+curtain, 123 102 176 27 
+curtain, 167 146 117 33 
+curtain, 205 186 122 26 
+teddy bear, 32 17 59 46 
+teddy bear, 63 47 61 47 
+teddy bear, 62 28 144 110 
+ottoman, 150 120 205 169 
+shelf, 62 15 39 28 
+shelf, 64 15 78 60 
+window, 145 123 139 34 
+window, 191 165 141 32 
+ceiling, 254 27 19 0 
+air vent, 210 186 6 0 

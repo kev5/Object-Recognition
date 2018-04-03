@@ -1,0 +1,5 @@
+monitor, 389 218 399 249 
+telephone, 496 409 458 423 
+keyboard, 440 201 537 495 
+mouse, 476 448 511 493 
+Picture, 288 220 105 31 

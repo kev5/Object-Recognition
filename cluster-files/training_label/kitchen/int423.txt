@@ -1,0 +1,38 @@
+counter, 213 18 223 132 
+window, 81 28 120 71 
+window, 20 0 120 70 
+window, 156 109 19 1 
+window, 124 85 117 72 
+plant, 20 4 126 99 
+plant, 160 142 127 112 
+refrigerator, 251 197 182 68 
+coffee maker, 136 128 124 110 
+floor, 255 146 255 180 
+floor, 39 0 254 170 
+cabinets, 196 125 106 64 
+cabinets, 72 0 180 128 
+cabinets, 195 126 144 129 
+cabinets, 86 42 174 149 
+cabinets, 213 80 256 152 
+, 153 129 119 100 
+hanging rack, 220 58 58 14 
+wall outlet, 99 92 239 221 
+stove, 164 87 150 134 
+dishwasher, 124 97 136 127 
+sink, 75 37 127 123 
+sink faucet, 64 48 125 113 
+vase, 108 100 124 110 
+cabinet, 195 160 130 107 
+shelves, 79 20 255 195 
+books, 68 36 247 204 
+pepper mill, 83 78 137 113 
+knife holder, 90 68 137 118 
+hanging pot, 113 94 71 54 
+hanging pot, 191 173 69 50 
+hanging pot, 86 66 79 60 
+hanging pot, 118 98 85 67 
+hanging pot, 105 87 87 67 
+hanging pan, 142 128 84 48 
+hanging pan, 177 166 87 67 
+hanging pan, 166 147 91 52 
+hanging pan, 208 184 87 57 

@@ -1,0 +1,15 @@
+coffee marker, 271 214 173 81 
+tray, 216 116 164 70 
+cupboard crop, 309 174 51 1 
+cupboard crop, 510 391 55 1 
+fridge occluded, 235 15 385 2 
+cupboards crop, 287 112 415 190 
+faucet, 359 285 188 111 
+knives, 510 456 263 128 
+dishwasher crop, 491 276 415 282 
+socket, 449 410 140 93 
+worktop, 510 104 380 149 
+wall, 167 2 343 1 
+wall, 510 162 415 1 
+floor, 353 2 415 288 
+carpet crop, 106 2 415 352 

@@ -1,0 +1,42 @@
+ceiling*X, 1196 423 103 0 
+books, 694 405 896 764 
+books, 798 535 824 698 
+books, 813 629 742 656 
+books, 1033 942 578 524 
+books, 928 858 575 537 
+cushion*X, 1195 1084 896 654 
+table, 868 338 895 693 
+table, 629 532 686 557 
+chair, 366 0 895 509 
+chair, 1015 660 800 465 
+chair, 675 477 651 432 
+chair, 1200 1131 646 490 
+couch, 1116 809 630 435 
+lamp, 1196 1107 440 301 
+lamp, 694 623 416 341 
+lamp, 330 193 495 270 
+curtain, 497 315 688 12 
+curtain, 570 511 477 104 
+candle, 605 580 570 489 
+figure, 95 3 527 365 
+figure, 342 264 501 347 
+pillow, 867 733 623 513 
+pillow, 958 849 501 446 
+pillow, 1108 983 521 435 
+pillow, 254 2 739 610 
+pillow, 940 862 521 458 
+stack of books, 591 550 570 545 
+stack of books, 1200 1131 467 440 
+picture, 627 570 468 424 
+wall tapestry, 1200 590 448 91 
+flowers, 706 650 456 411 
+bearded bust, 649 614 491 459 
+statue *X, 136 37 505 299 
+figurine, 615 588 472 447 
+figurine, 1201 1167 448 379 
+end table, 1200 1114 624 465 
+coffee table, 1052 861 689 539 
+wall, 296 3 513 3 
+painting, 173 3 422 1 
+pedastal of fruit, 273 110 515 333 
+side table, 420 6 736 490 

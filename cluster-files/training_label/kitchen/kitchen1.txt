@@ -1,0 +1,40 @@
+microwave, 1265 1210 557 453 
+oven, 1258 1202 791 556 
+chandelier, 808 495 416 205 
+bag, 246 159 878 795 
+dishsoap, 280 250 867 787 
+stool, 543 311 1199 837 
+stool, 823 633 1159 810 
+stovetop, 763 493 710 676 
+dishwasher, 811 655 676 642 
+sink, 654 442 630 611 
+faucet, 563 543 606 562 
+soap dispenser, 646 627 612 594 
+pressure washer *X, 1600 1289 1197 1046 
+light switch, 1567 1539 759 686 
+light switch, 221 212 557 532 
+light switch, 1015 993 555 530 
+sliding glass door, 114 2 955 339 
+stack of wook, 81 2 783 725 
+cabinets, 447 212 520 277 
+cabinets, 1209 678 521 290 
+cabinets, 1246 808 908 641 
+cabinets, 653 194 811 637 
+cabinets, 1523 1197 1116 233 
+eye glasses, 704 673 499 484 
+electrical outlet, 793 776 555 526 
+electrical outlet, 889 869 557 531 
+electrical outlet, 1197 1177 556 532 
+electrical outlet, 308 294 556 531 
+window, 666 459 540 344 
+countertop, 974 234 774 678 
+ceiling light, 975 575 293 247 
+ceiling light, 580 539 284 269 
+ceiling light, 396 171 138 1 
+floor, 1353 3 1200 851 
+island, 953 279 1086 776 
+counter top, 1203 189 658 573 
+refigetator, 1416 1242 1082 393 
+ceiling, 1600 3 284 2 
+wall, 1600 1440 1130 20 
+wall, 1208 2 892 217 

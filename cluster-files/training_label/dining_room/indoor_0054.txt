@@ -1,0 +1,10 @@
+wall, 299 19 154 1 
+wall, 23 2 106 1 
+floor, 299 2 224 97 
+table, 249 27 223 57 
+chair occluded, 222 170 68 27 
+chair occluded, 91 7 159 25 
+chair, 265 149 224 51 
+chair, 158 49 218 53 
+vase, 170 117 82 64 
+decoration, 170 116 67 41 

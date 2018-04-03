@@ -1,0 +1,17 @@
+picture crop, 191 76 75 1 
+closet, 485 324 232 2 
+table occluded, 312 266 181 126 
+table occluded, 52 5 169 152 
+lamp, 311 263 135 61 
+lamp, 56 2 158 70 
+sofa occluded, 283 43 213 87 
+chest occluded, 266 174 236 169 
+armchair, 211 2 341 158 
+floor lamp, 148 82 339 72 
+table crop, 508 454 339 283 
+chair occluded, 511 466 291 198 
+wall, 298 2 219 2 
+wall, 496 297 220 1 
+wall, 510 464 225 1 
+floor, 510 2 338 160 
+carpet, 510 5 337 189 

@@ -1,0 +1,14 @@
+radiator, 64 17 419 245 
+drapery, 442 361 303 6 
+drapery, 142 24 345 7 
+curtain, 360 130 331 5 
+picture, 521 461 176 52 
+bed, 637 152 479 159 
+headboard, 631 524 322 172 
+bedspread, 633 162 473 276 
+dresser, 501 395 297 235 
+telephone, 487 445 279 258 
+floor tile, 147 47 475 417 
+wall, 54 2 479 1 
+wall, 640 419 479 1 
+floor, 638 31 479 298 

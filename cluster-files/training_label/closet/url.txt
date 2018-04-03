@@ -1,0 +1,16 @@
+closet, 256 0 256 0 
+shelf, 212 0 43 35 
+box, 204 153 37 15 
+boxs, 153 66 35 0 
+boxs, 90 14 35 17 
+jacket occluded, 236 198 218 65 
+jacket occluded, 221 176 217 64 
+shirts, 202 95 234 59 
+trousers, 147 84 207 91 
+trousers occluded, 81 55 198 92 
+dress, 63 2 255 76 
+hanger, 70 3 92 48 
+hanger, 91 22 95 47 
+belt, 110 100 254 88 
+rail, 211 0 54 39 
+ties, 255 240 207 71 

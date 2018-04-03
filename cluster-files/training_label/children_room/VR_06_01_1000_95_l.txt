@@ -1,0 +1,25 @@
+window, 248 2 299 40 
+bed, 544 89 612 187 
+ceiling, 644 30 85 1 
+cushion occluded, 510 427 321 248 
+cushion occluded, 393 348 271 241 
+cushion occluded, 485 412 326 274 
+cushion occluded, 426 373 279 253 
+cushion occluded, 375 321 283 259 
+cushion occluded, 369 307 312 279 
+cushion occluded, 420 369 297 278 
+cushion occluded, 444 366 324 294 
+cushion occluded, 353 291 324 292 
+night table occluded, 312 251 318 284 
+lamp, 336 283 285 219 
+lamp, 275 253 166 130 
+lamp, 619 533 330 218 
+guitar occluded, 304 271 287 200 
+photo, 281 262 295 274 
+photo, 676 609 338 268 
+picture, 486 399 168 77 
+night table, 674 541 473 317 
+rug, 663 454 612 464 
+wall, 278 0 441 0 
+wall, 689 266 446 0 
+floor, 689 2 612 366 

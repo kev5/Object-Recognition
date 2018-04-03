@@ -1,0 +1,38 @@
+clock, 539 473 504 467 
+oven range, 973 622 257 176 
+stove, 977 638 892 386 
+light switch, 1449 1419 528 469 
+light switch, 1598 1571 416 350 
+light switch, 1395 1376 474 427 
+electrical outlet, 1156 1125 436 394 
+electrical outlet, 512 488 440 398 
+jar of utensils, 645 545 524 377 
+spices, 576 532 495 437 
+cocktail glass, 1114 1067 514 436 
+cocktail glass, 1149 1102 522 457 
+martini shaker, 1251 1211 502 436 
+sink, 1596 1179 836 591 
+faucet, 1517 1433 699 613 
+dishwasher, 1384 1171 1198 885 
+rug, 1187 929 1192 895 
+picture, 227 5 754 95 
+houseplant, 1015 664 158 5 
+potted plant, 1375 1241 506 365 
+tray, 1256 1032 571 480 
+countertop, 671 318 708 482 
+countertop, 1596 1273 1198 839 
+countertop, 1424 973 590 486 
+cabinet, 1479 980 357 1 
+cabinet, 637 199 382 2 
+floor, 1158 413 1193 871 
+cabinets, 660 370 983 596 
+cabinets, 1258 970 1133 597 
+dish towel, 815 734 767 609 
+bottle, 376 327 469 374 
+plant, 477 337 526 435 
+napkin, 1093 1028 542 488 
+napkin, 1178 1135 555 500 
+jar, 1195 1175 545 503 
+wall, 1600 285 781 3 
+wall, 469 2 1201 2 
+windowsill, 1600 1495 626 522 

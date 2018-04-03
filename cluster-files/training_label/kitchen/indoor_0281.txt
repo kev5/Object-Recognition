@@ -1,0 +1,30 @@
+sofa crop, 262 2 341 232 
+cushion occluded, 194 71 292 224 
+cushion occluded, 186 76 311 231 
+cushion, 176 89 339 250 
+wall, 471 399 178 1 
+wall, 323 263 168 1 
+wall, 510 321 257 1 
+wall, 271 149 204 14 
+wall, 164 121 205 12 
+wall, 129 29 174 9 
+wall, 47 2 338 1 
+door, 442 391 213 14 
+mirror, 260 155 118 31 
+picture, 364 348 77 39 
+table crop, 510 337 341 272 
+tray, 469 391 314 280 
+candle, 452 410 307 272 
+cupboard, 321 265 87 29 
+stove occluded, 322 296 178 106 
+cupboard occluded, 304 276 135 108 
+ceiling, 322 26 20 1 
+chair occluded, 306 275 200 137 
+table occluded, 290 185 158 138 
+armchair, 213 135 225 139 
+armchair, 292 220 229 152 
+furniture occluded, 107 40 240 160 
+lamp, 126 32 241 57 
+floor, 510 4 341 139 
+carpet, 460 109 314 178 
+flowers, 244 193 133 98 

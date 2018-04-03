@@ -1,0 +1,7 @@
+toilet, 141 23 225 135 
+shower curtain, 261 140 189 1 
+sink, 122 44 185 87 
+door knob, 253 235 155 139 
+tap, 113 102 95 82 
+medicine cabinet, 81 43 42 1 
+bottle, 43 25 162 109 

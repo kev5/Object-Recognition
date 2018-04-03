@@ -1,0 +1,10 @@
+window, 132 103 95 41 
+window, 101 66 94 39 
+microwave, 280 221 158 112 
+oven, 221 174 198 118 
+window frame, 141 57 106 32 
+washing machine, 162 126 170 116 
+kitchen cupboard, 126 51 173 120 
+cabinets, 282 143 94 8 
+floor, 193 24 199 164 
+ceiling, 245 13 28 0 

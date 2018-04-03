@@ -1,0 +1,25 @@
+stove occluded, 121 2 338 221 
+table, 268 99 276 171 
+chair, 154 72 255 160 
+chair, 307 244 281 162 
+chair, 221 147 293 170 
+door, 365 333 219 43 
+door, 406 359 215 55 
+pane, 400 369 118 63 
+pane, 393 364 175 124 
+wall, 436 336 217 39 
+wall, 342 322 261 25 
+wall, 444 2 260 2 
+wall, 510 420 336 1 
+picture, 184 147 128 96 
+picture, 230 190 129 96 
+picture, 278 239 129 97 
+table crop, 510 358 341 209 
+telephone, 470 414 235 201 
+lamp, 482 425 245 150 
+lamp, 219 195 181 126 
+chair occluded, 357 329 328 217 
+air coditioning, 510 450 123 24 
+floor, 510 2 341 213 
+socket, 493 482 174 144 
+lamp crop, 193 112 22 4 

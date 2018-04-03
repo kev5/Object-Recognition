@@ -1,0 +1,47 @@
+ceiling, 801 3 194 3 
+ceiling light, 118 75 143 127 
+ceiling light, 300 268 170 151 
+ceiling light, 718 686 147 130 
+ceiling light, 412 303 106 42 
+ceiling light, 543 457 135 93 
+ceiling light, 552 522 170 153 
+ceiling light, 429 399 189 172 
+wall, 799 3 485 147 
+drapes, 796 737 359 178 
+drapes, 592 443 346 202 
+floor, 801 4 592 441 
+table, 694 29 588 350 
+plant, 440 407 358 262 
+chair, 133 40 414 354 
+chair, 266 200 390 336 
+chair, 381 322 367 334 
+chair, 674 607 352 313 
+chair, 480 431 353 325 
+chair, 142 2 590 464 
+chair, 511 274 590 404 
+chair, 670 473 590 378 
+chair, 733 595 570 347 
+chair, 767 661 510 333 
+paper, 366 263 460 428 
+paper, 215 156 416 398 
+paper, 685 636 374 359 
+paper, 548 494 427 404 
+paper, 328 276 395 381 
+paper, 130 54 453 427 
+paper, 430 402 372 362 
+paper, 626 568 394 381 
+water bottles, 669 648 379 317 
+water bottle, 632 611 382 330 
+water bottle, 542 522 407 348 
+water bottle, 167 131 455 350 
+water bottle, 281 256 398 334 
+water bottle, 402 377 375 328 
+water bottle, 377 354 439 363 
+water bottle, 502 490 361 319 
+water bottle, 592 583 354 319 
+glass, 566 543 406 363 
+glass, 396 377 435 386 
+glass, 584 572 353 329 
+vent, 293 245 31 11 
+flowers, 495 426 391 350 
+smoke detector, 402 382 174 162 

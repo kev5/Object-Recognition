@@ -1,0 +1,6 @@
+cabinet, 408 2 145 19 
+refrigerator, 116 2 382 104 
+kitchen sink, 374 103 342 168 
+cereal boxes, 485 430 75 8 
+dining table, 510 224 369 237 
+trash bag, 192 132 364 299 

@@ -1,0 +1,16 @@
+shower, 115 3 227 0 
+bottle, 62 54 133 110 
+bottle, 212 204 141 120 
+shower curtain, 19 1 255 3 
+towel, 187 144 118 10 
+toilet, 178 61 252 117 
+counter, 220 121 201 115 
+cabinet, 214 125 256 159 
+bath faucet, 91 71 132 96 
+towel rack, 192 118 20 9 
+tube, 184 135 161 150 
+tube, 220 214 148 127 
+door, 255 212 255 1 
+shower door, 36 4 168 1 
+rug, 126 18 256 223 
+sink, 217 174 177 149 

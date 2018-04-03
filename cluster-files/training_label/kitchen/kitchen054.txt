@@ -1,0 +1,37 @@
+ceiling lamp, 109 62 48 32 
+fruit, 29 6 151 124 
+sink, 246 199 140 128 
+sink faucet, 232 215 132 114 
+rug, 214 167 216 192 
+rug, 161 119 225 185 
+rug, 161 121 166 153 
+oven, 159 130 148 84 
+windows, 256 231 124 56 
+cabinet, 256 243 99 18 
+cabinet, 127 111 90 55 
+cabinet, 173 162 171 119 
+cabinets, 226 178 96 47 
+cabinets, 117 45 254 166 
+cabinets, 256 188 255 132 
+curtain, 243 220 59 42 
+stove, 120 71 141 121 
+kettle, 111 92 135 119 
+toaster, 81 62 150 125 
+air vent, 253 235 20 0 
+bottle, 209 204 119 104 
+dishwasher, 185 172 184 124 
+counter, 256 164 166 111 
+counter, 127 2 113 106 
+counter, 122 41 165 143 
+table, 37 1 166 135 
+chair, 32 1 250 159 
+pot, 109 100 108 98 
+pot, 156 141 79 60 
+plant, 56 42 108 90 
+plant, 93 67 110 95 
+hood, 113 61 75 41 
+hanging pans, 59 4 72 38 
+hanging pans, 30 1 106 86 
+hanging pans, 105 89 87 77 
+window, 106 26 99 63 
+ceiling, 224 0 40 1 

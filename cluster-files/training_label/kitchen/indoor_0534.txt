@@ -1,0 +1,24 @@
+ceiling, 525 78 64 1 
+cupboards, 399 71 284 89 
+cupboards, 611 395 277 1 
+cupboards, 389 233 600 389 
+fridge, 615 459 600 95 
+bottle, 553 534 119 71 
+bottle occluded, 570 556 96 67 
+magnet, 537 514 164 133 
+paper, 551 490 262 138 
+microwave, 456 371 373 299 
+handle, 464 449 323 210 
+handle, 466 448 433 333 
+dishcloth, 481 416 564 419 
+stove occluded, 459 384 596 375 
+socket, 322 295 332 300 
+dishwasher, 233 70 599 392 
+trash crop, 152 74 597 559 
+dish rack, 164 71 373 338 
+sink, 334 201 379 367 
+faucet, 288 262 367 333 
+wall, 799 648 600 4 
+wall, 430 68 511 26 
+wall, 655 421 545 1 
+wall, 77 2 600 1 

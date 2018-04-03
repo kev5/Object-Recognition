@@ -1,0 +1,27 @@
+ceiling, 449 165 8 0 
+bar, 449 49 338 206 
+door, 55 0 338 0 
+showcase, 448 53 97 30 
+column, 102 71 219 90 
+column, 290 267 219 87 
+beer machine, 239 221 217 159 
+newspaper, 383 317 227 210 
+bottle, 306 295 142 110 
+bottle, 316 307 142 111 
+bottle, 207 199 194 167 
+bottle, 150 143 128 109 
+bottle, 173 159 143 116 
+bottle, 314 308 180 158 
+bottle, 338 327 192 161 
+bottle, 195 188 175 142 
+bottle, 152 145 195 173 
+bottle, 187 178 139 112 
+text, 449 380 77 48 
+text, 270 177 77 47 
+stool, 140 74 338 269 
+stool, 249 187 337 268 
+stool, 401 336 337 266 
+window, 269 213 172 106 
+wall, 449 349 209 95 
+wall, 449 41 212 0 
+picture, 404 394 149 131 

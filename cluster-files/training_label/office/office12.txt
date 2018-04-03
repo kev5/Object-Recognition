@@ -1,0 +1,20 @@
+bouquet, 66 35 134 83 
+monitor, 176 149 127 102 
+monitor, 236 211 124 102 
+window, 206 133 88 27 
+window, 74 0 103 28 
+chair, 160 101 233 131 
+cabinet, 100 63 197 141 
+keyboard, 250 221 143 128 
+keyboard, 192 157 145 128 
+desk, 210 24 229 120 
+desk, 256 212 227 122 
+paper sheet, 133 110 137 127 
+shelf, 255 66 102 89 
+shelf, 224 188 126 106 
+shelf, 111 84 110 100 
+phone, 235 214 155 147 
+phone, 129 104 126 117 
+ceiling lamp, 128 108 77 0 
+cup, 91 83 124 114 
+cup, 80 73 125 113 

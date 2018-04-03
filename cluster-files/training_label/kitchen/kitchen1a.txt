@@ -1,0 +1,63 @@
+red pepper, 386 315 864 766 
+red pepper, 457 379 887 805 
+lettuce, 591 401 857 727 
+red wine bottle, 683 636 737 543 
+baguette, 158 4 618 591 
+baguette, 222 58 600 575 
+pizza, 867 682 676 628 
+wine glass, 714 656 778 655 
+wine glass, 755 700 758 635 
+dish with lobsters, 975 683 879 755 
+basket of corn, 1065 854 796 623 
+faucet, 672 497 841 593 
+faucet, 1009 945 377 341 
+faucet, 434 344 542 459 
+curtain, 520 175 262 140 
+window, 503 130 574 209 
+bowls, 74 27 68 6 
+bowls, 81 29 143 100 
+bowls, 100 27 316 266 
+bowls, 93 42 390 367 
+bowl, 100 34 234 179 
+bowl, 730 685 194 162 
+bowl, 730 681 264 234 
+bowl, 728 687 335 303 
+bowl, 641 618 196 173 
+cupboard, 192 4 456 4 
+kettle, 990 916 482 414 
+stove, 1178 869 580 471 
+urn, 751 679 484 412 
+sink, 595 335 681 527 
+rooster, 495 409 493 377 
+pineapple plant, 371 273 527 281 
+liquid soap, 335 301 550 491 
+bowl of fruit, 292 192 559 465 
+bottle, 91 53 593 463 
+bottle, 617 593 494 399 
+bottle, 650 615 499 453 
+bottle, 642 618 466 393 
+bottle, 679 645 492 428 
+bottle, 136 110 581 502 
+cabinets, 405 4 901 597 
+cabinets, 875 600 691 506 
+cabinet, 563 409 766 636 
+cabinet, 902 529 483 9 
+island, 1202 143 901 563 
+salt and pepper, 912 879 483 440 
+electrical outlet, 585 569 448 421 
+light switches, 39 1 546 486 
+jar, 767 751 183 130 
+jar, 772 754 256 203 
+jar, 771 757 326 279 
+bowl *X, 634 621 351 323 
+ceiling, 887 501 42 1 
+light switch, 767 750 434 405 
+light switch, 748 731 434 406 
+wall, 1200 906 491 297 
+wall, 775 173 497 3 
+counter top, 1200 1137 533 488 
+counter top, 894 2 692 466 
+cutting board, 861 686 701 673 
+drawer, 1201 1135 597 529 
+stack of dishes, 632 622 147 120 
+stove hood, 1200 817 332 1 

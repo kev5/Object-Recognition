@@ -1,0 +1,16 @@
+window, 121 39 98 3 
+stove, 296 167 225 100 
+extractor, 269 202 92 31 
+dishwasher, 89 15 224 135 
+cupboard, 299 209 90 1 
+cupboard, 18 2 224 138 
+cupboard, 170 92 222 130 
+cupboard, 299 218 224 149 
+dish rack, 194 135 127 115 
+dish, 180 163 113 98 
+sink, 139 91 128 120 
+worktop, 227 36 135 116 
+floor, 166 90 224 212 
+teapot, 232 209 135 108 
+wall, 205 2 121 1 
+wall, 299 202 149 1 

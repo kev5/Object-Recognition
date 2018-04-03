@@ -1,0 +1,27 @@
+ceiling, 279 123 15 1 
+wall, 298 169 175 1 
+wall, 168 2 200 1 
+floor, 299 4 200 147 
+cupboard, 75 4 48 2 
+cupboard, 100 58 79 17 
+cupboard, 138 102 57 23 
+cupboard, 168 136 79 31 
+cupboard, 118 60 200 126 
+cupboard, 60 3 200 141 
+cupboard, 267 214 177 113 
+cupboard, 215 169 171 111 
+cupboard, 167 155 169 111 
+extractor hood, 148 101 69 56 
+stove, 155 88 188 93 
+sink, 77 17 138 120 
+faucet, 42 31 128 110 
+worktop, 118 2 152 114 
+window, 297 254 110 37 
+window, 212 179 98 42 
+microwave, 263 222 122 98 
+toaster, 219 197 110 95 
+food processor, 197 182 109 91 
+dishcloth, 140 126 175 126 
+table crop, 298 233 200 157 
+trash, 296 267 160 118 
+woktop, 222 131 120 99 

@@ -1,0 +1,57 @@
+shelves, 634 2 301 5 
+bar, 699 0 463 294 
+person crop, 371 244 460 162 
+person crop, 209 58 459 133 
+glass, 369 336 369 291 
+glass, 203 179 383 313 
+glass, 556 510 384 311 
+person sitting crop, 677 412 461 162 
+chair crop, 691 458 461 341 
+chair crop, 47 2 461 353 
+bottle, 329 313 152 99 
+bottle, 352 330 153 106 
+bottle, 372 356 155 101 
+bottle, 389 368 201 160 
+bottle, 426 409 201 161 
+bottle, 451 436 200 164 
+bottle, 469 454 202 159 
+bottle, 489 471 203 162 
+bottle, 438 422 155 108 
+bottle, 456 441 156 106 
+bottle, 489 474 157 110 
+bottle, 538 521 159 106 
+bottle, 555 539 159 111 
+bottle, 578 562 160 109 
+bottle, 547 533 101 51 
+bottle, 516 504 99 49 
+bottle, 490 474 101 45 
+bottle, 469 454 98 58 
+bottle, 439 421 98 51 
+bottle, 396 375 94 48 
+bottle, 371 353 93 44 
+bottle, 353 336 93 41 
+bottle, 331 314 93 42 
+bottle, 299 283 92 38 
+bottle, 279 261 91 31 
+bottle, 224 211 149 97 
+bottle, 238 224 151 96 
+bottle, 254 239 152 99 
+bottle, 269 254 149 103 
+bottle, 284 268 151 104 
+bottle, 279 249 198 154 
+bottle, 248 231 198 154 
+bottle, 228 209 198 150 
+bottle, 53 38 196 124 
+bottle, 66 51 196 110 
+bottle, 91 73 196 130 
+bottle, 53 36 88 29 
+bottle, 69 53 88 27 
+bottle, 85 69 86 19 
+bottle, 125 106 84 28 
+bottle, 143 126 86 22 
+bottle, 160 141 86 23 
+bottle, 174 158 86 24 
+lamp, 244 188 89 0 
+lamp, 608 561 103 0 
+wall, 699 0 295 1 
+ashtray, 494 447 299 284 

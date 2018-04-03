@@ -1,0 +1,23 @@
+wall, 172 142 117 2 
+wall, 130 64 200 1 
+wall, 298 213 191 1 
+wall, 71 2 225 1 
+wall, 146 131 117 1 
+bath occluded, 169 128 144 113 
+wc occluded, 136 127 141 127 
+floor, 167 129 181 138 
+door, 223 168 189 1 
+fridge, 121 67 225 43 
+paper, 299 271 94 55 
+shelves, 290 212 224 125 
+books, 256 226 142 127 
+books, 289 252 145 128 
+notebook, 259 220 179 154 
+table occluded, 299 281 166 143 
+chair occluded, 298 279 225 167 
+cloth, 299 266 225 168 
+rug, 203 122 224 178 
+shoe, 187 159 209 195 
+sandal, 176 148 217 209 
+saucepan, 22 2 138 105 
+microwave crop, 33 2 202 151 

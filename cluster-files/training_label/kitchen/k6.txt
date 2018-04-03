@@ -1,0 +1,24 @@
+refrigerator, 249 172 203 67 
+cabinet, 168 94 71 35 
+cabinet, 35 0 113 0 
+cabinet, 68 56 100 19 
+cabinet, 94 69 96 30 
+cabinet, 42 0 254 187 
+cabinet, 256 241 256 155 
+can, 96 89 129 116 
+knife holdrer, 85 75 126 111 
+knives, 85 76 114 101 
+paper towels, 54 48 129 105 
+microwave, 37 0 175 122 
+sink, 83 39 156 140 
+window/ cabinet decor, 55 37 26 0 
+jar, 18 0 208 164 
+cabinets, 251 169 66 30 
+cabinets, 173 36 256 133 
+hood, 170 94 85 71 
+counter, 176 17 184 117 
+counter, 33 3 213 184 
+rug, 150 87 255 229 
+pet bowl, 243 218 254 244 
+bottles, 232 214 66 50 
+floor, 244 88 256 202 

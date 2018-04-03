@@ -1,0 +1,19 @@
+ceiling, 299 0 64 0 
+lamp, 243 205 97 1 
+lamp, 272 246 116 21 
+lamp, 184 135 67 0 
+bar, 299 0 303 191 
+stool crop, 282 197 304 269 
+stool crop, 298 229 303 253 
+person occluded, 145 18 242 71 
+person occluded, 294 223 188 125 
+bottle, 46 26 244 175 
+bottle, 56 41 239 175 
+bottle, 15 3 69 34 
+bottle, 16 2 123 93 
+ice bucket, 223 188 221 182 
+ice bucket, 243 220 214 182 
+bottle crop, 11 0 245 162 
+shelves, 150 0 235 25 
+wall, 188 0 238 9 
+wall, 299 189 206 55 

@@ -1,0 +1,24 @@
+towel, 148 108 112 32 
+towel, 116 61 222 163 
+towel, 106 26 254 213 
+towel, 89 39 233 213 
+painting, 197 172 70 36 
+painting, 243 214 71 34 
+painting, 198 171 111 77 
+painting, 241 213 114 78 
+picture frame, 225 197 135 110 
+picture frame, 250 233 138 126 
+toilet, 232 190 242 185 
+toilet, 255 187 242 135 
+plant, 55 30 93 2 
+bathtub, 163 32 226 145 
+chair, 110 1 256 148 
+small table, 191 150 227 140 
+rug, 230 159 255 244 
+window, 50 31 93 1 
+bath faucet, 138 110 161 123 
+bouquet, 255 229 133 94 
+floor, 255 72 254 201 
+bottle, 177 168 141 116 
+bottle, 170 163 143 122 
+toilet paper, 178 159 172 157 

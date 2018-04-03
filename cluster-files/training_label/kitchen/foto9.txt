@@ -1,0 +1,9 @@
+Chair, 215 160 287 163 
+Chair, 321 258 279 159 
+Table, 301 178 290 179 
+microwave, 345 304 115 92 
+cabinet, 352 174 107 44 
+cabinet, 299 178 228 160 
+faucet, 206 187 159 134 
+refrigerator, 352 304 234 115 
+Television, 129 91 255 172 

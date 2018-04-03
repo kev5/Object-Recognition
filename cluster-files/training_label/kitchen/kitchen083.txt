@@ -1,0 +1,31 @@
+painting, 111 84 75 40 
+cabinet doors, 174 124 233 176 
+cabinet, 203 152 94 28 
+cabinet, 63 29 103 28 
+cabinet, 82 46 199 136 
+cabinet, 203 140 98 18 
+cabinet, 256 195 103 6 
+cabinet, 71 0 106 13 
+drawer, 45 21 161 144 
+bowl, 234 213 133 115 
+refridgerator, 19 0 223 49 
+refridgerator, 255 213 250 168 
+counter top, 255 93 169 144 
+cabinets, 213 112 245 160 
+cabinets, 254 21 217 137 
+mixer, 49 24 142 115 
+fruit bowl, 38 24 143 134 
+plant, 93 70 133 98 
+bouquet, 151 116 131 76 
+bouquet, 67 50 131 110 
+bouquet, 132 96 130 102 
+sink, 181 137 160 152 
+stove, 256 216 157 149 
+pots, 206 184 133 119 
+sink faucet, 172 154 154 136 
+cutting board, 213 184 162 154 
+cup, 251 240 134 121 
+pitcher, 173 159 130 120 
+hanging fish, 112 86 93 79 
+bottles, 207 157 110 100 
+floor, 255 1 256 198 

@@ -1,0 +1,21 @@
+electrical outlet, 322 306 352 325 
+broom, 499 476 336 172 
+bottle, 194 180 224 194 
+fridge, 339 203 232 121 
+callendar, 521 470 149 74 
+toy, 438 382 286 229 
+washing liquid, 388 358 278 210 
+carton box, 272 206 280 237 
+bear, 123 92 235 182 
+baby bottlle, 52 29 245 205 
+lamp, 559 329 43 1 
+lamp, 283 59 39 1 
+Extractor, 614 553 145 114 
+wall cupboard, 233 52 169 72 
+sink unit, 120 18 262 230 
+island, 445 202 465 274 
+molding, 34 4 480 453 
+drawer, 591 558 295 259 
+drawer, 632 589 314 273 
+drawer, 90 61 293 260 
+drawer, 207 135 263 243 

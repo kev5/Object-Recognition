@@ -1,0 +1,21 @@
+wall, 721 2 391 2 
+picture, 716 641 223 95 
+picture, 608 441 236 86 
+picture, 412 339 206 106 
+ceiling light, 252 125 106 7 
+ceiling light, 470 316 93 4 
+light switch, 352 339 234 217 
+light switch, 365 353 235 218 
+plant, 259 178 289 181 
+book, 435 403 257 218 
+book, 403 370 256 213 
+shelf, 716 254 335 237 
+chair, 376 246 309 239 
+chair, 466 376 321 263 
+chair, 644 526 368 274 
+chair, 720 540 540 383 
+chair, 116 24 356 254 
+chair, 131 5 507 305 
+chair, 295 69 540 318 
+chair, 509 293 539 383 
+table, 639 46 540 292 

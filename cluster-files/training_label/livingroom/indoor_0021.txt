@@ -1,0 +1,18 @@
+wall, 298 36 197 2 
+wall, 42 2 194 1 
+wall, 299 297 222 1 
+floor, 296 2 225 172 
+ceiling, 297 38 8 1 
+window, 97 48 134 33 
+window, 284 239 141 21 
+window, 205 123 66 31 
+table occluded, 63 13 165 139 
+plant pot, 39 5 205 174 
+plant, 68 4 175 94 
+sofa, 241 64 221 118 
+cushion, 169 134 167 139 
+table, 290 250 211 154 
+table, 196 41 224 181 
+lamp, 294 264 160 97 
+picture, 18 2 81 45 
+boat, 119 97 196 139 

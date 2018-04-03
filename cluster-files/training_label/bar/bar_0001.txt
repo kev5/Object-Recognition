@@ -1,0 +1,16 @@
+bar, 255 0 256 103 
+decoration, 201 157 114 48 
+bottle, 232 212 119 66 
+wall, 255 124 118 0 
+wall, 238 76 131 1 
+wall, 79 0 137 16 
+lamp, 229 203 68 35 
+lamp, 118 95 69 34 
+ceiling, 109 0 16 0 
+shelf, 78 2 56 47 
+shelf, 75 2 76 64 
+beer machine, 40 26 142 77 
+beer machine, 62 48 139 84 
+mug, 113 95 31 6 
+paper, 134 79 149 136 
+stool crop, 126 46 256 207 

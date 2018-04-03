@@ -1,0 +1,19 @@
+window, 278 23 322 4 
+window, 34 2 241 3 
+extractor hood, 511 296 258 101 
+sink, 711 448 518 399 
+cupboards, 742 333 185 1 
+cupboards, 705 285 600 327 
+stove, 466 307 360 307 
+soap bottle, 600 567 395 316 
+bottle occluded, 416 404 311 252 
+bottle occluded, 429 411 315 253 
+bottle occluded, 452 426 330 258 
+sponge, 616 547 275 259 
+dish rack, 641 523 310 201 
+faucet, 718 658 415 371 
+wall, 411 25 545 3 
+wall, 742 412 600 4 
+wall, 800 701 599 1 
+wall, 62 3 514 233 
+floor, 552 2 600 485 

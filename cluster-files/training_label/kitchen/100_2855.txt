@@ -1,0 +1,27 @@
+kitchen cabinet, 640 2 214 1 
+cabinet door handle, 178 167 172 116 
+cabinet door handle, 406 392 156 109 
+cabinet door handle, 224 212 168 114 
+cabinet door handle, 623 611 152 100 
+cabinet door, 372 191 180 4 
+cabinet door, 186 5 196 4 
+cabinet door, 514 377 168 4 
+cabinet door with windows, 632 529 159 5 
+electrical outlet, 601 577 226 181 
+kitchen sink, 484 203 394 271 
+kitchen faucet, 341 256 336 272 
+dishwasher, 638 538 478 363 
+dish soap, 381 358 315 259 
+slow cooker, 187 90 371 278 
+dishrack, 619 445 323 224 
+canister, 109 49 387 312 
+tile, 265 218 283 230 
+cutting board, 328 265 318 226 
+cutting board, 484 412 297 201 
+counter, 638 2 468 265 
+handle, 400 385 469 420 
+handle, 427 416 462 412 
+tuna fish can, 614 588 119 103 
+raw disposal basket, 274 238 372 344 
+ashtray, 223 186 345 323 
+knife, 35 23 299 246 

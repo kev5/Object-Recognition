@@ -1,0 +1,14 @@
+chair back, 256 183 256 178 
+chair back, 143 58 255 185 
+chair part, 45 0 255 184 
+chair top, 99 76 103 93 
+chair top, 137 112 104 92 
+chair top, 172 148 102 94 
+chair top, 216 194 103 93 
+chair top, 252 230 108 96 
+chair top, 58 34 104 95 
+chair top, 23 1 110 97 
+conference table, 255 0 135 101 
+conference table, 256 1 203 166 
+curtain, 254 0 96 0 
+carpet, 246 18 168 139 

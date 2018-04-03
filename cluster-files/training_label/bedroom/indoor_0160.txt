@@ -1,0 +1,8 @@
+sofa bed, 293 21 202 55 
+cushion, 268 194 158 49 
+large window, 226 5 121 1 
+curtain, 101 7 119 3 
+curtain, 216 124 98 2 
+wall, 272 2 131 1 
+wall, 299 272 224 1 
+floor, 298 2 225 126 

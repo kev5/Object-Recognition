@@ -1,0 +1,8 @@
+air conditioner, 320 238 83 4 
+pillow, 349 207 290 223 
+curtain, 105 2 299 4 
+window, 108 3 177 7 
+bed, 385 2 512 234 
+outlet, 365 343 78 63 
+wall, 232 109 252 12 
+blanket, 375 124 391 277 

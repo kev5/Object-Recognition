@@ -1,0 +1,17 @@
+conference table, 255 21 156 82 
+window, 213 103 82 17 
+wall, 60 0 80 8 
+chair, 119 0 247 113 
+display case, 80 66 72 17 
+display case, 253 237 75 15 
+wall window, 251 237 80 17 
+statue, 172 144 81 57 
+chair top, 111 90 86 72 
+chair top, 86 69 89 72 
+chair top, 68 49 94 72 
+chair top, 52 31 99 74 
+chair top, 38 16 108 76 
+chair top, 19 0 113 76 
+chair top, 229 208 90 72 
+chair top, 251 232 93 74 
+ceiling, 254 1 21 0 

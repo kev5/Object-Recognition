@@ -1,0 +1,15 @@
+bag, 169 85 629 505 
+bag, 765 714 552 475 
+bag, 460 391 245 131 
+cabinet door, 329 229 431 176 
+cabinet door, 703 603 449 277 
+cabinet door, 527 489 445 261 
+cabinet door, 225 100 435 137 
+Plate, 706 623 269 214 
+phone, 640 559 776 713 
+pan, 600 402 698 643 
+cupboard, 338 3 445 79 
+cupboard, 822 372 451 246 
+stove, 556 51 750 661 
+sink, 483 314 598 562 
+window, 361 262 516 308 

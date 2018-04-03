@@ -1,0 +1,81 @@
+cabinet, 565 402 253 70 
+cabinet, 949 737 262 36 
+cabinet, 896 696 763 307 
+cabinet, 1021 361 569 333 
+cabinet, 364 1 768 318 
+pot, 975 918 353 286 
+pot, 161 98 343 300 
+pot, 912 889 334 308 
+open book, 938 766 699 633 
+basket, 928 778 766 601 
+basket, 289 190 330 284 
+basket, 327 259 499 448 
+sink, 694 534 352 328 
+plates, 272 194 294 254 
+ceramic mug, 109 42 340 289 
+chair, 688 510 761 451 
+chair, 526 365 720 435 
+bowl of yarn, 332 246 687 611 
+pitcher, 310 263 586 513 
+pitcher, 256 214 587 528 
+pitcher, 922 891 356 325 
+teapot, 251 214 615 551 
+pantry door, 338 171 328 71 
+sunflower, 481 414 78 12 
+plant basket, 557 483 68 25 
+place mat, 557 412 421 390 
+place mat, 707 553 437 402 
+pitchfork, 156 36 247 3 
+bowl of potatoes, 879 789 311 275 
+ceramic jar, 248 210 717 655 
+plate, 513 460 405 390 
+plate, 668 611 427 402 
+plate, 284 230 399 355 
+plate, 288 248 395 364 
+plate, 900 851 293 272 
+plate, 924 871 343 283 
+plate, 259 214 679 617 
+wall decoration *X, 277 232 60 10 
+peppers, 571 562 314 262 
+bowl *X, 229 214 443 411 
+jar, 282 232 420 383 
+jar, 889 854 40 6 
+jar, 494 475 327 291 
+jar, 480 461 327 289 
+stovetop, 707 529 413 377 
+bowl, 802 755 50 15 
+bowl, 466 436 333 308 
+faucet, 637 589 334 312 
+plant, 802 754 310 281 
+plant, 859 794 44 2 
+shelves, 356 3 765 326 
+cabinets, 885 700 756 314 
+wheat, 682 649 313 267 
+wheat, 706 686 330 284 
+cup, 484 455 396 375 
+cup, 628 595 406 386 
+napkin, 484 463 377 356 
+napkin, 630 603 384 363 
+bread box, 456 403 327 277 
+tin, 447 410 277 264 
+wood paddle, 49 2 104 28 
+wreath, 96 4 201 100 
+mug, 302 281 422 393 
+mug, 337 305 424 392 
+stack of plates, 298 227 441 411 
+potted plant, 314 214 539 453 
+towel, 336 214 730 673 
+roman shade, 722 590 215 81 
+decorative plate, 946 852 38 1 
+window, 711 600 311 215 
+cutting board, 1008 941 355 242 
+wall, 526 2 330 1 
+wall, 1024 933 356 1 
+wall, 939 416 316 1 
+wall, 152 2 339 254 
+jar of utincils, 389 363 330 273 
+cook books, 407 386 330 288 
+spice rack, 562 494 332 258 
+counter top, 1023 892 377 356 
+floor, 1024 893 768 556 
+object, 388 362 409 337 

@@ -1,0 +1,19 @@
+painting, 79 22 95 49 
+bed, 189 16 236 111 
+pillow, 79 22 155 139 
+pillow, 110 68 147 134 
+mirror, 250 223 122 84 
+ceiling, 256 21 36 0 
+lamp, 119 103 135 71 
+alarm clock, 20 12 164 156 
+night stand, 29 0 215 163 
+bench, 242 211 181 150 
+desk, 255 185 181 129 
+laptop, 244 221 134 116 
+radio, 218 191 129 114 
+books, 185 169 94 78 
+books, 183 171 139 123 
+folders, 184 171 118 107 
+carpet, 254 10 255 174 
+wardrobe, 169 123 151 50 
+bookcase, 199 167 153 49 

@@ -1,0 +1,15 @@
+bed, 213 14 200 97 
+pillow, 86 27 143 124 
+pillow, 105 60 130 110 
+blanket, 178 122 138 115 
+window, 149 105 108 20 
+curtain, 154 91 55 8 
+wall, 93 2 175 1 
+wall, 299 92 175 1 
+swivel chair, 266 208 190 83 
+table crop, 299 260 181 124 
+picture, 185 166 66 41 
+picture, 245 231 63 50 
+picture, 225 213 73 60 
+picture, 299 273 70 43 
+floor, 298 2 200 133 

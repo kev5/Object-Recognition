@@ -1,0 +1,26 @@
+night stand dresser, 23 0 196 125 
+painting, 66 36 64 19 
+painting, 103 77 57 13 
+painting, 136 113 72 31 
+curtain, 245 192 140 35 
+bench, 255 148 229 161 
+lamp, 189 159 127 74 
+bed stand, 255 69 223 131 
+pillows, 170 20 141 106 
+head board, 150 18 117 64 
+box, 255 213 203 182 
+teapot, 220 194 159 142 
+mug, 16 7 127 120 
+dresser, 256 233 145 116 
+bouquet, 256 234 114 68 
+bed, 253 19 221 65 
+night stand, 214 170 137 125 
+pillow, 68 29 144 119 
+pillow, 79 19 139 106 
+pillow, 70 24 137 113 
+pillow, 172 131 134 121 
+pillow, 154 103 122 108 
+sleeping robe, 143 47 217 134 
+vase, 193 182 127 101 
+books, 256 229 164 156 
+rug, 255 0 255 202 

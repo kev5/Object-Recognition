@@ -1,0 +1,21 @@
+sink, 213 102 193 138 
+mirror, 218 124 95 1 
+shower curtain, 58 0 254 0 
+bathtub, 109 48 255 175 
+cabinet, 197 109 256 191 
+soap, 65 54 52 48 
+soap, 141 133 146 141 
+bath faucet, 72 44 163 147 
+toothbrush, 145 125 96 54 
+bottle, 180 166 154 122 
+bottle, 205 195 101 64 
+bottle, 156 144 96 79 
+bottle, 194 187 102 74 
+bottle, 200 187 159 130 
+tube, 161 149 150 125 
+tube, 186 177 99 71 
+door knob, 244 225 218 196 
+deoderant, 129 120 95 78 
+soap dish, 148 126 149 143 
+soap dish, 72 48 57 50 
+shelf, 216 116 108 91 

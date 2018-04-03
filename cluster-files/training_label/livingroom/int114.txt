@@ -1,0 +1,27 @@
+mirror, 225 179 65 26 
+small table, 255 153 255 157 
+small table, 118 89 108 91 
+sofa, 222 35 208 101 
+pillow, 218 177 143 105 
+pillow, 185 147 134 100 
+pillow, 103 62 169 114 
+pillow, 125 82 144 107 
+pillow, 154 114 137 103 
+bouquet, 205 189 181 156 
+bouquet, 149 128 104 82 
+door, 168 140 99 20 
+painting, 116 84 74 37 
+plant, 22 2 131 84 
+plant, 255 228 152 101 
+plant, 109 82 105 77 
+plant, 51 36 80 59 
+rug, 255 34 255 154 
+rug, 45 0 159 130 
+ceiling, 232 0 27 0 
+table, 64 10 114 83 
+window, 14 0 85 49 
+window, 39 22 84 48 
+lamp, 177 152 97 69 
+lamp, 68 50 71 54 
+cabinet, 136 117 102 74 
+statue, 28 17 84 62 

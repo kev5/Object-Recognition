@@ -1,0 +1,21 @@
+painting, 173 150 107 60 
+bathtub, 253 151 253 174 
+towels, 254 228 183 167 
+bed, 200 50 210 116 
+lamp, 219 195 126 94 
+lamp, 139 119 121 101 
+lamp, 110 95 143 95 
+window, 81 25 129 84 
+chair, 42 18 159 131 
+chair, 93 71 144 130 
+small table, 71 35 144 131 
+bouquet, 158 104 255 208 
+rug, 115 86 256 226 
+curtain, 24 9 132 77 
+curtain, 96 81 130 78 
+pillow, 188 145 160 129 
+pillow, 154 124 149 126 
+fan, 84 14 62 37 
+ceiling, 254 0 73 1 
+night stand table, 228 181 178 159 
+bench, 56 27 197 146 

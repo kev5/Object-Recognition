@@ -1,0 +1,14 @@
+floor, 280 2 225 91 
+wall, 144 2 179 1 
+wall, 154 136 103 1 
+wall, 181 147 104 1 
+wall, 298 167 146 1 
+wall, 298 251 225 112 
+furniture, 154 100 130 60 
+bed, 273 16 224 107 
+cushion, 169 117 218 179 
+window, 278 201 89 4 
+table, 203 176 115 71 
+table, 232 197 124 70 
+picture crop, 83 2 84 2 
+picture, 178 157 54 5 

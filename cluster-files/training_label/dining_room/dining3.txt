@@ -1,0 +1,94 @@
+ceiling light, 526 508 293 278 
+ceiling light, 702 683 291 280 
+ceiling light, 779 755 192 178 
+ceiling light, 516 491 195 183 
+ceiling light, 838 800 27 4 
+ceiling light, 448 413 33 11 
+vent, 963 882 101 59 
+vent, 329 242 109 69 
+window, 598 457 342 250 
+window, 843 649 340 250 
+window, 229 87 196 1 
+window, 733 659 431 404 
+ceiling, 1070 172 238 2 
+potted flowers, 700 671 541 517 
+potted flowers, 671 659 541 517 
+counter top, 743 660 574 557 
+cabinet, 729 659 664 573 
+light, 690 676 452 444 
+decorative wood, 831 675 380 353 
+decorative wood, 178 88 797 367 
+decorative wood, 445 409 434 349 
+decorative wood, 450 409 511 434 
+potted plant, 65 2 716 547 
+potted plant, 125 34 703 590 
+picture frame, 827 780 515 463 
+gourd, 716 639 802 720 
+gourd, 648 582 770 730 
+gourd, 644 575 801 754 
+door, 901 841 767 382 
+door, 660 613 676 383 
+door knob, 891 876 618 601 
+door knob, 909 900 618 603 
+door knob, 620 608 618 602 
+door knob, 643 628 618 603 
+pot, 547 515 454 421 
+pot, 563 554 530 520 
+pot, 488 469 678 666 
+pot, 563 530 674 641 
+pot, 589 559 679 646 
+bowl, 594 572 455 438 
+bowl, 504 480 455 438 
+bowl, 597 565 530 519 
+bowl, 506 477 604 593 
+bowl, 523 498 675 665 
+mug, 569 551 455 443 
+mug, 479 462 529 520 
+decorative plate, 568 497 531 463 
+decorative plate, 569 496 602 536 
+jar, 496 481 530 511 
+jar, 599 581 602 588 
+plate, 583 552 605 598 
+plate, 475 460 602 595 
+chair, 718 575 695 675 
+chair, 457 396 815 711 
+chair, 894 843 831 709 
+chair, 974 888 900 755 
+chair, 1101 985 900 839 
+chair, 403 319 900 752 
+chair, 309 181 899 835 
+decorative bowl, 746 530 835 755 
+table, 941 327 900 694 
+counter, 162 2 899 683 
+jug, 494 465 673 641 
+cup, 504 490 678 666 
+cup, 557 540 680 672 
+side table, 1200 910 899 697 
+floor, 381 86 900 837 
+wood art, 956 931 667 464 
+wood art, 972 948 697 439 
+wood art, 991 960 706 405 
+wood art, 1007 974 713 419 
+wood art, 1020 993 721 461 
+wood art, 1051 1012 729 374 
+wood art, 1067 1030 739 419 
+wood art, 1091 1052 752 391 
+wood art, 1115 1073 764 354 
+wood art, 1150 1100 778 371 
+wood art, 1186 1136 811 382 
+window frame, 1200 1145 198 1 
+window frame, 270 57 254 1 
+window frame, 34 2 81 1 
+window frame, 615 450 357 240 
+window frame, 864 634 355 238 
+wall, 393 86 837 120 
+wall, 270 2 654 1 
+wall, 1200 883 820 1 
+wall, 839 759 713 405 
+wall, 453 385 553 122 
+glass in door, 885 852 598 403 
+glass in door, 885 854 722 615 
+glass in door, 651 632 600 406 
+glass, 652 631 674 615 
+cabinet door, 456 423 778 551 
+cabinet door, 421 390 798 554 

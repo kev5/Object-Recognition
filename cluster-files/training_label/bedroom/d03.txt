@@ -1,0 +1,17 @@
+bed, 256 144 219 140 
+painting, 138 81 139 85 
+painting, 248 231 131 89 
+cabinet, 138 86 216 151 
+ottoman, 232 167 255 197 
+book, 225 186 212 198 
+curtain, 168 147 145 71 
+curtain, 53 2 247 1 
+curtain, 255 242 167 50 
+curtain, 167 137 201 69 
+ceiling lamp, 178 114 53 0 
+statue, 114 98 156 133 
+statue, 129 121 154 141 
+rug, 252 65 254 219 
+light, 217 200 121 101 
+pillow, 196 152 156 143 
+ceiling, 255 71 46 1 

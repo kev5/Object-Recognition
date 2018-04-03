@@ -1,0 +1,25 @@
+sofa, 255 2 197 114 
+painting, 89 51 86 49 
+painting, 132 93 85 49 
+window, 253 142 113 24 
+window, 44 0 110 0 
+small table, 180 1 255 205 
+book, 105 64 223 214 
+plate, 119 49 232 210 
+bottle, 33 6 248 174 
+bottle, 88 69 112 82 
+pillow, 146 101 149 118 
+pillow, 234 182 151 117 
+pillow, 70 18 157 122 
+pillow, 102 86 150 118 
+basket, 240 188 196 169 
+plant, 128 93 112 78 
+plant, 63 0 114 0 
+plant, 226 106 99 1 
+shelf, 134 52 43 34 
+shelf, 135 53 118 111 
+candle holder, 76 63 33 15 
+pot, 96 78 34 12 
+pot, 108 96 33 15 
+rug, 255 108 255 208 
+statue, 236 206 115 38 

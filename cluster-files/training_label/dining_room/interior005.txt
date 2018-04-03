@@ -1,0 +1,15 @@
+basket, 916 733 263 160 
+books, 238 135 600 496 
+books, 354 144 808 636 
+magazines, 391 125 1027 815 
+magazines, 565 438 964 802 
+football, 859 728 719 643 
+baseball, 823 788 719 691 
+vases, 282 160 265 149 
+futon, 1156 604 1496 637 
+pillow, 1049 790 942 647 
+remote-controlled car az210deg, 541 293 1482 1352 
+boxes, 549 345 157 67 
+box, 1102 727 149 47 
+remote control, 747 634 1371 1306 
+ball, 858 731 719 648 

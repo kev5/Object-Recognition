@@ -1,0 +1,20 @@
+stool crop, 305 217 409 214 
+stool, 460 351 456 236 
+bar, 640 224 374 112 
+window, 127 2 193 1 
+window, 624 479 109 14 
+window, 464 354 109 11 
+step, 241 75 432 296 
+table occluded, 100 0 179 118 
+chair occluded, 98 56 238 103 
+chair occluded, 79 0 261 130 
+litter bin, 217 161 322 245 
+floor, 219 2 410 168 
+floor, 638 104 479 267 
+wall, 43 2 396 220 
+wall, 639 208 296 0 
+furniture crop, 112 2 479 381 
+furniture occluded, 221 157 271 140 
+ashtray, 368 341 136 121 
+bottles occluded, 618 538 154 119 
+door occluded, 213 114 201 1 

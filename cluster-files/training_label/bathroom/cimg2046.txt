@@ -1,0 +1,24 @@
+sink, 276 58 480 392 
+faucet, 137 82 400 361 
+faucet handle, 71 38 417 372 
+faucet handle, 159 124 381 336 
+towel, 362 232 455 320 
+toilet, 549 344 480 310 
+reflection of towel, 75 19 238 127 
+reflection of towel, 206 135 139 3 
+not a Candle, 397 318 306 248 
+mirror, 427 2 351 1 
+hand towel, 94 28 268 125 
+reflection of towel rack, 136 3 140 119 
+drain, 535 517 417 407 
+vanity top, 464 2 480 232 
+soap dish, 285 247 351 316 
+shower door, 640 415 480 2 
+reflection of toilet, 611 466 459 256 
+shower door handle, 627 602 242 223 
+reflection of vase (_), 385 360 238 106 
+vase (_), 443 407 273 111 
+shower handle, 301 284 153 129 
+shower handle, 330 310 153 131 
+tile, 284 238 110 68 
+tile, 240 189 160 108 

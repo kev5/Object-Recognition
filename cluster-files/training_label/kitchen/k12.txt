@@ -1,0 +1,25 @@
+cabinet, 38 0 45 0 
+cabinet, 113 38 85 1 
+cabinet, 154 115 85 8 
+cabinet, 223 154 92 2 
+cabinet, 172 99 128 86 
+painting, 217 201 43 19 
+painting, 216 200 62 46 
+sink, 255 177 167 137 
+oven, 46 0 229 99 
+oven, 46 1 230 136 
+counter, 218 32 144 119 
+counter, 255 181 255 223 
+knives, 179 147 131 102 
+window, 255 237 101 46 
+curtain, 255 224 45 7 
+cabinets, 253 45 245 132 
+plant, 246 229 118 103 
+paper towel holder, 66 34 110 84 
+dish towel, 43 19 177 136 
+hood, 37 0 62 46 
+stove, 50 0 136 99 
+cups, 103 81 122 99 
+sink faucet, 256 236 155 133 
+floor, 188 0 254 210 
+dishwasher, 256 244 225 177 

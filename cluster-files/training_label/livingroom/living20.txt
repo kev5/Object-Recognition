@@ -1,0 +1,81 @@
+lamp, 1213 1094 661 470 
+books, 1131 1015 653 571 
+books, 1360 1278 94 15 
+books, 1364 1279 169 82 
+books, 1363 1278 237 164 
+books, 1363 1278 302 240 
+books, 1364 1277 371 318 
+books, 1363 1277 447 391 
+books, 1363 1275 530 456 
+books, 1362 1287 595 531 
+pillow, 1092 843 972 769 
+pillow, 888 759 780 679 
+pillow, 989 869 825 698 
+pillow, 935 772 742 616 
+pillow, 960 800 917 796 
+pillow, 603 482 690 595 
+pillow, 962 878 587 516 
+chair, 1002 825 650 470 
+chair, 635 402 828 573 
+chair, 310 125 769 511 
+chair, 556 420 656 501 
+ottoman, 960 762 658 590 
+stool, 333 38 1020 746 
+picture, 692 568 405 317 
+picture, 56 15 553 504 
+picture, 1054 1024 673 623 
+picture, 1097 1042 699 622 
+wooden box, 439 360 903 827 
+stack of books, 555 391 1022 925 
+rug, 714 1 1020 684 
+table, 476 318 680 532 
+table, 603 342 1022 751 
+table, 777 678 677 647 
+table, 1365 987 912 637 
+curtain, 238 167 629 62 
+curtain, 286 251 634 109 
+curtain, 383 289 643 119 
+curtain, 1092 1035 571 67 
+curtain, 960 862 470 123 
+curtain, 801 692 642 123 
+curtain, 1018 980 478 112 
+curtain, 573 476 573 119 
+decorative box, 1324 1260 830 769 
+decorative box, 1229 1165 812 742 
+decorative box, 1197 1118 779 705 
+decorative box, 1286 1155 735 669 
+decorative box, 1359 1315 813 762 
+decorative box, 1282 1221 793 731 
+bookcase, 1363 1271 606 6 
+desk, 167 3 742 536 
+vase, 661 608 516 447 
+couch, 1268 708 1020 651 
+horse statue, 493 391 521 428 
+plate, 152 103 551 540 
+plate, 583 523 773 749 
+plate, 1213 1159 608 565 
+plate, 1365 1302 787 752 
+statue, 522 446 801 654 
+candle, 589 574 516 428 
+candle, 683 670 515 426 
+box, 518 478 859 828 
+box, 485 447 851 805 
+wicker ottoman, 410 306 806 700 
+end table, 694 565 649 501 
+small sculpture *X, 587 534 882 835 
+chandelier, 774 382 273 2 
+figurine, 844 762 527 472 
+ceiling, 1072 202 78 1 
+candle stick, 1200 1177 622 567 
+roman shade, 881 776 322 203 
+roman shade, 492 368 323 195 
+window, 529 354 510 323 
+window, 900 732 515 322 
+chair cushion, 135 4 1024 956 
+lamp shade, 39 2 400 341 
+frame, 1144 1072 699 590 
+decorative boox, 1306 1263 773 736 
+dish, 104 77 553 542 
+dish, 45 2 584 563 
+dish, 97 57 546 506 
+wall, 1364 2 750 1 

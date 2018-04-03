@@ -1,0 +1,29 @@
+ceiling, 769 3 193 3 
+floor, 769 3 566 445 
+verticle blinds, 769 484 467 141 
+ceiling light, 298 91 105 55 
+ceiling light, 588 420 141 105 
+ceiling light, 766 673 62 9 
+ceiling light, 412 285 175 151 
+ceiling light, 183 33 158 132 
+fire sprinkler, 231 209 33 15 
+fire sprinkler, 670 643 111 92 
+trash can, 35 4 472 426 
+projection screen, 391 175 290 194 
+fire alarm, 172 155 266 250 
+dry earase board, 390 175 373 291 
+table, 769 294 561 400 
+chair, 760 671 455 382 
+chair, 673 589 438 375 
+chair, 612 532 424 367 
+chair, 562 487 417 364 
+chair, 512 440 411 361 
+chair, 353 297 404 394 
+chair, 338 285 526 409 
+chair, 414 325 550 422 
+chair, 534 404 550 438 
+chair, 766 756 456 442 
+outlet, 267 257 414 399 
+outlet, 245 235 414 400 
+object, 132 120 330 313 
+wall, 488 2 470 153 

@@ -1,0 +1,13 @@
+picture, 142 88 76 14 
+lamp, 83 2 189 83 
+switch, 457 444 97 80 
+night table, 122 2 282 169 
+telephone, 106 66 186 159 
+bed, 447 73 341 96 
+bed crop, 258 2 341 242 
+closet, 429 230 181 1 
+wall, 510 454 247 1 
+wall, 490 203 247 4 
+wall, 209 2 287 2 
+floor, 510 4 339 179 
+pillow, 236 128 183 123 

@@ -1,0 +1,11 @@
+lampshade, 1354 952 526 145 
+alarm clock, 1092 890 1135 1018 
+telephone, 709 489 1266 1056 
+painting, 2048 1551 336 2 
+paper, 977 744 1278 1156 
+pen, 615 469 1359 1247 
+night table crop, 1272 402 1538 1052 
+lamp, 814 374 701 140 
+bed crop, 257 5 1538 528 
+bed crop, 2034 1220 1534 472 
+remote crontrol, 1150 1033 1272 1169 

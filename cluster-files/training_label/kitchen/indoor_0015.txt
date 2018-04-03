@@ -1,0 +1,17 @@
+ceiling, 202 108 9 1 
+wall, 70 9 225 1 
+wall, 152 52 195 1 
+wall, 298 148 161 1 
+floor, 299 70 225 154 
+fridge, 299 248 186 44 
+cupboard, 297 151 78 2 
+cupboard, 250 224 180 114 
+cupboard, 173 152 171 113 
+cupboard, 156 101 197 114 
+extractor hood, 228 179 78 66 
+machine, 107 69 215 129 
+oven, 224 175 178 119 
+stove, 234 175 120 103 
+worktop, 250 66 137 102 
+faucet, 100 84 123 106 
+microwave, 83 62 127 94 

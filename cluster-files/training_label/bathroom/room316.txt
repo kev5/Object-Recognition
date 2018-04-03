@@ -1,0 +1,19 @@
+towel, 233 199 229 160 
+towel, 23 0 239 209 
+towel, 234 200 231 161 
+towel, 178 154 135 104 
+sink, 164 106 183 157 
+mirror, 206 114 160 36 
+bathtub, 78 0 254 176 
+trash can, 198 181 254 236 
+trash can, 200 181 255 231 
+counter, 202 87 192 150 
+shower, 83 0 256 25 
+sink faucet, 153 130 164 148 
+towel rack, 231 205 169 143 
+bath faucet, 64 46 179 165 
+lamp, 111 90 95 75 
+pipe, 149 140 241 208 
+floor, 184 26 256 213 
+shower faucet, 66 52 69 60 
+jar, 104 95 157 147 

@@ -1,0 +1,16 @@
+fireplace, 255 143 256 125 
+window, 186 118 185 56 
+towels, 82 28 148 116 
+towel, 63 31 197 180 
+towel, 141 102 243 214 
+towel, 82 72 143 118 
+towel, 70 58 146 118 
+towel, 56 42 147 116 
+towel, 41 27 145 118 
+bathtub, 172 62 216 178 
+statue, 136 96 220 168 
+plant, 119 81 179 140 
+ceiling lamp, 124 109 13 5 
+towel rack, 84 21 122 114 
+ceiling, 150 0 39 1 
+floor, 64 1 255 235 

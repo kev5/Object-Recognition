@@ -1,0 +1,14 @@
+window, 295 230 269 39 
+towel rail, 288 223 303 280 
+rail, 162 2 91 15 
+rings, 34 2 52 19 
+bath occluded, 164 27 512 348 
+door, 44 2 509 110 
+wall, 58 2 398 2 
+wall, 295 38 443 2 
+wall, 301 289 510 1 
+floor, 288 97 511 423 
+glazed tile, 104 89 219 202 
+glazed tile, 159 142 329 312 
+glazed tile, 38 26 163 146 
+glazed tile, 168 146 54 32 

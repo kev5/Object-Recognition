@@ -1,0 +1,24 @@
+painting, 238 168 102 32 
+painting, 129 110 57 18 
+sofa, 222 72 216 103 
+chair, 63 7 165 86 
+chair, 256 178 247 121 
+chair, 256 205 256 201 
+stairs, 158 87 95 1 
+curtain, 50 15 86 6 
+carpet, 196 1 254 201 
+small table, 99 0 253 160 
+small table, 235 167 223 156 
+small table, 99 60 164 116 
+lamp, 114 82 124 78 
+lamp, 249 225 188 47 
+lamp, 90 73 88 47 
+window, 20 0 144 5 
+candles, 82 62 42 18 
+bouquet, 228 211 163 148 
+blanket, 57 17 128 86 
+pillow, 50 10 143 131 
+rug, 27 1 165 148 
+rug, 199 1 255 165 
+vase, 17 3 188 169 
+vase, 52 21 192 170 

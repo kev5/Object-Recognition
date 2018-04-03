@@ -1,0 +1,34 @@
+stack of books, 139 4 763 658 
+bowl, 331 168 467 384 
+bowl, 490 365 466 435 
+flowers, 540 261 437 254 
+potted flower, 751 616 282 61 
+picture, 308 177 189 78 
+picture, 655 397 142 2 
+picture, 376 247 64 1 
+picture, 226 138 49 1 
+picture, 1021 779 365 1 
+picture, 758 667 503 367 
+picture, 784 712 279 202 
+coutch, 689 10 578 220 
+blanket, 244 1 586 237 
+pillow, 634 465 431 296 
+pillow, 43 3 469 321 
+pillow, 158 29 465 319 
+pillow, 187 110 439 310 
+pillow, 994 782 499 426 
+pillow, 1021 724 586 490 
+pillow, 1024 720 691 564 
+pillow, 784 431 601 493 
+pillow, 801 418 694 583 
+pillow, 874 379 768 646 
+table, 647 109 751 452 
+table, 816 670 512 281 
+book, 606 467 454 414 
+necklace, 96 23 652 615 
+plate, 107 2 658 612 
+basket, 850 736 508 418 
+painting, 93 2 161 2 
+floor, 1025 871 768 666 
+floor, 487 4 768 538 
+wall, 1025 2 516 1 

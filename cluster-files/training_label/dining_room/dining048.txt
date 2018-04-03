@@ -1,0 +1,44 @@
+vase, 464 442 331 286 
+vase, 143 64 459 349 
+vase, 502 468 334 281 
+cabinets, 798 436 263 1 
+ceiling, 760 2 99 2 
+door, 366 231 417 140 
+door, 33 2 423 122 
+door, 187 93 413 144 
+cabinet, 562 497 132 75 
+cabinet, 494 440 145 96 
+cabinet, 800 755 75 9 
+cabinet, 464 409 481 379 
+cabinet, 531 468 468 385 
+cabinet, 613 534 466 396 
+cabinet, 714 612 555 406 
+cabinet, 800 715 583 420 
+ceiling light, 418 376 41 24 
+door knob, 24 3 373 332 
+flowers in vase, 218 3 355 252 
+patio chair, 68 31 420 375 
+pomagranite, 57 15 472 433 
+pomagranite, 88 43 480 443 
+pomagranite, 111 76 469 432 
+newspaper, 48 2 508 471 
+wicker chair, 341 162 586 373 
+wicker chair, 275 0 597 536 
+wicker chair, 715 413 600 421 
+table, 432 2 570 411 
+drawer, 464 411 382 351 
+drawer, 532 467 391 357 
+drawer, 613 535 401 363 
+drawer, 714 617 415 371 
+drawer, 800 719 426 381 
+pot, 545 499 337 300 
+bowl, 800 759 344 323 
+plate, 800 752 354 340 
+plate, 727 601 347 338 
+apple, 658 637 332 316 
+apple, 678 659 332 317 
+apple, 684 677 328 321 
+apple, 705 687 339 327 
+apple, 691 679 340 328 
+apple, 645 633 338 327 
+pot on a stand, 435 352 518 390 

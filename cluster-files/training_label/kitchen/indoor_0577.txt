@@ -1,0 +1,26 @@
+stove, 353 75 599 281 
+sink, 710 207 549 340 
+faucet, 485 392 310 267 
+disch rack, 721 541 449 227 
+dish, 626 560 267 215 
+dish occluded, 622 545 290 236 
+dish occluded, 704 601 422 325 
+glass, 579 545 447 388 
+bowl, 611 564 397 340 
+cup, 708 652 397 337 
+saucepan, 719 619 293 204 
+saucepan, 470 384 74 12 
+saucepan, 525 395 95 52 
+fridge crop, 800 693 599 1 
+dishcloth, 667 579 499 445 
+saucepan occluded, 438 336 434 384 
+saucepan occluded, 459 348 103 60 
+saucepan occluded, 614 527 90 62 
+teapot, 288 211 352 259 
+bottle occluded, 300 278 237 140 
+bottle, 330 297 234 130 
+bottle, 364 342 241 186 
+cupboards crop, 696 212 599 396 
+poster, 345 274 92 18 
+wall, 242 3 599 1 
+wall, 800 238 599 1 

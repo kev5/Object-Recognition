@@ -1,0 +1,18 @@
+cupboard, 71 33 78 47 
+cupboard, 120 72 90 41 
+cupboard, 183 121 89 35 
+cupboard, 224 184 115 31 
+cupboard, 101 57 224 147 
+cupboard, 224 167 255 155 
+extractor hood, 184 117 105 88 
+fridge, 84 7 215 88 
+sink, 120 69 151 139 
+faucet, 107 92 145 131 
+worktop, 130 57 155 136 
+stove, 177 102 250 125 
+dishcloth, 150 107 194 160 
+saucepan, 146 129 150 141 
+microwave, 219 171 164 129 
+wall, 48 2 194 1 
+wall, 224 49 224 1 
+floor, 224 2 299 180 

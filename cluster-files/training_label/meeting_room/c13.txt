@@ -1,0 +1,26 @@
+podium, 239 200 220 132 
+chair top, 173 151 163 153 
+chair top, 130 108 162 153 
+chair top, 79 59 162 152 
+chair top, 45 23 159 152 
+glass, 146 138 164 154 
+glass, 106 95 163 151 
+glass, 55 48 161 151 
+glass, 20 12 159 149 
+kleenex, 95 85 164 156 
+kleenex, 137 132 164 160 
+kleenex, 12 3 161 157 
+chair back, 105 34 254 213 
+chair back, 65 14 245 191 
+chair back, 161 90 253 195 
+chair back, 184 131 227 177 
+chair back, 111 69 212 175 
+chair part, 58 20 193 172 
+chair part, 8 0 215 177 
+chair part, 199 161 208 169 
+chair part, 144 113 194 167 
+chair part, 99 67 178 165 
+chair part, 52 23 175 164 
+chair part, 14 0 192 165 
+ceiling lamp, 125 116 19 10 
+ceiling lamp, 6 0 31 23 

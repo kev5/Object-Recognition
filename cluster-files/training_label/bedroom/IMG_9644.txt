@@ -1,0 +1,16 @@
+painting, 673 378 536 297 
+pillow, 707 373 930 676 
+pillow, 866 637 856 649 
+lamp, 202 28 805 495 
+bed, 963 3 1533 1021 
+ceiling, 2048 3 196 3 
+smoke alarm, 114 44 163 104 
+alarm clock, 151 32 1039 985 
+door, 1897 1648 688 333 
+headboard, 725 294 960 609 
+telephone, 365 222 1009 938 
+nightstand, 434 128 1110 982 
+comforter, 1564 350 1394 832 
+ice bucket, 2001 1905 693 587 
+wall, 1993 846 1204 83 
+sprinkler, 1397 1352 46 25 

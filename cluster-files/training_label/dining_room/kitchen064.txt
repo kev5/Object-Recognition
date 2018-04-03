@@ -1,0 +1,23 @@
+chair top, 110 74 168 143 
+chair top, 141 111 165 142 
+chair top, 213 187 163 139 
+chair, 202 150 240 144 
+chair, 153 97 252 144 
+chair, 99 30 254 149 
+air vent, 31 11 217 202 
+plant, 55 1 88 7 
+plant, 254 186 95 43 
+plant, 253 137 158 59 
+window, 105 33 107 17 
+window, 77 36 183 114 
+window, 47 2 107 10 
+window, 29 1 186 116 
+window, 155 84 106 28 
+window, 119 84 141 113 
+window, 156 127 159 113 
+window, 194 126 106 34 
+window, 218 162 158 41 
+door, 256 229 174 112 
+counter, 255 187 256 188 
+pot, 245 226 203 170 
+pot, 255 245 204 170 

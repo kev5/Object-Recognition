@@ -1,0 +1,25 @@
+closet, 232 14 372 243 
+closet, 234 24 170 89 
+microwave oven, 191 130 238 203 
+box, 57 36 92 48 
+winebottles, 229 170 89 44 
+door, 363 285 267 98 
+door, 408 372 289 91 
+chair, 495 384 381 227 
+lamp, 532 464 348 85 
+ash bin, 275 233 365 308 
+lightswitch, 271 259 209 192 
+bookcase, 574 494 391 222 
+book, 569 546 294 255 
+binder, 533 521 384 342 
+floor tile, 255 217 405 386 
+wall to wall carpet, 504 288 421 272 
+ceramic tile, 220 199 200 180 
+bottle, 60 50 233 205 
+hot mitt, 145 115 210 178 
+towel, 38 11 241 172 
+handle, 82 76 161 137 
+burner, 228 203 241 232 
+stovetop, 235 188 249 230 
+sink, 87 40 246 233 
+drainboard, 133 97 243 233 

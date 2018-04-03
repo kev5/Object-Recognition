@@ -1,0 +1,18 @@
+ceiling, 158 21 7 1 
+wall, 130 2 186 1 
+wall, 117 95 143 40 
+wall, 299 130 224 1 
+fridge, 50 2 224 100 
+door occluded, 134 114 137 37 
+cupboard, 95 15 97 9 
+cupboard, 108 18 191 106 
+sink, 63 28 133 117 
+stove crop, 299 201 224 130 
+pressure cooker, 259 240 167 148 
+table, 205 108 213 124 
+floor, 292 43 225 130 
+window, 248 151 141 15 
+curtain, 217 163 122 8 
+chair occluded, 160 135 132 118 
+chair, 160 109 216 149 
+chair, 210 170 205 140 

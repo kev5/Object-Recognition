@@ -1,0 +1,68 @@
+ceiling, 618 105 61 1 
+light, 340 308 27 3 
+light, 413 383 26 4 
+light, 178 152 320 283 
+wind chime, 380 356 104 4 
+book shelf, 638 2 235 9 
+door, 641 608 480 99 
+wall, 641 2 95 2 
+wall, 612 2 463 45 
+wall, 265 199 398 365 
+floor, 42 2 481 460 
+floor, 402 114 481 399 
+chair, 636 527 481 356 
+chair, 457 398 351 295 
+desk, 611 14 481 281 
+waste basket, 239 199 449 387 
+vents, 289 197 371 330 
+stool, 335 256 423 342 
+books, 494 421 119 73 
+books, 494 419 215 176 
+books, 75 29 122 85 
+books, 175 29 162 127 
+books, 205 186 217 184 
+books, 447 353 396 354 
+object, 204 187 168 145 
+object, 166 144 220 206 
+object, 253 218 217 212 
+object, 291 265 216 208 
+object, 308 291 243 216 
+object, 351 338 213 205 
+object, 530 499 216 203 
+object, 171 149 308 295 
+object, 210 182 322 308 
+object, 199 177 306 296 
+object, 225 199 313 294 
+object, 250 222 314 282 
+object, 277 256 309 292 
+object, 354 300 296 258 
+object, 572 544 339 296 
+object, 517 493 340 331 
+object, 397 319 423 383 
+certificate, 288 246 172 142 
+picture, 130 61 220 168 
+apple, 267 248 215 197 
+objects, 336 299 215 194 
+objects, 271 186 134 100 
+light switch, 83 67 253 236 
+book, 580 533 216 204 
+white out, 526 513 409 387 
+papers, 145 88 324 278 
+papers, 76 21 344 327 
+papers, 116 52 351 331 
+papers, 497 451 301 271 
+papers, 522 476 328 309 
+papers, 515 426 402 363 
+paper, 153 96 340 322 
+paper, 186 146 333 320 
+paper, 233 192 327 314 
+paper, 482 414 310 292 
+mug, 294 270 302 282 
+calendar, 338 253 317 294 
+calendar, 547 443 376 334 
+kleenex box, 377 348 290 253 
+kleenex box, 460 425 298 260 
+phone, 409 383 308 278 
+monitor, 597 510 329 240 
+pen holder, 556 527 347 311 
+plant, 552 395 449 327 

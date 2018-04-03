@@ -1,0 +1,21 @@
+night stand dresser, 247 192 188 141 
+painting, 185 162 86 56 
+painting, 156 137 89 64 
+lamp, 234 202 141 88 
+lamp, 122 102 123 100 
+bouquet, 251 224 142 113 
+armchair, 36 0 167 123 
+bench, 107 26 209 155 
+head board, 197 127 126 93 
+bed, 196 51 203 123 
+chair part, 15 2 253 181 
+window, 29 2 139 53 
+ceiling, 199 1 38 0 
+pillow, 188 158 144 125 
+pillow, 139 106 134 124 
+pillow, 196 181 145 126 
+sleeping robe, 69 23 202 152 
+dressing screen, 102 50 145 75 
+ceiling lamp, 72 67 29 26 
+ceiling lamp, 136 128 3 1 
+floor, 255 0 255 169 

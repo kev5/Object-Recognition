@@ -1,0 +1,15 @@
+chair, 82 19 192 125 
+chair, 176 126 156 121 
+lamp, 210 182 141 100 
+bed, 255 81 253 127 
+pillow, 254 226 162 138 
+pillow, 246 220 156 130 
+window, 92 39 141 71 
+window, 153 111 145 95 
+plant, 122 80 146 112 
+small table, 114 87 172 139 
+curtain, 95 36 74 38 
+curtain, 158 112 96 69 
+ceiling, 254 43 53 0 
+night stand table, 212 177 148 138 
+fan, 211 96 23 0 

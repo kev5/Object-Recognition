@@ -1,0 +1,23 @@
+heater, 121 84 151 124 
+heater, 119 85 151 123 
+toilet paper, 88 68 113 90 
+plant, 216 118 138 1 
+sink, 256 152 180 108 
+sink, 225 173 157 136 
+partially occluded toilet, 162 114 220 153 
+pitcher, 114 88 72 47 
+cabinet, 256 163 255 179 
+cabinet, 256 162 255 180 
+shower, 41 0 256 0 
+curtain, 112 68 80 2 
+curtain, 111 66 80 0 
+watering can, 114 87 73 52 
+window, 163 87 70 0 
+counter, 255 155 177 108 
+toilet, 163 114 221 154 
+mirror, 255 208 96 0 
+soap dish, 253 233 167 147 
+soap, 252 242 156 150 
+faucet, 239 215 147 129 
+floor, 163 39 256 199 
+statue, 226 204 134 104 

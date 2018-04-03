@@ -1,0 +1,8 @@
+bar, 309 15 188 65 
+stool, 180 131 188 93 
+stool, 135 93 173 91 
+armchair crop, 85 0 199 98 
+shelves, 231 114 72 0 
+wall, 326 206 140 0 
+wall, 127 0 142 0 
+floor, 327 0 199 99 

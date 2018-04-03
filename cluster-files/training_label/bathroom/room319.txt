@@ -1,0 +1,25 @@
+mirror, 125 56 98 29 
+mirror, 201 172 85 47 
+sink, 213 160 151 141 
+sink, 213 160 151 140 
+toilet paper, 34 20 190 170 
+painting, 27 0 101 34 
+trash bin, 130 107 223 192 
+toilet, 116 60 235 155 
+toilet, 115 60 234 154 
+plant, 169 105 143 43 
+counter, 256 129 156 137 
+cabinet, 251 134 229 158 
+rug, 142 25 256 234 
+rug, 227 156 256 233 
+lamp, 208 172 40 19 
+wall outlet, 248 242 125 110 
+sink faucet, 189 179 142 131 
+bottle, 245 236 146 119 
+bottle, 108 98 153 131 
+bottle, 94 86 157 139 
+box, 90 63 159 147 
+box, 212 203 143 127 
+soap, 165 153 144 137 
+soap, 200 192 142 137 
+toilet brush, 61 50 214 166 

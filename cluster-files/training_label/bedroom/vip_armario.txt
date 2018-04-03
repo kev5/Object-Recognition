@@ -1,0 +1,9 @@
+bed, 640 380 479 351 
+sweater, 580 466 444 349 
+cabinet, 98 3 457 368 
+picture, 640 482 162 61 
+clothes-hook, 401 330 137 91 
+door, 118 2 456 1 
+wall, 639 109 414 1 
+pavement, 640 63 457 376 
+closet, 303 125 436 82 

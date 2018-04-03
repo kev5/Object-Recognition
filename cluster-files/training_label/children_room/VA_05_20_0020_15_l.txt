@@ -1,0 +1,29 @@
+ceiling, 538 74 80 0 
+wall, 368 0 438 0 
+wall, 688 362 525 0 
+floor, 689 0 569 368 
+window, 322 116 299 79 
+curtain, 333 110 138 32 
+bed, 588 263 561 307 
+cushion occluded, 379 309 274 253 
+cushion occluded, 337 266 318 271 
+cushion occluded, 391 339 281 264 
+cushion, 413 353 329 276 
+cushion, 365 288 329 280 
+cuddly toy, 337 276 353 312 
+cuddly toy, 424 325 364 324 
+cuddly toy, 533 491 188 155 
+cuddly toy, 568 531 185 143 
+cuddly toy, 620 570 181 138 
+cuddly toy, 686 620 182 123 
+cuddly toy, 390 346 154 103 
+desk, 263 2 422 300 
+chair, 162 19 500 306 
+shelf, 473 342 170 138 
+shelf, 687 465 204 177 
+shelf, 471 412 218 181 
+shelf, 619 550 133 91 
+basket, 242 182 418 364 
+boots, 603 559 522 458 
+boots, 652 605 540 473 
+picture, 96 18 272 120 

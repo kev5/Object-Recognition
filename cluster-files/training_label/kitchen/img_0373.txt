@@ -1,0 +1,8 @@
+lamp, 444 199 102 11 
+plant, 110 59 355 252 
+worktop, 637 2 478 304 
+fridge, 337 208 382 200 
+extractor hood, 494 379 270 197 
+paper towel, 576 518 442 379 
+stove, 493 357 361 288 
+kitchen unit, 543 248 281 103 

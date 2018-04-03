@@ -1,0 +1,23 @@
+ceiling, 253 101 7 1 
+wall, 100 2 202 1 
+wall, 294 102 154 1 
+wall, 299 285 225 2 
+door, 139 94 167 31 
+sofa, 241 135 177 114 
+sofa, 119 2 225 127 
+cushion, 203 166 142 122 
+cushion, 50 6 183 158 
+cushion, 68 33 181 156 
+sofa occluded, 283 221 224 199 
+picture, 52 24 75 33 
+table occluded, 113 66 144 127 
+lamp, 100 79 135 100 
+table, 205 138 225 166 
+vase, 183 165 191 167 
+tin, 199 189 182 161 
+furniture, 284 236 189 133 
+television, 283 252 138 105 
+window, 221 171 118 31 
+window, 289 250 140 30 
+rug, 228 109 225 177 
+floor, 288 2 225 152 

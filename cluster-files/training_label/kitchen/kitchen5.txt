@@ -1,0 +1,31 @@
+chair, 158 83 255 197 
+chair, 52 0 255 187 
+bowl, 70 48 148 135 
+bowl, 151 136 135 130 
+fruit bowl, 228 197 180 161 
+plant, 139 124 152 105 
+plant, 43 0 169 104 
+plant, 245 180 59 23 
+plant, 184 161 138 125 
+plant, 228 202 82 66 
+plant, 142 118 133 118 
+plant, 13 0 77 40 
+plant, 82 59 52 35 
+bouquet, 256 223 136 81 
+pot, 123 112 150 130 
+bottles, 156 145 151 135 
+scale, 74 50 134 107 
+basket, 195 160 178 153 
+lamp, 206 194 45 27 
+painting, 169 140 58 24 
+counter, 255 1 206 131 
+counter, 165 39 160 138 
+ceiling lamp, 123 84 81 1 
+cabinets, 246 185 167 51 
+cabinets, 193 112 115 62 
+cabinets, 77 4 146 51 
+cabinets, 114 69 140 58 
+cabinets, 164 40 173 149 
+cabinets, 192 158 166 140 
+jar, 45 34 50 34 
+ceiling, 255 0 32 0 

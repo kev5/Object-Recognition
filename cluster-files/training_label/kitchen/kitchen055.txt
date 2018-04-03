@@ -1,0 +1,52 @@
+microwave, 463 366 650 376 
+oven, 475 346 1051 617 
+dish, 592 478 592 488 
+dish, 642 572 580 505 
+dish, 779 707 585 508 
+counter, 931 465 612 580 
+counter, 343 7 1051 804 
+candle, 196 132 874 672 
+candle, 259 199 856 662 
+ladle, 296 214 463 221 
+flower basket, 1185 971 727 562 
+pot hanger, 1402 1253 179 7 
+pots, 1402 1225 386 166 
+lion plate, 1243 1123 373 259 
+rug, 951 465 1006 874 
+sculpture, 717 602 231 166 
+sculpture, 914 864 229 181 
+sculpture, 590 525 239 199 
+sculpture, 518 460 236 194 
+ligiht, 692 654 106 86 
+box, 1396 1335 597 550 
+light, 1052 1017 110 84 
+clock, 998 962 529 485 
+hourglass, 1046 1033 529 509 
+plate, 1095 1075 370 308 
+plate, 870 761 584 483 
+books, 509 470 692 628 
+books, 511 465 792 726 
+glasses *X, 657 579 397 366 
+glasses *X, 649 580 454 427 
+jar of beans, 470 442 80 5 
+shell *X, 757 717 228 191 
+decoration *X, 854 754 221 183 
+figurine *X, 941 929 528 515 
+figurine*X, 858 825 228 213 
+cabinets, 499 2 1050 2 
+cabinets, 1399 466 535 120 
+cabinets, 1352 476 866 612 
+cabinets, 1400 955 1050 720 
+ceiling, 1399 469 148 1 
+object, 1359 1341 528 500 
+object, 1397 1379 528 514 
+stove top, 1348 1133 612 574 
+scale, 711 640 587 517 
+objects, 654 591 336 284 
+glasses, 887 853 393 351 
+pitcher, 873 833 334 297 
+jar, 1401 1325 685 593 
+platter, 1401 1297 740 678 
+counter top, 1401 950 865 675 
+figurine, 1155 1095 373 349 
+lion statue, 1255 1142 373 258 

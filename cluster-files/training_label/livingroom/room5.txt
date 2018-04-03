@@ -1,0 +1,21 @@
+painting, 133 85 113 89 
+ceiling lamp, 148 139 61 54 
+ceiling lamp, 91 82 57 51 
+sofa, 241 72 255 186 
+sofa, 255 163 230 157 
+fireplace, 175 39 198 116 
+plant, 217 174 160 96 
+plant, 34 0 215 48 
+plant, 66 34 120 109 
+plant, 132 99 190 158 
+lamp, 76 38 252 84 
+curtain, 255 240 124 73 
+window, 256 247 167 125 
+pillow, 195 169 181 161 
+pillow, 202 188 182 162 
+statue, 46 20 202 164 
+small table, 155 85 193 182 
+box, 75 52 201 189 
+candles, 160 146 116 97 
+smoke detector, 205 188 19 6 
+ceiling, 255 0 74 2 

@@ -1,0 +1,14 @@
+bed, 255 104 227 34 
+fireplace, 71 38 144 125 
+painting, 68 43 99 76 
+rug, 205 1 255 175 
+pillow, 239 213 137 125 
+pillow, 229 188 127 117 
+pillow, 254 223 130 120 
+window, 179 152 132 68 
+window, 123 92 137 76 
+armchair, 108 72 158 116 
+armchair, 50 1 165 120 
+ceiling, 254 1 58 2 
+bouquet, 92 74 99 83 
+fan, 102 40 50 28 

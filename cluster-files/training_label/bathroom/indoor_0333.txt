@@ -1,0 +1,14 @@
+mirror, 169 32 236 13 
+curtain, 417 173 503 1 
+washbasin, 244 72 365 256 
+faucet, 156 122 308 282 
+pipe, 165 113 408 363 
+bath occluded, 383 164 511 369 
+rail, 332 183 13 2 
+cistern occluded, 75 35 481 355 
+bucket occluded, 141 88 485 432 
+wc crop, 160 40 511 473 
+door, 41 2 511 1 
+wall, 184 21 497 1 
+wall, 416 378 512 84 
+floor, 357 44 512 437 

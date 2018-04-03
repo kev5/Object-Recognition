@@ -1,0 +1,16 @@
+chair, 239 158 253 124 
+chair, 96 38 132 87 
+scanner, 76 19 147 130 
+monitor, 193 157 120 84 
+keyboard, 200 154 126 119 
+desk, 255 0 240 115 
+printer, 229 179 77 58 
+shelf, 254 156 44 32 
+shelf, 256 156 85 69 
+books, 189 167 38 29 
+books, 61 47 228 184 
+mouse, 218 207 123 119 
+picture frame, 256 243 81 64 
+notebook, 136 96 137 125 
+computer, 256 249 197 152 
+window, 158 46 156 0 

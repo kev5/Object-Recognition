@@ -1,0 +1,16 @@
+window crop, 398 278 333 61 
+ceiling, 398 82 48 1 
+shower crop, 397 307 532 409 
+cistern, 234 142 448 339 
+toilet, 295 154 584 430 
+washbasin crop, 62 2 398 349 
+mirror crop, 62 2 218 47 
+towels, 107 2 556 446 
+trash, 150 92 571 474 
+toilet paper, 270 238 358 338 
+toilet brush occluded, 278 259 449 408 
+wall, 398 2 555 2 
+floor, 398 2 600 479 
+rail crop, 398 305 58 17 
+handle, 369 355 230 200 
+counertop, 120 4 456 345 

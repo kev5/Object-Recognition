@@ -1,0 +1,55 @@
+microwave, 230 184 87 58 
+microwave, 230 183 85 58 
+cabinet, 56 0 97 17 
+cabinet, 145 92 91 26 
+cabinet, 185 145 89 28 
+cabinet, 228 182 56 23 
+cabinet, 255 230 89 18 
+cabinet, 23 0 228 147 
+cabinet, 255 222 193 133 
+decorative plate, 112 98 26 11 
+decorative plate, 184 169 25 12 
+window, 82 55 111 65 
+curtain, 94 54 63 31 
+bottle, 146 138 141 117 
+bottle, 146 136 141 116 
+plate, 128 113 108 94 
+plate, 124 115 110 101 
+plate, 153 112 156 142 
+pot, 46 28 134 120 
+pot, 241 222 18 9 
+counter, 59 0 149 131 
+counter, 203 48 179 134 
+cup, 16 8 134 121 
+cup, 24 16 133 121 
+cup, 155 147 143 133 
+counter top, 200 49 177 133 
+cabinets, 200 100 255 150 
+cabinets, 256 91 90 16 
+cabinets, 138 71 153 125 
+cabinets, 202 53 256 150 
+plant, 157 134 26 17 
+plant, 62 35 124 89 
+plant, 252 230 125 95 
+dish towel, 95 58 206 148 
+dish towel, 79 47 143 130 
+coffee maker, 153 138 114 95 
+picture, 231 198 20 0 
+painting, 229 199 21 0 
+painting, 38 0 17 0 
+dishwasher, 69 25 220 138 
+island, 202 48 256 133 
+oven, 217 169 177 126 
+stove, 237 171 129 98 
+dish rack, 128 98 123 103 
+sink, 114 59 132 121 
+pitcher, 47 27 136 119 
+ceiling, 184 92 8 0 
+jar, 192 183 119 102 
+sink faucet, 80 69 122 105 
+cutting board, 190 167 109 95 
+food, 146 118 153 143 
+sponge, 93 84 122 118 
+soap bottle, 100 95 121 107 
+books, 8 0 138 112 
+candle, 45 36 18 0 

@@ -1,0 +1,29 @@
+curtain, 53 11 86 2 
+curtain, 100 68 103 6 
+curtain, 122 102 74 12 
+curtain, 165 144 88 18 
+curtain, 199 168 70 22 
+curtain, 245 202 73 22 
+conference table, 255 46 229 70 
+chair, 117 20 251 125 
+chair, 245 159 235 120 
+sofa, 65 0 131 85 
+sofa, 138 85 103 75 
+chair top, 64 30 122 95 
+chair top, 109 82 108 88 
+chair top, 142 121 100 82 
+chair top, 165 150 95 78 
+chair top, 185 171 88 75 
+chair top, 202 189 83 72 
+chair top, 213 204 78 70 
+chair top, 222 215 77 67 
+ceiling, 255 43 19 1 
+column wall, 145 123 83 14 
+window, 45 0 81 0 
+window, 119 72 74 6 
+window, 182 148 67 18 
+window, 236 177 65 23 
+ceiling lamp, 208 202 4 1 
+ceiling lamp, 124 118 7 3 
+ceiling lamp, 224 218 12 7 
+ceiling lamp, 157 150 13 8 

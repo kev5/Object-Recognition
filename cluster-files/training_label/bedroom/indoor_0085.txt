@@ -1,0 +1,21 @@
+ceiling, 274 38 26 1 
+wall, 259 92 152 25 
+wall, 100 68 161 26 
+wall, 82 17 223 1 
+wall, 275 256 165 15 
+wall, 34 2 225 1 
+picture, 243 224 76 47 
+double door, 208 131 143 39 
+rail, 217 116 40 36 
+curtain, 180 162 141 40 
+curtain, 150 133 142 41 
+television, 111 77 125 90 
+furniture, 120 79 169 111 
+armchair occluded, 262 202 141 103 
+armchair occluded, 269 242 224 166 
+bed, 270 110 225 117 
+carpet occluded, 127 88 200 150 
+closet, 299 269 224 1 
+floor, 269 37 224 148 
+lamp, 175 149 12 1 
+picture occluded, 82 71 76 43 

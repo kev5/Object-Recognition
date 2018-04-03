@@ -1,0 +1,17 @@
+ceiling, 256 139 48 0 
+ceiling, 84 25 96 73 
+double door, 233 203 175 146 
+gate, 248 186 177 125 
+gate, 119 100 168 92 
+glass wall, 256 179 172 42 
+wall, 179 0 238 0 
+wall, 85 66 151 84 
+window, 67 25 149 94 
+window, 146 137 161 80 
+window, 162 157 164 75 
+counter, 97 19 226 147 
+monitor, 62 46 157 141 
+floor, 256 0 256 159 
+lamp, 18 2 80 53 
+lamp, 100 92 93 74 
+lamp, 136 130 100 86 

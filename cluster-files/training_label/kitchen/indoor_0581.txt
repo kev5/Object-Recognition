@@ -1,0 +1,24 @@
+ceiling, 800 2 73 5 
+heater, 73 2 318 148 
+coffee marker, 89 44 422 326 
+cupboard, 781 412 360 114 
+cupboard, 188 116 600 437 
+cupboard, 122 48 600 440 
+oven, 567 412 514 349 
+cupboards, 423 44 296 110 
+extractor hood, 349 221 299 258 
+stove, 348 197 444 407 
+tray, 175 92 426 410 
+cupboard occluded, 410 322 600 453 
+drawers, 326 189 599 445 
+drawers crop, 49 2 599 470 
+fridge occluded, 749 581 552 268 
+chair crop, 741 573 600 549 
+chair crop, 545 386 600 537 
+dishcloth, 522 456 479 389 
+dishcloth, 371 330 533 460 
+worktop, 412 2 485 399 
+wall, 755 82 599 60 
+wall, 85 2 597 44 
+wall, 800 742 599 11 
+door, 800 752 597 114 

@@ -1,0 +1,13 @@
+door, 404 350 223 88 
+window, 543 458 297 63 
+dishwasher, 425 345 429 322 
+stove, 221 93 428 298 
+tea pot, 266 238 127 99 
+canister, 72 53 315 291 
+canister, 218 201 301 278 
+canister, 247 227 299 272 
+paper towel dispense, 429 395 274 241 
+handle, 515 496 362 352 
+sink, 576 436 349 296 
+plant, 453 405 158 106 
+curtain, 539 459 274 188 

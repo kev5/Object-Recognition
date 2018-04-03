@@ -1,0 +1,22 @@
+window, 639 504 285 5 
+drawing, 250 204 158 104 
+drawing, 302 270 149 94 
+drawing, 357 323 142 98 
+drawing, 473 442 136 98 
+bed, 447 171 362 231 
+cot, 180 61 379 194 
+chest occluded, 498 443 300 260 
+sheslves, 502 414 272 175 
+basket, 457 422 264 241 
+basket, 476 448 262 237 
+floor lamp, 137 91 192 87 
+toy car, 622 602 398 382 
+toys, 612 544 386 327 
+closet, 60 2 427 132 
+ceiling, 633 259 38 1 
+wall, 640 484 398 3 
+wall, 494 411 296 2 
+wall, 423 389 297 2 
+wall, 393 85 283 2 
+wall, 121 2 399 1 
+floor, 639 43 428 252 

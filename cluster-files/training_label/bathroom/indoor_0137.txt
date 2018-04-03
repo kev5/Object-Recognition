@@ -1,0 +1,14 @@
+mirror, 152 82 104 1 
+closet, 181 79 283 163 
+washbasin, 153 100 180 165 
+faucet, 126 115 163 149 
+wall, 176 2 261 1 
+wall, 199 168 219 1 
+door, 22 2 300 7 
+wc, 75 20 299 230 
+toilet lid, 69 20 234 180 
+shelves, 77 10 248 52 
+hairdryer, 32 7 79 62 
+tin, 52 44 168 140 
+shower, 199 172 289 218 
+floor, 199 18 300 250 

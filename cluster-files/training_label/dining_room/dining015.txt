@@ -1,0 +1,26 @@
+ceiling lamp, 203 148 86 0 
+chair, 134 16 255 137 
+chair seat, 255 202 233 197 
+chair seat, 255 231 200 182 
+table, 238 78 255 143 
+chair back, 88 67 162 133 
+chair back, 120 106 155 130 
+painting, 151 116 135 57 
+painting, 240 176 120 73 
+lamp, 208 183 121 98 
+fruits bowl, 187 150 155 118 
+plate, 133 97 177 165 
+plate, 208 178 166 158 
+plate, 224 201 156 149 
+napkin, 160 121 183 169 
+china cabinet, 93 0 140 32 
+bouquet, 248 209 122 88 
+picture, 219 209 96 83 
+chair top, 220 194 144 124 
+place mat, 123 86 163 157 
+glass, 155 140 169 154 
+glass, 137 121 163 147 
+glass, 183 169 163 146 
+side table, 256 237 182 140 
+ceiling, 256 19 59 1 
+vase, 250 239 141 117 

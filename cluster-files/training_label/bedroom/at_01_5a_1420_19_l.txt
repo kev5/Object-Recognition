@@ -1,0 +1,24 @@
+painting, 22 3 142 121 
+painting, 47 29 141 121 
+painting, 100 85 138 121 
+painting, 118 104 137 121 
+painting, 235 206 135 100 
+lamp shade, 77 55 140 127 
+ottoman, 101 52 217 174 
+bed mattress, 27 0 231 174 
+pillow, 55 26 172 155 
+chaise lounge, 69 0 219 148 
+mattress, 244 105 239 191 
+mattress, 243 108 216 179 
+rug, 255 62 256 217 
+door, 255 234 200 78 
+puffy object, 152 104 65 3 
+puffy object, 111 70 80 35 
+puffy object, 209 190 90 58 
+puffy object, 255 236 79 40 
+ceiling, 256 8 51 1 
+night stand, 82 58 173 157 
+lamp, 78 54 159 127 
+hanging bird, 253 168 46 1 
+changing table, 24 1 244 173 
+crib, 250 105 251 144 

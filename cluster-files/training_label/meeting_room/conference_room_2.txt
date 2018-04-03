@@ -1,0 +1,24 @@
+screen, 473 247 178 11 
+door, 622 518 276 27 
+wall, 75 2 309 3 
+wall, 623 71 274 1 
+television, 197 94 148 58 
+television case, 211 72 206 34 
+podium, 299 184 351 212 
+floor, 187 2 449 286 
+floor, 622 451 449 273 
+table, 460 2 449 200 
+chair, 23 2 224 193 
+chair, 452 274 449 393 
+chair, 484 336 418 299 
+chair, 499 459 303 264 
+chair, 619 481 436 223 
+person, 112 14 220 129 
+person, 176 102 210 132 
+person, 271 186 207 124 
+person, 493 390 219 142 
+person, 573 504 285 144 
+person, 565 394 339 152 
+object, 311 275 312 296 
+object, 217 174 370 348 
+object, 197 161 173 157 

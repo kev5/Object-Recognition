@@ -1,0 +1,39 @@
+painting, 61 40 139 89 
+painting, 32 8 141 85 
+decorative fish, 123 73 46 22 
+towel, 209 193 154 117 
+towel, 204 194 136 120 
+towel, 13 3 168 103 
+drawyers, 161 111 255 177 
+toilet, 251 226 220 194 
+bouquet, 179 164 162 100 
+counter, 217 4 191 151 
+candle, 122 111 166 144 
+sink, 80 20 180 172 
+sink, 186 151 168 164 
+sink, 78 18 181 172 
+soap, 78 62 170 163 
+soap, 146 130 167 160 
+cabinet, 216 2 254 171 
+mirror, 73 3 156 1 
+mirror, 173 118 156 18 
+cup, 91 81 79 72 
+cup, 104 94 79 72 
+ceiling lamp, 149 138 14 8 
+ceiling lamp, 254 242 36 31 
+ceiling lamp, 73 27 54 34 
+ceiling lamp, 58 45 16 9 
+ceiling lamp, 39 26 62 54 
+towel rack, 254 241 132 126 
+towel rack, 213 194 119 100 
+sink faucet, 163 151 163 147 
+sink faucet, 53 23 172 152 
+plant, 253 214 254 210 
+shelf, 125 68 125 118 
+shelf, 125 66 90 78 
+shelf, 123 70 55 40 
+bottle, 85 79 118 107 
+bottle, 91 87 118 109 
+bottle, 96 90 120 108 
+air vent, 29 9 43 33 
+ceiling, 254 75 50 2 

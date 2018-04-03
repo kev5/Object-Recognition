@@ -1,0 +1,16 @@
+picture, 198 110 219 110 
+ceiling, 604 57 59 0 
+window, 619 488 323 104 
+curtain, 667 445 441 52 
+curtain, 605 477 211 85 
+bed, 421 192 474 209 
+canopy, 541 122 522 6 
+rocking chair, 142 46 434 277 
+switch, 25 6 233 213 
+cushion, 374 314 281 259 
+cushion, 369 323 260 234 
+cushion, 387 305 274 215 
+furniture crop, 689 618 526 307 
+wall, 351 0 410 0 
+wall, 689 345 423 0 
+floor, 689 0 526 323 

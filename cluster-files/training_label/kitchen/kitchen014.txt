@@ -1,0 +1,62 @@
+bread, 240 155 602 546 
+tea pot, 459 411 453 402 
+window, 1023 707 373 146 
+ceiling, 1174 332 123 1 
+wood floor, 998 248 895 647 
+basket of apples, 1198 1029 167 75 
+curtains, 798 706 371 179 
+heart, 920 858 160 113 
+birds, 1050 965 145 98 
+horse, 811 753 170 125 
+sink, 999 781 456 422 
+faucet, 920 881 433 397 
+dishwasher, 661 574 685 456 
+oven, 576 420 783 495 
+cabinet, 416 339 826 600 
+cabinet, 333 61 901 591 
+counter, 448 89 666 540 
+drying rack, 1202 1007 743 341 
+dried herbs, 1123 1037 719 576 
+dried herbs, 1200 1142 730 578 
+dried herbs, 1059 1020 546 380 
+dried herbs, 1127 1050 546 377 
+dried herbs, 1202 1159 572 380 
+dried herbs, 1185 1080 585 390 
+jug, 1167 1074 828 679 
+jug, 634 579 426 348 
+light, 640 584 38 20 
+light, 772 730 107 89 
+light, 1028 972 70 53 
+house, 701 680 234 208 
+candle, 813 804 365 319 
+candle, 977 966 367 319 
+soap dispenser, 963 940 436 415 
+apple, 1128 1089 105 87 
+apple, 1166 1130 102 89 
+apple, 1197 1167 102 91 
+microwave, 489 323 323 198 
+pot, 721 671 428 374 
+rooster, 703 674 303 273 
+drawer, 735 663 491 458 
+cubbord, 739 660 644 493 
+cubbord, 984 856 685 509 
+cubbord, 858 749 665 499 
+cubbord, 213 78 579 2 
+cubbord, 311 205 547 2 
+stove top, 573 325 528 450 
+burner, 464 381 482 468 
+burner, 525 457 468 453 
+burner, 412 327 479 459 
+drapes, 1029 978 368 153 
+bowl of fruit, 679 635 435 402 
+wooden utencils, 714 649 376 335 
+bowl with diced vegis, 608 565 433 400 
+mixing bowl, 562 472 450 400 
+handle, 552 515 408 383 
+rug, 967 599 801 671 
+sliced bread, 261 210 619 594 
+sliced bread, 329 284 580 548 
+sliced bread, 287 249 586 557 
+ceiling lamp, 889 846 269 77 
+cabinets, 662 318 340 3 
+wall, 1198 325 460 58 

@@ -1,0 +1,4 @@
+refrigeratory, 512 452 325 16 
+microwave oven, 41 2 150 111 
+pipe, 423 417 182 3 
+floor, 508 20 340 252 

@@ -1,0 +1,15 @@
+plant, 126 90 121 44 
+plant, 255 192 159 0 
+chair, 225 118 243 101 
+chair, 104 6 224 92 
+chair top, 69 26 108 84 
+chair top, 200 160 113 86 
+place mat, 102 49 121 112 
+place mat, 165 119 128 119 
+place mat, 158 121 115 109 
+table, 166 39 218 106 
+window, 174 152 87 0 
+rug, 245 2 254 170 
+wall outlet, 227 221 135 126 
+door frame, 79 0 156 1 
+barbacue, 73 42 102 69 

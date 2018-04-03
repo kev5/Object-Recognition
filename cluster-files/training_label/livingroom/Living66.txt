@@ -1,0 +1,35 @@
+ceiling, 1198 496 74 3 
+arm chair, 240 3 900 641 
+plant, 88 5 569 347 
+framed mirror, 536 131 470 42 
+window, 834 707 442 165 
+window, 1120 986 179 85 
+window, 1200 1128 168 73 
+lamp, 929 887 236 213 
+lamp, 831 753 446 312 
+lamp, 720 595 450 246 
+lamp, 140 2 497 285 
+books, 805 762 449 432 
+fruit bowl, 780 713 448 380 
+end table, 841 701 577 439 
+end table, 216 2 695 526 
+chair, 967 795 578 390 
+canister, 139 104 553 516 
+plate, 170 98 569 553 
+garland, 574 64 637 1 
+candle in holder, 955 872 658 440 
+decorative bowl, 859 796 633 590 
+vase, 815 707 647 566 
+stack of books, 833 703 688 632 
+sofa, 819 271 900 789 
+sofa, 1200 845 773 438 
+sofa, 734 151 778 429 
+coffee table, 1067 497 857 606 
+pillow, 356 231 595 482 
+pillow, 673 568 539 447 
+pillow, 1035 924 554 460 
+pillow, 953 847 479 415 
+glass door, 1118 982 443 178 
+glass door, 1200 1123 458 172 
+wall, 965 2 636 1 
+stone figure, 728 682 691 654 

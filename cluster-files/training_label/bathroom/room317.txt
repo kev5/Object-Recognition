@@ -1,0 +1,21 @@
+toilet, 198 119 189 85 
+toilet, 199 117 190 83 
+painting, 162 135 38 0 
+painting, 200 178 34 0 
+toilet paper, 186 166 92 79 
+sink, 99 24 196 87 
+bouquet, 144 91 192 143 
+mirror, 45 13 78 39 
+curtain, 81 41 75 0 
+picture frame, 43 12 79 38 
+bidet, 248 188 169 110 
+bathtub, 255 171 254 181 
+towel, 108 89 146 82 
+sink faucet, 65 38 97 79 
+soap, 43 32 101 91 
+towel rack, 110 92 90 66 
+toothbrush, 110 95 46 25 
+bottle, 58 46 72 51 
+bottle, 48 41 75 59 
+window, 62 0 72 1 
+floor, 254 0 255 156 

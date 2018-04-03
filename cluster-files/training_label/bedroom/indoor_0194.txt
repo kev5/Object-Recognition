@@ -1,0 +1,20 @@
+ceiling, 210 78 17 1 
+wall, 298 130 179 1 
+wall, 133 2 197 1 
+window, 190 143 136 33 
+window, 296 252 159 26 
+bed, 225 56 224 135 
+cushion, 117 86 178 146 
+cushion, 135 111 165 147 
+floor lamp, 70 47 200 89 
+door, 36 4 190 39 
+picture, 90 80 77 68 
+picture, 105 95 97 88 
+picture, 106 96 61 51 
+picture, 105 95 80 67 
+picture, 118 110 79 72 
+picture, 229 209 85 66 
+picture, 224 213 103 90 
+table crop, 299 214 225 157 
+furniture, 40 2 225 192 
+floor, 299 2 224 163 

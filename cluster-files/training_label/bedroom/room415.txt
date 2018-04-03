@@ -1,0 +1,15 @@
+pillow, 94 55 139 105 
+pillow, 96 28 140 98 
+pillow, 78 2 128 86 
+lamp, 126 98 98 56 
+painting, 196 145 87 11 
+painting, 68 2 56 0 
+curtains, 252 214 164 2 
+plant, 134 114 108 82 
+stack of suitcases, 56 2 202 127 
+bed, 212 1 247 62 
+night stand, 137 96 126 99 
+carpet, 255 68 254 158 
+box, 58 1 204 149 
+box, 43 1 164 128 
+dresser, 65 0 253 173 

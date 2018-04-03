@@ -1,0 +1,15 @@
+conference table, 255 57 255 158 
+cabinet, 223 133 149 56 
+television, 77 19 109 55 
+window, 123 47 127 55 
+chair top, 181 141 159 147 
+chair, 63 3 254 188 
+chair, 76 25 233 172 
+chair, 91 48 204 156 
+chair, 109 72 178 146 
+chair, 248 204 186 148 
+chair part, 256 230 203 160 
+plant, 102 86 129 113 
+television stand, 84 14 179 105 
+ceiling lamp, 204 140 14 0 
+ceiling, 255 27 25 0 

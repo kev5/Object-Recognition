@@ -1,0 +1,21 @@
+mirror, 135 54 114 17 
+mirror, 136 55 115 18 
+cabinet, 237 135 100 28 
+cabinet, 254 51 240 136 
+counter, 256 49 160 122 
+towel, 150 133 132 110 
+towel, 160 147 125 108 
+towel, 94 54 148 139 
+towel, 221 196 135 114 
+sink faucet, 112 93 137 120 
+plant, 242 208 131 71 
+curtain, 255 239 114 17 
+bottle, 167 163 128 114 
+bottle, 123 117 133 121 
+bottle, 75 67 140 132 
+bottle, 82 76 138 129 
+bottle, 88 79 139 124 
+bottle, 185 177 131 123 
+picture frame, 252 239 132 116 
+floor, 255 55 254 200 
+sink, 129 91 145 136 

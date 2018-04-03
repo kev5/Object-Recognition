@@ -1,0 +1,20 @@
+door, 433 337 277 4 
+refrigerator, 319 201 313 38 
+microwave oven, 177 96 161 117 
+range hood, 609 532 77 31 
+oven, 610 483 405 191 
+faucet, 560 529 182 151 
+cabinets, 322 82 72 1 
+cabinets, 489 452 344 184 
+cabinets, 203 78 284 171 
+handle, 140 136 67 43 
+handle, 152 148 68 45 
+drawer, 562 523 288 228 
+drawer, 602 560 320 252 
+dishwasher, 456 432 310 170 
+mop handle, 37 24 189 99 
+sink, 579 486 192 180 
+tile, 348 284 438 388 
+tile, 236 165 437 394 
+counter, 165 2 479 197 
+overhead cabinets, 157 155 58 57 

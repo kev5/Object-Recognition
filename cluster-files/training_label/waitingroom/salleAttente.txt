@@ -1,0 +1,19 @@
+ceiling, 49 0 6 0 
+picture, 174 122 72 7 
+screen, 150 79 223 68 
+screen occluded, 70 16 179 67 
+screen crop, 256 224 255 79 
+wall, 255 30 255 0 
+wall, 30 0 154 3 
+column, 18 0 182 125 
+column, 241 177 256 202 
+plant, 13 0 125 108 
+plant, 221 197 210 193 
+chair, 181 100 219 136 
+chair, 80 21 225 140 
+chair occluded, 81 64 140 115 
+chair occluded, 224 140 208 144 
+chair occluded, 225 118 256 177 
+door, 59 36 144 36 
+door occluded, 23 0 136 39 
+floor, 246 0 255 154 

@@ -1,0 +1,23 @@
+basket, 79 49 121 88 
+decoration, 70 24 133 87 
+elf, 92 77 129 105 
+elf, 26 8 145 112 
+dry erase board, 92 0 119 33 
+shelf, 93 4 204 117 
+candle, 119 84 152 128 
+phone, 148 106 144 112 
+pen set, 184 155 155 126 
+business cards, 184 168 166 154 
+business cards, 199 186 172 156 
+papers, 235 145 158 132 
+files, 278 203 185 141 
+desk, 316 49 240 112 
+floor, 320 263 240 188 
+floor, 202 0 240 183 
+wall, 232 0 201 0 
+wall, 320 255 17 0 
+object, 273 228 20 0 
+object, 152 107 144 128 
+object, 280 262 125 103 
+monitor, 320 292 119 84 
+back of chair, 265 207 142 95 

@@ -1,0 +1,4 @@
+microwave oven, 247 134 102 18 
+mug, 154 136 178 163 
+dish washer, 132 24 255 211 
+counter top, 255 2 232 170 

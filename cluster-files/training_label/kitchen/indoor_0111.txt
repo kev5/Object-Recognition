@@ -1,0 +1,13 @@
+cupboard, 296 110 59 1 
+cupboard, 191 98 240 135 
+wall, 135 19 234 2 
+wall, 295 132 239 1 
+wall, 51 2 240 1 
+wall, 299 281 240 2 
+sink, 183 103 138 115 
+stove, 286 193 240 116 
+worktop, 221 91 154 110 
+cupboard occluded, 70 45 240 189 
+cupboard occluded, 285 263 237 135 
+window, 76 20 151 4 
+floor, 279 52 240 192 

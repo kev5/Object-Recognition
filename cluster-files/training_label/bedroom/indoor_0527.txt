@@ -1,0 +1,13 @@
+picture, 184 2 318 98 
+ceiling, 448 99 78 2 
+rail, 448 340 128 103 
+curtain, 448 373 492 107 
+bed crop, 448 2 600 327 
+night table occluded, 295 220 463 419 
+flower, 263 225 423 330 
+lamp, 286 255 428 370 
+lamp, 343 276 172 5 
+wall, 268 2 585 2 
+wall, 447 269 523 39 
+pillow, 146 6 523 440 
+pillow, 244 104 483 417 

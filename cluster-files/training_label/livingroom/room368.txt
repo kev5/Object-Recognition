@@ -1,0 +1,30 @@
+painting, 62 37 57 36 
+painting, 172 149 67 47 
+picture, 172 149 65 44 
+small table, 137 61 171 129 
+small table, 39 0 255 197 
+pillow, 100 74 116 101 
+pillow, 46 22 124 102 
+pillow, 233 193 156 134 
+pillow, 161 103 179 157 
+armchair, 256 219 135 78 
+sofa, 119 10 158 93 
+sofa, 256 73 255 139 
+sofa, 37 0 201 137 
+phone, 47 0 235 204 
+chair, 151 129 103 75 
+chair, 190 176 90 75 
+chair, 204 184 92 76 
+desk, 183 140 106 75 
+ceiling, 255 0 31 0 
+fan, 131 68 32 9 
+door frame, 118 105 98 37 
+sideboard, 88 26 97 60 
+place mat, 115 81 144 135 
+wall outlet, 213 208 75 70 
+wall outlet, 100 96 71 66 
+cabinet, 234 213 120 81 
+window, 111 105 61 48 
+lamp, 156 144 78 67 
+cabinets, 207 191 83 33 
+rug, 171 132 115 106 

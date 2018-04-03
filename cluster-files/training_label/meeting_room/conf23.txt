@@ -1,0 +1,35 @@
+tv, 37 10 97 67 
+conference table, 252 143 195 119 
+printer, 245 214 110 83 
+window, 76 46 85 50 
+window, 205 182 87 58 
+television, 39 7 102 64 
+curtain, 207 178 96 50 
+curtain, 95 41 99 47 
+cabinet, 179 125 106 50 
+cabinet, 251 209 71 51 
+cabinet, 256 243 83 65 
+cabinet, 77 0 255 126 
+cabinet, 44 0 130 60 
+cabinet, 130 104 139 125 
+cabinet, 164 119 124 111 
+magazine, 256 228 181 171 
+armchair, 129 74 172 114 
+armchair, 187 119 237 145 
+armchair, 253 179 254 160 
+armchair top, 194 166 122 109 
+armchair top, 157 126 164 124 
+armchair top, 187 147 171 132 
+armchair top, 253 228 131 111 
+armchair part, 255 221 254 211 
+ceiling lamp, 252 186 41 30 
+ceiling lamp, 110 0 34 25 
+ceiling lamp, 204 140 49 40 
+ceiling lamp, 84 7 44 39 
+desk, 256 209 126 105 
+ceiling, 254 0 52 0 
+counter, 73 0 204 120 
+counter, 124 99 124 119 
+counter, 166 118 114 108 
+speaker, 10 1 60 52 
+speaker, 45 33 63 53 

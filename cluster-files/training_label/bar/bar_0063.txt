@@ -1,0 +1,24 @@
+ceiling, 256 2 47 0 
+bar, 255 0 201 107 
+wall, 26 0 116 4 
+wall, 256 25 113 4 
+lamp, 33 18 65 0 
+lamp, 81 67 65 1 
+lamp, 119 107 67 0 
+lamp, 153 142 71 0 
+lamp, 194 182 70 1 
+lamp, 237 225 70 1 
+bottles, 191 143 111 95 
+bottles, 131 30 116 94 
+mirror, 190 25 110 13 
+stool occluded, 46 0 240 120 
+stool occluded, 164 111 219 117 
+stool occluded, 205 162 202 114 
+stool occluded, 256 216 172 114 
+stool occluded, 255 230 167 138 
+stool occluded, 69 0 256 170 
+stool, 120 63 224 119 
+table occluded, 256 216 188 166 
+stool crop, 243 163 255 170 
+table crop, 197 29 256 221 
+floor, 256 0 256 177 

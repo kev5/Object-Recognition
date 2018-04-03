@@ -1,0 +1,50 @@
+light switch, 786 772 521 497 
+figurine, 988 957 648 544 
+figurine, 470 434 610 524 
+figurine, 676 644 402 365 
+window, 644 466 402 197 
+chair, 867 740 662 540 
+chair, 1168 987 711 558 
+chair, 595 334 898 576 
+chair, 436 241 808 434 
+chair, 357 150 899 546 
+candle, 958 878 734 530 
+candle, 585 537 650 517 
+table, 1196 275 900 607 
+pillar, 992 845 672 242 
+pillar, 1200 1144 718 199 
+cross, 44 2 217 113 
+sculpture, 334 300 342 265 
+sculpture, 432 399 406 356 
+cove, 440 391 411 302 
+cove, 352 291 349 240 
+cove, 62 2 228 93 
+cabinet, 685 468 499 393 
+tile, 136 101 489 454 
+tile, 175 140 489 455 
+tile, 211 177 489 456 
+pot, 62 7 422 382 
+pot, 24 2 737 693 
+pot, 64 16 740 709 
+pot, 738 679 678 632 
+pot, 685 579 663 568 
+candle on stand, 123 50 740 527 
+plate, 535 465 576 497 
+plate, 635 572 564 500 
+potted plant, 623 458 584 436 
+bowl, 666 579 577 556 
+bowl, 907 762 712 618 
+side table, 732 468 631 573 
+chimney, 449 2 846 1 
+fireplace, 250 121 684 528 
+fireplace screen, 243 141 609 532 
+pictures on hook, 774 735 326 236 
+picture on hook, 734 709 394 328 
+picture on hook, 772 735 414 323 
+picture on hook, 802 774 391 323 
+picture on hook, 796 774 446 393 
+picture on hook, 731 708 443 393 
+picture on hook, 770 732 508 413 
+chandelier, 891 472 313 1 
+door, 1171 1123 713 414 
+candle in holder, 750 688 632 500 

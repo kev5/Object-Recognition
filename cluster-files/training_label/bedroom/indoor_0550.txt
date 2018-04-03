@@ -1,0 +1,7 @@
+bed, 617 13 423 137 
+night table occluded, 421 335 168 104 
+lamp, 387 355 101 38 
+socket, 457 444 159 138 
+wall, 393 3 252 2 
+wall, 639 391 272 2 
+floor, 640 2 427 171 

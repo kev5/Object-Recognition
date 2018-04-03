@@ -1,0 +1,27 @@
+television, 255 221 134 89 
+television, 211 194 69 49 
+lamp, 88 52 121 71 
+painting, 171 141 72 30 
+painting, 171 141 113 76 
+vase, 101 65 216 174 
+vase, 93 56 192 145 
+small table, 194 7 248 169 
+curtain, 29 0 114 12 
+curtain, 105 84 105 23 
+sofa, 89 1 212 109 
+armchair, 185 112 174 104 
+plant, 127 90 176 133 
+plant, 97 72 120 104 
+ottoman, 255 172 192 144 
+side table, 104 58 129 120 
+box, 166 96 205 171 
+television cabinet, 255 185 149 31 
+statue, 255 231 84 54 
+ceiling, 255 0 24 0 
+book, 69 34 211 189 
+pillow, 163 129 134 115 
+ceiling lamp, 136 124 15 10 
+instrument, 168 98 220 200 
+window, 86 24 118 26 
+candle, 97 92 112 93 
+candle, 91 85 112 98 

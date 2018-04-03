@@ -1,0 +1,22 @@
+bulletin board, 147 1 168 47 
+map, 256 189 122 50 
+papers, 87 42 99 63 
+papers, 124 30 158 66 
+table, 255 1 256 208 
+chair, 173 98 210 180 
+chair, 89 28 223 183 
+chair, 255 195 231 187 
+books, 221 133 255 227 
+books, 222 131 255 224 
+chair top, 149 75 220 201 
+chair top, 255 196 230 184 
+chair top, 87 29 237 184 
+chair top, 46 1 245 208 
+chair top, 173 100 212 180 
+chair part, 255 241 234 206 
+laminating machine, 225 63 248 206 
+paper, 221 148 255 234 
+paper, 120 93 65 47 
+paper, 18 1 98 73 
+paper, 26 0 141 103 
+paper, 28 5 68 49 

@@ -1,0 +1,14 @@
+microwave, 610 536 250 210 
+oven, 351 267 477 318 
+stove, 338 189 314 288 
+range hood, 340 202 147 2 
+fridge, 123 2 480 54 
+kettle, 349 317 282 236 
+dishwasher, 613 541 377 260 
+washing machine, 544 469 389 260 
+window, 499 352 249 80 
+drawer, 268 199 386 323 
+kitchen unit, 367 271 189 10 
+wall, 636 369 239 29 
+wall, 353 116 313 151 
+floor, 637 320 478 374 

@@ -1,0 +1,22 @@
+painting, 57 30 38 0 
+painting, 95 73 34 0 
+Toilet, 139 83 163 108 
+Toilet, 90 13 185 83 
+bathtub, 254 65 252 153 
+bottle, 203 196 98 85 
+bottle, 239 219 255 210 
+bath faucet, 255 215 200 127 
+curtain, 236 173 158 0 
+bouquet, 203 154 101 41 
+bouquet, 38 0 192 141 
+window, 215 140 112 0 
+towel, 255 238 117 77 
+bidet, 141 83 166 111 
+toilet, 92 12 188 83 
+toilet paper, 80 60 92 77 
+soap, 250 241 250 237 
+counter, 255 177 254 200 
+shelf, 251 233 45 25 
+candle, 246 235 26 1 
+towel rack, 244 235 85 74 
+floor, 180 0 254 152 

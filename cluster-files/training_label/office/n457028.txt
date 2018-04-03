@@ -1,0 +1,26 @@
+file cabinets, 109 0 254 78 
+chair, 166 126 141 106 
+chair, 99 71 113 86 
+monitor, 70 52 106 90 
+monitor, 80 72 80 73 
+chair top, 36 24 88 71 
+chair top, 99 85 79 66 
+chair top, 153 141 73 63 
+desk, 179 111 253 121 
+desk separator, 152 94 124 80 
+desk separator, 252 156 190 78 
+desk separator, 44 5 79 61 
+desk separator, 254 171 92 62 
+desk separator, 70 25 96 55 
+window, 192 125 76 15 
+window, 80 59 56 28 
+window, 98 84 54 29 
+curtain, 255 227 73 9 
+ceiling, 255 0 18 0 
+door, 19 0 80 26 
+door, 52 28 58 29 
+ceiling lamp, 83 29 5 0 
+ceiling lamp, 104 65 12 6 
+ceiling lamp, 174 137 11 5 
+ceiling lamp, 39 0 13 8 
+ceiling lamp, 64 32 17 12 

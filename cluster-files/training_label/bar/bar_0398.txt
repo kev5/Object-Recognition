@@ -1,0 +1,37 @@
+tv, 467 289 159 0 
+ceiling, 805 653 20 0 
+ceiling, 288 165 12 0 
+window, 575 454 263 55 
+window, 98 0 394 15 
+table, 838 438 690 390 
+table occluded, 570 228 453 376 
+table occluded, 181 0 592 485 
+table occluded, 514 0 767 533 
+person sitting occluded, 419 303 385 265 
+person sitting occluded, 579 449 386 226 
+person sitting occluded, 675 557 392 233 
+person sitting occluded, 782 640 401 214 
+person sitting occluded, 364 205 516 252 
+person sitting occluded, 260 0 511 243 
+person sitting, 995 774 654 225 
+person occluded, 264 134 375 175 
+helmet, 446 384 408 337 
+helmet, 328 205 592 484 
+bag, 520 342 640 484 
+camera, 123 50 761 685 
+camera, 55 2 730 666 
+paper cup, 305 278 422 380 
+paper cup, 708 678 441 403 
+paper cup, 335 283 666 572 
+bottle, 772 749 415 342 
+bottle, 515 498 416 340 
+bottle, 386 362 403 347 
+bottle, 482 463 398 327 
+dish, 411 329 429 403 
+chair, 685 490 713 445 
+cap, 121 3 669 582 
+chair crop, 628 561 767 613 
+wall, 807 457 264 1 
+wall, 1021 258 576 1 
+wall, 273 0 559 1 
+floor, 1022 2 767 452 

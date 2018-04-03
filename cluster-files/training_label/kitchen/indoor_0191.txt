@@ -1,0 +1,19 @@
+trash, 58 14 248 187 
+feeding bottle, 168 159 154 128 
+sink, 145 91 153 134 
+faucet, 136 121 140 121 
+flask, 184 171 155 129 
+worktop, 185 76 179 133 
+cupboard, 130 77 273 141 
+cupboard, 212 171 300 197 
+cupboard, 137 105 65 1 
+cupboard, 202 136 84 1 
+cupboard, 224 170 33 1 
+stove, 214 130 299 148 
+extractor hood, 221 155 60 26 
+wall, 82 25 129 1 
+wall, 138 2 236 1 
+wall, 224 132 298 1 
+cupboard crop, 20 2 271 143 
+floor, 223 2 300 210 
+tin, 88 80 130 115 

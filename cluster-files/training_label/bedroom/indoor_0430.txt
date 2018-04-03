@@ -1,0 +1,19 @@
+large window, 290 229 213 21 
+mirror, 464 372 155 40 
+curtain, 260 229 200 19 
+picture, 205 180 89 27 
+picture crop, 26 2 85 1 
+lamp, 241 200 171 98 
+lamp, 82 2 333 102 
+lamp, 487 445 179 128 
+chest of drawers occluded, 506 321 231 171 
+bed crop, 510 58 410 119 
+pillow occluded, 155 76 263 155 
+cushion, 201 119 261 155 
+cushion, 231 189 242 189 
+telephone, 106 56 317 293 
+night table crop, 128 14 409 295 
+wall, 510 309 262 1 
+wall, 317 290 252 1 
+wall, 295 219 229 2 
+wall, 220 2 399 1 

@@ -1,0 +1,46 @@
+projection screen, 128 75 135 63 
+ceiling, 256 1 66 1 
+table, 256 177 228 204 
+table, 191 51 238 212 
+table, 255 212 160 151 
+table, 247 173 157 147 
+table, 178 17 168 158 
+table, 88 7 185 176 
+table, 160 88 182 173 
+table, 220 157 180 170 
+table, 77 11 175 168 
+table, 140 78 173 166 
+table, 190 139 171 163 
+tables, 255 45 208 184 
+chair top, 226 204 187 174 
+chair top, 197 175 188 175 
+chair top, 158 133 191 177 
+chair top, 125 100 192 177 
+chair top, 81 53 195 180 
+chair top, 124 70 256 232 
+chair top, 187 138 255 227 
+chair top, 256 216 247 219 
+chair top, 43 17 178 172 
+chair top, 72 47 177 171 
+chair top, 110 88 176 169 
+chair top, 138 115 176 169 
+chair top, 172 155 174 167 
+chair top, 196 178 172 166 
+chair top, 98 60 217 203 
+chair top, 146 110 214 199 
+chair top, 202 170 211 197 
+chair top, 244 214 207 193 
+chair, 44 10 229 181 
+painting, 42 18 121 96 
+overhead projector, 153 135 150 116 
+podium, 193 167 150 125 
+microphone, 181 171 124 118 
+microphone, 63 54 138 129 
+row of chairs, 175 22 170 160 
+projector, 113 100 58 49 
+small table, 209 184 151 143 
+desk, 43 0 165 140 
+desk, 77 43 160 140 
+desk, 110 79 159 140 
+speaker, 157 145 66 49 
+speaker, 86 73 53 35 

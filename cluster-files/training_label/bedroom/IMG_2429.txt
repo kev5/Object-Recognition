@@ -1,0 +1,18 @@
+painting, 1824 1382 337 2 
+painting, 878 337 379 2 
+wall, 2048 2 1022 2 
+wall, 64 2 1118 612 
+floor, 2048 2 1537 847 
+bed, 1335 5 1537 650 
+alarm clock, 1274 1182 677 632 
+light, 1275 1053 680 304 
+phone, 1121 1005 776 626 
+phone book, 1233 1096 945 829 
+headboard, 996 269 709 440 
+headboard, 1893 1300 663 405 
+curtain, 86 13 478 51 
+bed-side table, 1326 1032 982 666 
+drawer, 1300 1090 813 733 
+carpet, 2040 13 1530 956 
+hotel room, 2036 6 1526 10 
+palm tree, 1673 1444 274 54 

@@ -1,0 +1,16 @@
+towels, 158 117 91 10 
+toilet paper, 199 176 169 139 
+toilet, 244 147 256 148 
+sink, 91 0 256 147 
+sink, 86 25 192 154 
+shower, 172 0 251 0 
+towel, 159 119 91 37 
+towel, 147 123 58 11 
+towel, 31 0 205 83 
+towel rack, 171 144 46 11 
+sink faucet, 34 21 167 156 
+clothes hamper, 241 181 255 170 
+shower door, 78 1 154 2 
+bottle, 8 1 51 27 
+shower faucet, 29 7 110 87 
+counter, 86 17 240 193 

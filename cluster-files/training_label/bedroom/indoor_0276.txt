@@ -1,0 +1,14 @@
+ceiling, 295 2 54 2 
+window, 284 239 109 55 
+curtain, 253 222 135 48 
+bed, 248 45 335 150 
+furniture, 295 240 449 192 
+lamp, 148 115 117 84 
+lamp, 42 20 93 70 
+chest of drawers, 264 205 198 164 
+door, 31 2 449 149 
+wall, 296 222 273 32 
+wall, 230 2 247 40 
+wall, 34 2 449 41 
+floor, 296 16 447 210 
+carpet, 244 27 446 274 

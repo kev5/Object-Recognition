@@ -1,0 +1,19 @@
+refridgerator, 245 185 241 101 
+counter, 185 0 215 149 
+counter, 184 78 160 143 
+oven, 77 49 151 103 
+cabinets, 188 10 255 170 
+cabinets, 256 172 128 69 
+cabinets, 46 15 130 91 
+cabinets, 185 64 177 149 
+cabinet, 139 116 127 94 
+cabinet, 88 77 127 96 
+stove, 140 46 184 157 
+fruit bowl, 171 140 186 169 
+window, 173 137 140 90 
+microwave, 115 88 132 115 
+coffee maker, 183 170 152 131 
+ceiling, 115 1 41 1 
+sink, 66 37 160 151 
+plant, 133 112 145 129 
+jars, 37 11 155 135 

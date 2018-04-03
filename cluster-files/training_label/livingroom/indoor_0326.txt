@@ -1,0 +1,24 @@
+ceiling, 423 35 26 1 
+large window, 345 55 221 32 
+chair occluded, 364 311 231 167 
+picture, 454 413 153 101 
+bureau, 449 347 273 175 
+tv stand, 505 421 276 194 
+tv, 503 446 208 157 
+floor lamp, 375 341 174 109 
+floor lamp, 107 2 404 97 
+table, 301 214 307 222 
+sofa occluded, 210 15 344 171 
+rocking chair, 241 10 405 194 
+pot, 168 150 208 189 
+plant, 184 138 193 169 
+lamp, 147 101 196 137 
+cushion, 140 83 240 181 
+table crop, 501 388 360 266 
+chair crop, 501 385 406 292 
+magazine, 272 232 247 235 
+wall, 508 345 268 1 
+wall, 355 30 245 1 
+wall, 72 2 405 1 
+carpet, 472 184 406 222 
+floor, 508 6 406 225 

@@ -1,0 +1,23 @@
+ceiling, 223 7 64 1 
+lamp, 105 79 15 2 
+lamp, 107 90 50 41 
+lamp, 38 23 41 33 
+wall, 192 41 248 62 
+wall, 43 2 299 52 
+wall, 224 184 299 45 
+floor, 221 2 300 248 
+cupboard, 41 5 142 64 
+cupboard, 104 44 142 67 
+cupboard, 165 103 142 67 
+cupboard, 223 196 299 223 
+cupboard, 63 23 280 192 
+cupboard, 97 64 264 192 
+cupboard, 170 157 267 193 
+extractor hood, 222 193 146 120 
+stove, 219 164 299 195 
+microwave, 216 164 186 153 
+fridge, 31 3 298 132 
+sink, 57 22 188 178 
+dishwasher, 159 98 266 192 
+worktop, 220 20 197 177 
+rug, 153 48 298 264 

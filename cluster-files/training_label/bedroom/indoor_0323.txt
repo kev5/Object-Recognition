@@ -1,0 +1,27 @@
+curtain, 288 262 183 73 
+door, 261 244 220 53 
+door, 170 117 237 39 
+washbasin, 276 262 210 176 
+picture, 394 354 118 77 
+picture, 510 440 206 1 
+picture occluded, 88 71 134 81 
+closet, 236 215 235 15 
+ceiling, 288 249 72 48 
+ceiling, 326 213 19 1 
+bath occluded, 291 277 203 180 
+wall, 327 239 225 16 
+wall, 123 67 215 27 
+wall, 247 201 240 2 
+wall, 210 127 241 1 
+wall, 128 2 336 2 
+wall, 409 322 247 2 
+wall, 508 400 341 1 
+chair occluded, 109 78 230 153 
+floor, 435 2 341 203 
+bed crop, 508 2 338 169 
+pillow, 482 368 337 199 
+pillow occluded, 421 362 258 171 
+table occluded, 367 344 241 216 
+lamp, 409 369 188 114 
+lamp, 282 266 32 10 
+switch, 355 339 137 123 

@@ -1,0 +1,16 @@
+picture, 436 341 144 15 
+picture, 96 45 87 41 
+sofa crop, 510 265 343 158 
+table, 302 180 341 214 
+lamp, 285 203 236 108 
+lamp, 89 58 174 97 
+night table, 106 55 234 173 
+bed occluded, 164 109 276 103 
+door, 61 21 321 1 
+wall, 50 2 334 1 
+wall, 158 35 232 1 
+wall, 508 158 309 1 
+carpet, 150 53 296 220 
+carpet, 508 227 394 298 
+floor, 510 2 390 222 
+furniture crop, 510 485 326 282 

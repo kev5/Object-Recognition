@@ -1,0 +1,20 @@
+Stove, 228 66 335 296 
+Island, 416 3 639 279 
+microwave, 274 212 259 212 
+sink, 179 100 256 222 
+Dishwasher, 195 134 296 260 
+Window, 116 4 287 85 
+Light, 72 27 251 7 
+Chair, 293 74 640 441 
+Chair, 127 6 637 475 
+Table, 273 3 532 342 
+Cupboards, 480 111 277 39 
+Drawers, 410 78 342 251 
+Drawers, 477 415 423 295 
+Floor, 480 3 640 429 
+Ceiling, 480 3 104 4 
+handle, 364 350 188 163 
+Backsplash, 207 156 244 199 
+Countertop, 405 13 406 286 
+Kitchen venting hood, 247 14 167 7 
+Recessed light, 200 184 59 42 

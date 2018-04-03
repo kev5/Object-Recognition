@@ -1,0 +1,10 @@
+Bath tub, 313 23 512 372 
+Bath tub, 77 2 511 494 
+Taps, 108 60 348 320 
+Bucket, 159 92 477 405 
+Faucet, 101 71 387 368 
+shower head, 113 80 68 35 
+curtain rod, 348 32 38 1 
+shower tile, 239 176 181 115 
+cleaner, 59 32 435 367 
+cleaner, 89 57 445 380 

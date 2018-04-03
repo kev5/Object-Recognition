@@ -1,0 +1,28 @@
+picture, 94 1 115 23 
+fireplace, 201 150 154 99 
+fireplace, 194 176 156 108 
+vase, 167 144 182 153 
+vase, 189 179 97 83 
+painting, 94 1 116 24 
+painting, 178 161 94 50 
+ceiling lamp, 197 96 67 0 
+bouquet, 168 151 98 75 
+bouquet, 181 130 186 118 
+place mat, 192 113 192 174 
+table, 246 55 222 164 
+chair top, 167 117 166 155 
+chair top, 175 63 255 223 
+chair, 96 24 231 161 
+chair, 254 214 224 156 
+chair, 255 183 255 203 
+chair, 77 0 255 184 
+sofa, 255 226 157 116 
+pillow, 253 237 135 118 
+basket, 212 193 158 134 
+television, 175 138 142 105 
+lamp, 239 228 99 91 
+window, 224 192 138 64 
+window, 255 234 124 63 
+ceiling, 255 79 49 1 
+curtain, 234 227 119 54 
+curtain, 192 186 94 53 

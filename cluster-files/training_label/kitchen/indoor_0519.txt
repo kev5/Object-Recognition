@@ -1,0 +1,17 @@
+ceiling, 550 278 27 2 
+window, 478 317 219 58 
+table, 555 388 450 274 
+shelf, 530 297 250 233 
+chair, 386 307 429 256 
+chair, 536 447 464 274 
+cupboard, 796 596 406 2 
+cupboard crop, 794 567 596 402 
+tv, 796 666 567 313 
+fridge occluded, 311 35 600 54 
+stove crop, 266 2 600 400 
+frying pan, 171 4 534 447 
+wall, 569 517 398 4 
+wall, 517 274 350 31 
+wall, 282 4 517 4 
+wall, 612 542 583 6 
+floor, 586 2 594 344 

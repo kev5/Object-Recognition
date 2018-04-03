@@ -1,0 +1,17 @@
+chaise lounge, 252 91 247 144 
+small table, 98 51 202 156 
+small table, 14 0 176 148 
+bed, 152 33 192 117 
+lamp, 169 150 134 114 
+lamp, 60 47 137 117 
+curtain, 169 53 128 31 
+pillow, 224 176 188 165 
+pillow, 195 158 177 159 
+ceiling, 150 1 23 1 
+ottoman, 187 91 242 182 
+door, 40 9 162 82 
+bouquet, 189 168 150 127 
+night stand, 168 146 177 139 
+books, 71 53 164 158 
+box, 92 71 164 159 
+rug, 190 1 254 168 

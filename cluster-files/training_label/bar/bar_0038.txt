@@ -1,0 +1,15 @@
+ceiling, 215 0 78 0 
+flag, 156 54 80 15 
+lamp, 88 39 14 0 
+screen, 34 6 111 90 
+bar, 215 0 296 143 
+shelves, 215 65 188 39 
+bottles, 159 99 163 122 
+glasses, 207 184 167 158 
+glasses, 190 163 131 122 
+glasses, 190 162 148 135 
+stool crop, 116 22 296 206 
+stool occluded, 51 0 295 184 
+wall, 215 37 181 1 
+wall, 40 0 152 76 
+floor, 67 0 295 249 

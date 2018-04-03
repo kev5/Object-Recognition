@@ -1,0 +1,8 @@
+wall, 253 2 194 1 
+wall, 299 264 173 1 
+sofa bed, 203 3 220 101 
+chair occluded, 264 185 161 113 
+table, 216 177 186 122 
+floor, 254 2 225 162 
+armchair crop, 299 242 225 154 
+shelves, 273 249 183 1 

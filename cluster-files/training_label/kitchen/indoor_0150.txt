@@ -1,0 +1,23 @@
+cupboard, 62 2 57 1 
+cupboard, 98 61 51 1 
+cupboard, 175 99 24 2 
+cupboard, 234 171 50 1 
+cupboard, 299 235 14 1 
+cupboard, 248 173 190 88 
+sink occluded, 78 12 171 133 
+dish rack, 60 2 214 141 
+food processor, 52 24 122 82 
+extractor hood, 176 98 40 23 
+socket, 15 6 93 77 
+teapot, 167 151 95 72 
+microwave, 225 175 94 65 
+fridge, 299 237 186 28 
+stove, 184 101 196 67 
+dishcloth, 160 133 159 120 
+cupboards, 104 66 225 111 
+worktop, 103 2 225 92 
+wall, 299 34 154 1 
+wall, 39 2 225 1 
+floor, 299 6 225 148 
+bottle, 96 87 107 72 
+can, 88 78 112 97 

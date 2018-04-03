@@ -1,0 +1,19 @@
+lamp, 162 136 128 88 
+lamp, 16 1 144 88 
+curtain, 241 208 133 15 
+curtain, 161 119 43 12 
+curtain, 43 0 25 0 
+painting, 115 51 104 10 
+bed, 241 26 252 108 
+pillow, 141 33 145 118 
+pillow, 134 69 146 127 
+night stand table, 34 0 206 139 
+night stand table, 175 141 137 122 
+clock, 19 6 141 126 
+window, 159 124 103 42 
+window, 33 0 111 22 
+window, 255 234 163 14 
+plant, 215 132 136 28 
+box, 170 159 123 116 
+ceiling, 244 138 14 0 
+carpet, 256 0 256 164 

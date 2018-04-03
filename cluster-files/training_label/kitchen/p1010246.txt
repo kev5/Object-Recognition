@@ -1,0 +1,14 @@
+hinge, 100 84 325 269 
+handle, 271 237 345 318 
+washing machine knobe, 393 331 236 202 
+control panel, 434 400 220 193 
+Oven Door, 422 359 470 295 
+blinds, 515 404 198 4 
+clothes washer, 475 330 431 199 
+clothes dryer, 510 393 384 192 
+tile, 551 492 439 409 
+tile, 547 479 460 433 
+floor, 619 409 478 350 
+door, 273 73 478 2 
+window, 637 523 191 2 
+reflection, 353 301 119 45 

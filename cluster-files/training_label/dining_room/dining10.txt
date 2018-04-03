@@ -1,0 +1,16 @@
+painting, 212 169 143 86 
+mirror, 120 16 141 78 
+bouquet, 143 103 160 129 
+ceiling lamp, 143 98 106 35 
+chair, 210 144 254 148 
+chair, 137 80 238 145 
+chair, 87 69 219 142 
+chair top, 162 147 158 139 
+chair top, 184 164 161 141 
+buffet, 72 41 186 145 
+rug, 255 18 256 189 
+table, 203 79 240 151 
+plant, 147 84 134 90 
+ceiling, 255 1 77 2 
+wall outlet, 16 9 175 166 
+wall outlet, 254 249 188 179 

@@ -1,0 +1,11 @@
+sofa, 246 12 161 47 
+cushion, 202 158 95 59 
+cushion, 98 46 96 63 
+table, 296 114 185 92 
+table occluded, 293 242 102 81 
+large window, 192 18 48 1 
+wall, 275 2 136 1 
+wall, 299 274 106 1 
+floor, 299 2 224 100 
+magazine, 263 209 149 134 
+magazine, 204 146 164 144 

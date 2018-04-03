@@ -1,0 +1,16 @@
+mirror, 188 112 283 39 
+window, 332 237 242 40 
+ceiling, 510 342 124 1 
+bed crop, 508 201 409 168 
+cuddly toy, 348 272 268 241 
+cushion occluded, 424 383 247 190 
+cushion, 486 400 260 181 
+cushion, 510 454 276 191 
+basket, 227 139 398 342 
+dog occluded, 222 195 362 338 
+dog dish, 102 68 411 384 
+window crop, 40 2 252 7 
+furniture crop, 26 2 410 252 
+wall, 445 2 404 1 
+wall, 510 441 311 123 
+floor, 506 27 411 302 

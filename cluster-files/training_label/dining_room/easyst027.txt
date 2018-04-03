@@ -1,0 +1,14 @@
+tapestry, 79 0 138 0 
+chair, 253 165 245 114 
+chair, 148 53 252 120 
+chair top, 207 166 115 99 
+chair top, 103 70 123 103 
+side table, 100 0 192 104 
+door, 253 196 168 1 
+window, 193 147 160 9 
+table, 227 80 134 112 
+candles, 166 118 125 66 
+plant, 22 2 110 71 
+plant, 44 23 109 69 
+plant, 64 45 107 70 
+rug, 255 0 254 161 

@@ -1,0 +1,19 @@
+lamp, 167 121 129 32 
+pillow, 109 78 118 97 
+pillow, 57 22 128 99 
+pillow, 120 86 111 86 
+pillow, 216 186 116 98 
+armchair, 179 0 255 151 
+armchair, 250 159 161 87 
+coffee table top, 209 94 171 130 
+picture frame, 163 151 88 78 
+painting, 255 216 106 27 
+sofa, 138 2 179 86 
+bouquet, 187 150 142 110 
+window, 187 0 113 30 
+statue, 175 160 93 61 
+small table, 185 146 107 89 
+small table, 229 74 220 126 
+ottoman, 255 222 235 166 
+decoration, 147 122 142 132 
+ceiling, 255 0 11 0 

@@ -1,0 +1,8 @@
+drawer, 202 166 104 91 
+telephone, 166 146 86 74 
+desk, 279 0 174 76 
+chair, 217 100 213 149 
+chair, 128 81 106 55 
+desktop, 280 2 143 76 
+high rise, 206 55 75 1 
+chair arm, 58 4 212 162 

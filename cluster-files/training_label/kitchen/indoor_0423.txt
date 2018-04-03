@@ -1,0 +1,18 @@
+mirror occluded, 31 2 124 1 
+fridge occluded, 311 86 457 122 
+cupboard crop, 235 154 86 2 
+cupboard crop, 510 427 168 1 
+cupboard, 363 234 165 2 
+cupboard, 431 295 85 1 
+sink, 485 231 337 275 
+faucet, 413 355 292 220 
+coffee marker, 333 283 278 200 
+socket, 486 456 245 206 
+cupboards crop, 345 173 456 292 
+dishwasher crop, 510 333 459 358 
+worktop, 510 167 414 258 
+basket, 214 96 123 82 
+tray, 268 159 276 188 
+wall, 183 2 455 1 
+wall, 508 181 457 2 
+floor, 273 2 457 419 

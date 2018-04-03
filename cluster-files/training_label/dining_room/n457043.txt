@@ -1,0 +1,28 @@
+small table, 178 45 254 163 
+pictures, 256 195 78 47 
+couch, 256 198 255 182 
+couch, 37 1 179 112 
+chair, 249 198 182 91 
+chair, 182 136 170 87 
+chair, 142 105 153 85 
+dining table, 256 125 169 95 
+buffet, 109 32 116 89 
+curtain, 112 30 42 14 
+ceiling lamp, 152 144 58 8 
+ceiling lamp, 200 188 56 0 
+mirror, 103 31 85 39 
+plant, 164 137 87 64 
+painting, 256 227 77 47 
+painting, 227 195 78 47 
+ceiling, 256 0 32 0 
+chair top, 133 117 98 80 
+chair top, 192 174 95 81 
+chair top, 239 221 97 84 
+plate, 181 163 110 105 
+plate, 236 214 114 110 
+plate, 148 130 105 99 
+plate, 256 240 109 103 
+statue, 144 80 203 156 
+statue, 100 59 86 71 
+tray, 54 35 92 88 
+door, 144 138 64 42 

@@ -1,0 +1,11 @@
+toilet, 1065 516 1904 775 
+tile floor, 1259 3 2048 1420 
+framed mirror, 542 3 239 3 
+drinking glass, 917 825 756 631 
+drinking glass, 642 550 759 628 
+soap dish, 395 239 717 645 
+toilet paper roll, 1239 1103 728 570 
+door crop, 1536 1111 2048 2 
+wall, 1291 3 1426 3 
+basin, 121 16 864 705 
+door knob, 1296 1158 1036 933 

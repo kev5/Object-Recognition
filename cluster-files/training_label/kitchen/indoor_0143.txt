@@ -1,0 +1,25 @@
+cupboard, 36 9 95 14 
+cupboard, 103 35 61 16 
+cupboard, 138 103 98 20 
+cupboard, 175 138 100 17 
+cupboard, 200 175 99 4 
+cupboard, 250 200 47 1 
+cupboard, 299 250 100 1 
+cupboard, 299 194 225 174 
+cupboard, 71 2 224 154 
+cupboard, 106 72 225 154 
+cupboard, 139 108 225 154 
+cupboard, 146 139 225 154 
+socket, 31 17 130 117 
+sink, 92 50 151 141 
+faucet, 76 68 141 123 
+coffee marker, 156 141 142 120 
+extrator hook, 252 189 100 31 
+stove, 285 145 225 123 
+tin, 285 269 183 165 
+iron, 12 2 151 134 
+dish rack, 138 93 144 128 
+wall, 179 11 142 1 
+wall, 299 179 189 2 
+wall, 13 2 143 1 
+food processor, 204 178 149 118 

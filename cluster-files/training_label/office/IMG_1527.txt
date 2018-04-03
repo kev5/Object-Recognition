@@ -1,0 +1,5 @@
+screen, 1059 770 783 549 
+screen, 494 110 852 594 
+keyboard, 502 247 883 824 
+keyboard, 1055 893 824 775 
+whiteboard, 2591 1727 1052 179 

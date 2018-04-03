@@ -1,0 +1,26 @@
+refrigerator, 233 205 234 45 
+cabinets, 193 87 99 8 
+cabinets, 210 75 235 147 
+picture frame, 153 122 132 100 
+microwave, 194 139 97 73 
+bottle, 80 72 59 37 
+bottles, 87 71 89 66 
+bowl, 91 72 138 125 
+bouquet, 69 51 141 109 
+kettle, 16 0 164 133 
+stove, 73 0 182 138 
+oven, 77 2 250 162 
+plant, 46 4 130 37 
+cabinet, 224 205 24 0 
+counter, 255 75 255 231 
+counter, 67 0 255 228 
+counter, 207 35 153 130 
+plate, 107 79 145 135 
+shelves, 88 59 101 29 
+window, 29 0 133 62 
+decorative plate, 255 243 113 61 
+jar, 189 173 132 108 
+jar, 171 157 132 109 
+ceiling lamp, 37 22 24 18 
+floor, 214 91 234 222 
+cup, 115 107 135 126 

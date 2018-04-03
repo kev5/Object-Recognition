@@ -1,0 +1,11 @@
+wall, 272 231 167 1 
+wall, 149 36 225 1 
+wall, 64 2 224 1 
+partition wall, 164 138 225 1 
+curtain, 237 150 220 1 
+closet, 125 52 224 104 
+washbasin occluded, 67 56 146 133 
+floor, 266 165 224 163 
+wc, 265 214 224 183 
+door, 298 265 224 2 
+handle, 267 252 143 129 

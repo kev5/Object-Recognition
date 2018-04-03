@@ -1,0 +1,21 @@
+window, 424 396 132 36 
+window, 135 43 148 1 
+table occluded, 420 395 144 124 
+armchair occluded, 414 378 204 99 
+furniture occluded, 347 323 170 57 
+curtain, 424 379 171 9 
+bureau, 304 2 393 143 
+clock, 278 244 56 1 
+chair occluded, 297 255 293 152 
+chair occluded, 246 168 393 216 
+stove crop, 510 425 393 173 
+telephone, 76 2 311 260 
+lamp, 98 14 266 134 
+ceiling, 424 322 21 1 
+wall, 427 318 174 16 
+wall, 510 410 272 4 
+wall, 319 222 255 1 
+wall, 232 2 391 1 
+floor, 416 319 255 175 
+floor, 510 103 393 257 
+air conditioning crop, 55 2 109 1 

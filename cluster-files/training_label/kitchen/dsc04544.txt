@@ -1,0 +1,26 @@
+washing machine, 575 353 431 267 
+stove, 235 77 431 135 
+coffee pot, 159 102 252 184 
+outlet, 203 178 137 110 
+Bottle, 196 177 85 21 
+Drawer, 338 242 306 272 
+Handle, 301 282 294 286 
+bottle, 170 145 83 21 
+bowl, 541 405 273 220 
+bowl, 290 227 36 2 
+bowl, 367 303 52 23 
+oil bottle, 67 39 173 100 
+paper towel, 87 41 74 1 
+tin, 44 19 167 119 
+pipe, 80 43 431 239 
+pot, 105 84 253 207 
+handle, 340 330 112 91 
+handle, 361 352 116 94 
+handle, 353 335 172 167 
+handle, 330 323 389 368 
+handle, 352 345 387 365 
+lamp, 174 96 105 80 
+cabinet door, 340 243 154 34 
+cabinet door, 424 343 166 53 
+cabinet door, 424 241 273 151 
+cabinet door, 334 237 432 309 

@@ -1,0 +1,12 @@
+bed, 1866 220 1314 458 
+night table occluded, 1478 1272 561 430 
+night table occluded, 2039 1566 1534 851 
+lamp, 1492 1347 355 196 
+lamp, 2039 1814 683 346 
+lamp, 1032 930 118 2 
+curtain, 281 9 1342 5 
+flowers, 942 686 333 217 
+picture, 780 667 159 75 
+door, 565 346 433 5 
+wall, 1503 507 626 2 
+paper, 660 565 655 611 

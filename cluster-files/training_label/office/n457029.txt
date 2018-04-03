@@ -1,0 +1,34 @@
+monitor, 174 151 102 87 
+monitor, 25 0 98 79 
+monitor, 60 29 110 88 
+monitor, 256 241 88 75 
+monitor, 53 44 72 64 
+monitor, 104 94 71 64 
+monitor, 152 138 97 81 
+monitor, 145 136 68 61 
+keyboard, 171 143 109 103 
+keyboard, 45 14 119 111 
+phone, 195 176 112 102 
+phone, 62 43 126 112 
+phone, 238 228 90 83 
+picture frame, 101 93 59 47 
+painting, 54 45 59 49 
+chair, 166 112 183 100 
+desk, 67 0 239 91 
+desk, 116 60 83 72 
+desk, 57 1 83 74 
+desk, 169 120 80 71 
+poster, 229 214 65 28 
+pillar, 183 154 63 28 
+ceiling, 255 0 34 0 
+desks, 247 70 208 99 
+chair top, 205 192 88 80 
+chair top, 90 75 82 64 
+chair top, 37 26 73 62 
+chair top, 128 106 98 82 
+plant, 255 235 74 63 
+file cabinet, 240 213 87 70 
+file cabinet, 136 27 99 80 
+window, 147 113 61 31 
+window, 28 16 60 36 
+adding machine, 64 41 139 129 

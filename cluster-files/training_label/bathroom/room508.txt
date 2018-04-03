@@ -1,0 +1,7 @@
+sink, 199 69 153 108 
+mirror, 240 101 68 0 
+faucet, 159 145 113 91 
+wall, 72 0 256 0 
+wall, 255 66 124 0 
+countertop, 255 2 216 98 
+cupboard, 255 4 256 159 

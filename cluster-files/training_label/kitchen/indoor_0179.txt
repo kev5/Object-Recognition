@@ -1,0 +1,14 @@
+ceiling, 224 96 24 1 
+microwave, 104 15 149 75 
+fridge, 125 18 300 147 
+table, 206 125 250 197 
+chair, 206 158 300 201 
+chair, 174 128 299 214 
+bulletin board, 139 104 179 116 
+door, 24 2 300 1 
+can, 71 45 71 37 
+pack, 97 88 87 73 
+pack, 67 57 82 62 
+wall, 155 14 300 1 
+wall, 224 149 300 6 
+floor, 223 128 300 286 

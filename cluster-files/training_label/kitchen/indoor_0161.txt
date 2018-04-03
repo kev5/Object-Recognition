@@ -1,0 +1,21 @@
+wall, 172 51 151 1 
+wall, 229 170 151 1 
+wall, 280 229 102 1 
+wall, 299 269 225 1 
+wall, 60 2 225 1 
+window, 146 98 106 7 
+fridge, 236 190 159 45 
+dishwasher, 164 142 147 93 
+cupboard, 191 165 158 98 
+cupboard, 192 155 66 19 
+cupboard, 226 178 50 12 
+table occluded, 122 57 119 105 
+bottle, 88 81 112 88 
+tablecloth, 129 57 157 103 
+chair, 127 88 174 104 
+sink, 191 178 101 93 
+worktop, 190 147 102 88 
+cupboard crop, 270 174 225 149 
+coffee marker, 273 236 171 102 
+cupboard occluded, 71 58 225 149 
+floor, 221 59 225 134 

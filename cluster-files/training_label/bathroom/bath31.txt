@@ -1,0 +1,17 @@
+door, 79 1 211 27 
+mirror, 249 111 135 45 
+toilet, 49 19 194 145 
+painting, 67 46 125 73 
+cabinet, 255 100 196 133 
+cabinet, 255 102 196 138 
+ceiling, 255 92 38 1 
+ceiling, 254 111 19 0 
+drawyers, 200 160 186 139 
+floor, 255 0 256 184 
+door cabinet, 159 106 186 148 
+counter, 254 100 136 132 
+sink faucet, 230 210 133 127 
+sink faucet, 135 122 132 124 
+bottle, 181 176 133 120 
+bottle, 198 185 133 120 
+wall outlet, 65 59 132 126 

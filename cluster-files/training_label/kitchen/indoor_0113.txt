@@ -1,0 +1,19 @@
+ceiling, 224 45 36 1 
+wall, 112 70 135 56 
+wall, 122 54 163 24 
+wall, 224 121 57 28 
+wall, 57 2 300 1 
+wall, 224 198 95 58 
+mirror, 101 80 116 65 
+mirror, 177 140 121 75 
+bed occluded, 110 96 151 117 
+chair occluded, 94 71 153 129 
+picture, 35 26 103 10 
+window, 51 41 145 26 
+closet, 200 115 180 49 
+table, 152 36 263 153 
+chair, 165 112 240 144 
+chair, 91 36 289 179 
+fridge, 224 187 175 87 
+furniture crop, 224 203 219 142 
+floor, 224 28 300 135 

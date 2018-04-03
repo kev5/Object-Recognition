@@ -1,0 +1,22 @@
+ceiling, 750 4 49 4 
+window, 394 210 330 130 
+curtain, 456 342 334 111 
+extractor hood, 656 553 216 175 
+fridge, 146 16 583 194 
+cupboard, 750 650 235 58 
+cupboard, 126 6 188 74 
+cupboard, 212 130 245 83 
+cupboards, 650 425 239 78 
+cupboards, 493 142 561 353 
+sink, 322 221 365 344 
+faucet, 276 254 351 305 
+oven occluded, 612 530 515 365 
+stove, 697 548 373 344 
+open plan, 796 445 600 375 
+tabouret, 742 617 600 452 
+tabouret occluded, 796 717 577 439 
+coffee marker, 526 480 338 287 
+wall, 530 4 522 4 
+wall, 750 520 548 31 
+wall, 796 748 551 6 
+floor, 796 2 598 441 

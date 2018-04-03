@@ -1,0 +1,20 @@
+ceiling, 299 151 47 1 
+wall, 188 2 159 1 
+wall, 299 185 224 33 
+stove, 86 4 223 95 
+cupboard, 152 85 205 135 
+cupboard, 79 4 49 12 
+cupboard, 173 79 85 16 
+cupboard, 297 231 134 42 
+cupboard, 191 151 224 135 
+floor, 298 2 224 146 
+worktop, 299 78 225 109 
+sink, 230 170 169 135 
+faucet, 229 213 146 128 
+blender, 276 232 196 119 
+food procesor, 298 261 214 151 
+extractor hood, 79 4 88 48 
+plant, 232 199 98 74 
+electrical appliance, 226 190 224 181 
+flask, 110 102 117 100 
+flask, 127 120 119 105 

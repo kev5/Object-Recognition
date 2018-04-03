@@ -1,0 +1,13 @@
+bar, 320 0 207 121 
+stool crop, 187 129 206 192 
+stool crop, 255 206 207 176 
+person sitting occluded, 305 227 193 77 
+door occluded, 127 75 139 33 
+wall, 326 195 128 1 
+wall, 198 141 135 0 
+wall, 140 65 147 1 
+wall, 66 0 158 0 
+wall, 340 319 206 0 
+shelf, 102 34 110 94 
+lamp, 318 302 30 18 
+bottle, 48 38 157 129 

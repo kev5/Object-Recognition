@@ -1,0 +1,25 @@
+conference table, 255 55 194 127 
+chair, 68 40 188 152 
+chair, 117 79 215 179 
+chair, 212 179 214 186 
+chair, 32 14 67 32 
+chair, 70 55 63 30 
+chair, 113 97 62 30 
+chair, 150 132 65 30 
+chair, 193 173 65 30 
+chair, 226 204 65 31 
+chair, 255 234 73 41 
+chair top, 91 78 140 124 
+chair top, 154 141 126 115 
+chair top, 222 208 131 116 
+painting, 123 104 42 16 
+painting, 174 157 41 17 
+painting, 221 204 39 15 
+painting, 77 55 100 76 
+painting, 125 107 97 75 
+painting, 173 157 94 73 
+painting, 217 201 93 78 
+painting, 72 52 42 15 
+stairs, 255 72 255 198 
+box, 133 93 174 150 
+book, 207 145 180 157 

@@ -1,0 +1,25 @@
+projection screen, 88 12 86 9 
+conference table, 255 58 250 107 
+door, 219 174 125 36 
+door, 155 94 109 17 
+ceiling, 254 2 22 0 
+chair, 230 140 255 136 
+chair, 156 94 208 128 
+chair, 113 66 179 119 
+chair, 93 48 171 113 
+chair, 74 41 158 113 
+chair top, 251 226 130 110 
+chair top, 218 194 125 106 
+chair top, 191 171 120 103 
+chair top, 169 153 115 100 
+chair top, 152 138 111 100 
+chair top, 96 73 109 98 
+chair top, 57 41 134 105 
+chair top, 239 221 110 95 
+chair top, 255 244 117 97 
+door knob, 201 196 92 82 
+ceiling lamp, 204 153 11 2 
+ceiling lamp, 178 130 17 7 
+ceiling lamp, 97 39 10 1 
+picture frame, 130 123 69 61 
+wall outlet, 230 225 90 83 

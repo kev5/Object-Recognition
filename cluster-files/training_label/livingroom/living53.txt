@@ -1,0 +1,29 @@
+couch, 841 303 512 310 
+cushy chair, 365 13 636 328 
+ottoman, 296 93 763 619 
+ottoman, 860 667 669 476 
+ottoman, 478 281 738 523 
+book, 195 1 762 626 
+stack of books, 559 460 521 464 
+coffee table, 622 429 627 407 
+vase, 550 490 427 379 
+end table, 902 851 573 407 
+end table, 941 868 515 385 
+lamp, 914 827 514 251 
+chair, 1021 915 583 348 
+picture, 691 557 260 128 
+wall lamp, 651 582 102 73 
+urn, 93 38 149 98 
+fireplace mantle, 130 3 337 142 
+wine glass, 286 263 382 345 
+wine glass, 313 290 377 345 
+floor lamp, 333 287 346 106 
+curtains, 487 265 352 2 
+curtains, 980 716 498 4 
+curtains, 715 485 321 1 
+blanket, 1020 803 766 656 
+couch *x, 1021 953 682 600 
+wall, 1022 974 404 1 
+rug, 942 306 766 520 
+tray, 282 197 391 370 
+seltzer bottle, 238 217 383 316 

@@ -1,0 +1,23 @@
+painting, 254 209 115 82 
+painting, 18 0 110 76 
+ceiling lamp, 238 184 24 7 
+ceiling lamp, 121 55 26 11 
+small table, 190 83 247 187 
+small table, 92 47 187 139 
+armchair, 177 126 194 125 
+armchair, 92 0 256 176 
+armchair, 240 218 186 139 
+sofa, 87 0 230 132 
+television, 255 234 189 117 
+lamp, 65 47 138 71 
+lamp, 51 39 136 100 
+lamp, 162 147 214 186 
+lamp, 71 65 45 36 
+television stand, 255 226 256 183 
+plant, 70 53 141 127 
+plant, 69 59 124 93 
+magazine, 148 126 203 195 
+curtain, 194 84 177 54 
+ashtray, 113 93 210 201 
+decoration, 81 71 143 134 
+air vent, 76 51 10 1 

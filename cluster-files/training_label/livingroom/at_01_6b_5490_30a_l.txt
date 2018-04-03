@@ -1,0 +1,37 @@
+window, 94 23 139 26 
+window, 145 110 138 54 
+window, 14 0 126 42 
+sofa, 251 52 252 142 
+sofa, 251 50 255 138 
+table, 250 121 255 167 
+table, 256 121 255 169 
+armchair, 50 0 180 125 
+armchair, 56 0 185 125 
+armchair, 31 0 226 156 
+fireplace, 255 188 158 99 
+cabinet, 187 162 127 82 
+fan, 129 82 10 0 
+lamp, 72 56 134 102 
+lamp, 74 55 136 105 
+ottoman, 86 52 180 155 
+plant, 188 129 190 128 
+plant, 248 206 181 141 
+plant, 247 231 98 59 
+plant, 198 187 97 62 
+plant, 122 75 157 137 
+plant, 187 171 79 58 
+plant, 62 47 136 123 
+cup, 205 191 171 160 
+books, 210 185 181 169 
+armchair top, 125 95 147 122 
+painting, 234 201 87 48 
+candle, 77 70 135 128 
+small table, 80 48 158 135 
+cabinets, 188 163 130 35 
+curtain, 143 112 76 55 
+curtain, 6 1 72 48 
+ceiling, 255 0 36 0 
+ceiling lamp, 161 151 27 22 
+pillow, 31 3 151 128 
+pillow, 120 98 141 124 
+plants, 228 195 99 87 

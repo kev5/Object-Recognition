@@ -1,0 +1,4 @@
+cattle, 183 94 440 355 
+window, 577 279 265 23 
+microwave oven, 154 2 134 2 
+oven, 321 281 478 368 

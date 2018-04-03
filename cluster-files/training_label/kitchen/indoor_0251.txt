@@ -1,0 +1,27 @@
+ceiling, 637 117 53 2 
+cupboard, 255 48 180 36 
+cupboard, 365 255 166 61 
+cupboard, 409 365 168 78 
+cupboard, 485 410 168 71 
+cupboard, 635 486 353 59 
+fridge, 600 472 359 115 
+cupboard occluded, 475 359 270 222 
+microwave, 477 424 219 188 
+stove occluded, 359 233 258 193 
+decoration, 154 96 40 17 
+decoration, 203 172 53 30 
+decoration, 250 225 57 12 
+decoration, 589 530 64 36 
+decoration, 311 286 68 50 
+decoration dish, 34 2 160 123 
+wine rack, 115 3 443 267 
+bottle, 76 51 255 199 
+bottle, 98 82 252 213 
+plant, 166 87 245 179 
+table, 492 25 480 230 
+magazine, 455 357 300 272 
+armchair, 219 75 478 278 
+armchair, 350 172 480 295 
+wall, 637 365 356 33 
+wall, 365 2 416 2 
+floor, 637 2 480 328 

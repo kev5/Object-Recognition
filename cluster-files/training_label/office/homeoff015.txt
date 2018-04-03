@@ -1,0 +1,32 @@
+monitor, 212 172 122 79 
+chair, 227 127 250 112 
+computer, 223 188 139 125 
+keyboard, 234 192 156 148 
+statue, 210 185 69 16 
+printer, 254 231 140 120 
+desk, 255 148 224 67 
+painting, 255 229 67 23 
+painting, 153 110 57 23 
+painting, 14 0 40 10 
+painting, 24 0 80 41 
+plant, 109 83 59 27 
+bookshelves, 172 64 172 55 
+armchair, 138 109 189 144 
+television, 44 17 147 111 
+shelves, 48 0 164 91 
+couch, 45 0 242 165 
+clock, 138 125 103 87 
+decorative plate, 31 3 93 87 
+books, 117 102 128 110 
+books, 156 142 80 67 
+books, 81 68 82 68 
+books, 238 226 99 84 
+books, 87 68 104 96 
+books, 99 85 104 100 
+vase, 120 111 105 89 
+small table, 48 22 187 161 
+lamp, 20 0 86 52 
+box, 136 114 80 72 
+box, 157 146 104 95 
+picture frame, 86 72 147 134 
+basket, 97 78 127 110 

@@ -1,0 +1,12 @@
+closet, 255 0 255 0 
+jacket occluded, 216 177 254 61 
+coat crop, 255 204 254 0 
+sweatshirt crop, 60 2 245 35 
+clothing, 116 21 253 48 
+clothing, 160 109 252 185 
+clothing, 144 108 175 87 
+clothing, 128 0 47 0 
+clothing, 208 159 90 37 
+clothing, 184 147 151 94 
+clothing, 181 149 249 166 
+clothing, 160 108 103 0 

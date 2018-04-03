@@ -1,0 +1,45 @@
+hood, 595 267 207 5 
+stove, 606 275 426 315 
+drawers, 366 174 639 400 
+island, 1025 337 768 386 
+bowl, 539 389 716 632 
+dish, 849 734 717 677 
+basket, 799 694 663 606 
+basket, 1021 863 675 574 
+box, 921 743 650 553 
+painting, 102 12 357 255 
+painting, 205 118 357 255 
+painting, 615 557 344 260 
+painting, 681 628 342 260 
+microwave, 845 763 338 276 
+cupboard, 920 752 366 36 
+cupboard, 1022 872 238 14 
+pot, 1002 952 375 331 
+pot, 398 298 375 327 
+pot, 384 286 344 315 
+pot, 445 365 363 317 
+pot, 534 466 363 326 
+basket of banana, 942 883 366 333 
+cabinet, 178 3 665 408 
+oven, 590 378 614 519 
+light, 165 127 147 5 
+light, 630 581 105 5 
+light, 699 672 178 5 
+light, 803 756 120 3 
+light, 942 898 133 7 
+electrical outlet, 415 389 504 479 
+electrical outlet, 582 546 538 506 
+electrical outlet, 114 99 344 318 
+sink, 580 473 429 407 
+faucet, 620 536 425 336 
+light switches, 993 957 325 304 
+counter top, 356 2 412 376 
+counter top, 1021 608 380 360 
+wall, 358 2 381 1 
+wall, 1020 462 371 1 
+pipes, 620 535 711 547 
+plate, 875 741 417 394 
+basket of fruit, 914 801 687 636 
+floor, 1023 3 767 550 
+stove light, 465 446 198 187 
+ceiling, 347 334 192 185 

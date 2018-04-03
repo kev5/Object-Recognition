@@ -1,0 +1,20 @@
+painting, 224 198 82 38 
+painting, 194 173 83 45 
+bed, 236 31 229 91 
+basket, 77 35 226 187 
+dresser, 61 0 176 121 
+mirror, 42 1 120 67 
+curtain, 133 110 146 62 
+curtain, 158 139 146 57 
+curtain, 256 242 122 35 
+lamp, 151 121 146 111 
+night stand dresser, 256 207 227 159 
+pillow, 192 162 145 133 
+pillow, 212 165 169 151 
+pillow, 181 139 159 143 
+ceiling, 224 0 37 0 
+rug, 228 1 256 181 
+bouquet, 256 234 166 120 
+boat, 44 18 121 100 
+candle, 52 46 121 92 
+window, 159 112 145 50 

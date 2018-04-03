@@ -1,0 +1,18 @@
+pillow, 176 126 138 85 
+pillow, 137 75 149 92 
+painting, 221 192 52 24 
+painting, 21 0 58 25 
+window, 101 36 102 50 
+window, 95 24 47 0 
+window, 179 122 90 46 
+window, 174 115 43 1 
+cabinet, 71 29 193 142 
+lamp, 37 22 143 92 
+bed, 245 73 248 123 
+might stand table, 247 188 150 115 
+quilt, 244 76 222 126 
+night stand, 72 26 194 138 
+mug, 47 42 143 134 
+glass, 54 50 142 135 
+books, 221 188 131 119 
+floor, 245 1 255 185 

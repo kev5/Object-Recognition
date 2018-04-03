@@ -1,0 +1,25 @@
+Vase, 354 329 265 193 
+Pot, 122 93 248 225 
+Clock, 285 270 54 7 
+tile, 244 161 480 434 
+pedal bin, 284 244 411 338 
+drawer handle, 127 116 327 300 
+drawer handle, 88 77 386 358 
+cooker hood, 128 75 154 116 
+towel, 175 92 204 90 
+worktop, 133 63 320 261 
+window, 257 177 165 72 
+fridge, 91 4 508 243 
+dishwasher, 184 125 368 227 
+waste bin, 272 222 390 275 
+floor, 310 101 511 337 
+water filter, 74 33 245 218 
+broom handle, 271 253 288 181 
+ceiling, 267 84 32 3 
+kitchen cupboard, 77 20 180 18 
+building, 255 228 136 97 
+water tub, 235 222 202 189 
+handle, 151 137 293 269 
+handle, 99 86 115 92 
+handle, 65 48 169 141 
+Bottle, 369 340 271 195 

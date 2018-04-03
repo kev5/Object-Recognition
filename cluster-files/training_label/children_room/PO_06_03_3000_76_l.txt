@@ -1,0 +1,26 @@
+ceiling, 689 0 153 0 
+lamp, 340 261 135 1 
+lamp, 60 10 239 158 
+lamp, 596 532 426 265 
+cradle, 512 353 494 309 
+frame, 236 129 426 134 
+wc, 196 151 389 331 
+closet, 137 15 464 241 
+box, 119 57 243 205 
+armchair, 319 241 430 303 
+armchair occluded, 680 545 520 418 
+cushion, 556 510 524 471 
+cushion, 645 546 554 464 
+cuddly toy, 625 577 467 418 
+cuddly toy, 283 254 374 346 
+window, 689 634 361 116 
+window, 393 331 319 177 
+curtain, 689 614 389 88 
+curtain, 413 319 333 149 
+curtain, 214 187 379 168 
+wall, 323 2 453 82 
+wall, 689 320 476 55 
+wall, 203 147 379 159 
+bath occluded, 213 202 379 340 
+floor, 689 2 578 372 
+picture, 297 258 295 256 

@@ -1,0 +1,13 @@
+window, 282 4 204 2 
+curtain, 309 4 390 2 
+bed, 551 64 452 107 
+bed, 788 146 561 109 
+pillow occluded, 522 431 289 229 
+pillow occluded, 717 635 342 258 
+cushion, 478 363 289 206 
+cushion, 678 518 350 241 
+night table occluded, 398 334 262 219 
+lamp, 392 367 217 148 
+wall, 796 381 511 2 
+wall, 386 4 386 2 
+floor, 794 4 565 322 

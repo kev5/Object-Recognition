@@ -1,0 +1,29 @@
+lamp, 101 86 67 49 
+lamp, 202 175 148 71 
+lamp, 255 234 160 61 
+chair, 173 78 254 174 
+chair, 46 5 255 163 
+chair, 39 1 253 168 
+chair top, 181 158 202 153 
+chair top, 155 133 179 147 
+table, 178 23 255 171 
+curtain, 32 1 216 27 
+curtain, 145 76 175 37 
+painting, 198 166 138 74 
+mirror, 255 209 146 10 
+buffet, 255 169 256 148 
+plate, 75 36 205 192 
+plate, 63 29 192 180 
+plate, 130 93 212 200 
+bouquet, 118 56 202 124 
+bouquet, 249 232 159 113 
+fruit bowl, 229 198 152 121 
+ceiling lamp, 130 49 108 1 
+ceiling, 215 1 32 1 
+shelf, 69 40 123 92 
+window, 139 82 169 40 
+window, 29 1 188 33 
+chair part, 62 46 178 148 
+place mat, 143 83 215 198 
+napkin, 87 74 186 157 
+glass, 90 76 206 177 

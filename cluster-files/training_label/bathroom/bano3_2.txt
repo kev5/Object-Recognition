@@ -1,0 +1,15 @@
+towel, 595 464 323 136 
+faucet, 219 193 312 263 
+soap, 128 91 313 229 
+mirror, 358 54 186 1 
+wash basin, 349 49 360 294 
+power outlet, 460 404 140 104 
+wall tile, 415 295 240 189 
+wall tile, 296 171 238 189 
+wall tile, 473 374 385 239 
+wall tile, 557 467 382 300 
+wall tile, 377 278 384 238 
+wall, 640 2 480 1 
+tap, 281 241 314 271 
+tap, 170 134 312 273 
+towel ring, 576 497 154 82 

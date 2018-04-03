@@ -1,0 +1,15 @@
+picture, 111 50 119 21 
+pictue, 155 112 118 32 
+mirror, 496 349 128 25 
+chest of drawers occluded, 510 334 268 144 
+bed, 500 14 368 135 
+window, 311 252 191 9 
+pillow, 158 30 247 147 
+cushion, 174 113 232 159 
+cushion, 210 153 213 150 
+telephone crop, 26 2 287 255 
+night table crop, 76 2 367 270 
+lamp, 491 441 153 85 
+wall, 251 2 368 1 
+wall, 510 245 251 1 
+floor, 510 5 367 213 

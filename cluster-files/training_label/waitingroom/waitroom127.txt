@@ -1,0 +1,16 @@
+separation, 931 31 2123 372 
+armchair, 1441 963 1623 903 
+armchair, 2344 1870 1655 911 
+auxiliary table, 1844 1462 1558 1069 
+lamp, 1759 1597 1095 806 
+board, 687 445 1311 398 
+magazine rack, 434 31 1504 362 
+magazine, 489 281 1301 1051 
+furniture occluded, 734 211 406 320 
+basket, 598 239 325 211 
+plant, 731 146 354 34 
+wall, 2425 0 1498 0 
+wall, 2830 2375 1254 3 
+furniture crop, 2830 2435 2125 1444 
+floor, 2830 0 2125 1228 
+switch, 2318 2266 799 721 

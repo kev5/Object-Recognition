@@ -1,0 +1,16 @@
+wall, 224 151 227 1 
+wall, 152 2 299 1 
+wall, 44 2 300 2 
+frying pan, 146 126 65 4 
+frying pan, 137 119 132 98 
+saucepan, 137 111 75 31 
+saucepan, 134 116 98 75 
+coffee marker, 163 139 151 120 
+trash, 216 176 240 180 
+cupboard, 178 126 245 134 
+cupboard, 186 133 86 2 
+fridge, 91 31 300 87 
+shelf, 78 29 78 71 
+floor, 224 74 299 218 
+handle, 43 33 172 98 
+handle, 48 37 243 176 

@@ -1,0 +1,21 @@
+floor, 300 17 224 116 
+carpet, 298 253 142 116 
+rug, 225 156 203 177 
+wall, 254 2 168 1 
+wall, 300 253 124 11 
+cupboard, 229 176 72 15 
+cupboard, 188 126 51 11 
+cupboard, 126 64 50 8 
+cupboard, 64 3 79 7 
+cupboard, 206 125 190 106 
+fridge crop, 33 2 224 46 
+copboard, 81 25 215 118 
+stove, 142 64 136 106 
+oven, 146 76 205 129 
+machine, 243 181 175 104 
+cutlery sing, 139 119 110 81 
+ceiling, 300 254 13 1 
+picture, 299 282 68 44 
+microwave, 230 193 105 79 
+lamp, 268 256 90 58 
+extractor hood, 129 65 67 50 

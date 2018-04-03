@@ -1,0 +1,17 @@
+chest, 165 109 206 171 
+bed, 164 64 198 127 
+pillow, 106 80 150 137 
+mirror, 42 11 180 100 
+lamp, 47 39 123 109 
+lamp, 139 129 133 115 
+lamp, 6 1 74 51 
+bouquet, 58 49 146 126 
+bouquet, 22 1 125 104 
+hat, 221 199 137 125 
+bookcase, 178 159 157 125 
+bookcase, 241 211 176 122 
+fireplace, 204 179 165 128 
+ottoman, 203 178 181 170 
+dresser, 40 0 254 159 
+ceiling, 226 0 44 0 
+curtain, 128 49 177 55 

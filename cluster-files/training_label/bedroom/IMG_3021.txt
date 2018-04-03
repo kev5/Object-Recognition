@@ -1,0 +1,15 @@
+pillow, 1342 965 780 456 
+pillow, 1672 1298 744 457 
+pillow, 249 5 684 423 
+night table occluded, 713 254 1005 686 
+telephone, 679 546 720 645 
+clock, 435 362 730 616 
+lamp, 640 353 720 213 
+paper, 640 546 768 732 
+paper, 995 860 735 512 
+curtain, 2005 1711 1348 5 
+curtain, 2049 1853 1537 2 
+bed crop, 1868 2 1532 430 
+bed crop, 396 2 1206 408 
+pilolow, 998 778 725 442 
+pillow occluded, 307 198 660 471 

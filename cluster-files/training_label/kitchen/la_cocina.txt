@@ -1,0 +1,18 @@
+microwave oven, 246 175 230 193 
+refrigerator, 536 370 367 96 
+washer, 129 49 367 260 
+sink, 192 48 255 227 
+faucet, 143 105 236 194 
+window, 155 45 194 22 
+range hood, 339 244 128 90 
+stove top, 369 233 269 236 
+kitchen cupboard, 438 186 148 1 
+socket, 264 254 203 189 
+handle, 142 136 290 261 
+handle, 225 215 289 261 
+handle, 292 284 347 312 
+handle, 339 312 301 289 
+handle, 340 312 334 318 
+handle, 340 310 364 350 
+kitchen worktop, 372 155 292 219 
+knobs, 347 308 265 249 

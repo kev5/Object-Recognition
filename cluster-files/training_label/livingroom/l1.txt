@@ -1,0 +1,18 @@
+television, 252 176 183 113 
+table lamp, 152 120 147 86 
+book, 87 40 210 189 
+curtain, 177 147 130 25 
+window, 207 160 120 30 
+coffee table, 116 0 240 189 
+pillow, 92 55 172 143 
+pillow, 112 79 168 134 
+small table, 170 109 200 139 
+television stand, 256 170 234 164 
+fan, 132 0 15 0 
+plant, 166 47 141 1 
+door, 255 224 176 25 
+sofa, 126 0 209 120 
+remote control, 53 30 212 201 
+coaster, 101 87 199 192 
+coaster, 30 14 213 205 
+chair, 125 0 255 226 

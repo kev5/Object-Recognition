@@ -1,0 +1,7 @@
+stove, 359 34 576 219 
+drawer, 302 2 575 387 
+ketchup bottle, 104 56 355 211 
+pot, 250 207 299 271 
+pot, 169 88 317 264 
+baking pan, 312 144 332 299 
+stove vent, 314 123 130 3 

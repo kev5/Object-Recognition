@@ -1,0 +1,11 @@
+picture, 409 349 46 1 
+picture crop, 500 421 39 1 
+night table, 282 214 185 142 
+lamp, 286 229 157 58 
+closet, 217 31 217 1 
+wall, 250 2 261 2 
+wall, 510 244 304 1 
+bed crop, 508 6 341 75 
+pillow, 493 334 234 152 
+pillow, 370 256 200 140 
+floor, 508 2 341 200 

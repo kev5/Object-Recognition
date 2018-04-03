@@ -1,0 +1,14 @@
+television, 215 172 125 86 
+projector, 93 33 183 153 
+speaker, 117 88 172 149 
+chair top, 140 104 138 109 
+chair top, 69 36 154 113 
+chair top, 237 206 146 113 
+chair, 212 100 255 151 
+chair, 244 193 250 134 
+chair, 253 228 205 125 
+conference table, 219 0 255 138 
+plant, 143 87 139 96 
+plant, 256 238 141 89 
+television stand, 214 164 141 123 
+ceiling, 255 2 19 0 

@@ -1,0 +1,15 @@
+chair, 80 35 246 193 
+books, 55 26 110 83 
+books, 51 25 73 57 
+window, 42 0 151 114 
+bed, 182 65 172 78 
+toy, 146 118 100 80 
+toy, 144 120 100 80 
+ceiling, 194 0 50 0 
+desk, 109 12 198 133 
+notebook, 27 12 178 164 
+bookcase, 111 0 120 48 
+wall outlet, 56 48 139 135 
+ceiling lamp, 82 68 27 19 
+book, 18 2 115 108 
+book, 101 88 66 61 

@@ -1,0 +1,8 @@
+lamp, 1362 625 1270 164 
+alarm clock, 1447 1126 1258 1070 
+wall, 801 2 1704 4 
+wall, 2262 747 1691 5 
+night table crop, 1509 565 1707 1084 
+bed crop, 2262 1468 1696 664 
+pillow occluded, 2262 1779 1318 680 
+pillow crop, 2262 2039 1598 897 

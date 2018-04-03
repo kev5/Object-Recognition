@@ -1,0 +1,27 @@
+ceiling, 510 2 47 1 
+cupboards, 229 2 118 22 
+dog, 328 255 296 246 
+door occluded, 344 311 150 66 
+window, 267 226 134 57 
+spice rack, 245 226 155 126 
+dishwasher, 367 316 282 170 
+cupboard, 317 282 251 164 
+cupboard, 281 211 245 163 
+stove, 217 128 261 135 
+extractor hood, 195 118 94 75 
+cupboard occluded, 138 89 267 175 
+fridge occluded, 83 2 206 96 
+rug, 262 117 297 245 
+worktop, 430 200 178 150 
+furniture occluded, 501 415 211 96 
+lamp, 405 384 163 109 
+furniture crop, 121 2 339 168 
+wall, 472 2 246 1 
+wall, 510 466 263 42 
+floor, 510 2 341 190 
+teapot, 191 169 159 135 
+clock, 186 172 134 121 
+dishcloth, 173 145 213 173 
+dishcloth, 209 184 206 169 
+cross, 296 284 98 77 
+wall lamp, 422 409 97 76 

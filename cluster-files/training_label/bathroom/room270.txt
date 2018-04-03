@@ -1,0 +1,19 @@
+ottoman, 255 153 255 211 
+bathtub, 256 166 190 175 
+towels, 168 152 176 133 
+towels, 89 67 179 139 
+towel, 164 141 188 178 
+towel, 34 0 204 194 
+curtain, 256 172 124 64 
+mirror, 51 0 184 78 
+counter, 91 0 223 177 
+cabinet, 92 0 256 184 
+candles, 144 121 185 165 
+candles, 121 99 181 137 
+plant, 165 103 173 70 
+ceiling lamp, 161 149 35 27 
+ceiling lamp, 60 44 70 62 
+air vent, 148 124 216 190 
+window, 255 175 113 67 
+floor, 164 70 255 214 
+ceiling, 254 0 74 0 

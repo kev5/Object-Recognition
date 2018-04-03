@@ -1,0 +1,18 @@
+wall, 23 0 102 0 
+wall, 256 20 68 0 
+floor, 256 0 256 57 
+armchair occluded, 93 2 194 99 
+armchair occluded, 58 2 111 77 
+armchair occluded, 117 59 109 71 
+armchair occluded, 251 207 92 59 
+armchair occluded, 255 223 67 48 
+armchair, 184 81 186 91 
+armchair, 197 169 80 55 
+cushion, 160 124 135 100 
+cushion, 51 2 147 106 
+table, 120 46 196 138 
+armchair crop, 145 0 254 194 
+armchair crop, 256 133 254 177 
+table occluded, 100 57 113 92 
+table occluded, 129 97 78 61 
+sofa occluded, 137 80 72 49 

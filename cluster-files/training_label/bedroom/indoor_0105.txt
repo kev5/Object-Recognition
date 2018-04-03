@@ -1,0 +1,15 @@
+wall, 299 258 176 1 
+wall, 262 144 151 1 
+wall, 149 28 191 1 
+wall, 34 2 225 1 
+floor, 299 35 225 146 
+bed, 299 144 225 111 
+chair occluded, 253 194 223 192 
+curtain, 235 150 117 5 
+curtain, 109 50 192 2 
+closet, 298 267 174 13 
+table occluded, 136 35 224 170 
+books, 79 38 184 135 
+night table, 146 115 205 167 
+lamp, 130 115 176 137 
+glass, 117 102 221 202 

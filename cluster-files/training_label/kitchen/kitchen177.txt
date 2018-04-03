@@ -1,0 +1,66 @@
+sink, 561 416 474 452 
+cabinets, 95 2 319 2 
+cabinets, 849 660 323 61 
+window, 428 386 310 169 
+plant, 382 365 363 250 
+plant, 662 572 542 279 
+plant, 358 342 364 347 
+plant, 409 385 358 325 
+utensils, 450 373 402 369 
+lamp, 320 265 365 256 
+wall decoration, 364 320 295 237 
+light, 645 579 193 1 
+light, 495 452 227 1 
+light, 415 380 242 1 
+light, 538 521 141 133 
+light, 605 586 114 104 
+light, 695 666 78 66 
+light, 818 788 28 11 
+light, 117 89 33 20 
+light, 118 93 81 70 
+light, 121 107 117 109 
+cup of spoons, 673 610 572 498 
+faucet, 454 372 454 395 
+refrigator, 610 528 455 233 
+electrical outlet, 324 312 474 454 
+electrial outlet, 462 443 601 563 
+glass orb, 683 634 406 313 
+kitchen island, 1022 284 768 410 
+jars, 335 315 364 338 
+jars, 356 337 358 335 
+wine cooler, 337 259 480 373 
+orange, 32 7 382 361 
+lemons, 70 38 394 371 
+limes, 82 60 382 367 
+bowl of vegtables, 805 708 430 384 
+curtain, 423 374 263 157 
+dishwasher, 420 344 408 373 
+decanter, 33 3 437 395 
+decanter, 67 27 454 398 
+decanter, 85 51 434 395 
+artichoke, 787 761 404 391 
+pepper, 764 743 401 378 
+jar, 95 69 398 348 
+jar, 62 36 367 346 
+ceiling, 1009 67 147 3 
+cabinet, 109 3 768 431 
+cabinet, 610 535 228 125 
+counter top, 118 2 585 389 
+counter top, 1020 284 677 412 
+counter top, 812 605 444 402 
+canister, 915 880 305 250 
+canister, 977 927 305 247 
+dispenser, 970 919 359 323 
+stove hood, 1023 779 325 1 
+plate, 528 457 494 471 
+potted plant, 816 660 571 204 
+rock, 835 821 422 408 
+wall, 532 38 555 35 
+wall, 900 707 432 323 
+object, 39 15 363 320 
+floor, 365 83 768 473 
+glass, 41 16 527 459 
+bottle, 24 3 524 432 
+tray, 61 3 541 486 
+door, 242 189 470 218 
+stove, 1024 766 768 326 

@@ -1,0 +1,16 @@
+stool, 652 422 991 612 
+cupboard door, 1045 862 752 537 
+cupboard door, 1281 1186 186 5 
+cupboard door, 137 2 172 8 
+cupboard door, 267 140 735 410 
+pot, 511 428 439 339 
+teatowel, 1281 1209 416 318 
+rug (partially obscured), 212 5 997 813 
+mirror, 1158 1091 286 72 
+knob, 709 690 264 237 
+faucet, 1139 996 490 368 
+light, 1500 1434 152 3 
+microwave, 270 6 346 189 
+oven, 1038 845 461 225 
+cupboard, 1056 847 221 32 
+cupboard, 807 298 288 10 

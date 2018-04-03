@@ -1,0 +1,13 @@
+bar, 383 2 300 69 
+stool, 353 280 300 145 
+vase, 98 43 232 141 
+plant, 123 0 158 7 
+stool occluded, 369 324 239 115 
+ceiling, 399 0 73 0 
+wall, 349 0 249 44 
+wall, 399 343 88 28 
+mirror, 228 2 131 58 
+bottles, 233 78 172 95 
+bottles, 296 248 103 73 
+floor, 399 280 300 88 
+lamp, 139 125 40 32 

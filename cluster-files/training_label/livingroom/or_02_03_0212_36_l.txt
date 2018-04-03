@@ -1,0 +1,36 @@
+curtain, 256 228 150 13 
+curtain, 181 163 144 37 
+window, 233 174 140 45 
+chair, 252 142 256 163 
+chair, 212 175 183 148 
+chair, 252 228 175 142 
+small table, 101 65 219 158 
+ceiling lamp, 138 97 83 4 
+sofa, 222 79 214 139 
+armchair, 73 14 184 127 
+armchair, 174 138 144 119 
+rug, 147 16 235 172 
+table, 255 185 225 169 
+bouquet, 79 53 101 59 
+bouquet, 123 93 104 65 
+fireplace, 113 69 167 129 
+pillow, 55 30 155 134 
+pillow, 126 90 152 138 
+pillow, 200 179 143 135 
+lamp, 30 9 129 99 
+lamp, 239 214 137 109 
+decorative plate, 88 74 103 88 
+decoration, 102 88 105 81 
+ceiling, 237 1 33 0 
+napkin, 225 195 201 188 
+napkin, 236 213 181 173 
+napkin, 255 235 212 198 
+cup, 215 207 188 180 
+plate, 228 200 202 194 
+plate, 238 209 184 174 
+place mat, 245 187 208 188 
+utensils, 236 218 212 202 
+blanket, 149 126 207 146 
+plant, 158 123 147 133 
+plant, 221 200 142 114 
+candles, 83 68 163 148 

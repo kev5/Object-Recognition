@@ -1,0 +1,24 @@
+oven, 167 90 245 172 
+counter, 104 2 226 147 
+counter, 255 244 205 181 
+cabinets, 53 0 97 0 
+lamp, 168 98 58 53 
+sink, 218 170 165 152 
+pitcher, 60 35 156 124 
+stove, 166 92 166 151 
+pan, 155 124 142 81 
+cabinet, 247 166 255 172 
+cabinet, 30 1 256 208 
+cabinet, 90 54 256 171 
+dishwasher, 56 28 256 179 
+hanging utensils, 140 111 122 75 
+rack, 159 107 82 75 
+rack, 109 54 96 87 
+bottles, 106 51 92 76 
+bottles, 33 9 163 115 
+sink faucet, 229 205 155 135 
+sponge, 233 220 163 157 
+cups, 255 239 158 145 
+bottle, 174 163 152 132 
+ceiling, 255 17 46 0 
+window, 218 114 18 0 

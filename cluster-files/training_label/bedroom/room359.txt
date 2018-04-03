@@ -1,0 +1,21 @@
+window, 186 132 124 103 
+window, 75 50 126 111 
+window, 242 230 133 84 
+painting, 119 83 107 66 
+rug, 120 1 256 211 
+rug, 97 69 179 162 
+bed, 255 96 223 127 
+pillow, 255 226 176 148 
+pillow, 224 207 167 154 
+pillow, 236 219 152 142 
+fan, 90 33 45 2 
+books, 184 162 140 132 
+plant, 58 0 183 92 
+cabinet, 197 159 154 137 
+cabinet, 94 79 157 142 
+cabinet, 156 108 150 139 
+cabinet, 77 50 155 136 
+cabinet, 9 0 188 157 
+night stand dresser, 255 226 254 194 
+ceiling, 254 1 98 1 
+wall hanging, 124 100 130 107 

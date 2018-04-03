@@ -1,0 +1,28 @@
+lamp, 193 135 207 119 
+television, 123 60 97 45 
+painting, 101 45 46 0 
+small table, 225 136 256 182 
+small table, 215 112 150 113 
+armchair back, 135 39 255 182 
+sofa, 255 157 250 123 
+armchair, 256 201 122 75 
+pillow, 248 229 105 79 
+television stand, 140 37 156 81 
+speaker, 37 0 170 68 
+speaker, 165 134 122 50 
+plant, 194 164 111 78 
+plant, 256 231 81 52 
+rug, 224 32 182 122 
+books, 136 117 124 107 
+curtain, 202 168 94 0 
+window, 256 189 93 0 
+vcr, 132 115 101 91 
+stereo, 134 116 110 99 
+stereo, 94 73 116 103 
+stereo, 96 73 131 114 
+stereo, 97 74 139 126 
+picture frame, 111 99 132 117 
+cd's, 58 35 117 96 
+boxes, 46 26 160 130 
+boxes, 59 36 156 117 
+remote control, 185 168 119 112 

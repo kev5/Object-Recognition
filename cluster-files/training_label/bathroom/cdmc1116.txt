@@ -1,0 +1,7 @@
+toilet, 256 171 220 56 
+bidet, 170 83 198 96 
+sink, 92 0 208 34 
+towel, 49 0 231 196 
+sink faucet, 46 7 54 36 
+bidet faucet, 162 125 117 97 
+floor, 256 0 256 161 

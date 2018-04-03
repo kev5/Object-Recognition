@@ -1,0 +1,33 @@
+chandelier, 180 96 65 0 
+chandelier, 246 229 148 129 
+chandelier, 31 15 138 117 
+staircase, 147 116 187 168 
+plant, 160 105 216 181 
+vault, 255 15 46 0 
+ceiling, 256 0 67 0 
+ceiling, 256 0 135 102 
+wall, 255 2 110 0 
+wall, 15 0 62 39 
+wall, 75 24 80 54 
+wall, 188 80 91 58 
+wall, 244 195 86 64 
+wall, 156 110 170 140 
+wall, 113 99 197 144 
+wall, 167 151 202 145 
+wall, 255 0 210 123 
+railing, 248 194 109 77 
+railing, 189 77 114 84 
+railing, 74 17 103 64 
+railing, 14 0 89 56 
+railing, 117 108 185 143 
+railing, 156 145 186 146 
+window, 53 3 187 136 
+window, 85 70 180 148 
+door, 246 214 210 165 
+columns, 256 0 239 86 
+chair, 239 216 242 207 
+chair, 206 187 233 210 
+chair occluded, 251 234 227 200 
+chair occluded, 229 218 208 196 
+sofa occluded, 39 12 200 189 
+floor, 255 0 256 185 

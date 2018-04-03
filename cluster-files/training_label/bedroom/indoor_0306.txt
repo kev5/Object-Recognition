@@ -1,0 +1,13 @@
+window, 295 43 92 2 
+picture, 360 327 43 10 
+picture, 358 327 86 53 
+bed, 466 153 319 145 
+night table, 507 427 249 190 
+lamp, 510 471 205 97 
+lamp, 81 2 194 22 
+bed crop, 510 252 416 229 
+chest of drawers crop, 147 2 416 175 
+carpet, 265 137 416 308 
+wall, 385 2 293 2 
+wall, 510 383 303 2 
+floor, 510 2 416 211 

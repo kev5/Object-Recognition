@@ -1,0 +1,39 @@
+wall outlet, 114 104 243 221 
+bottle, 11 3 169 142 
+bottle, 22 11 171 142 
+bottle, 253 247 162 141 
+refrigerator, 52 0 170 95 
+ceiling lamp, 201 188 17 12 
+ceiling lamp, 160 151 30 25 
+ceiling lamp, 83 71 23 17 
+sink, 191 141 164 154 
+sink faucet, 187 179 159 149 
+bouquet, 211 156 148 79 
+plant, 118 79 80 52 
+plant, 254 212 59 25 
+ceiling, 253 0 49 1 
+basket, 67 51 154 146 
+picture frame, 160 146 145 130 
+bottles, 242 220 165 138 
+cabinet, 255 213 255 176 
+dishwasher, 212 171 252 168 
+shelves, 94 46 254 202 
+cabinets, 143 1 126 67 
+cabinets, 44 0 254 184 
+statue, 74 49 75 58 
+jar, 130 121 154 138 
+jar, 116 107 152 142 
+plate, 216 192 166 156 
+plate, 138 107 184 176 
+plate, 53 26 184 175 
+plate, 79 50 167 162 
+stove, 108 35 186 166 
+utensils, 71 50 188 176 
+glasses, 33 17 173 148 
+counter, 256 50 178 150 
+pot, 107 94 149 136 
+hanging rack, 66 7 27 0 
+hanging pitcher, 31 2 47 15 
+window, 215 151 148 47 
+floor, 218 164 255 237 
+trash compactor, 128 113 173 160 

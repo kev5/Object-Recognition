@@ -1,0 +1,19 @@
+table, 256 1 187 110 
+chair, 209 106 252 157 
+chair, 104 24 254 145 
+chair top, 188 152 119 105 
+chair top, 130 99 115 100 
+chair top, 253 210 128 108 
+chair top, 23 1 123 101 
+wooden panelling, 200 172 124 6 
+wooden panelling, 127 68 112 13 
+window, 68 2 113 2 
+window, 166 127 85 31 
+plant, 148 130 100 47 
+armchair, 242 217 105 80 
+armchair, 221 198 120 88 
+bouquet, 223 201 92 79 
+sofa, 171 144 107 78 
+door, 200 185 123 4 
+door, 128 106 101 9 
+door, 103 68 111 9 

@@ -1,0 +1,20 @@
+overhead projector, 89 62 106 73 
+podium, 46 18 105 85 
+projection screen, 71 0 103 55 
+window, 218 183 96 46 
+window, 255 220 96 45 
+ceiling, 254 2 39 0 
+chair, 206 160 193 130 
+chair, 255 211 193 130 
+chair, 156 95 190 124 
+chair, 95 65 181 124 
+chair, 79 35 177 119 
+chair, 41 14 165 112 
+chair top, 52 34 113 103 
+chair top, 73 55 107 101 
+chair top, 118 96 101 95 
+chair top, 147 123 100 95 
+chair top, 180 158 101 96 
+chair top, 205 184 102 97 
+chair top, 232 210 103 97 
+conference table, 256 34 133 100 

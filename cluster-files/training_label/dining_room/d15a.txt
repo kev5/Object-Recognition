@@ -1,0 +1,25 @@
+window, 135 79 136 23 
+window, 190 138 130 26 
+window, 241 193 131 29 
+window, 61 41 170 0 
+painting, 40 21 42 1 
+painting, 39 21 97 47 
+painting, 67 61 90 64 
+ceiling lamp, 216 156 79 1 
+table, 228 134 144 128 
+chair, 252 201 206 122 
+chair, 186 127 215 125 
+chair, 142 118 182 112 
+rug, 255 41 255 168 
+ceiling, 254 68 22 1 
+ceiling, 244 195 62 33 
+curtain, 68 44 52 3 
+curtain, 137 77 59 25 
+curtain, 181 140 60 29 
+curtain, 130 74 138 78 
+curtain, 64 40 171 74 
+curtain, 190 143 138 78 
+curtain, 238 193 133 78 
+bouquet, 191 177 137 115 
+plate, 222 206 141 133 
+plate, 179 164 142 137 

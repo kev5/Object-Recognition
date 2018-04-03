@@ -1,0 +1,16 @@
+clock, 97 74 24 0 
+door, 55 0 221 14 
+notebook, 175 106 196 173 
+monitor, 256 209 151 90 
+window, 200 111 144 10 
+chair, 255 178 255 182 
+plant, 122 65 255 214 
+desk, 256 78 204 139 
+desk, 165 29 255 200 
+rug, 30 0 248 225 
+laptop, 218 173 173 162 
+folders, 207 173 152 105 
+wall outlet, 78 65 113 101 
+printer, 172 123 256 216 
+computers, 150 92 182 160 
+chair top, 164 136 144 130 

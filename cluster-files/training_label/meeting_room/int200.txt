@@ -1,0 +1,44 @@
+flag, 140 130 156 98 
+projection screen, 235 189 136 87 
+podium, 194 169 154 133 
+paper, 220 198 244 232 
+paper, 161 137 232 221 
+paper, 118 95 224 214 
+paper, 187 175 191 185 
+paper, 97 85 184 179 
+glass, 118 109 213 202 
+glass, 164 155 223 210 
+glass, 220 212 232 217 
+glass, 15 6 197 185 
+glass, 211 199 222 202 
+chair part, 199 153 255 238 
+chair top, 136 95 255 227 
+chair top, 84 48 255 216 
+chair top, 179 153 214 185 
+chair top, 256 234 226 194 
+chair top, 219 188 217 187 
+chair top, 37 20 190 170 
+chair top, 15 0 187 167 
+chair top, 220 195 185 170 
+chair top, 253 228 189 172 
+chair top, 114 100 176 164 
+chair top, 92 76 174 163 
+chair top, 73 59 172 161 
+chair top, 254 233 172 161 
+chair, 100 65 216 176 
+chair, 150 122 206 167 
+chair, 66 42 211 171 
+row of chairs, 75 24 160 150 
+row of chairs, 186 131 182 158 
+curtain, 57 41 150 98 
+curtain, 19 0 155 98 
+table, 54 0 253 184 
+table, 256 76 256 200 
+table, 256 156 205 182 
+table, 230 190 171 154 
+table, 173 136 186 164 
+table, 132 37 209 171 
+ceiling lamp, 155 117 59 45 
+ceiling lamp, 63 27 70 58 
+ceiling lamp, 209 176 73 62 
+ceiling lamp, 128 98 79 71 

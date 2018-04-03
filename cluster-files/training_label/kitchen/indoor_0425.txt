@@ -1,0 +1,17 @@
+cupboards, 256 2 226 2 
+cupboard, 302 176 422 252 
+stove, 286 51 512 226 
+teapot, 198 157 295 246 
+cupboard crop, 197 50 512 371 
+worktop, 206 33 508 323 
+handle, 62 45 200 186 
+handle, 45 33 200 187 
+handle, 121 103 485 469 
+handle, 167 151 485 470 
+handle, 156 139 499 483 
+pot, 74 37 349 298 
+utensil, 82 39 299 249 
+wall, 235 7 508 1 
+wall, 338 217 411 1 
+wall, 39 2 510 2 
+floor, 338 41 512 387 

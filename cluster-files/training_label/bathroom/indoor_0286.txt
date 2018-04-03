@@ -1,0 +1,14 @@
+mirror, 333 256 246 11 
+rail, 250 4 33 1 
+curtain, 241 2 480 1 
+soap, 276 252 263 245 
+glass, 322 307 293 258 
+washbasin, 297 209 349 309 
+closet, 318 171 509 299 
+ceiling, 226 2 16 1 
+wall, 357 202 508 1 
+bath occluded, 180 20 505 442 
+towel, 26 2 512 397 
+wc crop, 320 227 512 492 
+floor, 354 2 511 417 
+lamp, 260 237 14 1 

@@ -1,0 +1,17 @@
+mirror, 392 194 106 2 
+sink, 474 193 407 272 
+hanger, 509 398 242 152 
+towel, 497 412 325 212 
+soap dish, 271 209 326 287 
+faucet, 324 302 297 277 
+shower curtain, 381 315 87 21 
+water handle, 303 267 305 267 
+water handle, 348 316 300 260 
+Blue tile, 628 545 301 209 
+white tile, 186 95 404 314 
+white tile, 623 538 383 291 
+shelf, 116 2 368 121 
+basket, 78 2 179 16 
+Liquide Soap, 168 91 213 107 
+jar (_), 330 275 178 117 
+blue tile, 346 257 288 211 

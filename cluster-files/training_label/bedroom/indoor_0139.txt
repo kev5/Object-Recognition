@@ -1,0 +1,11 @@
+wall, 299 212 203 1 
+wall, 216 2 195 1 
+bed, 269 95 218 145 
+laptop computer, 186 161 175 153 
+radio, 68 26 116 89 
+table, 117 61 216 177 
+shelves, 55 15 210 143 
+chair occluded, 297 266 204 133 
+floor, 299 2 225 172 
+window, 180 126 119 4 
+window, 77 10 118 4 

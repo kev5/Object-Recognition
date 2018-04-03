@@ -1,0 +1,16 @@
+cupboard, 183 115 115 10 
+cupboard, 188 146 238 162 
+cupboard, 92 20 75 1 
+ceiling, 224 117 25 1 
+lamp, 195 181 16 7 
+dishwasher, 223 188 255 163 
+cupboar, 146 111 252 165 
+worktop, 223 113 170 151 
+fridge, 105 21 298 76 
+handle, 36 31 147 93 
+handle, 37 31 209 153 
+wall, 117 63 267 1 
+wall, 64 2 300 1 
+wall, 224 165 221 19 
+wall, 170 113 225 9 
+floor, 224 2 300 207 

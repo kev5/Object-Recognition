@@ -1,0 +1,38 @@
+chair, 61 1 246 154 
+cabinet, 74 0 123 30 
+cabinet, 150 87 101 47 
+cabinet, 88 72 191 47 
+cabinet, 255 89 197 133 
+cabinet, 71 0 105 34 
+cabinet, 85 72 189 46 
+cabinet, 190 150 79 64 
+cabinets, 256 191 101 52 
+cabinets, 255 87 191 132 
+painting, 173 154 117 93 
+plate, 123 103 128 107 
+plant, 108 88 132 115 
+plant, 176 151 61 40 
+plant, 88 71 41 15 
+plant, 240 200 48 28 
+plant, 11 1 156 136 
+basket, 256 240 51 31 
+basket, 126 102 50 40 
+basket, 105 89 48 41 
+pot, 206 192 128 115 
+pot, 256 242 129 120 
+kettle, 164 150 129 117 
+picture frame, 34 18 156 137 
+counter top, 80 1 166 151 
+coffee maker, 232 224 128 109 
+hanging plate, 187 176 116 104 
+hanging plate, 150 139 117 105 
+desk, 80 0 222 154 
+radio, 66 44 153 143 
+shelf, 70 0 122 106 
+ceiling, 255 1 26 0 
+floor, 255 0 255 185 
+hood, 190 148 89 80 
+bottle, 220 213 127 112 
+mug, 117 110 129 116 
+stove, 192 145 131 124 
+tray, 142 123 131 127 

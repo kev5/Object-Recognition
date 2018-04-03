@@ -1,0 +1,9 @@
+toilet, 1302 626 1833 586 
+floor, 1537 57 2048 1244 
+wall, 1537 464 1379 3 
+wall, 658 3 2048 3 
+toilet paper, 1169 995 663 450 
+toilet paper, 1532 1404 1193 918 
+floor tile, 1501 1002 1955 1543 
+toilet seat lid, 1142 628 1480 1031 
+Bow, 1082 980 665 565 

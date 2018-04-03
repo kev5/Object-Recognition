@@ -1,0 +1,6 @@
+table, 220 92 312 262 
+window, 314 86 264 36 
+cupboard, 48 25 172 48 
+cupboard, 29 2 175 32 
+fridge, 28 2 512 205 
+door, 382 312 512 1 

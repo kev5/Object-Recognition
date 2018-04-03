@@ -1,0 +1,23 @@
+column, 92 47 221 24 
+column, 41 5 191 43 
+picture, 231 213 116 95 
+ceiling lamp, 155 129 88 38 
+painting, 103 88 116 97 
+painting, 232 213 116 94 
+china cabinet, 186 131 129 64 
+chair, 194 152 194 139 
+chair, 148 117 197 141 
+chair, 118 86 188 137 
+chair, 199 188 181 132 
+rug, 245 28 220 160 
+door frame, 46 27 154 77 
+door frame, 9 0 164 74 
+table, 188 98 155 138 
+curtain, 241 238 164 56 
+chair top, 120 101 141 130 
+chair top, 187 164 139 130 
+plate, 113 100 145 142 
+plate, 178 167 148 144 
+bouquet, 159 132 146 118 
+plant, 90 81 165 125 
+air vent, 238 226 29 22 

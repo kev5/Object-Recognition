@@ -1,0 +1,27 @@
+ceiling, 256 0 103 0 
+ceiling, 256 185 130 120 
+ceiling, 181 2 130 99 
+lamp, 207 187 12 3 
+lamp, 166 145 17 8 
+lamp, 141 126 32 25 
+lamp, 176 159 28 22 
+lamp, 214 195 24 17 
+lamp, 219 203 34 28 
+lamp, 169 159 56 50 
+lamp, 255 239 19 11 
+lamp, 224 209 43 37 
+window, 49 0 162 116 
+window, 131 74 156 122 
+window, 175 153 146 128 
+column, 78 48 178 7 
+column, 154 136 162 59 
+wall, 189 0 127 26 
+wall, 255 187 121 101 
+wall, 189 0 178 127 
+wall, 255 189 157 129 
+armchair, 45 11 195 157 
+armchair crop, 129 33 256 203 
+table crop, 43 0 256 221 
+seats, 240 220 159 146 
+table, 114 94 171 158 
+floor, 255 0 256 155 

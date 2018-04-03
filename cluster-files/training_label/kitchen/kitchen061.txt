@@ -1,0 +1,49 @@
+painting, 616 469 210 82 
+wine bottle, 306 273 569 438 
+wine bottle, 270 236 570 441 
+wine bottle, 245 223 505 430 
+lamp, 1152 1085 500 302 
+lamp, 840 796 459 315 
+window, 335 89 401 64 
+window, 1200 810 420 2 
+counter top, 1198 107 546 430 
+sink, 197 132 466 448 
+sink, 707 456 601 533 
+sink, 737 438 597 525 
+cheese, 604 509 721 666 
+cheese, 432 343 706 627 
+vase, 761 722 456 391 
+flowers, 808 695 405 307 
+spoon, 759 668 736 663 
+plate, 929 878 473 416 
+pitcher, 882 840 463 416 
+kettle, 627 579 431 386 
+bowl of vegtables, 422 367 437 383 
+countertop, 1105 51 891 487 
+wine glass, 160 124 581 495 
+wine glass, 187 156 585 507 
+wine glass, 213 171 576 497 
+wine glass, 251 215 586 506 
+corkscrew, 318 260 579 554 
+faucet, 185 134 440 383 
+faucet, 564 444 581 471 
+grapes, 556 416 712 621 
+artichokes, 602 471 652 601 
+bowl of cookies, 698 605 662 536 
+bowl of cookies, 310 174 676 607 
+bread, 774 525 653 598 
+bread, 485 394 619 564 
+bread, 399 296 653 584 
+quiche, 863 723 700 635 
+jar, 663 645 438 381 
+pot of herbs, 324 243 447 381 
+basket of flowers, 1005 926 474 375 
+wooden bowl, 1046 1004 485 420 
+food platter, 690 284 763 611 
+cabinets, 1201 111 881 457 
+cabinets, 1107 487 901 691 
+cabinets, 123 2 624 60 
+bar atools, 184 2 898 526 
+part of cabinets, 448 71 900 667 
+wall, 1200 2 498 1 
+stove top, 639 440 447 431 

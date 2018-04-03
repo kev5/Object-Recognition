@@ -1,0 +1,27 @@
+table, 244 43 245 83 
+window, 86 21 88 1 
+window, 150 111 81 1 
+doors, 256 190 114 6 
+chair, 256 172 255 118 
+chair, 144 62 255 114 
+chair, 39 22 170 90 
+chair, 53 36 192 99 
+chair, 71 49 221 108 
+plate, 208 179 139 127 
+plate, 141 116 135 122 
+plate, 113 88 123 113 
+plate, 89 66 109 103 
+plate, 164 142 109 100 
+bowl, 168 145 147 131 
+cup, 205 191 126 116 
+bouquet, 132 103 109 83 
+chair top, 237 207 124 88 
+chair top, 197 172 110 82 
+chair top, 166 147 103 79 
+chair top, 75 48 92 74 
+wall clock, 184 172 38 24 
+plant, 215 165 100 43 
+radiator, 28 4 139 96 
+pitcher, 183 168 128 106 
+place mat, 217 171 145 126 
+place mat, 142 92 143 118 

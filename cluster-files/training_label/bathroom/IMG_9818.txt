@@ -1,0 +1,7 @@
+toiletpaper, 1167 950 564 269 
+toilet, water closet, w. c. pan, 1363 348 1870 390 
+bath, 625 5 1915 625 
+floor, 1534 5 2048 1014 
+wall, 1536 2 1214 2 
+towel, 310 2 1471 1070 
+Sally, 776 613 474 328 

@@ -1,0 +1,20 @@
+television, 217 165 111 63 
+whiteboard, 255 218 109 14 
+whiteboard, 75 0 123 9 
+picture frame, 118 98 34 14 
+picture frame, 139 121 35 15 
+picture frame, 158 141 35 17 
+picture frame, 118 99 56 36 
+picture frame, 139 121 56 37 
+chair, 152 97 149 108 
+chair, 90 33 160 123 
+chair, 101 0 255 182 
+chair, 212 102 255 160 
+chair, 256 208 149 116 
+chair, 255 198 254 143 
+conference table, 223 0 217 142 
+television stand, 227 156 144 104 
+phone, 179 166 124 116 
+book, 204 182 124 120 
+poster, 72 45 53 12 
+poster, 13 0 93 51 

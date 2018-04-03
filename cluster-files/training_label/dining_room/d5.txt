@@ -1,0 +1,24 @@
+ceiling lamp, 166 107 65 46 
+ceiling lamp, 84 58 32 23 
+lamp, 37 0 126 76 
+table, 250 86 206 145 
+wall, 214 0 162 1 
+bouquet, 89 52 127 101 
+bouquet, 177 124 173 122 
+painting, 53 36 68 47 
+painting, 255 233 103 36 
+side table, 91 1 171 125 
+place mat, 149 98 189 169 
+place mat, 129 90 168 155 
+place mat, 213 143 200 186 
+chair, 229 147 255 170 
+chair, 143 61 255 148 
+chair top, 244 216 181 143 
+chair top, 220 197 165 134 
+chair top, 153 117 149 122 
+ceiling, 247 52 10 1 
+ceiling, 107 2 33 18 
+napkin, 132 104 179 173 
+napkin, 117 94 162 157 
+napkin, 191 169 199 186 
+napkin, 191 177 162 155 

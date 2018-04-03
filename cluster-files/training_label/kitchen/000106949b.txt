@@ -1,0 +1,22 @@
+wine bottle, 568 520 454 415 
+wine bottle, 572 523 403 364 
+wine bottle, 564 518 503 465 
+wine bottle, 559 513 548 517 
+fridge, 185 5 594 6 
+oven, 389 199 559 389 
+cupboard, 509 393 166 1 
+switch, 774 750 266 233 
+extractor hood, 386 197 135 2 
+sink, 785 635 498 384 
+handle, 694 673 171 94 
+handle, 701 689 167 99 
+handle, 786 765 178 97 
+handle, 485 424 387 381 
+drawer, 517 391 402 359 
+drawer, 511 392 445 404 
+drawer, 514 392 487 442 
+drawer, 510 390 565 483 
+salt_pepper cellar, 494 448 326 254 
+stove, 384 202 356 307 
+kitchen utensils, 725 636 356 224 
+vent, 400 190 137 7 

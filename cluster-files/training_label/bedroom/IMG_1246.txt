@@ -1,0 +1,13 @@
+lamp, 797 611 483 275 
+lamp, 1824 1452 867 433 
+picture crop, 1034 865 193 2 
+picture crop, 1273 1046 203 2 
+picture crop, 1638 1295 217 2 
+telephone, 1752 1527 1276 1133 
+control remote, 1653 1496 1377 1252 
+bed, 1665 2 1537 244 
+night table crop, 1964 1327 1537 1128 
+pillow, 1389 725 1189 621 
+pillow, 945 534 909 544 
+pillow occluded, 1430 1037 1090 592 
+pillow occluded, 1061 814 645 517 

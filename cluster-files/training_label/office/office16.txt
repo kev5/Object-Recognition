@@ -1,0 +1,24 @@
+monitor, 210 170 114 79 
+phone, 255 228 129 115 
+phone, 256 226 132 116 
+chair, 180 86 253 91 
+keyboard, 196 158 121 108 
+mouse, 185 172 127 119 
+briefcase, 94 31 139 111 
+desk, 255 128 243 100 
+bookshelves, 132 0 162 26 
+chair top, 255 207 117 77 
+cabinet, 90 29 204 126 
+folders, 123 103 64 36 
+folders, 13 0 108 78 
+folders, 12 0 159 130 
+books, 47 21 112 86 
+books, 82 55 55 44 
+vase, 118 109 99 79 
+vase, 109 100 99 80 
+lamp, 255 235 77 60 
+cabinets, 152 27 204 116 
+statue, 126 107 126 112 
+rug, 255 9 255 158 
+window, 255 144 116 1 
+curtain, 249 116 133 0 

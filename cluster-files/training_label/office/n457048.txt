@@ -1,0 +1,16 @@
+table, 205 114 178 110 
+window, 205 91 126 0 
+window, 256 220 138 0 
+ceiling lamp, 175 145 36 0 
+, 255 206 254 205 
+armchair top, 101 1 255 158 
+armchair top, 256 205 256 204 
+chair, 128 94 165 98 
+chair, 248 186 192 109 
+chair, 251 208 132 102 
+cabinets, 96 0 163 108 
+cabinets, 200 114 110 103 
+lamp, 55 13 116 81 
+books, 74 53 114 102 
+door frame, 88 75 105 27 
+plant, 255 247 135 109 

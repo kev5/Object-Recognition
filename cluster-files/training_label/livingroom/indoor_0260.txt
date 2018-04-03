@@ -1,0 +1,22 @@
+ceiling, 386 2 47 1 
+window, 261 224 187 83 
+window, 170 103 198 86 
+window, 46 2 210 75 
+armchair occluded, 292 183 260 182 
+table occluded, 234 128 274 235 
+plant pot, 105 64 270 233 
+plant, 113 36 238 137 
+sofa crop, 416 66 325 240 
+cushion, 267 120 310 252 
+cushion, 368 261 283 220 
+bookshelf, 330 285 242 97 
+picture, 360 339 137 110 
+picture, 407 375 146 92 
+fire place, 431 338 273 194 
+shelves, 27 4 285 142 
+floor lamp, 447 410 325 88 
+wall, 339 293 234 34 
+wall, 295 2 281 17 
+wall, 448 331 298 1 
+floor, 448 2 324 230 
+lamp, 296 284 32 24 

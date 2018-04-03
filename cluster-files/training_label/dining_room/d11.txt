@@ -1,0 +1,25 @@
+painting, 234 194 91 41 
+painting, 185 158 96 61 
+painting, 137 112 95 61 
+painting, 255 243 100 56 
+painting, 225 200 121 97 
+curtain, 65 32 174 49 
+curtain, 104 81 133 73 
+lamp, 240 214 136 90 
+lamp, 196 174 128 87 
+mirror, 28 8 93 62 
+table, 173 50 222 133 
+chair, 168 105 226 133 
+ceiling lamp, 118 72 75 10 
+chair top, 95 44 213 130 
+chair top, 93 58 136 120 
+chair top, 159 127 137 109 
+bowl, 207 193 133 125 
+ceiling, 255 0 33 0 
+small table, 252 167 194 126 
+statue, 220 208 134 120 
+candle, 122 111 145 108 
+candle, 95 88 138 100 
+candle, 105 98 143 105 
+window, 104 35 124 44 
+wall outlet, 194 185 152 147 

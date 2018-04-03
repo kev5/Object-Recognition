@@ -1,0 +1,12 @@
+television, 116 92 97 79 
+painting, 32 0 66 6 
+bed, 204 0 194 95 
+curtain, 250 168 152 1 
+curtain, 112 93 76 1 
+carpet, 254 1 254 147 
+lamp, 85 71 99 86 
+window, 162 131 79 8 
+pillow, 89 41 123 109 
+pillow, 68 4 143 117 
+night stand table, 26 0 178 138 
+television stand, 129 68 111 95 

@@ -1,0 +1,19 @@
+curtain, 192 121 159 38 
+wardrobe, 109 23 204 33 
+dresser, 52 1 217 135 
+dresser, 255 232 212 152 
+bouquet, 40 8 133 82 
+painting, 247 224 100 40 
+bed, 239 51 237 131 
+pillows, 212 147 163 143 
+blanket, 213 60 235 160 
+window, 191 135 116 43 
+pillow, 189 159 166 150 
+pillow, 176 142 164 142 
+pillow, 212 179 165 140 
+pillow, 229 202 164 149 
+pillow, 149 132 159 149 
+night stand cabinet, 256 228 213 150 
+boxes, 20 5 137 120 
+ceiling, 255 1 21 0 
+carpet, 255 0 255 208 

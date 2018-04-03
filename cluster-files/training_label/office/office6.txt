@@ -1,0 +1,26 @@
+monitor, 252 217 141 116 
+monitor, 176 142 131 107 
+monitor, 96 58 154 127 
+monitor, 49 8 145 119 
+chair, 236 195 204 147 
+chair, 49 3 229 162 
+chair, 155 122 187 135 
+desk, 256 107 181 130 
+desk, 113 0 231 140 
+printer, 110 67 139 118 
+table, 114 96 152 136 
+keyboard, 69 33 170 156 
+keyboard, 22 0 163 151 
+keyboard, 161 144 145 138 
+keyboard, 238 207 153 143 
+books, 105 81 164 151 
+mouse, 30 20 163 159 
+mouse, 71 60 171 166 
+mouse, 181 172 144 140 
+mouse, 249 242 155 150 
+external drivers, 206 182 143 123 
+external drivers, 63 45 158 135 
+external driver, 193 166 162 154 
+computer, 177 136 146 133 
+computer, 48 7 159 144 
+file box, 142 111 140 112 

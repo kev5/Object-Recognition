@@ -1,0 +1,19 @@
+ceiling, 703 1 79 0 
+bed, 437 118 445 160 
+carousel horse, 203 0 477 230 
+carousel horse, 705 483 477 259 
+carousel horse occluded, 420 335 258 197 
+window, 572 407 262 96 
+window occluded, 298 238 242 86 
+cushion occluded, 223 136 255 177 
+cushion occluded, 248 167 267 190 
+cushion, 301 173 277 208 
+mirror, 195 144 157 89 
+furniture, 705 608 477 243 
+lamp, 88 54 243 171 
+plant pot, 84 51 298 257 
+plant, 88 50 264 242 
+table occluded, 167 0 446 268 
+wall, 328 0 421 3 
+wall, 705 323 322 19 
+floor, 704 0 477 298 

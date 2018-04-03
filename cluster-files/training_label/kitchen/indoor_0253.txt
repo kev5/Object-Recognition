@@ -1,0 +1,13 @@
+cupboard crop, 155 2 198 2 
+cupboard crop, 740 136 130 2 
+cupboard crop, 796 695 600 353 
+extractor hood, 641 144 171 43 
+stove crop, 738 159 600 268 
+fryer crop, 72 2 596 431 
+cutlery, 590 495 381 217 
+paper, 635 567 219 161 
+worktop, 796 495 419 311 
+worktop, 326 4 600 483 
+wall, 796 672 320 2 
+wall, 670 2 536 6 
+grill, 588 344 511 408 

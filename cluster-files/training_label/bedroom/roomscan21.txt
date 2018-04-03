@@ -1,0 +1,16 @@
+painting, 206 180 86 47 
+painting, 177 153 91 52 
+painting, 175 152 127 94 
+painting, 207 180 126 90 
+bed, 217 19 255 129 
+lamp, 254 214 168 110 
+lamp, 34 1 121 78 
+window, 41 0 175 37 
+curtain, 73 0 173 4 
+pillow, 169 137 168 142 
+pillow, 201 153 171 130 
+ceiling, 255 0 48 1 
+night stand table, 255 206 188 166 
+bed part, 254 191 254 187 
+books, 245 221 188 180 
+small table, 48 2 251 227 

@@ -1,0 +1,20 @@
+Mirror, 99 0 175 1 
+Towel, 179 119 100 33 
+counter, 199 0 256 159 
+mirror, 98 0 175 0 
+cabinet, 190 142 255 218 
+cabinet, 189 116 198 132 
+towels, 181 118 104 32 
+towels, 96 54 135 65 
+clock, 165 122 30 0 
+towel, 255 243 141 46 
+toilet, 195 154 204 180 
+toilet, 256 190 256 218 
+shower curtain, 64 0 174 5 
+painting, 255 229 44 1 
+sink faucet, 58 10 225 194 
+soap, 110 89 203 196 
+soap dish, 110 89 211 205 
+sink, 132 1 255 212 
+wall outlet, 114 104 134 111 
+towel rack, 118 106 42 31 

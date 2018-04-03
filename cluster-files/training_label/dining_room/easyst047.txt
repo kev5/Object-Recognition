@@ -1,0 +1,7 @@
+table, 1018 287 1398 654 
+PictureFrame, 651 519 663 501 
+PictureFrame, 780 665 669 532 
+Lamp, 709 321 632 213 
+Bookcase, 700 213 828 1 
+Bookcase, 213 1 823 1 
+window, 1012 762 408 159 

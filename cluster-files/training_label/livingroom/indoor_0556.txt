@@ -1,0 +1,14 @@
+picture, 313 276 112 60 
+picture, 382 341 116 60 
+picture, 458 412 119 59 
+picture, 544 489 122 58 
+floor lamp, 258 194 255 7 
+sofa, 612 156 428 186 
+blanket, 478 302 238 186 
+armchair, 155 2 426 186 
+cushion, 107 24 365 311 
+wall, 639 206 389 2 
+wall, 212 117 359 1 
+wall, 136 49 359 1 
+wall, 62 2 355 2 
+floor, 639 2 426 322 

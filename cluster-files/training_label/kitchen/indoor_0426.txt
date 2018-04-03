@@ -1,0 +1,13 @@
+blender crop, 62 2 277 96 
+pot, 147 91 242 183 
+utensil, 173 62 186 130 
+cupboard crop, 441 370 75 1 
+cupboard crop, 201 2 93 1 
+cupboard crop, 288 114 364 280 
+stove, 429 150 363 111 
+cupboard, 488 323 364 153 
+teapot, 341 287 195 142 
+worktop, 290 2 364 208 
+wall, 510 377 355 1 
+wall, 382 2 363 2 
+floor, 510 297 364 317 

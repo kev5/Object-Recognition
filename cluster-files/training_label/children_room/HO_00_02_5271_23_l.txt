@@ -1,0 +1,23 @@
+bed, 684 225 458 149 
+trunk, 400 201 459 248 
+window occluded, 221 18 176 25 
+closet, 134 0 323 72 
+dress, 148 69 188 96 
+table crop, 54 2 415 252 
+stool, 124 56 389 287 
+table, 226 165 273 209 
+chair, 173 130 274 205 
+chair, 258 222 263 197 
+cuddly toy, 328 241 426 311 
+picture, 566 508 122 58 
+picture, 664 587 122 44 
+cushion, 654 549 269 187 
+cushion, 561 477 243 179 
+ceiling, 459 151 18 0 
+curtain, 237 9 55 4 
+wall, 279 2 281 1 
+wall, 685 277 377 1 
+floor, 685 0 458 241 
+doll, 48 9 71 40 
+decoration, 263 235 123 88 
+lamp, 453 421 221 172 

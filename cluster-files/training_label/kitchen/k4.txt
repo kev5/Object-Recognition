@@ -1,0 +1,24 @@
+cabinets, 104 4 75 0 
+cabinets, 191 40 256 134 
+coffee maker, 188 161 142 107 
+blender, 215 189 145 99 
+knives, 238 213 149 109 
+dish towel, 193 149 153 143 
+stove, 255 194 178 121 
+oven, 256 191 256 167 
+dish rack, 107 67 130 107 
+bowl, 101 88 127 113 
+sink, 150 76 144 126 
+sink faucet, 140 109 132 115 
+wall outlet, 150 139 114 104 
+wall outlet, 135 127 114 105 
+counter, 231 34 161 119 
+cans, 130 107 74 64 
+glasses, 151 132 74 55 
+glass, 118 108 20 2 
+jars, 119 99 49 30 
+bowls, 143 128 47 37 
+shelves, 156 83 77 1 
+lamp, 166 106 86 76 
+refrigerator, 74 8 194 76 
+floor, 170 1 254 185 

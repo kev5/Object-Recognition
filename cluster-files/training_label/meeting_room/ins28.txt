@@ -1,0 +1,14 @@
+door, 35 0 151 0 
+door knob, 29 13 56 46 
+window, 97 32 124 1 
+chair, 136 77 112 70 
+chair, 129 1 254 146 
+armchair, 255 176 156 90 
+chair top, 100 45 125 111 
+table, 254 31 250 109 
+papers, 147 93 129 111 
+papers, 191 98 110 78 
+small table, 194 98 118 79 
+paper, 170 152 35 25 
+files, 188 151 58 0 
+files, 140 112 39 0 

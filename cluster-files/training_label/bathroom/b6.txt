@@ -1,0 +1,11 @@
+trash can, 91 64 189 144 
+toilet, 63 4 220 153 
+window, 161 76 67 1 
+window, 74 0 68 0 
+sink, 255 205 192 143 
+towel, 251 214 214 137 
+bath tub, 244 97 255 117 
+rug, 125 15 255 227 
+radiator, 84 4 156 113 
+bath faucet, 208 174 172 1 
+towel rack, 217 200 148 141 

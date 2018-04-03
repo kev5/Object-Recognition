@@ -1,0 +1,25 @@
+ceiling, 689 66 94 0 
+furniture, 176 0 527 0 
+bed, 374 36 480 314 
+cushion occluded, 62 35 305 267 
+cushion occluded, 101 61 289 257 
+cushion occluded, 108 71 300 278 
+cushion occluded, 84 35 367 293 
+cushion occluded, 150 117 303 271 
+cushion occluded, 131 73 361 281 
+cushion, 180 142 333 286 
+cushion, 164 115 358 297 
+window, 370 183 284 139 
+window, 485 458 235 135 
+curtain, 373 179 161 126 
+wall, 515 146 339 81 
+wall, 689 503 358 41 
+floor, 689 2 555 330 
+rug, 507 89 553 434 
+boat, 668 447 380 210 
+armchair, 430 339 365 270 
+window occluded, 627 559 183 91 
+umbrella, 468 382 263 147 
+table occluded, 351 291 308 291 
+anchor, 470 440 372 295 
+photo, 95 47 180 127 

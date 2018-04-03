@@ -1,0 +1,29 @@
+windows, 205 2 151 53 
+fireplace, 253 206 192 115 
+mirror, 254 218 105 53 
+mirror, 256 216 108 53 
+table top, 198 74 207 170 
+armchair, 93 38 195 140 
+armchair, 159 121 176 133 
+side table, 191 158 181 143 
+side table, 194 39 256 221 
+pillow, 39 0 187 160 
+pillow, 119 58 223 196 
+small table, 202 70 233 173 
+small table, 119 80 177 157 
+sofa, 153 0 254 158 
+plate, 148 93 255 240 
+bowl, 155 127 188 176 
+small bowl, 147 124 237 226 
+ceiling, 255 0 59 0 
+bibelot, 246 233 115 107 
+bibelot, 174 165 192 176 
+bouquet, 211 193 181 149 
+rug, 255 171 255 205 
+book, 119 91 190 179 
+vase, 175 165 192 175 
+vase, 244 232 114 107 
+vase, 183 177 145 137 
+vase, 174 169 144 137 
+vase, 177 169 163 156 
+fan, 48 1 42 15 

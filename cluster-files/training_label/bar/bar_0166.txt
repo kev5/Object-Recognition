@@ -1,0 +1,31 @@
+window, 437 281 238 108 
+window, 442 283 119 52 
+curtain, 498 421 290 0 
+pane, 337 292 56 0 
+pane, 402 351 47 0 
+pane, 444 417 35 0 
+wall, 277 181 325 0 
+wall, 227 112 326 0 
+wall, 167 0 364 0 
+wall, 499 269 312 0 
+logo, 214 194 42 1 
+picture, 251 226 128 77 
+picture, 251 221 81 1 
+picture, 210 173 249 186 
+picture, 144 113 149 109 
+picture, 213 153 177 82 
+mirror, 60 2 95 1 
+glass, 213 165 375 305 
+table, 378 281 344 248 
+chair, 299 250 331 255 
+chair, 162 93 371 258 
+stool, 327 285 350 289 
+table occluded, 499 338 309 283 
+table occluded, 207 82 335 251 
+table occluded, 86 2 374 273 
+chair occluded, 491 375 375 294 
+chair occluded, 102 27 375 260 
+table crop, 281 143 375 355 
+floor, 498 2 375 307 
+lamp, 276 261 127 13 
+chairs occluded, 421 374 284 252 

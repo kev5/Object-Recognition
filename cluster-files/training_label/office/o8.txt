@@ -1,0 +1,29 @@
+monitor, 177 67 255 178 
+monitor, 161 122 179 134 
+printer, 67 3 236 193 
+printer, 206 172 174 157 
+phone, 67 18 256 230 
+phone, 119 96 176 167 
+chair top, 232 178 254 213 
+chair top, 119 97 169 153 
+chair, 235 181 230 185 
+clock, 154 138 85 66 
+plant, 51 2 204 176 
+plant, 97 82 81 66 
+bookshelves, 104 0 187 76 
+lamp part, 84 52 187 160 
+poster, 256 203 148 81 
+ceiling lamp, 178 135 58 45 
+desk, 225 84 210 163 
+desk, 173 0 256 190 
+books, 100 48 121 106 
+books, 78 46 103 86 
+books, 89 48 138 123 
+books, 94 48 157 140 
+books, 29 0 102 85 
+books, 24 0 121 105 
+books, 39 1 140 124 
+books, 20 0 160 143 
+lamp, 131 108 182 132 
+ceiling, 153 0 56 0 
+plants, 174 155 177 161 

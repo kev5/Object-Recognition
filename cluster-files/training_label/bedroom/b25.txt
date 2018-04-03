@@ -1,0 +1,10 @@
+bed, 169 0 232 70 
+painting, 141 65 60 0 
+painting, 43 13 60 0 
+night stand dresser, 202 142 234 149 
+wardrobe part, 254 207 255 1 
+lamp, 28 5 120 82 
+lamp, 201 172 158 105 
+pillow, 156 73 144 114 
+pillow, 93 18 136 108 
+rug, 198 1 256 201 

@@ -1,0 +1,15 @@
+cupboard crop, 278 2 168 2 
+telephone, 186 104 313 280 
+lamp, 80 13 324 229 
+mug, 244 209 281 237 
+cupboard occluded, 349 2 513 267 
+cupboard occluded, 628 280 369 2 
+bottle, 449 401 453 324 
+purse, 647 531 473 322 
+paper, 764 643 513 304 
+oven, 572 500 319 88 
+fridge occluded, 500 257 377 71 
+table crop, 762 183 513 356 
+wall, 764 626 513 2 
+wall, 639 2 509 4 
+keys, 399 360 438 410 

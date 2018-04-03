@@ -1,0 +1,19 @@
+mirror, 184 117 158 56 
+lamp, 189 130 47 15 
+counter, 249 86 228 174 
+cabinet, 245 92 255 196 
+towel, 94 54 220 92 
+towel, 206 175 183 175 
+shower, 80 55 255 64 
+shower curtain, 60 41 250 61 
+wall outlet, 208 200 158 144 
+sink faucet, 173 140 198 176 
+box, 134 102 204 183 
+box, 216 180 192 180 
+towel rack, 80 69 92 86 
+slippers, 66 32 255 247 
+ceiling, 231 118 20 0 
+ceiling, 78 0 54 1 
+floor, 83 0 255 241 
+ceiling lamp, 62 46 41 33 
+sink, 201 150 206 192 

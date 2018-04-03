@@ -1,0 +1,25 @@
+ceiling, 367 2 97 2 
+poster, 152 17 150 106 
+wall, 297 2 271 97 
+wall, 510 297 370 1 
+bed crop, 396 2 375 149 
+cuddly toy, 101 2 324 275 
+bookshelf, 403 324 313 87 
+books, 287 252 224 203 
+books, 394 328 256 196 
+books, 400 334 142 96 
+lamp, 260 216 216 159 
+table occluded, 296 230 255 210 
+basket occluded, 326 292 267 196 
+shelves, 510 390 372 1 
+box, 507 450 230 170 
+box, 495 444 350 287 
+clothes, 508 469 86 32 
+clothes, 451 414 88 48 
+clothes, 450 419 152 113 
+floor, 510 2 377 268 
+cushion occluded, 199 106 178 145 
+cushion occluded, 66 14 174 150 
+cushion occluded, 133 21 208 162 
+cushion, 135 5 277 167 
+cushion, 222 129 251 168 

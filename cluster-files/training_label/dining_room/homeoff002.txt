@@ -1,0 +1,9 @@
+monitor, 1039 858 309 160 
+telephone, 766 661 286 237 
+picture frame, 577 521 202 148 
+picture frame, 516 467 209 139 
+mug, 1089 1051 357 312 
+printer, 250 120 507 399 
+globe, 118 9 290 151 
+painting, 1182 1058 263 46 
+chair, 678 413 737 292 

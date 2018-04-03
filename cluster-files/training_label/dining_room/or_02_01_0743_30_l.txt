@@ -1,0 +1,18 @@
+curtain, 116 66 180 44 
+curtain, 189 139 179 43 
+chair, 151 98 256 191 
+chair, 98 55 255 182 
+chair, 199 151 255 181 
+chair, 183 164 212 176 
+table, 168 83 214 185 
+ceiling, 256 2 45 1 
+plant, 73 28 229 114 
+plant, 227 208 136 103 
+ceiling lamp, 158 99 140 0 
+bouquet, 155 104 189 148 
+lamp, 255 236 176 147 
+buffet, 255 228 253 173 
+door frame, 15 0 246 30 
+window, 169 91 195 55 
+rug, 213 44 256 226 
+chair top, 88 69 203 175 

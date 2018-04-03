@@ -1,0 +1,10 @@
+lamp, 203 141 194 111 
+bed, 125 1 255 134 
+poster, 114 70 129 46 
+night stand table, 202 141 256 187 
+pillow, 119 47 186 141 
+curtain, 151 122 198 29 
+curtain, 254 202 212 20 
+window, 225 153 190 29 
+toy, 255 218 255 191 
+sticker, 22 0 138 115 

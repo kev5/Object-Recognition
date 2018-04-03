@@ -1,0 +1,27 @@
+table, 255 207 255 206 
+chair, 219 163 214 139 
+chair, 87 6 254 141 
+window, 256 221 160 43 
+desk, 168 54 247 149 
+bookshelves, 206 165 157 44 
+bookshelves, 34 0 208 20 
+plant, 164 137 152 125 
+plant, 84 37 32 11 
+ceiling, 256 0 44 0 
+painting, 87 50 143 119 
+painting, 142 105 142 119 
+lamp, 110 94 150 123 
+books, 16 4 122 107 
+books, 113 105 149 131 
+books, 202 189 122 110 
+globe, 139 119 164 126 
+light, 122 96 10 0 
+vase, 54 40 141 123 
+vase, 200 176 140 128 
+ceiling lamp, 210 198 8 1 
+cabinets, 162 28 118 27 
+picture frame, 198 178 103 86 
+vases, 186 173 123 112 
+statue, 182 173 102 83 
+clock, 18 1 93 75 
+pot, 12 2 66 58 

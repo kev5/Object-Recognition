@@ -1,0 +1,19 @@
+wall, 166 141 7 1 
+wall, 146 115 58 1 
+wall, 155 144 55 9 
+wall, 171 164 95 3 
+wall, 129 2 166 1 
+wall, 300 173 208 1 
+tallboy, 148 127 88 55 
+door, 165 157 63 9 
+table occluded, 172 155 100 65 
+chair occluded, 167 150 99 67 
+bed crop, 237 2 229 105 
+cushion, 122 45 154 106 
+cushion, 50 2 167 114 
+picture, 297 275 67 38 
+table, 300 234 218 154 
+lamp, 293 267 167 128 
+shoes, 268 240 200 182 
+poster, 222 191 119 1 
+floor, 300 2 229 57 

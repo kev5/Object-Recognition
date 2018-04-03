@@ -1,0 +1,17 @@
+skylight crop, 283 229 45 1 
+mirror occluded, 88 27 268 134 
+shelves, 168 91 317 185 
+cistern occluded, 174 93 436 360 
+box, 165 136 375 342 
+photograph, 139 115 380 342 
+washbasin occluded, 157 34 471 359 
+closet crop, 152 36 511 417 
+wc, 227 152 512 427 
+rail, 275 178 136 119 
+bath occluded, 272 177 497 391 
+curtain, 276 184 421 122 
+ceiling, 280 128 126 2 
+wall, 222 25 509 3 
+wall, 41 2 510 3 
+wall, 290 273 512 1 
+floor, 272 43 512 460 

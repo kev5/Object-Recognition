@@ -1,0 +1,14 @@
+pillow, 632 505 344 275 
+mirror, 373 275 251 126 
+television, 141 2 283 141 
+chest of drawers, 414 252 359 239 
+lamp, 549 521 280 233 
+clock radio, 532 502 283 271 
+air conditioning, 264 168 135 73 
+ceiling, 640 2 83 1 
+light, 446 250 48 1 
+bed, 640 307 480 261 
+wall, 454 36 360 76 
+drawer, 341 275 314 283 
+drawer, 412 344 308 276 
+drawer, 343 315 284 265 

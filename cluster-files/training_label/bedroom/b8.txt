@@ -1,0 +1,13 @@
+painting, 119 79 97 45 
+painting, 41 6 103 62 
+window, 236 161 149 20 
+curtain, 237 156 50 19 
+desk, 255 138 254 148 
+chair, 226 196 251 157 
+bed, 146 0 256 135 
+pillow, 98 63 167 143 
+pillow, 99 44 159 136 
+pillow, 145 97 164 140 
+notebook, 255 235 175 167 
+lamp, 255 240 159 104 
+carpet, 222 93 255 206 

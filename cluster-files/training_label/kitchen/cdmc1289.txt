@@ -1,0 +1,30 @@
+counter, 253 0 174 148 
+counter, 187 74 194 167 
+cabinets, 255 0 236 155 
+cabinets, 46 0 138 79 
+cabinets, 167 93 136 97 
+cabinets, 187 78 255 183 
+window, 91 39 149 103 
+window, 239 173 145 106 
+window, 227 105 82 49 
+plant, 81 65 156 147 
+pot, 148 133 101 82 
+pot, 101 87 95 79 
+pot, 125 105 97 73 
+pot, 31 16 80 71 
+hanging pot rack, 160 92 83 40 
+painting, 59 51 98 83 
+painting, 231 219 99 88 
+painting, 189 179 100 94 
+decorative plate, 72 63 100 88 
+wall outlet, 17 7 156 148 
+wall outlet, 164 161 145 141 
+sink, 211 176 156 151 
+sink faucet, 209 200 153 142 
+dishwasher, 172 147 171 156 
+stove, 165 95 183 168 
+cabinet, 255 238 135 89 
+jar, 30 19 162 151 
+jar, 20 14 164 156 
+jar, 38 31 162 146 
+box, 106 96 150 140 

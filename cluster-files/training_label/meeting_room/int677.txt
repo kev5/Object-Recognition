@@ -1,0 +1,13 @@
+table, 256 0 187 75 
+chair, 184 110 215 134 
+chair, 225 163 225 118 
+chair, 255 225 176 102 
+window, 162 58 76 0 
+window, 15 0 79 1 
+chair part, 61 0 255 157 
+chair part, 256 246 89 75 
+chair top, 62 22 104 88 
+chair top, 104 72 96 83 
+chair top, 153 133 84 73 
+chair top, 181 163 79 69 
+chair top, 230 207 83 68 

@@ -1,0 +1,18 @@
+picture, 389 327 159 45 
+picture occluded, 190 178 109 67 
+bed occluded, 196 107 286 126 
+cushion, 158 122 191 168 
+wall, 193 99 221 6 
+wall, 416 2 358 2 
+wall, 510 414 251 2 
+large window, 510 451 225 21 
+sofa, 505 275 318 164 
+table occluded, 342 217 333 224 
+table occluded, 256 2 464 285 
+lamp, 321 250 246 122 
+chest, 508 477 308 251 
+chair, 271 203 462 239 
+chair occluded, 249 43 465 306 
+basket crop, 510 477 465 344 
+carpet, 510 322 415 250 
+floor, 510 2 465 194 

@@ -1,0 +1,17 @@
+ceiling, 688 155 63 0 
+door, 283 217 325 62 
+wall, 325 0 416 0 
+wall, 689 324 364 7 
+wall, 265 220 221 74 
+furniture occluded, 264 218 300 214 
+window, 414 339 234 70 
+decoration, 428 315 326 68 
+bed, 689 369 458 1 
+chest of drawers, 224 0 457 236 
+picture, 153 58 222 100 
+picture crop, 42 2 208 73 
+sculpture, 113 57 258 198 
+lamp, 192 147 243 170 
+lamp, 495 482 17 6 
+cushion, 626 552 338 277 
+floor, 687 24 457 294 

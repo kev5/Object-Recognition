@@ -1,0 +1,15 @@
+wall, 299 84 98 1 
+wall, 99 2 224 1 
+floor, 299 24 225 82 
+carpet, 298 84 224 136 
+furniture, 299 250 223 89 
+television, 298 269 108 23 
+sofa, 106 2 223 107 
+table, 164 103 221 126 
+table, 205 180 96 72 
+bed, 192 64 140 67 
+lamp, 192 179 79 58 
+shelves, 248 217 108 55 
+shelves occluded, 64 22 114 92 
+window, 154 101 70 2 
+window, 229 180 66 4 

@@ -1,0 +1,18 @@
+shower faucet, 80 58 169 66 
+door, 168 119 224 66 
+towel, 175 148 202 172 
+towel, 56 15 256 237 
+sinks, 255 180 254 169 
+mirror, 256 239 158 26 
+shower door, 104 89 199 60 
+bathtub, 102 0 256 181 
+rack, 41 17 196 171 
+door frame, 172 106 228 57 
+counter, 256 182 255 169 
+sink, 243 192 185 172 
+sink, 256 222 238 199 
+towel rack, 178 144 252 157 
+trash can, 201 179 249 210 
+bath faucet, 64 45 234 218 
+ceiling, 238 37 21 1 
+sink faucet, 255 237 180 169 

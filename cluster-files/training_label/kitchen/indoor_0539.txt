@@ -1,0 +1,22 @@
+ceiling, 797 82 88 1 
+cupboard, 800 626 234 89 
+microwave, 432 290 340 256 
+vase, 541 488 336 296 
+basket, 711 603 347 274 
+basket, 411 310 525 425 
+basket, 490 411 521 432 
+basket, 567 493 514 433 
+basket, 267 174 160 118 
+fridge, 274 118 574 148 
+handle, 145 136 275 174 
+handle, 147 136 393 282 
+worktop, 781 275 374 330 
+stove, 800 659 599 314 
+dishcloth, 727 664 551 427 
+wall, 800 659 575 55 
+wall, 690 112 521 53 
+wall, 114 52 599 3 
+wall, 66 2 599 3 
+basket occluded, 222 174 130 64 
+basket occluded, 178 116 152 115 
+floor, 800 2 599 500 

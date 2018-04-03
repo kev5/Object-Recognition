@@ -1,0 +1,17 @@
+night stand, 254 190 229 161 
+night stand, 103 72 153 142 
+lamp, 102 79 145 112 
+lamp, 249 207 163 118 
+painting, 184 124 107 71 
+door, 83 48 157 69 
+ceiling lamp, 57 16 36 11 
+quilt, 192 17 255 146 
+pillows, 191 107 158 125 
+bed stand, 138 25 256 165 
+plant, 18 0 171 143 
+bed, 198 16 256 112 
+pillow, 165 141 154 133 
+pillow, 150 128 152 127 
+pillow, 140 119 149 129 
+pillow, 115 107 148 127 
+pillow, 192 151 160 126 

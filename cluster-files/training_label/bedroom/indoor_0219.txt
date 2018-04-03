@@ -1,0 +1,16 @@
+wall, 202 162 128 32 
+wall, 299 280 224 1 
+wall, 285 151 152 1 
+wall, 157 127 149 5 
+wall, 136 97 149 6 
+wall, 106 2 190 1 
+ceiling, 218 87 9 1 
+door, 166 140 149 33 
+bed, 210 2 225 135 
+night table occluded, 134 63 148 114 
+lamp, 117 98 122 90 
+picture, 264 232 66 50 
+bookshelf, 286 217 155 75 
+floor, 298 2 225 126 
+books, 279 220 96 79 
+books, 261 219 120 101 

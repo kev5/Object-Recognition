@@ -1,0 +1,78 @@
+hanging lamp, 336 185 249 2 
+hanging lamp, 531 372 250 1 
+hanging lamp, 739 648 289 4 
+hanging lamp, 883 779 286 2 
+faucet, 499 373 561 434 
+faucet, 112 29 451 343 
+bowl, 334 108 545 491 
+bowl, 773 745 307 284 
+tree, 139 2 283 112 
+window, 172 1 425 25 
+potted fern, 200 129 418 275 
+pot, 862 793 415 382 
+pot, 787 734 416 388 
+pot, 789 723 589 517 
+pot, 839 802 379 327 
+pot, 748 702 411 369 
+utensils, 684 606 406 336 
+bottles of olive oil, 1028 984 419 362 
+potted plant, 1087 1032 429 312 
+chair, 1197 1032 863 426 
+eye glasses, 1197 1140 714 676 
+basket, 786 751 683 624 
+basket, 951 848 475 432 
+cell phone, 889 847 486 473 
+metal bowl, 757 649 467 428 
+spoon, 902 887 393 322 
+cutting board with vegetables, 1008 922 430 402 
+dishwasher, 398 306 504 450 
+cabinets, 670 378 331 90 
+cabinets, 1022 498 792 476 
+cabinets, 756 2 900 570 
+cabinets, 303 2 535 455 
+cabinets, 562 399 514 423 
+stove range, 942 648 268 84 
+stove, 935 671 430 317 
+potted plants, 367 303 324 269 
+mug, 285 240 327 292 
+stack of plates, 318 265 324 284 
+art, 352 233 266 146 
+dish towel, 487 456 449 423 
+box of vegetables, 659 561 456 415 
+bag of groceries, 732 526 896 726 
+mixer, 388 331 422 356 
+windows, 489 221 401 331 
+books, 702 637 534 510 
+cabinet, 1075 948 325 74 
+pictures in frames, 82 2 416 289 
+flowers, 185 100 457 406 
+sink, 207 5 468 448 
+sink, 513 256 606 555 
+zuccini, 985 942 421 411 
+hot mitt, 908 848 389 330 
+flower, 297 191 454 428 
+bread, 636 591 854 777 
+bread, 729 668 879 764 
+apron, 1148 1030 760 584 
+book, 882 784 482 459 
+cups, 481 429 417 385 
+plate, 1030 969 400 351 
+bottle, 909 882 308 278 
+bottle, 493 470 412 344 
+bottle, 937 917 310 271 
+bottle, 921 909 308 268 
+bottle, 1200 1171 668 542 
+bottle, 127 111 417 380 
+jar of pinecones, 402 358 324 231 
+plant, 590 488 411 333 
+lid, 797 754 410 362 
+ceiling, 1199 449 86 1 
+counter top, 1031 491 507 446 
+counter top, 767 2 661 503 
+counter top, 690 2 490 406 
+counter top, 1094 891 442 421 
+table, 1200 1080 900 634 
+tin box, 446 387 397 363 
+object, 620 588 407 370 
+wall, 1200 2 621 1 
+floor, 1199 756 900 595 

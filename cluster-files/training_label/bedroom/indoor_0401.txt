@@ -1,0 +1,18 @@
+picture, 175 121 101 25 
+chair, 98 12 347 200 
+door, 292 257 227 61 
+chest of drawers, 241 81 326 139 
+furniture crop, 510 367 350 291 
+bed, 510 247 350 153 
+cushion, 431 400 221 190 
+cushion, 467 423 222 184 
+cushion, 498 455 234 203 
+cushion, 510 469 232 190 
+night table occluded, 398 339 216 189 
+lamp, 382 359 199 154 
+vase, 170 158 144 122 
+flowers, 189 135 133 88 
+switch, 29 16 160 139 
+wall, 510 303 249 1 
+wall, 308 2 336 1 
+floor, 508 2 350 221 

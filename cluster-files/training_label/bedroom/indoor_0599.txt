@@ -1,0 +1,14 @@
+armchair occluded, 530 329 214 53 
+radiator occluded, 337 180 155 70 
+window crop, 637 517 92 3 
+window crop, 345 216 71 3 
+cushion, 444 373 134 76 
+cushion, 482 424 137 89 
+tv crop, 76 2 160 2 
+tv stand, 138 3 238 134 
+table, 496 40 458 130 
+magazine, 346 258 318 256 
+bed crop, 637 551 415 157 
+wall, 635 143 228 3 
+wall, 149 3 261 2 
+floor, 637 3 480 191 

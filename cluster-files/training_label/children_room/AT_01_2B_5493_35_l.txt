@@ -1,0 +1,21 @@
+ceiling, 517 305 41 0 
+window, 203 112 254 85 
+window, 439 388 253 124 
+door, 583 508 329 127 
+bed, 511 232 415 182 
+chest, 534 349 446 302 
+curtain, 466 373 271 87 
+curtain, 240 72 258 7 
+table occluded, 187 91 372 256 
+toy, 519 450 326 246 
+table, 658 545 360 282 
+chair, 674 587 389 283 
+furniture crop, 125 0 452 6 
+picture, 660 595 246 177 
+picture, 347 259 168 104 
+pillow, 314 246 256 221 
+cushion, 354 302 256 232 
+wall, 66 0 92 0 
+wall, 448 57 341 0 
+wall, 689 447 365 1 
+floor, 689 33 452 290 

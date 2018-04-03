@@ -1,0 +1,9 @@
+painting, 1956 1445 222 2 
+water bottle, 848 789 1102 836 
+bed, 2047 928 1533 295 
+bed, 437 6 1536 281 
+alarm clock, 552 390 1075 966 
+lamp, 904 431 1001 431 
+bedside table, 995 372 1536 963 
+telephone, 1028 857 1140 930 
+Pillow, 1748 996 1128 690 

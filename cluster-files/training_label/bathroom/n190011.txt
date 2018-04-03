@@ -1,0 +1,8 @@
+sink, 118 0 151 30 
+toilet, 200 133 152 79 
+bath tub, 50 0 254 84 
+bouquet, 92 37 229 135 
+bouquet, 254 215 62 0 
+bouquet, 142 93 150 86 
+window, 254 170 72 0 
+candle holder, 256 231 162 65 

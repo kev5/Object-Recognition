@@ -1,0 +1,7 @@
+Window, 254 177 141 10 
+Bed, 226 4 233 85 
+Lamp, 139 123 116 90 
+pillow, 74 14 135 120 
+pillow, 126 70 129 115 
+night stand table, 151 118 131 115 
+floor, 256 0 256 172 

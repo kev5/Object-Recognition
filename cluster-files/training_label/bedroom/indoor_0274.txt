@@ -1,0 +1,11 @@
+ceiling, 352 2 29 1 
+bed, 447 114 308 118 
+pillow, 441 344 167 143 
+pillow, 339 271 166 144 
+furniture occluded, 116 26 308 194 
+lamp occluded, 265 244 162 131 
+lamp, 355 298 69 34 
+shelves, 231 138 175 106 
+wall, 445 208 225 2 
+wall, 215 2 258 2 
+floor, 447 2 305 182 

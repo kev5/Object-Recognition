@@ -1,0 +1,30 @@
+monitor, 134 102 141 118 
+monitor, 225 204 125 110 
+monitor, 195 162 151 116 
+monitor, 189 173 117 111 
+test, 195 163 141 117 
+chair, 176 112 239 143 
+chair, 215 186 148 123 
+chair top, 162 136 145 129 
+cabinet, 108 60 209 162 
+cabinet, 249 218 171 138 
+cabinet, 235 173 228 155 
+file cabinet, 229 176 226 171 
+desk, 219 72 162 145 
+desk, 239 215 138 129 
+ceiling, 255 1 58 0 
+window, 256 228 126 50 
+window, 214 160 123 51 
+window, 147 100 124 57 
+folders, 202 179 207 180 
+lamp, 225 209 153 70 
+lamp, 82 67 155 75 
+lamp, 164 156 102 84 
+lamp, 253 242 101 84 
+plant, 256 223 181 126 
+plant, 101 86 149 120 
+plant, 255 221 224 125 
+computer, 94 80 201 170 
+door, 76 36 171 62 
+chair part, 14 0 207 131 
+keyboard, 129 103 166 158 

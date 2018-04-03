@@ -1,0 +1,22 @@
+ceiling, 256 0 72 0 
+chandelier, 174 93 72 3 
+chandelier, 175 139 97 69 
+staircase, 185 140 152 98 
+table, 179 121 179 142 
+furniture crop, 22 0 178 149 
+vase, 111 94 155 130 
+vase, 225 209 157 132 
+plant, 113 91 132 121 
+plant, 230 203 135 117 
+wall, 208 115 151 78 
+wall, 243 80 151 71 
+wall, 96 0 172 9 
+wall, 256 221 159 44 
+mirror, 19 2 132 96 
+lamp, 43 28 144 116 
+lamp, 220 211 35 32 
+lamp, 212 202 55 52 
+lamp, 82 73 37 33 
+chair, 47 15 176 136 
+furniture, 61 38 165 132 
+floor, 256 0 256 141 

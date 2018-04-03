@@ -1,0 +1,10 @@
+slot machine, 578 487 435 144 
+bar, 556 62 434 210 
+picture, 491 425 58 5 
+picture, 247 179 82 11 
+picture, 145 107 82 36 
+picture, 284 263 152 122 
+text, 345 275 73 3 
+ceiling, 200 88 11 1 
+billboard, 554 534 166 112 
+monitor, 498 457 235 203 

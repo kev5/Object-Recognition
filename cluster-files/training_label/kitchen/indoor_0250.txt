@@ -1,0 +1,28 @@
+ceiling, 794 52 155 2 
+wall, 796 532 445 2 
+wall, 305 2 600 4 
+wall, 517 54 499 87 
+wall, 546 515 480 151 
+poster, 792 715 276 113 
+door, 625 584 406 169 
+furniture, 794 685 546 301 
+cupboard, 483 365 216 101 
+cupboard, 377 192 249 118 
+cupboard, 192 72 202 113 
+extractor hood, 196 68 231 196 
+sink, 359 278 344 326 
+faucet, 375 322 318 305 
+fridge occluded, 499 383 361 216 
+stove, 190 87 355 336 
+worktop, 383 62 365 324 
+table, 530 35 414 340 
+chair, 305 188 600 379 
+chair, 460 361 594 359 
+chair occluded, 367 307 534 404 
+table occluded, 183 43 600 445 
+radio, 122 45 507 419 
+lamp, 406 373 43 25 
+lamp, 272 231 78 58 
+lamp, 476 452 80 66 
+lamp, 645 617 85 66 
+floor, 796 50 600 392 

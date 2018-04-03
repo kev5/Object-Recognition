@@ -1,0 +1,31 @@
+ceiling, 499 2 167 1 
+bar, 230 0 357 193 
+bar, 499 264 357 190 
+mirror, 499 320 285 112 
+mirror, 212 2 283 115 
+person standing, 270 215 284 156 
+person sitting occluded, 372 336 243 174 
+person sitting occluded, 115 11 324 202 
+person occluded, 330 320 220 184 
+person occluded, 187 173 210 179 
+person occluded, 184 158 218 169 
+person occluded, 176 150 221 175 
+person occluded, 150 110 219 173 
+person occluded, 159 112 241 195 
+tray, 341 167 328 283 
+glass, 421 394 296 265 
+glass, 247 201 118 15 
+glass, 184 139 118 16 
+glass, 127 78 129 16 
+glass, 306 259 118 18 
+glass, 371 322 128 18 
+glass, 421 373 130 21 
+glass, 473 424 132 23 
+glass, 78 30 133 17 
+glass, 193 151 127 26 
+dish, 428 387 300 284 
+person occludedd, 141 45 257 177 
+wall, 232 2 336 168 
+wall, 499 254 332 155 
+floor, 285 208 357 257 
+glasses occluded, 343 302 140 19 

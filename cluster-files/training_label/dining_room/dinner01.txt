@@ -1,0 +1,24 @@
+painting, 94 32 105 30 
+plant, 37 0 173 52 
+ceiling lamp, 137 77 74 1 
+glass, 77 69 121 115 
+glass, 113 105 135 121 
+glass, 143 133 138 123 
+glass, 156 146 133 122 
+bowl, 153 135 153 141 
+plate, 183 159 142 133 
+plate, 131 101 154 142 
+plate, 94 70 142 134 
+chair top, 182 156 134 105 
+chair, 50 21 204 110 
+chair, 80 42 231 112 
+chair, 141 71 256 120 
+chair, 224 196 144 111 
+chair, 197 180 125 106 
+chair, 238 200 119 108 
+table, 200 28 254 116 
+table runner, 187 118 179 133 
+lamp, 206 198 92 78 
+bouquet, 224 203 113 92 
+curtain, 254 233 185 1 
+window, 244 132 177 28 

@@ -1,0 +1,11 @@
+painting, 1934 1573 261 2 
+painting, 1005 555 251 2 
+bed, 2015 271 1538 323 
+lamp, 267 33 552 351 
+lamp, 1365 1192 425 290 
+armchair crop, 220 5 1538 1033 
+night table occluded, 425 5 1291 814 
+night table occluded, 1435 1169 701 580 
+wall, 1342 5 1239 5 
+wall, 2039 1309 1024 5 
+floor, 2039 5 1534 818 

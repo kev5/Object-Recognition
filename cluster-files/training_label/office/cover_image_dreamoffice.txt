@@ -1,0 +1,21 @@
+laptop, 150 2 332 187 
+wall, 93 2 196 2 
+bulletin board, 25 2 201 76 
+pencil, 62 56 190 180 
+lamp, 127 37 188 81 
+lamp, 446 377 230 93 
+poster, 199 106 108 1 
+desk, 500 2 375 211 
+monitor stand, 438 123 266 211 
+keyboard, 372 207 303 271 
+mouse, 201 179 284 252 
+mouse stand, 209 176 294 278 
+monitor, 389 240 231 74 
+monitor, 237 123 202 100 
+cassettes, 227 192 230 206 
+vase, 446 417 301 203 
+flower, 441 384 294 146 
+computer, 500 455 330 83 
+object, 22 0 375 335 
+object, 410 382 295 269 
+webcam, 323 298 79 63 

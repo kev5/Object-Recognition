@@ -1,0 +1,27 @@
+ceiling, 510 2 121 1 
+ceiling, 460 383 193 178 
+column, 341 282 301 9 
+billboard, 351 311 155 80 
+picture, 131 56 227 126 
+picture, 214 153 228 137 
+lamp, 174 104 123 1 
+lamp, 467 364 90 2 
+lamp, 453 371 122 90 
+lamp, 444 380 148 122 
+lamp, 239 207 223 84 
+ladder, 511 428 320 125 
+person, 498 427 268 140 
+wall, 342 2 325 69 
+wall, 384 340 300 170 
+wall, 458 384 286 190 
+wall, 511 337 298 30 
+table occluded, 111 56 270 263 
+table occluded, 284 215 285 255 
+person sitting occluded, 107 67 264 232 
+person sitting occluded, 266 234 259 231 
+table, 304 66 384 273 
+armchair crop, 342 203 384 297 
+table crop, 511 484 343 268 
+chair, 412 373 310 257 
+floor, 510 2 383 281 
+chair occluded, 106 12 381 280 

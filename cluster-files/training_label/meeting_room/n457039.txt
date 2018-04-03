@@ -1,0 +1,19 @@
+conference table, 213 0 144 91 
+chair, 137 46 234 119 
+chair, 228 141 233 117 
+chair, 81 61 94 86 
+chair, 61 46 92 83 
+chair, 54 9 203 108 
+chair top, 202 173 117 99 
+chair top, 165 140 110 93 
+chair top, 134 110 105 91 
+chair top, 105 86 99 88 
+chair top, 32 11 91 75 
+ceiling, 192 0 21 0 
+painting, 176 154 67 44 
+small table, 256 229 131 92 
+small table, 138 104 93 78 
+door, 214 176 108 17 
+door, 93 70 91 28 
+armchair, 171 153 94 77 
+ceiling lamp, 72 35 12 0 

@@ -1,0 +1,48 @@
+window, 361 62 98 1 
+picture, 1010 965 366 321 
+picture, 222 96 259 96 
+picture, 305 233 257 109 
+picture, 1024 993 201 164 
+chair, 177 3 766 443 
+chair, 1024 898 678 451 
+lamp, 461 412 308 188 
+lamp, 64 2 338 206 
+wall decoration, 470 443 215 171 
+stack of books, 949 878 515 468 
+pillow, 182 61 406 302 
+pillow, 233 74 317 263 
+pillow, 281 164 381 292 
+pillow, 396 248 379 316 
+pillow, 420 281 372 284 
+pillow, 380 247 304 266 
+frame, 484 451 312 282 
+flowers in pot, 508 433 310 247 
+night stand, 524 407 391 311 
+dried flowers in pot, 964 842 109 1 
+basket, 1024 959 101 39 
+basket, 57 17 404 360 
+basket, 970 890 208 150 
+basket, 986 885 288 237 
+tree, 765 500 397 5 
+candle in holder, 79 35 413 379 
+flowers on stand, 41 2 415 327 
+end table, 87 2 472 406 
+pot, 1024 1001 287 246 
+compforter, 698 64 601 372 
+bedpost, 395 373 298 98 
+bedpost, 76 41 476 59 
+foot board, 738 305 743 2 
+tray, 677 488 561 516 
+stack of magazines, 667 565 524 492 
+stack of magazine, 612 484 539 505 
+plaque, 1024 932 269 214 
+throw pillow, 713 620 517 423 
+throw pillow, 1024 987 493 441 
+decorative bowls, 943 884 362 320 
+picture frame, 996 949 364 310 
+tub, 993 895 444 391 
+armoir, 1025 769 555 95 
+area rug, 1024 547 768 643 
+bench, 762 405 757 413 
+floor, 1024 74 768 495 
+wall, 884 2 493 1 

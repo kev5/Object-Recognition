@@ -1,0 +1,14 @@
+ceiling, 254 0 52 0 
+curtain, 192 69 109 49 
+painting, 22 8 99 79 
+book, 108 85 173 164 
+book, 38 22 159 150 
+book, 237 221 141 137 
+book, 245 228 157 151 
+book, 247 232 149 143 
+chair, 98 36 244 151 
+chair, 230 170 247 151 
+chair, 35 0 213 172 
+conference table, 246 17 176 115 
+paper, 180 157 176 166 
+papers, 34 17 150 145 

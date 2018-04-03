@@ -1,0 +1,11 @@
+soap, 2462 2321 1282 1199 
+mirror, 2592 226 816 3 
+shelf, 1089 65 740 472 
+glass, 523 401 547 352 
+glass occluded, 623 507 566 366 
+bol, 954 602 640 366 
+tissue box, 1060 602 1155 889 
+faucet, 2125 1770 1174 892 
+washbasin, 2585 1122 1943 932 
+cistern occluded, 1317 393 1767 886 
+wc crop, 992 114 1943 1599 

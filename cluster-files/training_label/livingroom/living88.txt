@@ -1,0 +1,40 @@
+couch, 857 20 769 304 
+pillow, 736 487 506 306 
+pillow, 418 157 520 335 
+dish, 159 3 425 261 
+dish, 224 143 51 3 
+ladder, 771 719 368 22 
+side table, 963 825 615 320 
+figure, 949 882 432 321 
+figure, 645 582 167 62 
+figure, 387 325 371 283 
+window, 973 837 506 3 
+book, 1015 973 612 543 
+book, 247 66 73 45 
+coffee table, 1013 607 769 551 
+bookshelf, 700 3 679 5 
+books, 510 403 247 148 
+books, 508 396 370 278 
+books, 333 299 249 148 
+books, 572 532 162 74 
+books, 342 295 377 300 
+books, 1014 721 767 672 
+books, 276 183 242 129 
+books, 680 636 168 97 
+painting, 441 306 126 6 
+vase, 641 591 307 200 
+vase, 352 297 122 36 
+vase, 131 99 45 25 
+horse figure, 454 387 245 153 
+bowl *x, 204 41 212 138 
+dish *X, 83 6 247 205 
+dish *X, 347 314 238 177 
+figures, 992 826 703 609 
+stack of books, 213 68 248 213 
+bowl of fruit, 98 26 417 382 
+lid of bowl *X, 596 565 32 15 
+bowl, 644 609 27 10 
+glass fish *X, 560 527 22 2 
+door, 1013 988 546 3 
+picture, 142 58 34 3 
+sculpture *X, 57 6 62 3 

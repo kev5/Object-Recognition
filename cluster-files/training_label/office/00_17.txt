@@ -1,0 +1,13 @@
+chair, 272 136 465 82 
+notebook computer, 72 2 315 259 
+printer, 139 78 290 246 
+wastebasket, 149 102 405 349 
+block of house, 304 199 255 4 
+safe, 380 312 511 194 
+key, 352 337 402 376 
+books, 382 310 208 135 
+balcony, 311 230 186 145 
+balcony, 306 232 111 102 
+tabletop, 85 2 360 286 
+window, 308 200 236 80 
+Printers table, 172 75 413 274 

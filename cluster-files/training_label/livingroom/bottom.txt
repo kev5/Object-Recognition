@@ -1,0 +1,7 @@
+sofa, 249 2 285 1 
+throw pillow, 238 170 77 40 
+Vase, 27 5 68 28 
+cushion, 162 76 173 117 
+lamp, 77 52 33 2 
+arm rest, 184 31 242 161 
+sofa cushion, 247 132 162 98 

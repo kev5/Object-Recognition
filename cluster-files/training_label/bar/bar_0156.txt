@@ -1,0 +1,45 @@
+ceiling, 479 0 100 0 
+text, 253 198 73 47 
+bar, 479 314 347 188 
+bar, 291 218 237 196 
+table, 438 233 360 243 
+door, 304 289 241 124 
+column, 290 250 317 39 
+glass, 235 228 204 182 
+glass, 478 439 214 186 
+billboard, 315 295 263 231 
+wall, 254 0 240 96 
+wall, 202 63 212 111 
+wall, 66 49 225 138 
+wall, 399 290 254 91 
+wall, 479 399 210 73 
+window, 172 102 188 128 
+person sitting occluded, 42 10 220 183 
+person sitting occluded, 35 0 224 186 
+person sitting occluded, 105 71 225 180 
+person sitting crop, 60 0 340 207 
+person sitting crop, 40 2 360 291 
+person sitting, 127 43 305 186 
+chair, 131 84 308 234 
+table occluded, 62 16 250 219 
+table occluded, 240 180 198 190 
+picture, 41 11 187 136 
+picture, 231 208 183 150 
+lamp, 363 341 133 66 
+lamp, 398 372 128 58 
+lamp, 238 221 147 127 
+pipe, 465 84 191 0 
+decoration, 209 193 132 116 
+decoration, 191 175 121 103 
+decoration, 73 55 122 106 
+decoration, 173 157 111 94 
+decoration, 44 18 121 104 
+decoration, 39 17 136 123 
+decoration, 222 205 149 135 
+mug, 377 355 32 4 
+stool, 261 218 308 238 
+stool, 209 180 290 221 
+mugs, 478 422 37 1 
+mugs, 107 51 98 47 
+stool occluded, 292 215 360 305 
+floor, 478 2 360 207 

@@ -1,0 +1,22 @@
+painting, 199 166 122 91 
+painting, 199 167 86 55 
+ceiling lamp, 174 58 91 0 
+table, 214 7 198 134 
+plant, 256 233 140 18 
+plant, 196 175 150 120 
+plant, 78 65 138 111 
+plant, 124 98 114 91 
+plant, 155 137 102 59 
+bouquet, 131 99 174 115 
+chair top, 106 82 141 121 
+chair top, 148 129 142 121 
+chair top, 211 183 173 117 
+chair top, 229 194 192 124 
+chair top, 55 33 158 115 
+chair top, 43 15 172 122 
+chair, 256 207 251 133 
+chair, 27 0 249 130 
+chair, 115 26 254 184 
+chair, 214 120 255 184 
+door frame, 157 64 136 42 
+ceiling, 213 44 10 0 

@@ -1,0 +1,14 @@
+picture crop, 467 370 86 1 
+bed crop, 232 2 341 164 
+cushion, 78 5 217 164 
+blanket, 199 4 339 247 
+bed occluded, 471 244 270 96 
+window, 205 92 143 1 
+stool, 256 201 245 170 
+stool, 195 137 254 183 
+radiator occluded, 204 140 227 145 
+lamp, 237 122 174 61 
+furniture occluded, 471 347 339 188 
+wall, 345 2 247 1 
+wall, 501 339 229 1 
+floor, 464 2 341 188 

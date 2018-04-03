@@ -1,0 +1,32 @@
+lamp, 59 33 183 106 
+chair top, 69 44 175 156 
+desk, 159 31 255 175 
+plant, 158 121 189 170 
+plant, 176 156 165 148 
+plant, 201 187 82 69 
+plant, 248 216 208 186 
+plant, 208 178 222 203 
+bookshelves, 255 150 250 0 
+curtain, 81 2 223 1 
+curtain, 141 95 176 1 
+ceiling lamp, 133 64 86 1 
+book, 256 228 216 205 
+book, 200 186 187 171 
+chair part, 256 181 255 225 
+books, 252 222 144 122 
+books, 246 222 107 85 
+books, 199 181 111 97 
+books, 255 221 178 152 
+books, 196 182 139 118 
+books, 174 158 113 98 
+books, 175 160 137 122 
+books, 176 158 181 165 
+books, 72 54 188 169 
+books, 170 160 91 82 
+candle, 148 140 174 159 
+door, 82 36 181 84 
+window, 125 83 178 84 
+wall outlet, 17 10 156 148 
+ladder, 224 181 250 33 
+trash can, 38 17 241 208 
+rug, 183 0 255 217 

@@ -1,0 +1,22 @@
+lamp, 91 32 155 42 
+lamp, 209 160 105 39 
+lamp, 249 211 67 44 
+small table, 255 157 234 141 
+small table, 210 151 117 96 
+table, 156 0 253 138 
+book, 220 181 170 156 
+sofa, 204 6 166 102 
+pillow, 149 117 128 98 
+pillow, 124 86 130 101 
+pillow, 95 47 131 100 
+painting, 155 102 44 1 
+armchair, 192 58 254 140 
+curtain, 65 35 60 1 
+curtain, 36 0 27 0 
+teapot, 230 209 151 139 
+cup, 255 244 156 147 
+cup, 227 209 157 148 
+tray, 247 206 162 151 
+sideboard, 256 188 144 69 
+plant, 133 42 99 1 
+mirror, 255 195 72 1 

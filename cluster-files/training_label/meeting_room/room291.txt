@@ -1,0 +1,46 @@
+poster board, 234 196 130 53 
+plant, 191 151 112 47 
+plant, 18 1 104 80 
+tables and chairs, 140 0 256 113 
+tables and chairs, 255 137 256 109 
+table, 75 0 115 99 
+table, 253 178 181 159 
+table, 255 158 143 133 
+table, 228 137 121 113 
+table, 113 0 127 114 
+table, 124 1 147 135 
+table, 137 0 181 157 
+laptop, 143 124 87 71 
+podium, 144 115 141 86 
+place mat, 124 56 179 167 
+place mat, 59 11 144 137 
+place mat, 118 70 144 136 
+place mat, 230 179 141 133 
+place mat, 256 198 178 165 
+glass, 108 100 164 154 
+glass, 30 23 165 155 
+glass, 54 46 139 128 
+bottle, 240 231 135 120 
+bottle, 60 55 136 121 
+bottle, 41 32 165 145 
+paper, 104 71 180 165 
+paper, 24 2 179 167 
+paper, 254 211 176 165 
+paper, 222 193 142 133 
+chair, 130 48 255 181 
+chair, 256 209 256 178 
+chair, 48 1 254 186 
+chair top, 119 67 159 142 
+chair top, 55 5 157 143 
+chair top, 240 187 159 139 
+chair top, 228 195 132 115 
+chair top, 186 146 172 116 
+chair top, 112 74 133 117 
+chair top, 67 30 133 120 
+ceiling, 243 1 17 1 
+ceiling lamp, 179 169 6 2 
+ceiling lamp, 66 57 9 2 
+ceiling lamp, 119 109 16 9 
+ceiling lamp, 167 159 14 9 
+ceiling lamp, 70 62 16 11 
+projection screen, 144 72 26 18 

@@ -1,0 +1,31 @@
+armchair, 237 95 255 144 
+armchair, 171 126 165 108 
+armchair, 80 0 256 204 
+armchair, 59 34 129 110 
+sofa, 99 16 182 115 
+sofa, 127 100 133 108 
+ottoman, 109 24 245 180 
+painting, 68 37 107 83 
+painting, 64 41 81 51 
+painting, 182 164 101 72 
+column, 211 190 128 30 
+column, 248 209 153 0 
+small table, 16 0 180 150 
+small table, 110 93 164 131 
+plant, 26 1 129 59 
+plant, 255 201 176 25 
+plant, 168 152 100 78 
+lamp, 88 82 114 97 
+lamp, 38 20 131 96 
+lamp, 132 123 113 95 
+ceiling lamp, 85 69 54 21 
+ceiling lamp, 38 29 13 8 
+ceiling lamp, 101 93 13 9 
+ceiling lamp, 150 139 17 11 
+chair top, 83 71 117 104 
+chair top, 161 137 107 101 
+table, 211 203 134 111 
+air vent, 147 128 36 28 
+air vent, 65 41 19 8 
+rug, 211 91 183 140 
+ceiling, 256 0 54 0 

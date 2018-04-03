@@ -1,0 +1,8 @@
+cat, 727 321 362 21 
+cupboard occluded, 800 436 270 1 
+oven occluded, 438 192 270 1 
+partition wall, 197 90 325 1 
+cupboard crop, 97 2 270 3 
+skirting board, 88 3 326 259 
+skirting board, 800 196 319 270 
+floor, 796 2 595 316 

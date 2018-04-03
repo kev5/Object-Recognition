@@ -1,0 +1,27 @@
+conference table, 256 0 197 186 
+conference table, 255 0 233 206 
+conference table, 151 115 184 161 
+conference table, 60 0 186 161 
+conference table, 255 206 183 160 
+conference table, 117 62 171 159 
+projection screen, 131 91 151 127 
+projection screen, 172 134 150 127 
+chair, 24 0 208 190 
+chair, 127 54 255 227 
+chair, 222 144 254 225 
+chair top, 79 41 206 190 
+chair top, 124 88 206 189 
+chair top, 183 141 206 189 
+chair top, 235 194 206 187 
+door, 216 209 157 139 
+door, 55 49 157 141 
+door, 12 0 105 95 
+door, 255 251 104 95 
+ceilling lamp, 204 59 53 36 
+row of chairs, 45 0 167 159 
+row of chairs, 111 56 159 156 
+row of chairs, 208 143 159 155 
+row of chairs, 210 157 161 157 
+row of chairs, 254 219 166 157 
+ceiling, 256 0 95 0 
+carpet, 253 4 185 170 

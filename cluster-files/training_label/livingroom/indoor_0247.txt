@@ -1,0 +1,11 @@
+picture, 174 140 34 1 
+picture crop, 111 78 16 1 
+sofa, 296 2 202 73 
+cushion, 86 26 138 74 
+cushion, 277 205 146 89 
+window crop, 299 278 108 1 
+table crop, 299 283 192 133 
+lamp crop, 12 2 34 19 
+carpet, 299 64 225 204 
+wall, 299 2 133 1 
+floor, 298 2 225 133 

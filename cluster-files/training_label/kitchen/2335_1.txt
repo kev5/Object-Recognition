@@ -1,0 +1,31 @@
+oven, 449 278 444 227 
+oven, 453 275 448 228 
+cooktop, 504 292 246 191 
+cabinets, 281 66 413 182 
+plug, 344 320 137 118 
+plug, 572 560 169 143 
+plug, 122 109 115 98 
+sink, 294 71 201 138 
+tile, 419 365 159 69 
+cabinet, 556 429 478 266 
+cabinet, 587 499 47 1 
+cabinet, 253 175 39 1 
+cabinet, 112 28 41 1 
+cabinet, 173 113 39 1 
+cabinet, 329 253 38 1 
+extractor hood, 484 313 29 1 
+knobs, 431 324 289 252 
+kitchen drawers, 280 203 414 213 
+handle, 143 133 255 208 
+handle, 261 214 245 228 
+handle, 120 110 249 204 
+handle, 261 218 283 268 
+handle, 260 217 322 304 
+handle, 258 217 359 338 
+handle, 259 219 393 373 
+handle, 426 293 308 271 
+handle, 474 459 351 284 
+woodfloor, 340 45 478 366 
+stove top, 510 284 249 189 
+tablecloth, 78 26 418 294 
+dishes, 134 84 158 142 

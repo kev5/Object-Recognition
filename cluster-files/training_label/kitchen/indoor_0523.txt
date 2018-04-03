@@ -1,0 +1,22 @@
+ceiling, 347 105 29 1 
+window, 378 357 118 56 
+clock, 341 322 103 79 
+cupboard, 316 161 135 57 
+fridge occluded, 181 82 228 106 
+coffee marker, 275 260 99 79 
+flask, 278 266 175 146 
+bucket, 303 281 171 143 
+blender, 319 300 173 135 
+basket, 133 97 104 67 
+radio, 124 64 266 213 
+dish, 279 219 233 203 
+telephone occluded, 349 302 215 194 
+vase, 378 345 224 157 
+worktop, 375 184 199 169 
+cupboard occluded, 316 180 222 187 
+door occluded, 52 22 251 62 
+open plan, 400 24 267 197 
+wall, 310 22 250 2 
+wall, 381 308 211 11 
+wall, 399 310 229 2 
+wall, 25 2 267 2 

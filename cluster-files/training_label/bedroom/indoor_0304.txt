@@ -1,0 +1,14 @@
+window, 447 242 88 2 
+picture, 66 11 80 12 
+picture, 510 467 35 5 
+picture, 505 466 82 50 
+bed, 415 2 389 98 
+pillow, 188 86 200 140 
+pillow, 135 2 234 154 
+air conditioning, 307 246 88 29 
+chest of drawers occluded, 230 118 179 65 
+furniture, 510 440 273 142 
+tv, 510 454 144 101 
+wall, 189 2 301 1 
+wall, 510 183 234 2 
+floor, 510 2 388 215 

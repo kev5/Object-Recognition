@@ -1,0 +1,24 @@
+painting, 55 22 90 31 
+painting, 99 70 88 36 
+painting, 139 116 91 41 
+chair, 225 144 181 119 
+chair, 256 216 167 114 
+sofa, 78 1 182 107 
+sofa, 226 0 185 99 
+curtain, 240 202 102 41 
+statue, 152 142 113 87 
+statue, 205 193 99 78 
+rug, 254 31 200 132 
+pillow, 130 101 117 101 
+pillow, 252 229 139 110 
+pillow, 175 153 148 126 
+pillow, 86 65 119 107 
+pillow, 53 0 115 100 
+pillows, 196 155 116 100 
+small table, 176 96 157 121 
+plant, 254 196 104 64 
+ceiling lamp, 120 111 7 3 
+ceiling lamp, 222 212 33 28 
+ceiling, 255 0 47 0 
+window, 248 237 106 50 
+decorations, 145 123 129 116 

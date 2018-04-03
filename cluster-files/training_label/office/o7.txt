@@ -1,0 +1,26 @@
+monitor, 221 188 194 135 
+keyboard, 196 140 229 204 
+mouse, 188 168 238 230 
+plant, 254 224 253 200 
+plant, 32 0 188 0 
+plant, 20 0 255 214 
+desk, 255 110 255 193 
+cup, 181 166 205 190 
+cup, 157 143 202 192 
+blackboard, 256 147 152 44 
+chair, 95 11 256 172 
+poster, 82 23 145 60 
+poster, 100 15 51 0 
+poster, 207 137 35 0 
+poster, 132 102 144 122 
+poster, 146 133 180 164 
+poster, 256 237 42 0 
+book, 141 115 202 193 
+box, 221 193 255 235 
+speaker, 188 174 192 174 
+kleenex, 228 207 229 202 
+mouse pad, 200 165 243 229 
+computer, 161 135 255 229 
+notebook, 208 168 255 249 
+toys, 214 186 205 186 
+cabinet, 12 0 247 186 

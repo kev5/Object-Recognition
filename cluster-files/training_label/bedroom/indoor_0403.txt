@@ -1,0 +1,6 @@
+window, 475 43 224 77 
+curtain, 510 2 267 1 
+basket crop, 439 350 341 252 
+bed crop, 252 2 341 321 
+tv stand crop, 510 450 338 290 
+tv crop, 510 461 302 219 
