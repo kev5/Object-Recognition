@@ -1,0 +1,217 @@
+
+<!-- saved from url=(0071)http://www.cs.bu.edu/faculty/betke/cs440/restricted/p1/p1-template.html -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title> CS640 Project, Keval Khara BU ID: U05595501  </title>
+<style>
+<!--
+body{
+font-family: 'Trebuchet MS', Verdana;
+}
+p{
+font-family: 'Trebuchet MS', Times;
+margin: 10px 10px 15px 20px;
+}
+h3{
+margin: 5px;
+}
+h2{
+margin: 10px;
+}
+h1{
+margin: 10px 0px 0px 20px;
+}
+div.main-body{
+align:center;
+margin: 30px;
+}
+hr{
+margin:20px 0px 20px 0px;
+}
+table, th, td {
+    border: 1px solid black;
+}
+-->
+</style>
+</head>
+
+<body>
+<center>
+<a href="http://www.bu.edu/"><img border="0" src="./images/bu-logo.gif" width="119" height="120"></a>
+</center>
+
+<h1>CS640 Project - Object Recognition</h1>
+<p> 
+ Keval Khara <br>
+ BU ID: U05595501 <br><br>
+ Aditya Chechani <br>
+ BU ID: U24115043<br><br>
+ Zhiyu Wang <br>
+ BU ID: U29435395<br><br>
+ April 2, 2018 
+</p>
+
+<div class="main-body">
+<hr>
+<h2> Problem Definition </h2>
+<p>
+The goal of this project is to use artificial intelligence algorithms/models, e.g., neural networks, to recognize and locate objects, here, IKEA products, in images of indoor scenes from "IKEA galleries." We are provided with sample photos of objects that are known to be in the scene as guidance for our recognition system. We should match as many objects as possible among the provided objects with their equivalent objects in the scene.
+</p>
+
+<hr>
+<h2> Background </h2>
+<p>
+Object detection in computer vision refers to the labelling of semantic 
+objects belonging to certain predefined set of classes, in videos and 
+images, using techniques of machine learning. With the rise in 
+application of computer vision techniques in autonomous vehicles and 
+video surveillance, fast and accurate detection of objects in videos has
+ become very important. There are a number of challenges in approaching 
+this problem. One is the variable number of objects in each video frame.
+ Second is the variability in size of the object in the image.
+<br><br> 
+Traditionally, image classification was used for object detection, but 
+more recently, deep learning has proved to be better. Initial attempts 
+at use of deep learning in object detection involved the R-CNNs (Regions
+with CNN Features) and Fast R-CNN, in which multiple neural networks 
+are used. Further research has led to the development of techniques like
+YOLO, which apply a single neural network to the entire image, leading 
+to faster object detection. An improvement on YOLO brought us the
+SSD (Single-shot Multibox Detector), which applies a single neural
+network to the entire image, and simultaneously predicts the bounding box
+and the class as it processes the image. This method imprtoves the
+run time of the process, but it couldn't give a better accuracy than
+Faster R-CNN in our case.
+<br><br>
+<b>Region-based Convolutional Neural Network(R-CNN) </b>: In R-CNNs, the
+ input image is scanned and possible regions with objects are proposed. 
+Then CNNs are used on the regions proposed to find the features and then
+ SVM is used to find the type/class of objects.<br><br>
+
+<b>Faster R-CNNs</b>: This method is a modification of R-CNNs to make it
+ faster by improving the region proposal algorithm. Also, instead of 
+SVMs, a softmax layer is added to the top of CNN for classification.<br>
+</p>
+
+<hr>
+<h2> Method and Implementation </h2>
+<p>
+Note: You may visit our <a href="https://github.com/kev5/Object-Recognition">GitHub</a> repository to look at our code.<br><br>
+(1) We used 5 different models to solve the problem, all of them are pre-trained on the COCO dataset. Thus there are 90 classes for our output.<br><br>
+The models we used are as follows-
+<ul>
+<li>ssd_mobilenet_v1 module</li>
+<li>ssd_inception_v2 module</li>
+<li>faster_rcnn_resnet101 module</li>
+<li>faster_rcnn_inception_resnet_v2_atrous module</li>
+<li>faster_rcnn_nas module</li>
+</ul>
+&emsp;Two of the models are based on SSD, and three of them are based on Faster R-CNN.<br><br>
+&emsp;(2) Construction of the code: We applied a pre-trained model based on the COCO dataset to do the object detection. The code implements the following steps-
+<ul>
+  <li>Import all the necessary dependencies</li>
+  <li>Link the pre-trained models from the path</li>
+  <li>Load one of the models into our program</li>
+  <li>Load the labels we need. Since the pre-trained models are trained on the COCO dataset, we have 90 classes</li>
+  <li>Load images into numpy arrays and map the classes</li>
+  <li>Load the test images for validation and save the images to visualize the results</li>
+</ul>
+</p>
+
+<hr>
+<h2>Challenges</h2>
+<p>
+- The objects in the scene may have orientations and sizes different from those in the sample photos, and they can be anywhere in the scene.<br>
+
+- The objects may be partly occluded or clustered together.<br>
+
+- Other challenges may be shadows, similar colors or patterns, transparency (glasses, mirrors), low contrast, low resolution, etc.<br>
+</p>
+
+<hr>
+<h2> Results </h2>
+<p>
+Per Image Stats for Different Models that we used are as follows-<br><br>
+
+<table style="width:100%">
+  <tr>
+    <th>Stats/Model</th>
+    <th>MOBILENET</th> 
+    <th>INCEPTIONNET</th>
+    <th>RCNN_INCEPTION_RESNET</th>
+    <th>FASTER_RCNN</th>
+  </tr>
+  <tr>
+    <td>Detection Time</td>
+    <td> ~180ms </td>
+    <td> ~250ms </td>
+    <td> ~24ms </td>
+    <td> ~40ms </td>
+  </tr>
+  <tr>
+    <td>Model Size</td>
+    <td> ~30 MB</td>
+    <td> ~100 MB</td>
+    <td> ~250 MB</td>
+    <td> ~600 MB</td>
+  </tr>
+</table><br><br>
+
+The validation result images are as shown below-<br><br>
+<img src="images/bathroom.jpg" height=550 width=600>
+<img src="images/bathroom2.jpg" height=550 width=600><br><br>
+<img src="images/bathroom3.jpg" height=550 width=600>
+<img src="images/bedroom.jpg" height=550 width=600><br><br>
+<img src="images/childrenroom.jpg" height=550 width=600>
+<img src="images/homeoffice.jpg" height=550 width=600><br><br>
+<img src="images/kitchen.jpg" height=550 width=600>
+<img src="images/laundry.jpg" height=550 width=600><br><br>
+<img src="images/livingroom.jpg" height=550 width=600>
+<img src="images/livingroom2.jpg" height=550 width=600><br><br>
+<img src="images/lobby.jpg" height=550 width=600>
+<img src="images/outdoors.jpg" height=550 width=600><br><br>
+</p>
+
+<hr>
+<h2> Conclusions </h2>
+
+<p>
+  What are the strengths and weaknesses of our method? 
+<ul>
+  <li><b>Strength</b> - Faster, more accurate and simpler method for multiple object detection especially when the dataset provided is sparse</li>
+  <li><b>Weakness</b> - The detection does not perform well when the object is poorly oriented or when many objects are cluttered with one another </li>
+</ul>
+
+<hr>
+<h2> Credits and Bibliography </h2>
+<p>
+
+[1] Joyce Xu, <i>Deep Learning for Object Detection: A Comprehensive Review</i>,
+ Sep 2017. 
+https://towardsdatascience.com/deep-learning-for-object-detection-a-comprehensive-review-73930816d8d9,`
+ Accessed Nov 2017 <br>
+[2] https://docs.opencv.org/trunk/dd/d6a/classcv_1_1KalmanFilter.html<br>
+[3] Liu W. et al. (2016) SSD: Single Shot MultiBox Detector. In: Leibe 
+B., Matas J., Sebe N., Welling M. (eds) Computer Vision – ECCV 2016. 
+ECCV 2016. Lecture Notes in Computer Science, vol 9905. Springer, Cham 
+(arXiv:1512.02325v5)<br>
+[4] Redmon, Joseph &amp; Divvala, Santosh &amp; Girshick, Ross &amp; 
+Farhadi, Ali. (2015). You Only Look Once: Unified, Real-Time Object 
+Detection. (arXiv:1709.05943v1)<br>
+[5] Shaoqing Ren, Kaiming He, Ross Girshick, Jian Sun (2015) Faster 
+R-CNN: Towards Real-Time Object Detection with Region Proposal Networks.
+ (arXiv:1506.01497v3)<br>
+[6] The PASCAL Visual Object Classes Challenge: A Retrospective. 
+Everingham, M., Eslami, S. M. A., Van Gool, L., Williams, C. K. I., 
+Winn, J. and Zisserman, A. International Journal of Computer Vision, 
+111(1), 98-136, 2015<br>
+[7] COCO: Common Objects in Context. http://mscoco.org/dataset/#detections-leaderboard (2016) [Online; accessed 25-July-2016].<br>
+[8] Olga Russakovsky*, Jia Deng*, Hao Su, Jonathan Krause, Sanjeev 
+Satheesh, Sean Ma, Zhiheng Huang, Andrej Karpathy, Aditya Khosla, 
+Michael Bernstein, Alexander C. Berg and Li Fei-Fei. (* = equal 
+contribution) ImageNet Large Scale Visual Recognition Challenge. IJCV, 
+2015.<br>
+</p>
+<hr>
+</div>
+
+</body></html>
