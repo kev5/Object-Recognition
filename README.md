@@ -1,3 +1,7 @@
+# Object Recognition
+
+The goal of this project is to use artificial intelligence algorithms/models, e.g., neural networks, to recognize and locate objects, here, IKEA products, in images of indoor scenes from "IKEA galleries." We will provide sample photos of objects that are known to be in the scene as guidance for your recognition system. You should match as many objects as possible among the provided objects with their equivalent objects in the scene.
+
 ### Please follow these steps to Run our model:
 
 1. Open the file detection.ipynb with Jupyter Notebook
