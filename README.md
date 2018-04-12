@@ -5,7 +5,7 @@ The goal of this project is to use artificial intelligence algorithms/models, e.
 ### Please follow these steps to Run our model:
 
 1. Open the file detection.ipynb with Jupyter Notebook
-2. Download all the pre-trained model from https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/detection_model_zoo.md
+2. Download the pre-trained model from [here](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/detection_model_zoo.md)
 3. You may need to rename the frozen_inference_graph.pb to name_of_the_model.pb(e.g. faster_rcnn_inception_resnet_v2_atrous_coco.pb)
 4. Add your images into the /testimages file. You may need to rename the image to image{#}.jpg.
 5. Run the code in Jupyter Notebook to get the results (Name the output image accordingly - last line in the detection section)
