@@ -16,3 +16,12 @@ The goal of this project is to use artificial intelligence algorithms/models, e.
 |----------------|-----------|---------------|-----------------------|--------------|
 | Detection time | ~180ms    | ~250ms        | ~24s                  | ~40s         |
 | Model Size     | ~30MB     | ~100MB        | ~250MB                | ~600MB       |
+
+### Conclusions
+
+What are the strengths and weaknesses of our method?
+
+* Strength - Faster, more accurate and simpler method for multiple object detection especially when the dataset provided is sparse
+* Weakness - The detection does not perform well when the object is poorly oriented or when many objects are cluttered with one another
+
+Our Faster R-CNN model identifies and locates about 90% of the objects in a given image, without sacrificing the speed of detection.
